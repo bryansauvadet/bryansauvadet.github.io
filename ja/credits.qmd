@@ -9,6 +9,7 @@ format:
 <section class="page-hero"><h1>画像クレジット</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>千手千眼観音 — バクニン省筆塔寺</h3><p>筆塔寺の堂内に安置された原像 · 撮影：Jean-Pierre Dalbéra、2010年 · CC BY 2.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:La_statue_de_Quan_Am_dans_la_pagode_But_Thap_2.jpg">原典</a></p></div>
 <div class="credit-item"><h3>五台山図 — 敦煌、10世紀</h3><p>莫高窟第61窟壁画。五台山の寺院・僧院を描く · 作者不詳、10世紀 · パブリックドメイン · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Mogao_Cave_61,_painting_of_Mount_Wutai_monasteries.jpg">原典</a></p></div>
 <div class="credit-item"><h3>ティエンムー寺と塔 — フエ、ベトナム</h3><p>Photo by CEphoto, Uwe Aranas, 2010 · CC BY-SA 3.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg">原典</a></p></div>
 <div class="credit-item"><h3>石窟庵本尊仏 — 慶州、韓国</h3><p>出典：韓国文化財庁（문화재청）· Korea Open Government License Type 1. <a href="https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg">原典</a></p></div>
