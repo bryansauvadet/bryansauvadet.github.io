@@ -12,15 +12,15 @@ main.content{max-width:none!important;width:100%!important;margin:0!important;pa
 
 /* Header */
 .site-header{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.97);border-bottom:1px solid #eee9e0;backdrop-filter:blur(10px)}
-.header-inner{max-width:1510px;height:82px;margin:0 auto;padding:13px 34px;display:grid;grid-template-columns:370px 1fr 190px;align-items:center;gap:20px}
+.header-inner{max-width:1580px;height:82px;margin:0 auto;padding:13px 28px;display:grid;grid-template-columns:320px minmax(0,1fr) 250px;align-items:center;gap:18px}
 .brand-name{font-size:29px;line-height:1;letter-spacing:.01em}
 .brand-sub{font:9.5px/1.35 Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:#6b645c;margin-top:7px;white-space:nowrap}
-.nav{display:flex;justify-content:center;gap:24px;align-self:end;padding-bottom:11px;font:12px Arial,sans-serif}
+.nav{display:flex;justify-content:center;align-items:center;gap:20px;align-self:end;padding-bottom:11px;font:12px Arial,sans-serif;white-space:nowrap;flex-wrap:nowrap}
 .nav a{padding:0 0 8px;border-bottom:1px solid transparent}
 .nav a:hover,.nav a.active{border-color:var(--accent);color:var(--accent-dark)}
 .header-tools{height:100%;display:flex;flex-direction:column;align-items:flex-end;justify-content:space-between;padding:0 0 11px}
-.languages{font:9px Arial,sans-serif;letter-spacing:.08em;color:#706960;white-space:nowrap}
-.languages a:hover{color:var(--accent-dark)}
+.languages{font:12px Arial,sans-serif;letter-spacing:.06em;color:#5f584f;white-space:nowrap;font-weight:500}
+.languages a{display:inline-block;padding:3px 2px}.languages a:hover{color:var(--accent-dark)}
 .search-mark{font:18px Arial,sans-serif;line-height:1}
 .menu-btn{display:none;border:0;background:none;font-size:19px;padding:0}
 
@@ -84,8 +84,8 @@ main.content{max-width:none!important;width:100%!important;margin:0!important;pa
 
 /* Responsive */
 @media(max-width:1180px){
-  .header-inner{grid-template-columns:310px 1fr 155px;padding-left:22px;padding-right:22px}
-  .nav{gap:14px;font-size:11px}
+  .header-inner{grid-template-columns:285px 1fr 210px;padding-left:20px;padding-right:20px}
+  .nav{gap:12px;font-size:10.5px}
   .brand-sub{font-size:8.7px}
   .hero-copy{padding-left:28px;padding-right:38px}
   .portal-grid{grid-template-columns:repeat(3,1fr)}
