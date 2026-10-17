@@ -9,7 +9,8 @@ format:
 <section class="page-hero"><h1>이미지 출처</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
-<div class="credit-item"><h3>Thiên Mụ, Huế, Vietnam</h3><p>Photographie Gary Todd, 2014 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Thien_Mu_Pagoda,_Hue_(15250812170).jpg">Source originale</a></p></div>
+<div class="credit-item"><h3>쭈아런 · 쭉럼 옌뜨 선원, 베트남</h3><p>Thang Nguyen 촬영, 2008 · CC BY-SA 2.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_L%C3%A2n-Thi%E1%BB%81n_vi%E1%BB%87n_Tr%C3%BAc_L%C3%A2m_Y%C3%AAn_T%E1%BB%AD.jpg">원본 출처</a></p></div>
+<div class="credit-item"><h3>석굴암 본존불 · 경주</h3><p>myllissa 촬영, 2009 · CC BY 2.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Seokguram-Buddha_statue-05.jpg">원본 출처</a></p></div>
 <div class="credit-item"><h3>Scene from the Life of the Buddha — Japan, early 15th century</h3><p>The Metropolitan Museum of Art, object 1993.478.4 · Public Domain / Open Access. <a href="https://www.metmuseum.org/art/collection/search/45213">Source originale</a></p></div>
 <div class="credit-item"><h3>Sŏkkat’ap (Seokgatap), Pulguksa</h3><p>Photographie Bernard Gagnon, 2022 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Seokgatap_Pagoda.jpg">Source originale</a></p></div>
 <div class="credit-item"><h3>Tripiṭaka Koreana, Haeinsa</h3><p>Photographie Bernard Gagnon, 2022 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Tripitaka_Koreana_02.jpg">Source originale</a></p></div>
