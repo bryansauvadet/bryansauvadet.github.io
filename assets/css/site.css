@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap');
 :root{
   --ink:#181512;--muted:#6f675e;--paper:#f4f0e8;--paper-2:#faf8f3;
   --card:#fff;--line:#ddd5c8;--accent:#8c6c40;--accent-dark:#6d5230
@@ -84,55 +83,51 @@ main.content{max-width:none!important;width:100%!important;margin:0!important;pa
 .credit-item a{text-decoration:underline;text-underline-offset:3px}
 
 
-/* Vietnamese typography — full native diacritic support */
+/* Vietnamese typography — Windows/Chrome-safe native font stack */
 html[lang="vi"] body,
 html[lang="vi"] .brand-name,
-html[lang="vi"] .hero-copy,
-html[lang="vi"] .portal-card,
-html[lang="vi"] .updates,
-html[lang="vi"] .footer-col h4,
-html[lang="vi"] .page-hero,
-html[lang="vi"] .content-inner{
-  font-family:"Source Serif 4",Georgia,"Times New Roman",serif;
-}
 html[lang="vi"] .brand-sub,
 html[lang="vi"] .nav,
 html[lang="vi"] .languages,
-html[lang="vi"] .hero-cta,
-html[lang="vi"] .update-type,
-html[lang="vi"] .update-link,
-html[lang="vi"] .footer-col p,
-html[lang="vi"] .footer-col a,
-html[lang="vi"] .image-credit{
-  font-family:"Source Sans 3",Arial,sans-serif;
-}
+html[lang="vi"] .hero-copy,
 html[lang="vi"] .hero-copy h1,
 html[lang="vi"] .hero-copy h2,
+html[lang="vi"] .hero-cta,
+html[lang="vi"] .portal-card,
 html[lang="vi"] .portal-card h3,
+html[lang="vi"] .updates,
 html[lang="vi"] .updates-head h2,
-html[lang="vi"] .update-card h3{
-  font-family:"Source Serif 4",Georgia,"Times New Roman",serif;
+html[lang="vi"] .update-card h3,
+html[lang="vi"] .update-type,
+html[lang="vi"] .update-link,
+html[lang="vi"] .footer-col h4,
+html[lang="vi"] .footer-col p,
+html[lang="vi"] .footer-col a,
+html[lang="vi"] .image-credit,
+html[lang="vi"] .page-hero,
+html[lang="vi"] .page-hero h1,
+html[lang="vi"] .content-inner{
+  font-family:"Segoe UI","Arial Unicode MS",Arial,sans-serif !important;
+  font-variant-ligatures:none;
+  font-feature-settings:normal;
+  font-kerning:normal;
+  text-rendering:auto;
+  letter-spacing:normal;
+  word-spacing:normal;
+  font-synthesis:none;
 }
-
-
-/* Vietnamese diacritic spacing safeguards */
+html[lang="vi"] .brand-name,
 html[lang="vi"] .hero-copy h1,
 html[lang="vi"] .hero-copy h2,
 html[lang="vi"] .portal-card h3,
 html[lang="vi"] .updates-head h2,
 html[lang="vi"] .update-card h3,
 html[lang="vi"] .page-hero h1{
-  letter-spacing:0;
-  word-spacing:normal;
-  font-kerning:normal;
+  font-weight:400;
 }
 html[lang="vi"] .brand-sub{
   letter-spacing:.08em;
 }
-html[lang="vi"] body{
-  font-synthesis:none;
-}
-
 /* Responsive */
 @media(max-width:1180px){
   .header-inner{grid-template-columns:285px 1fr 210px;padding-left:20px;padding-right:20px}
