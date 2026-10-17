@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500&family=Noto+Serif+KR:wght@400;500&family=Noto+Serif+TC:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
 :root{
   --ink:#181512;--muted:#6f675e;--paper:#f4f0e8;--paper-2:#faf8f3;
   --card:#fff;--line:#ddd5c8;--accent:#8c6c40;--accent-dark:#6d5230
@@ -13,15 +13,15 @@ main.content{max-width:none!important;width:100%!important;margin:0!important;pa
 
 /* Header */
 .site-header{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.97);border-bottom:1px solid #eee9e0;backdrop-filter:blur(10px)}
-.header-inner{max-width:1580px;height:82px;margin:0 auto;padding:13px 28px;display:grid;grid-template-columns:455px minmax(0,1fr) 250px;align-items:center;gap:18px}
-.brand-name-line{display:flex;align-items:baseline;gap:13px;white-space:nowrap;line-height:1}
-.brand-name{font-size:29px;line-height:1;letter-spacing:.01em;flex:0 0 auto}
-.brand-asian{display:inline-flex;align-items:baseline;gap:6px;color:#746d64;font-weight:400;letter-spacing:0;white-space:nowrap}
-.brand-ko{font-family:"Noto Serif KR","Nanum Myeongjo","AppleMyungjo","Batang",serif;font-size:12.5px}
-.brand-zh{font-family:"Noto Serif TC","Songti TC","PMingLiU","MingLiU",serif;font-size:14px}
-.brand-ja{font-family:"Noto Serif JP","Yu Mincho","Hiragino Mincho ProN","MS PMincho",serif;font-size:12.5px}
-.brand-sep{font:10px/1 Georgia,"Times New Roman",serif;color:#b1a89c}
-.brand-sub{font:9.5px/1.35 Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:#6b645c;margin-top:7px;white-space:nowrap}
+.header-inner{max-width:1580px;height:88px;margin:0 auto;padding:11px 28px;display:grid;grid-template-columns:390px minmax(0,1fr) 250px;align-items:center;gap:18px}
+.brand-name-line{display:flex;flex-direction:column;align-items:flex-start;gap:5px;white-space:nowrap;line-height:1}
+.brand-name{font-size:29px;line-height:1;letter-spacing:.01em}
+.brand-asian{display:inline-flex;align-items:center;gap:7px;color:#6f675e;font-weight:400;letter-spacing:0;white-space:nowrap;line-height:1.15}
+.brand-ko{font-family:"GungsuhChe","Gungsuh","궁서체","궁서",serif;font-size:12px;line-height:1.1}
+.brand-zh{font-family:"KaiTi","STKaiti","Kaiti TC","DFKai-SB",serif;font-size:12px;line-height:1.1}
+.brand-ja{font-family:"Yuji Syuku","Yu Mincho","Hiragino Mincho ProN",serif;font-size:12px;line-height:1.1}
+.brand-sep{font:9px/1 Georgia,"Times New Roman",serif;color:#aaa195}
+.brand-sub{font:9.5px/1.35 Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:#6b645c;margin-top:6px;white-space:nowrap}
 .nav{display:flex;justify-content:center;align-items:center;gap:20px;align-self:end;padding-bottom:11px;font:12px Arial,sans-serif;white-space:nowrap;flex-wrap:nowrap}
 .nav a{padding:0 0 8px;border-bottom:1px solid transparent}
 .nav a:hover,.nav a.active{border-color:var(--accent);color:var(--accent-dark)}
@@ -146,11 +146,11 @@ html[lang="vi"] .brand-sub{
 }
 /* Responsive */
 @media(max-width:1180px){
-  .header-inner{grid-template-columns:405px minmax(0,1fr) 205px;padding-left:20px;padding-right:20px;gap:12px}
+  .header-inner{grid-template-columns:360px minmax(0,1fr) 205px;padding-left:20px;padding-right:20px;gap:12px}
   .nav{gap:10px;font-size:10px}
   .brand-name{font-size:27px}
-  .brand-name-line{gap:10px}
-  .brand-ko,.brand-ja{font-size:11px}.brand-zh{font-size:12.5px}.brand-asian{gap:5px}
+  .brand-name-line{gap:4px}
+  .brand-ko,.brand-zh,.brand-ja{font-size:11.5px}.brand-asian{gap:5px}
   .brand-sub{font-size:8.5px}
   .hero-copy{padding-left:28px;padding-right:38px}
   .portal-grid{grid-template-columns:repeat(3,1fr)}
@@ -158,9 +158,9 @@ html[lang="vi"] .brand-sub{
   .portal-card:nth-child(-n+3){border-bottom:1px solid #e7e0d5}
 }
 @media(max-width:860px){
-  .header-inner{height:auto;min-height:76px;grid-template-columns:1fr auto;padding:14px 18px}
-  .brand-name-line{flex-wrap:wrap;row-gap:5px}
-  .brand-asian{flex-basis:100%}
+  .header-inner{height:auto;min-height:82px;grid-template-columns:1fr auto;padding:12px 18px}
+  .brand-name-line{gap:4px}
+  .brand-asian{display:inline-flex}
   .brand-sub{white-space:normal}
   .header-tools{grid-column:2;grid-row:1;justify-content:center;gap:8px}
   .menu-btn{display:inline;margin-left:10px}
@@ -176,7 +176,8 @@ html[lang="vi"] .brand-sub{
 }
 @media(max-width:600px){
   .brand-name{font-size:24px}.brand-sub{font-size:8px}
-  .brand-ko,.brand-ja{font-size:10.5px}.brand-zh{font-size:12px}
+  .brand-ko,.brand-zh,.brand-ja{font-size:10.5px}
+  .brand-asian{gap:4px}
   .languages{font-size:8px}
   .hero-copy h1{font-size:43px}.hero-copy h2{font-size:21px}.hero-copy p{font-size:16px}
   .portal-grid{grid-template-columns:1fr 1fr}
