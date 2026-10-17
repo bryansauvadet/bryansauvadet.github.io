@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600&family=Noto+Serif:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap');
 :root{
   --ink:#181512;--muted:#6f675e;--paper:#f4f0e8;--paper-2:#faf8f3;
   --card:#fff;--line:#ddd5c8;--accent:#8c6c40;--accent-dark:#6d5230
@@ -93,7 +93,7 @@ html[lang="vi"] .updates,
 html[lang="vi"] .footer-col h4,
 html[lang="vi"] .page-hero,
 html[lang="vi"] .content-inner{
-  font-family:"Noto Serif",Georgia,"Times New Roman",serif;
+  font-family:"Source Serif 4",Georgia,"Times New Roman",serif;
 }
 html[lang="vi"] .brand-sub,
 html[lang="vi"] .nav,
@@ -104,16 +104,33 @@ html[lang="vi"] .update-link,
 html[lang="vi"] .footer-col p,
 html[lang="vi"] .footer-col a,
 html[lang="vi"] .image-credit{
-  font-family:"Noto Sans",Arial,sans-serif;
+  font-family:"Source Sans 3",Arial,sans-serif;
 }
 html[lang="vi"] .hero-copy h1,
 html[lang="vi"] .hero-copy h2,
 html[lang="vi"] .portal-card h3,
 html[lang="vi"] .updates-head h2,
 html[lang="vi"] .update-card h3{
-  font-family:"Noto Serif",Georgia,"Times New Roman",serif;
-  font-feature-settings:"kern" 1,"mark" 1,"mkmk" 1;
-  text-rendering:optimizeLegibility;
+  font-family:"Source Serif 4",Georgia,"Times New Roman",serif;
+}
+
+
+/* Vietnamese diacritic spacing safeguards */
+html[lang="vi"] .hero-copy h1,
+html[lang="vi"] .hero-copy h2,
+html[lang="vi"] .portal-card h3,
+html[lang="vi"] .updates-head h2,
+html[lang="vi"] .update-card h3,
+html[lang="vi"] .page-hero h1{
+  letter-spacing:0;
+  word-spacing:normal;
+  font-kerning:normal;
+}
+html[lang="vi"] .brand-sub{
+  letter-spacing:.08em;
+}
+html[lang="vi"] body{
+  font-synthesis:none;
 }
 
 /* Responsive */
