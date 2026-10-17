@@ -1,0 +1,17 @@
+---
+title: "Bryan Sauvadet"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>東亞佛教藝術史</h2><p>研究東亞佛教圖像、建築、儀式與物質文化。</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
+<section class="section"><div class="tiles">
+<a class="tile" href="/zh-hant/research.html"><h3>研究</h3></a>
+<a class="tile" href="/zh-hant/publications.html"><h3>出版物</h3></a>
+<a class="tile" href="/zh-hant/databases.html"><h3>資料庫</h3></a>
+<a class="tile" href="/zh-hant/maps.html"><h3>地圖與資訊圖表</h3></a>
+<a class="tile" href="/zh-hant/notebook.html"><h3>研究札記</h3></a>
+<a class="tile" href="/zh-hant/about.html"><h3>關於</h3></a>
+</div></section>

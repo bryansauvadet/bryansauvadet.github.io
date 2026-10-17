@@ -1,0 +1,9 @@
+---
+title: "Bryan Sauvadet"
+format: html
+---
+# Bryan Sauvadet
+
+**Histoire de l’art du bouddhisme d’Asie de l’Est**
+
+[Français](/fr/index.html) · [English](/en/index.html) · [한국어](/ko/index.html) · [日本語](/ja/index.html) · [繁體中文](/zh-hant/index.html) · [Tiếng Việt](/vi/index.html)

@@ -1,0 +1,10 @@
+---
+title: "이미지 출처"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="page-hero"><div class="eyebrow">Bryan Sauvadet</div><h1>이미지 출처</h1></section>
+<main class="content"><p class="lead">Image provenance, licences and reuse information.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>

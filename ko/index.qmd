@@ -1,0 +1,17 @@
+---
+title: "Bryan Sauvadet"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>동아시아 불교미술사</h2><p>동아시아 불교의 이미지, 기념물, 의례, 물질문화를 연구합니다.</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
+<section class="section"><div class="tiles">
+<a class="tile" href="/ko/research.html"><h3>연구</h3></a>
+<a class="tile" href="/ko/publications.html"><h3>출판물</h3></a>
+<a class="tile" href="/ko/databases.html"><h3>데이터베이스</h3></a>
+<a class="tile" href="/ko/maps.html"><h3>지도·인포그래픽</h3></a>
+<a class="tile" href="/ko/notebook.html"><h3>연구 노트</h3></a>
+<a class="tile" href="/ko/about.html"><h3>소개</h3></a>
+</div></section>

@@ -1,0 +1,17 @@
+---
+title: "Bryan Sauvadet"
+lang: vi
+format:
+  html:
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
+---
+<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>Lịch sử nghệ thuật Phật giáo Đông Á</h2><p>Nghiên cứu hình ảnh, di tích, thực hành và văn hóa vật chất Phật giáo ở Đông Á.</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
+<section class="section"><div class="tiles">
+<a class="tile" href="/vi/research.html"><h3>Nghiên cứu</h3></a>
+<a class="tile" href="/vi/publications.html"><h3>Công bố</h3></a>
+<a class="tile" href="/vi/databases.html"><h3>Cơ sở dữ liệu</h3></a>
+<a class="tile" href="/vi/maps.html"><h3>Bản đồ & đồ họa</h3></a>
+<a class="tile" href="/vi/notebook.html"><h3>Sổ tay</h3></a>
+<a class="tile" href="/vi/about.html"><h3>Giới thiệu</h3></a>
+</div></section>

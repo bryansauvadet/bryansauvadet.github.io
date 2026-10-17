@@ -1,0 +1,17 @@
+---
+title: "Bryan Sauvadet"
+lang: en
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>History of East Asian Buddhist Art</h2><p>Research on Buddhist images, monuments, practices and material cultures in East Asia.</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
+<section class="section"><div class="tiles">
+<a class="tile" href="/en/research.html"><h3>Research</h3></a>
+<a class="tile" href="/en/publications.html"><h3>Publications</h3></a>
+<a class="tile" href="/en/databases.html"><h3>Databases</h3></a>
+<a class="tile" href="/en/maps.html"><h3>Maps & visualisations</h3></a>
+<a class="tile" href="/en/notebook.html"><h3>Notebook</h3></a>
+<a class="tile" href="/en/about.html"><h3>About</h3></a>
+</div></section>

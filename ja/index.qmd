@@ -1,0 +1,17 @@
+---
+title: "Bryan Sauvadet"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>東アジア仏教美術史</h2><p>東アジア仏教の図像、建築、儀礼、物質文化を研究します。</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
+<section class="section"><div class="tiles">
+<a class="tile" href="/ja/research.html"><h3>研究</h3></a>
+<a class="tile" href="/ja/publications.html"><h3>業績</h3></a>
+<a class="tile" href="/ja/databases.html"><h3>データベース</h3></a>
+<a class="tile" href="/ja/maps.html"><h3>地図・インフォグラフィック</h3></a>
+<a class="tile" href="/ja/notebook.html"><h3>研究ノート</h3></a>
+<a class="tile" href="/ja/about.html"><h3>プロフィール</h3></a>
+</div></section>

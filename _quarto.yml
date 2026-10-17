@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Bryan Sauvadet"
+  site-url: "https://bryansauvadet.github.io"
+  search: false
+  page-footer: false
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/site.css
+    include-in-header: assets/includes/head.html
+    toc: false
+    page-layout: full
+    anchor-sections: false
+    smooth-scroll: true
+
+resources:
+  - assets/**
+  - data/**
+  - robots.txt
+
+execute:
+  freeze: auto
