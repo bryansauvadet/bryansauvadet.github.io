@@ -3,8 +3,8 @@ title: false
 lang: zh-Hant
 format:
   html:
-    include-before-body: ../_includes/zh-hant-header.html
-    include-after-body: ../_includes/zh-hant-footer.html
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
 ---
 <div class="home-shell">
 <section class="hero">

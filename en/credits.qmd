@@ -3,8 +3,8 @@ title: false
 lang: en
 format:
   html:
-    include-before-body: ../_includes/en-header.html
-    include-after-body: ../_includes/en-footer.html
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
 ---
 <section class="page-hero"><h1>Image credits</h1></section>
 <div class="content-inner"><p class="lead">Credits are grouped here to keep the visual pages uncluttered. The images below are either public domain or CC0. Provenance is retained as a matter of scholarly practice even where attribution is not legally required.</p>

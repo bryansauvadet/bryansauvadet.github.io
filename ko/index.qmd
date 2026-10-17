@@ -3,8 +3,8 @@ title: false
 lang: ko
 format:
   html:
-    include-before-body: ../_includes/ko-header.html
-    include-after-body: ../_includes/ko-footer.html
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
 ---
 <div class="home-shell">
 <section class="hero">

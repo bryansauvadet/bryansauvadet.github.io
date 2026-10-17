@@ -3,8 +3,8 @@ title: false
 lang: ko
 format:
   html:
-    include-before-body: ../_includes/ko-header.html
-    include-after-body: ../_includes/ko-footer.html
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
 ---
 <section class="page-hero"><h1>이미지 출처</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>

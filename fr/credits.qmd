@@ -3,8 +3,8 @@ title: false
 lang: fr
 format:
   html:
-    include-before-body: ../_includes/fr-header.html
-    include-after-body: ../_includes/fr-footer.html
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
 ---
 <section class="page-hero"><h1>Crédits images</h1></section>
 <div class="content-inner"><p class="lead">Les crédits sont regroupés ici afin de préserver la sobriété des pages. Les images ci-dessous sont soit dans le domaine public, soit sous CC0. La provenance est conservée par rigueur scientifique, même lorsqu’une attribution n’est pas juridiquement obligatoire.</p>

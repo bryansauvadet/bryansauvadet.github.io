@@ -3,8 +3,8 @@ title: false
 lang: ja
 format:
   html:
-    include-before-body: ../_includes/ja-header.html
-    include-after-body: ../_includes/ja-footer.html
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
 ---
 <section class="page-hero"><h1>画像クレジット</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>

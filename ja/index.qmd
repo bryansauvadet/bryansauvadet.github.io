@@ -3,8 +3,8 @@ title: false
 lang: ja
 format:
   html:
-    include-before-body: ../_includes/ja-header.html
-    include-after-body: ../_includes/ja-footer.html
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
 ---
 <div class="home-shell">
 <section class="hero">

@@ -6,8 +6,6 @@ website:
   title: "Bryan Sauvadet"
   site-url: "https://bryansauvadet.github.io"
   search: false
-  page-footer: false
-
 format:
   html:
     theme: cosmo
