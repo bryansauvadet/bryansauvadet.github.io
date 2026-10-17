@@ -9,6 +9,7 @@ format:
 <section class="page-hero"><h1>画像クレジット</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>百済寺（Hyakusai-ji）— 滋賀県</h3><p>百済寺の表門 · 撮影：Motokoka、2019年 · CC BY-SA 4.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hyakusai-ji_04.jpg">原典</a></p></div>
 <div class="credit-item"><h3>千手千眼観音 — バクニン省筆塔寺</h3><p>筆塔寺の堂内に安置された原像 · 撮影：Jean-Pierre Dalbéra、2010年 · CC BY 2.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:La_statue_de_Quan_Am_dans_la_pagode_But_Thap_2.jpg">原典</a></p></div>
 <div class="credit-item"><h3>五台山図 — 敦煌、10世紀</h3><p>莫高窟第61窟壁画。五台山の寺院・僧院を描く · 作者不詳、10世紀 · パブリックドメイン · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Mogao_Cave_61,_painting_of_Mount_Wutai_monasteries.jpg">原典</a></p></div>
 <div class="credit-item"><h3>ティエンムー寺と塔 — フエ、ベトナム</h3><p>Photo by CEphoto, Uwe Aranas, 2010 · CC BY-SA 3.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg">原典</a></p></div>
