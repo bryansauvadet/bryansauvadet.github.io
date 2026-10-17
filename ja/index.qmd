@@ -16,31 +16,21 @@ format:
     <p>私の研究は、中世から近世にかけての東アジアの仏教美術、モニュメント、実践を対象とし、美術史的分析、文献資料、物質資料、イメージの流通を横断的に考察します。</p>
     <a class="hero-cta" href="/ja/research.html">詳しく見る <span>→</span></a>
   </div>
-  <div class="hero-media" data-hero-carousel aria-roledescription="carousel">
-    <div class="hero-carousel">
-      <figure class="hero-slide active" aria-hidden="false">
-        <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
-        <figcaption class="image-credit">Scene from the Life of the Buddha · 日本、15世紀初頭 · The Met · パブリックドメイン</figcaption>
-      </figure>
-      <figure class="hero-slide" aria-hidden="true">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Thien_Mu_Pagoda,_Hue_(15250812170).jpg" alt="Thiên Mụ Buddhist monastery, Huế, Vietnam">
-        <figcaption class="image-credit">ティエンムー寺、フエ、ベトナム · Gary Todd撮影 · CC0 1.0 · Wikimedia Commons</figcaption>
-      </figure>
-      <figure class="hero-slide hero-slide--contain" aria-hidden="true">
-        <img src="https://images.metmuseum.org/CRDImages/as/original/DT8302.jpg" alt="Standing Buddha, Korea, Goryeo dynasty">
-        <figcaption class="image-credit">如来立像 · 高麗 · The Met · パブリックドメイン</figcaption>
-      </figure>
-    </div>
-    <div class="hero-carousel-controls" aria-label="Image carousel">
-      <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Previous image">‹</button>
-      <div class="hero-carousel-dots">
-        <button class="hero-carousel-dot active" type="button" aria-label="Image 1" aria-current="true"></button>
-        <button class="hero-carousel-dot" type="button" aria-label="Image 2" aria-current="false"></button>
-        <button class="hero-carousel-dot" type="button" aria-label="Image 3" aria-current="false"></button>
+  <div class="hero-media">
+      <div class="hero-carousel-single" data-hero-carousel data-slides="[{&quot;src&quot;:&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image&quot;,&quot;alt&quot;:&quot;Scene from the Life of the Buddha, Japan, early 15th century&quot;,&quot;credit&quot;:&quot;Scene from the Life of the Buddha · 日本、15世紀初頭 · The Met · パブリックドメイン&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://commons.wikimedia.org/wiki/Special:Redirect/file/Thien_Mu_Pagoda,_Hue_(15250812170).jpg&quot;,&quot;alt&quot;:&quot;Thiên Mụ Buddhist monastery, Huế, Vietnam&quot;,&quot;credit&quot;:&quot;ティエンムー寺、フエ、ベトナム · Gary Todd撮影 · CC0 1.0 · Wikimedia Commons&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://images.metmuseum.org/CRDImages/as/original/DT8302.jpg&quot;,&quot;alt&quot;:&quot;Standing Buddha, Korea, Goryeo dynasty&quot;,&quot;credit&quot;:&quot;如来立像 · 高麗 · The Met · パブリックドメイン&quot;,&quot;contain&quot;:true}]" aria-roledescription="carousel">
+        <img class="hero-current-image" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
+        <div class="image-credit">Scene from the Life of the Buddha · 日本、15世紀初頭 · The Met · パブリックドメイン</div>
+        <div class="hero-carousel-controls" aria-label="Image carousel">
+          <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Previous image">‹</button>
+          <div class="hero-carousel-dots">
+            <button class="hero-carousel-dot active" type="button" aria-label="Image 1" aria-current="true"></button>
+            <button class="hero-carousel-dot" type="button" aria-label="Image 2" aria-current="false"></button>
+            <button class="hero-carousel-dot" type="button" aria-label="Image 3" aria-current="false"></button>
+          </div>
+          <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Next image">›</button>
+        </div>
       </div>
-      <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Next image">›</button>
     </div>
-  </div>
 </section>
 <section class="portal-grid"><a class="portal-card" href="/ja/research.html"><div class="portal-image"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seokgatap_Pagoda.jpg" alt="" loading="lazy"></div><h3>研究</h3><p>研究領域、進行中のプロジェクト、主要テーマ。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/publications.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tripitaka_Koreana_02.jpg/1280px-Tripitaka_Koreana_02.jpg" alt="" loading="lazy"></div><h3>業績</h3><p>論文、論集所収論文、学会発表、オンライン資料。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/databases.html"><div class="portal-image"><img src="https://images.metmuseum.org/CRDImages/as/original/DT8301.jpg" alt="" loading="lazy"></div><h3>データベース</h3><p>寺院、仏塔、造形、図像、史料。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/maps.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"></div><h3>地図・インフォグラフィック</h3><p>インタラクティブ地図、年表、研究図解。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/notebook.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_a_Buddhist_Monk.jpg" alt="" loading="lazy"></div><h3>研究ノート</h3><p>ノート、発見、読書、進行中の研究。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/about.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/42264/102171/main-image" alt="" loading="lazy"></div><h3>プロフィール</h3><p>経歴、CV、所属、連絡先。</p><span class="arrow">→</span></a></section>
 <section class="updates">

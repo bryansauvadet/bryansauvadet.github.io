@@ -16,31 +16,21 @@ format:
     <p>My research examines Buddhist art, monuments, and practices in East Asia from the medieval to the modern period, combining art-historical analysis with textual sources, material evidence, and the circulation of images.</p>
     <a class="hero-cta" href="/en/research.html">Learn more <span>→</span></a>
   </div>
-  <div class="hero-media" data-hero-carousel aria-roledescription="carousel">
-    <div class="hero-carousel">
-      <figure class="hero-slide active" aria-hidden="false">
-        <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
-        <figcaption class="image-credit">Scene from the Life of the Buddha · Japan, early 15th century · The Met · Public Domain</figcaption>
-      </figure>
-      <figure class="hero-slide" aria-hidden="true">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Thien_Mu_Pagoda,_Hue_(15250812170).jpg" alt="Thiên Mụ Buddhist monastery, Huế, Vietnam">
-        <figcaption class="image-credit">Thiên Mụ, Huế, Vietnam · photo Gary Todd · CC0 1.0 · Wikimedia Commons</figcaption>
-      </figure>
-      <figure class="hero-slide hero-slide--contain" aria-hidden="true">
-        <img src="https://images.metmuseum.org/CRDImages/as/original/DT8302.jpg" alt="Standing Buddha, Korea, Goryeo dynasty">
-        <figcaption class="image-credit">Standing Buddha · Korea, Goryeo dynasty · The Met · Public Domain</figcaption>
-      </figure>
-    </div>
-    <div class="hero-carousel-controls" aria-label="Image carousel">
-      <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Previous image">‹</button>
-      <div class="hero-carousel-dots">
-        <button class="hero-carousel-dot active" type="button" aria-label="Image 1" aria-current="true"></button>
-        <button class="hero-carousel-dot" type="button" aria-label="Image 2" aria-current="false"></button>
-        <button class="hero-carousel-dot" type="button" aria-label="Image 3" aria-current="false"></button>
+  <div class="hero-media">
+      <div class="hero-carousel-single" data-hero-carousel data-slides="[{&quot;src&quot;:&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image&quot;,&quot;alt&quot;:&quot;Scene from the Life of the Buddha, Japan, early 15th century&quot;,&quot;credit&quot;:&quot;Scene from the Life of the Buddha · Japan, early 15th century · The Met · Public Domain&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://commons.wikimedia.org/wiki/Special:Redirect/file/Thien_Mu_Pagoda,_Hue_(15250812170).jpg&quot;,&quot;alt&quot;:&quot;Thiên Mụ Buddhist monastery, Huế, Vietnam&quot;,&quot;credit&quot;:&quot;Thiên Mụ, Huế, Vietnam · photo Gary Todd · CC0 1.0 · Wikimedia Commons&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://images.metmuseum.org/CRDImages/as/original/DT8302.jpg&quot;,&quot;alt&quot;:&quot;Standing Buddha, Korea, Goryeo dynasty&quot;,&quot;credit&quot;:&quot;Standing Buddha · Korea, Goryeo dynasty · The Met · Public Domain&quot;,&quot;contain&quot;:true}]" aria-roledescription="carousel">
+        <img class="hero-current-image" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
+        <div class="image-credit">Scene from the Life of the Buddha · Japan, early 15th century · The Met · Public Domain</div>
+        <div class="hero-carousel-controls" aria-label="Image carousel">
+          <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Previous image">‹</button>
+          <div class="hero-carousel-dots">
+            <button class="hero-carousel-dot active" type="button" aria-label="Image 1" aria-current="true"></button>
+            <button class="hero-carousel-dot" type="button" aria-label="Image 2" aria-current="false"></button>
+            <button class="hero-carousel-dot" type="button" aria-label="Image 3" aria-current="false"></button>
+          </div>
+          <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Next image">›</button>
+        </div>
       </div>
-      <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Next image">›</button>
     </div>
-  </div>
 </section>
 <section class="portal-grid"><a class="portal-card" href="/en/research.html"><div class="portal-image"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seokgatap_Pagoda.jpg" alt="" loading="lazy"></div><h3>Research</h3><p>Research fields, current projects, and major themes.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/publications.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tripitaka_Koreana_02.jpg/1280px-Tripitaka_Koreana_02.jpg" alt="" loading="lazy"></div><h3>Publications</h3><p>Articles, book chapters, conference papers, and online texts.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/databases.html"><div class="portal-image"><img src="https://images.metmuseum.org/CRDImages/as/original/DT8301.jpg" alt="" loading="lazy"></div><h3>Databases</h3><p>Monuments, temples, stūpas, iconography, and sources.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/maps.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"></div><h3>Maps & visualisations</h3><p>Interactive maps, timelines, and research diagrams.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/notebook.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_a_Buddhist_Monk.jpg" alt="" loading="lazy"></div><h3>Research notebook</h3><p>Notes, discoveries, readings, and work in progress.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/about.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/42264/102171/main-image" alt="" loading="lazy"></div><h3>About</h3><p>Profile, CV, affiliations, and contact.</p><span class="arrow">→</span></a></section>
 <section class="updates">
