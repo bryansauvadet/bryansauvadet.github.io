@@ -9,8 +9,8 @@ format:
 <section class="page-hero"><h1>이미지 출처</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
-<div class="credit-item"><h3>햐쿠사이지(百済寺) — 일본 시가현</h3><p>햐쿠사이지 표문 · 촬영: Motokoka, 2019 · CC BY-SA 4.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hyakusai-ji_04.jpg">원본 출처</a></p></div>
-<div class="credit-item"><h3>천수천안 관음보살 — 박닌 붓탑 사원</h3><p>붓탑 사원 법당에 봉안된 원상 · 촬영: Jean-Pierre Dalbéra, 2010 · CC BY 2.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:La_statue_de_Quan_Am_dans_la_pagode_But_Thap_2.jpg">원본 출처</a></p></div>
+<div class="credit-item"><h3>햐쿠사이지(百済寺) — 일본 시가현</h3><p>신록과 이끼로 뒤덮인 햐쿠사이지 참배길 · 촬영: Juniper Breeze · 4travel. <a href="https://4travel.jp/dm_shisetsu_tips/14368842">원본 출처</a></p></div>
+<div class="credit-item"><h3>천수천안 관음보살 — 박닌 붓탑 사원</h3><p>사원에 봉안된 불상의 정면 사진 · Khangoii, 2023 · CC BY-SA 4.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Quan_%C3%A2m_ch%C3%B9a_B%C3%BAt_Th%C3%A1p_01.jpg">원본 출처</a></p></div>
 <div class="credit-item"><h3>오대산도 — 둔황, 10세기</h3><p>막고굴 제61굴 벽화, 오대산의 사찰과 수도원을 묘사 · 작자 미상, 10세기 · 퍼블릭 도메인 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Mogao_Cave_61,_painting_of_Mount_Wutai_monasteries.jpg">원본 출처</a></p></div>
 <div class="credit-item"><h3>티엔무 사원과 탑 — 후에, 베트남</h3><p>Photo by CEphoto, Uwe Aranas, 2010 · CC BY-SA 3.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg">원본 출처</a></p></div>
 <div class="credit-item"><h3>경주 석굴암 본존불 정면</h3><p>출처: 문화재청 · 공공누리 제1유형. <a href="https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg">원본 출처</a></p></div>
