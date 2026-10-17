@@ -16,9 +16,30 @@ format:
     <p>저의 연구는 중세부터 근세에 이르는 동아시아의 불교미술, 기념물과 실천을 대상으로 하며, 미술사적 분석과 문헌 자료, 물질 자료, 이미지의 유통을 함께 살펴봅니다.</p>
     <a class="hero-cta" href="/ko/research.html">더 보기 <span>→</span></a>
   </div>
-  <div class="hero-media">
-    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
-    <div class="image-credit">Scene from the Life of the Buddha · 일본, 15세기 초 · The Met · 퍼블릭 도메인</div>
+  <div class="hero-media" data-hero-carousel aria-roledescription="carousel">
+    <div class="hero-carousel">
+      <figure class="hero-slide active" aria-hidden="false">
+        <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
+        <figcaption class="image-credit">Scene from the Life of the Buddha · 일본, 15세기 초 · The Met · 퍼블릭 도메인</figcaption>
+      </figure>
+      <figure class="hero-slide" aria-hidden="true">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Thien_Mu_Pagoda,_Hue_(15250812170).jpg" alt="Thiên Mụ Buddhist monastery, Huế, Vietnam">
+        <figcaption class="image-credit">티엔무 사원, 후에, 베트남 · Gary Todd 촬영 · CC0 1.0 · Wikimedia Commons</figcaption>
+      </figure>
+      <figure class="hero-slide hero-slide--contain" aria-hidden="true">
+        <img src="https://images.metmuseum.org/CRDImages/as/original/DT8302.jpg" alt="Standing Buddha, Korea, Goryeo dynasty">
+        <figcaption class="image-credit">입상 불상 · 고려 · The Met · 퍼블릭 도메인</figcaption>
+      </figure>
+    </div>
+    <div class="hero-carousel-controls" aria-label="Image carousel">
+      <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Previous image">‹</button>
+      <div class="hero-carousel-dots">
+        <button class="hero-carousel-dot active" type="button" aria-label="Image 1" aria-current="true"></button>
+        <button class="hero-carousel-dot" type="button" aria-label="Image 2" aria-current="false"></button>
+        <button class="hero-carousel-dot" type="button" aria-label="Image 3" aria-current="false"></button>
+      </div>
+      <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Next image">›</button>
+    </div>
   </div>
 </section>
 <section class="portal-grid"><a class="portal-card" href="/ko/research.html"><div class="portal-image"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seokgatap_Pagoda.jpg" alt="" loading="lazy"></div><h3>연구</h3><p>연구 주제, 진행 중인 프로젝트와 주요 연구 영역.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/publications.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tripitaka_Koreana_02.jpg/1280px-Tripitaka_Koreana_02.jpg" alt="" loading="lazy"></div><h3>출판물</h3><p>논문, 저서 수록 글, 학술발표와 온라인 자료.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/databases.html"><div class="portal-image"><img src="https://images.metmuseum.org/CRDImages/as/original/DT8301.jpg" alt="" loading="lazy"></div><h3>데이터베이스</h3><p>기념물, 사찰, 불탑, 도상과 문헌 자료.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/maps.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"></div><h3>지도·인포그래픽</h3><p>인터랙티브 지도, 연표와 연구 도식.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/notebook.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_a_Buddhist_Monk.jpg" alt="" loading="lazy"></div><h3>연구 노트</h3><p>노트, 발견, 독서와 진행 중인 연구.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/about.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/42264/102171/main-image" alt="" loading="lazy"></div><h3>소개</h3><p>연구 경력, CV, 소속과 연락처.</p><span class="arrow">→</span></a></section>

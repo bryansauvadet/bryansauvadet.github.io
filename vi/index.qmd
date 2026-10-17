@@ -16,9 +16,30 @@ format:
     <p>Nghiên cứu của tôi tập trung vào nghệ thuật, di tích và thực hành Phật giáo ở Đông Á từ thời trung đại đến cận đại, kết hợp phân tích lịch sử nghệ thuật với văn bản, tư liệu vật chất và sự lưu chuyển của hình ảnh.</p>
     <a class="hero-cta" href="/vi/research.html">Tìm hiểu thêm <span>→</span></a>
   </div>
-  <div class="hero-media">
-    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
-    <div class="image-credit">Scene from the Life of the Buddha · Nhật Bản, đầu thế kỷ XV · The Met · Phạm vi công cộng</div>
+  <div class="hero-media" data-hero-carousel aria-roledescription="carousel">
+    <div class="hero-carousel">
+      <figure class="hero-slide active" aria-hidden="false">
+        <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
+        <figcaption class="image-credit">Scene from the Life of the Buddha · Nhật Bản, đầu thế kỷ XV · The Met · Phạm vi công cộng</figcaption>
+      </figure>
+      <figure class="hero-slide" aria-hidden="true">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Thien_Mu_Pagoda,_Hue_(15250812170).jpg" alt="Thiên Mụ Buddhist monastery, Huế, Vietnam">
+        <figcaption class="image-credit">Chùa Thiên Mụ, Huế, Việt Nam · ảnh Gary Todd · CC0 1.0 · Wikimedia Commons</figcaption>
+      </figure>
+      <figure class="hero-slide hero-slide--contain" aria-hidden="true">
+        <img src="https://images.metmuseum.org/CRDImages/as/original/DT8302.jpg" alt="Standing Buddha, Korea, Goryeo dynasty">
+        <figcaption class="image-credit">Phật đứng · Triều đại Goryeo, Hàn Quốc · The Met · Phạm vi công cộng</figcaption>
+      </figure>
+    </div>
+    <div class="hero-carousel-controls" aria-label="Image carousel">
+      <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Previous image">‹</button>
+      <div class="hero-carousel-dots">
+        <button class="hero-carousel-dot active" type="button" aria-label="Image 1" aria-current="true"></button>
+        <button class="hero-carousel-dot" type="button" aria-label="Image 2" aria-current="false"></button>
+        <button class="hero-carousel-dot" type="button" aria-label="Image 3" aria-current="false"></button>
+      </div>
+      <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Next image">›</button>
+    </div>
   </div>
 </section>
 <section class="portal-grid"><a class="portal-card" href="/vi/research.html"><div class="portal-image"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seokgatap_Pagoda.jpg" alt="" loading="lazy"></div><h3>Nghiên cứu</h3><p>Hướng nghiên cứu, dự án hiện tại và các chủ đề chính.</p><span class="arrow">→</span></a><a class="portal-card" href="/vi/publications.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tripitaka_Koreana_02.jpg/1280px-Tripitaka_Koreana_02.jpg" alt="" loading="lazy"></div><h3>Công bố</h3><p>Bài báo, chương sách, tham luận và văn bản trực tuyến.</p><span class="arrow">→</span></a><a class="portal-card" href="/vi/databases.html"><div class="portal-image"><img src="https://images.metmuseum.org/CRDImages/as/original/DT8301.jpg" alt="" loading="lazy"></div><h3>Cơ sở dữ liệu</h3><p>Di tích, chùa, stūpa, hình tượng và tư liệu.</p><span class="arrow">→</span></a><a class="portal-card" href="/vi/maps.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"></div><h3>Bản đồ & đồ họa</h3><p>Bản đồ tương tác, niên biểu và sơ đồ nghiên cứu.</p><span class="arrow">→</span></a><a class="portal-card" href="/vi/notebook.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_a_Buddhist_Monk.jpg" alt="" loading="lazy"></div><h3>Sổ tay nghiên cứu</h3><p>Ghi chú, phát hiện, đọc sách và công việc đang tiến hành.</p><span class="arrow">→</span></a><a class="portal-card" href="/vi/about.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/42264/102171/main-image" alt="" loading="lazy"></div><h3>Giới thiệu</h3><p>Hồ sơ, CV, cơ quan và liên hệ.</p><span class="arrow">→</span></a></section>

@@ -9,6 +9,7 @@ format:
 <section class="page-hero"><h1>Crédits images</h1></section>
 <div class="content-inner"><p class="lead">Les crédits sont regroupés ici afin de préserver la sobriété des pages. Les images ci-dessous sont soit dans le domaine public, soit sous CC0. La provenance est conservée par rigueur scientifique, même lorsqu’une attribution n’est pas juridiquement obligatoire.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>Thiên Mụ, Huế, Vietnam</h3><p>Photographie Gary Todd, 2014 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Thien_Mu_Pagoda,_Hue_(15250812170).jpg">Source originale</a></p></div>
 <div class="credit-item"><h3>Scene from the Life of the Buddha — Japan, early 15th century</h3><p>The Metropolitan Museum of Art, object 1993.478.4 · Public Domain / Open Access. <a href="https://www.metmuseum.org/art/collection/search/45213">Source originale</a></p></div>
 <div class="credit-item"><h3>Sŏkkat’ap (Seokgatap), Pulguksa</h3><p>Photographie Bernard Gagnon, 2022 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Seokgatap_Pagoda.jpg">Source originale</a></p></div>
 <div class="credit-item"><h3>Tripiṭaka Koreana, Haeinsa</h3><p>Photographie Bernard Gagnon, 2022 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Tripitaka_Koreana_02.jpg">Source originale</a></p></div>
