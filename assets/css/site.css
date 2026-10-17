@@ -35,34 +35,17 @@ main.content{max-width:none!important;width:100%!important;margin:0!important;pa
 .hero-cta{display:inline-flex;align-items:center;gap:13px;width:max-content;background:#9a8059;color:#fff;padding:13px 20px;font:10px Arial,sans-serif;letter-spacing:.11em;text-transform:uppercase}
 .hero-cta:hover{background:#7f6847}
 .hero-media{position:relative;overflow:hidden;background:#4b4035;min-height:520px}
-.hero-carousel{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;overflow:hidden!important}
-.hero-carousel .hero-slide{
-  display:none!important;
-  position:absolute!important;
-  inset:0!important;
-  width:100%!important;
-  height:100%!important;
-  margin:0!important;
-  padding:0!important;
-  opacity:1!important;
-  pointer-events:none!important;
-  overflow:hidden!important;
-}
-.hero-carousel .hero-slide.active{
-  display:block!important;
-  pointer-events:auto!important;
-}
-.hero-slide img{width:100%;height:100%;display:block;object-fit:cover;object-position:center 32%;filter:saturate(.86) contrast(.98)}
-.hero-slide.hero-slide--contain{background:#54292b}
-.hero-slide.hero-slide--contain img{object-fit:contain;object-position:center center;filter:none}
-.hero-slide .image-credit{position:absolute;right:16px;bottom:14px;max-width:82%;padding:5px 7px;background:rgba(35,28,21,.54);color:#fff;font:9px/1.3 Arial,sans-serif;text-align:right}
+.hero-carousel-single{position:absolute;inset:0;width:100%;height:100%;overflow:hidden}
+.hero-carousel-single .hero-current-image{display:block;width:100%;height:100%;object-fit:cover;object-position:center 32%;filter:saturate(.86) contrast(.98)}
+.hero-carousel-single.is-contain{background:#54292b}
+.hero-carousel-single.is-contain .hero-current-image{object-fit:contain;object-position:center center;filter:none}
+.hero-carousel-single .image-credit{position:absolute;right:16px;bottom:14px;max-width:82%;padding:5px 7px;background:rgba(35,28,21,.54);color:#fff;font:9px/1.3 Arial,sans-serif;text-align:right}
 .hero-carousel-controls{position:absolute;left:16px;bottom:14px;z-index:4;display:flex;align-items:center;gap:8px}
 .hero-carousel-arrow{width:30px;height:30px;border:1px solid rgba(255,255,255,.72);border-radius:50%;background:rgba(35,28,21,.34);color:#fff;font:16px/1 Arial,sans-serif;display:grid;place-items:center;cursor:pointer;backdrop-filter:blur(4px)}
 .hero-carousel-arrow:hover{background:rgba(35,28,21,.58)}
 .hero-carousel-dots{display:flex;gap:6px}
 .hero-carousel-dot{width:6px;height:6px;padding:0;border:0;border-radius:50%;background:rgba(255,255,255,.48);cursor:pointer}
 .hero-carousel-dot.active{background:#fff;transform:scale(1.25)}
-@media (prefers-reduced-motion:reduce){.hero-carousel .hero-slide{transition:none}}
 
 /* Portal cards */
 .portal-grid{display:grid;grid-template-columns:repeat(6,1fr);border-bottom:1px solid var(--line);background:white}

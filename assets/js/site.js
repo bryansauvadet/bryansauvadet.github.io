@@ -10,11 +10,20 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   document.querySelectorAll('[data-hero-carousel]').forEach(carousel => {
-    const slides = [...carousel.querySelectorAll('.hero-slide')];
+    const img = carousel.querySelector('.hero-current-image');
+    const credit = carousel.querySelector('.image-credit');
     const dots = [...carousel.querySelectorAll('.hero-carousel-dot')];
     const prev = carousel.querySelector('[data-carousel-prev]');
     const next = carousel.querySelector('[data-carousel-next]');
-    if (slides.length < 2) return;
+    if (!img || !credit) return;
+
+    let slides = [];
+    try {
+      slides = JSON.parse(carousel.dataset.slides || '[]');
+    } catch (e) {
+      return;
+    }
+    if (!slides.length) return;
 
     let index = 0;
     let timer = null;
@@ -22,20 +31,28 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const show = (n) => {
       index = (n + slides.length) % slides.length;
-      slides.forEach((s,i) => {
-        s.classList.toggle('active', i === index);
-        s.setAttribute('aria-hidden', i === index ? 'false' : 'true');
-      });
+      const slide = slides[index];
+      img.src = slide.src;
+      img.alt = slide.alt || '';
+      credit.textContent = slide.credit || '';
+      carousel.classList.toggle('is-contain', !!slide.contain);
       dots.forEach((d,i) => {
         d.classList.toggle('active', i === index);
         d.setAttribute('aria-current', i === index ? 'true' : 'false');
       });
     };
 
-    const stop = () => { if (timer) { clearInterval(timer); timer = null; } };
+    const stop = () => {
+      if (timer) {
+        clearInterval(timer);
+        timer = null;
+      }
+    };
     const start = () => {
       stop();
-      if (!reducedMotion) timer = setInterval(() => show(index + 1), 6500);
+      if (!reducedMotion && slides.length > 1) {
+        timer = setInterval(() => show(index + 1), 6500);
+      }
     };
 
     prev?.addEventListener('click', () => { show(index - 1); start(); });
