@@ -1,17 +1,28 @@
 ---
-title: "Bryan Sauvadet"
+title: false
 lang: ko
 format:
   html:
-    include-before-body: _includes/ko-header.html
-    include-after-body: _includes/ko-footer.html
+    include-before-body: ../_includes/ko-header.html
+    include-after-body: ../_includes/ko-footer.html
 ---
-<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>동아시아 불교미술사</h2><p>동아시아 불교의 이미지, 기념물, 의례, 물질문화를 연구합니다.</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
-<section class="section"><div class="tiles">
-<a class="tile" href="/ko/research.html"><h3>연구</h3></a>
-<a class="tile" href="/ko/publications.html"><h3>출판물</h3></a>
-<a class="tile" href="/ko/databases.html"><h3>데이터베이스</h3></a>
-<a class="tile" href="/ko/maps.html"><h3>지도·인포그래픽</h3></a>
-<a class="tile" href="/ko/notebook.html"><h3>연구 노트</h3></a>
-<a class="tile" href="/ko/about.html"><h3>소개</h3></a>
-</div></section>
+<div class="home-shell">
+<section class="hero">
+  <div class="hero-copy">
+    <h1>Bryan Sauvadet</h1>
+    <h2>동아시아 불교미술사</h2>
+    <div class="hero-rule"></div>
+    <p>저의 연구는 중세부터 근세에 이르는 동아시아의 불교미술, 기념물과 실천을 대상으로 하며, 미술사·문헌·물질자료·이미지의 유통을 교차적으로 살펴봅니다.</p>
+    <a class="hero-cta" href="/ko/research.html">더 보기 <span>→</span></a>
+  </div>
+  <div class="hero-media">
+    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="Water-Moon Avalokiteshvara, Koryŏ, 14th century">
+    <div class="image-credit">Water-Moon Avalokiteśvara · Koryŏ, XIVe s. · The Met · Public Domain</div>
+  </div>
+</section>
+<section class="portal-grid"><a class="portal-card" href="/ko/research.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"></div><h3>연구</h3><p>연구 주제, 현재 프로젝트와 주요 연구 영역.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/publications.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/36451/196834/main-image" alt="" loading="lazy"></div><h3>출판물</h3><p>논문, 저서 수록 글, 학술발표와 온라인 텍스트.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/databases.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/52095/148258/main-image" alt="" loading="lazy"></div><h3>데이터베이스</h3><p>기념물, 사찰, 탑, 도상과 사료.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/maps.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"></div><h3>지도·인포그래픽</h3><p>인터랙티브 지도, 연표와 연구 도식.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/notebook.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/676034/1766485/main-image" alt="" loading="lazy"></div><h3>연구 노트</h3><p>노트, 발견, 독서와 진행 중인 연구.</p><span class="arrow">→</span></a><a class="portal-card" href="/ko/about.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50325/152021/main-image" alt="" loading="lazy"></div><h3>소개</h3><p>연구 경력, CV, 소속과 연락처.</p><span class="arrow">→</span></a></section>
+<section class="updates">
+  <div class="updates-head"><h2>최근 업데이트</h2><a href="/ko/notebook.html">모든 업데이트 보기 →</a></div>
+  <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="" loading="lazy"><div><div class="update-type">인포그래픽</div><h3>Samguk Yusa</h3><p>Samguk Yusa의 서사, 인물, 장소와 모티프를 시각적으로 구성합니다.</p><a class="update-link" href="/ko/maps.html">인포그래픽 보기 →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"><div><div class="update-type">인포그래픽</div><h3>사찰과 불탑의 역사</h3><p>기념물, 유형과 역사적 변화를 시각적으로 정리합니다.</p><a class="update-link" href="/ko/maps.html">인포그래픽 보기 →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">데이터베이스</div><h3>불교 기념물 코퍼스</h3><p>기록, 사료, 이미지와 구조화된 데이터를 단계적으로 공개합니다.</p><a class="update-link" href="/ko/databases.html">데이터베이스 보기 →</a></div></article></div>
+</section>
+</div>

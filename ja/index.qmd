@@ -1,17 +1,28 @@
 ---
-title: "Bryan Sauvadet"
+title: false
 lang: ja
 format:
   html:
-    include-before-body: _includes/ja-header.html
-    include-after-body: _includes/ja-footer.html
+    include-before-body: ../_includes/ja-header.html
+    include-after-body: ../_includes/ja-footer.html
 ---
-<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>東アジア仏教美術史</h2><p>東アジア仏教の図像、建築、儀礼、物質文化を研究します。</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
-<section class="section"><div class="tiles">
-<a class="tile" href="/ja/research.html"><h3>研究</h3></a>
-<a class="tile" href="/ja/publications.html"><h3>業績</h3></a>
-<a class="tile" href="/ja/databases.html"><h3>データベース</h3></a>
-<a class="tile" href="/ja/maps.html"><h3>地図・インフォグラフィック</h3></a>
-<a class="tile" href="/ja/notebook.html"><h3>研究ノート</h3></a>
-<a class="tile" href="/ja/about.html"><h3>プロフィール</h3></a>
-</div></section>
+<div class="home-shell">
+<section class="hero">
+  <div class="hero-copy">
+    <h1>Bryan Sauvadet</h1>
+    <h2>東アジア仏教美術史</h2>
+    <div class="hero-rule"></div>
+    <p>私の研究は、中世から近世にかけての東アジアの仏教美術、建築・造形物、実践を対象とし、美術史・文献・物質資料・イメージの流通を横断的に考察します。</p>
+    <a class="hero-cta" href="/ja/research.html">詳しく見る <span>→</span></a>
+  </div>
+  <div class="hero-media">
+    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="Water-Moon Avalokiteshvara, Koryŏ, 14th century">
+    <div class="image-credit">Water-Moon Avalokiteśvara · Koryŏ, XIVe s. · The Met · Public Domain</div>
+  </div>
+</section>
+<section class="portal-grid"><a class="portal-card" href="/ja/research.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"></div><h3>研究</h3><p>研究領域、進行中のプロジェクト、主要テーマ。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/publications.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/36451/196834/main-image" alt="" loading="lazy"></div><h3>業績</h3><p>論文、論集所収論文、学会発表、オンライン資料。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/databases.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/52095/148258/main-image" alt="" loading="lazy"></div><h3>データベース</h3><p>寺院、仏塔、造形、図像、史料。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/maps.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"></div><h3>地図・インフォグラフィック</h3><p>インタラクティブ地図、年表、研究図解。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/notebook.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/676034/1766485/main-image" alt="" loading="lazy"></div><h3>研究ノート</h3><p>ノート、発見、読書、進行中の研究。</p><span class="arrow">→</span></a><a class="portal-card" href="/ja/about.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50325/152021/main-image" alt="" loading="lazy"></div><h3>プロフィール</h3><p>経歴、CV、所属、連絡先。</p><span class="arrow">→</span></a></section>
+<section class="updates">
+  <div class="updates-head"><h2>最新情報</h2><a href="/ja/notebook.html">すべて見る →</a></div>
+  <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="" loading="lazy"><div><div class="update-type">インフォグラフィック</div><h3>Samguk Yusa</h3><p>Samguk Yusaの物語・人物・場所・モチーフを視覚化します。</p><a class="update-link" href="/ja/maps.html">見る →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"><div><div class="update-type">インフォグラフィック</div><h3>寺院と仏塔の歴史</h3><p>モニュメント、類型、歴史的変化を視覚的に整理します。</p><a class="update-link" href="/ja/maps.html">見る →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">データベース</div><h3>仏教モニュメント・コーパス</h3><p>記録、史料、画像、構造化データを段階的に公開します。</p><a class="update-link" href="/ja/databases.html">データベースを見る →</a></div></article></div>
+</section>
+</div>

@@ -1,17 +1,28 @@
 ---
-title: "Bryan Sauvadet"
+title: false
 lang: en
 format:
   html:
-    include-before-body: _includes/en-header.html
-    include-after-body: _includes/en-footer.html
+    include-before-body: ../_includes/en-header.html
+    include-after-body: ../_includes/en-footer.html
 ---
-<section class="hero"><div class="hero-copy"><div class="eyebrow">Bryan Sauvadet</div><h1>Bryan Sauvadet</h1><h2>History of East Asian Buddhist Art</h2><p>Research on Buddhist images, monuments, practices and material cultures in East Asia.</p></div><div class="hero-image">East Asian Buddhist art · research website</div></section>
-<section class="section"><div class="tiles">
-<a class="tile" href="/en/research.html"><h3>Research</h3></a>
-<a class="tile" href="/en/publications.html"><h3>Publications</h3></a>
-<a class="tile" href="/en/databases.html"><h3>Databases</h3></a>
-<a class="tile" href="/en/maps.html"><h3>Maps & visualisations</h3></a>
-<a class="tile" href="/en/notebook.html"><h3>Notebook</h3></a>
-<a class="tile" href="/en/about.html"><h3>About</h3></a>
-</div></section>
+<div class="home-shell">
+<section class="hero">
+  <div class="hero-copy">
+    <h1>Bryan Sauvadet</h1>
+    <h2>History of East Asian Buddhist Art</h2>
+    <div class="hero-rule"></div>
+    <p>My research focuses on Buddhist art, monuments and practices in East Asia, from the medieval to the modern period, combining art history, texts, material sources and the circulation of images.</p>
+    <a class="hero-cta" href="/en/research.html">Learn more <span>→</span></a>
+  </div>
+  <div class="hero-media">
+    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="Water-Moon Avalokiteshvara, Koryŏ, 14th century">
+    <div class="image-credit">Water-Moon Avalokiteśvara · Koryŏ, XIVe s. · The Met · Public Domain</div>
+  </div>
+</section>
+<section class="portal-grid"><a class="portal-card" href="/en/research.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"></div><h3>Research</h3><p>Research fields, current projects and major themes.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/publications.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/36451/196834/main-image" alt="" loading="lazy"></div><h3>Publications</h3><p>Articles, chapters, conference papers and online texts.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/databases.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/52095/148258/main-image" alt="" loading="lazy"></div><h3>Databases</h3><p>Monuments, temples, stūpas, iconography and sources.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/maps.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"></div><h3>Maps & visualisations</h3><p>Interactive maps, chronologies and research diagrams.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/notebook.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/676034/1766485/main-image" alt="" loading="lazy"></div><h3>Research notebook</h3><p>Notes, discoveries, readings and work in progress.</p><span class="arrow">→</span></a><a class="portal-card" href="/en/about.html"><div class="portal-image"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50325/152021/main-image" alt="" loading="lazy"></div><h3>About</h3><p>Profile, CV, affiliations and contact.</p><span class="arrow">→</span></a></section>
+<section class="updates">
+  <div class="updates-head"><h2>Latest updates</h2><a href="/en/notebook.html">View all updates →</a></div>
+  <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="" loading="lazy"><div><div class="update-type">Visualisation</div><h3>Samguk Yusa</h3><p>A visual reading of the narratives, figures, places and motifs of the Samguk Yusa.</p><a class="update-link" href="/en/maps.html">View visualisation →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"><div><div class="update-type">Visualisation</div><h3>History of monasteries and stūpas</h3><p>Visual organisation of monuments, typologies and historical developments.</p><a class="update-link" href="/en/maps.html">View visualisation →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">Database</div><h3>Buddhist monuments corpus</h3><p>Progressive publication of records, sources, images and structured data.</p><a class="update-link" href="/en/databases.html">Explore database →</a></div></article></div>
+</section>
+</div>
