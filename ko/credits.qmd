@@ -9,6 +9,7 @@ format:
 <section class="page-hero"><h1>이미지 출처</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>오대산도 — 둔황, 10세기</h3><p>막고굴 제61굴 벽화, 오대산의 사찰과 수도원을 묘사 · 작자 미상, 10세기 · 퍼블릭 도메인 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Mogao_Cave_61,_painting_of_Mount_Wutai_monasteries.jpg">원본 출처</a></p></div>
 <div class="credit-item"><h3>티엔무 사원과 탑 — 후에, 베트남</h3><p>Photo by CEphoto, Uwe Aranas, 2010 · CC BY-SA 3.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg">원본 출처</a></p></div>
 <div class="credit-item"><h3>경주 석굴암 본존불 정면</h3><p>출처: 문화재청 · 공공누리 제1유형. <a href="https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg">원본 출처</a></p></div>
 <div class="credit-item"><h3>Scene from the Life of the Buddha — Japan, early 15th century</h3><p>The Metropolitan Museum of Art, object 1993.478.4 · Public Domain / Open Access. <a href="https://www.metmuseum.org/art/collection/search/45213">Source originale</a></p></div>
