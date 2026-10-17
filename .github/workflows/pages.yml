@@ -16,6 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Rebuild About image
+        shell: bash
+        run: |
+          cat .github/site-assets/about-bryan.part{1..6} | tr -d '\n\r' | base64 --decode > assets/images/about-bryan-build.jpg
+          echo "e4c7043d96908e7c313815616fad366c81cf8967de0e64af0d6c970bc2150899  assets/images/about-bryan-build.jpg" | sha256sum -c -
+          file assets/images/about-bryan-build.jpg
       - name: Render
         run: quarto render
       - uses: actions/configure-pages@v5
