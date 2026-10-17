@@ -6,6 +6,7 @@ format:
     include-before-body: _includes/vi-header.html
     include-after-body: _includes/vi-footer.html
 ---
+```{=html}
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
@@ -26,3 +27,4 @@ format:
   <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="" loading="lazy"><div><div class="update-type">Đồ họa</div><h3>Samguk Yusa</h3><p>Trình bày trực quan các câu chuyện, nhân vật, địa điểm và mô-típ của Samguk Yusa.</p><a class="update-link" href="/vi/maps.html">Xem đồ họa →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"><div><div class="update-type">Đồ họa</div><h3>Lịch sử tự viện và stūpa</h3><p>Tổ chức trực quan các di tích, loại hình và biến đổi lịch sử.</p><a class="update-link" href="/vi/maps.html">Xem đồ họa →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">Cơ sở dữ liệu</div><h3>Ngữ liệu di tích Phật giáo</h3><p>Công bố từng bước hồ sơ, tư liệu, hình ảnh và dữ liệu có cấu trúc.</p><a class="update-link" href="/vi/databases.html">Khám phá →</a></div></article></div>
 </section>
 </div>
+```

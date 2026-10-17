@@ -6,6 +6,7 @@ format:
     include-before-body: _includes/ja-header.html
     include-after-body: _includes/ja-footer.html
 ---
+```{=html}
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
@@ -26,3 +27,4 @@ format:
   <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="" loading="lazy"><div><div class="update-type">インフォグラフィック</div><h3>Samguk Yusa</h3><p>Samguk Yusaの物語・人物・場所・モチーフを視覚化します。</p><a class="update-link" href="/ja/maps.html">見る →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"><div><div class="update-type">インフォグラフィック</div><h3>寺院と仏塔の歴史</h3><p>モニュメント、類型、歴史的変化を視覚的に整理します。</p><a class="update-link" href="/ja/maps.html">見る →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">データベース</div><h3>仏教モニュメント・コーパス</h3><p>記録、史料、画像、構造化データを段階的に公開します。</p><a class="update-link" href="/ja/databases.html">データベースを見る →</a></div></article></div>
 </section>
 </div>
+```

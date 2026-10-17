@@ -6,6 +6,7 @@ format:
     include-before-body: _includes/en-header.html
     include-after-body: _includes/en-footer.html
 ---
+```{=html}
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
@@ -26,3 +27,4 @@ format:
   <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="" loading="lazy"><div><div class="update-type">Visualisation</div><h3>Samguk Yusa</h3><p>A visual reading of the narratives, figures, places and motifs of the Samguk Yusa.</p><a class="update-link" href="/en/maps.html">View visualisation →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"><div><div class="update-type">Visualisation</div><h3>History of monasteries and stūpas</h3><p>Visual organisation of monuments, typologies and historical developments.</p><a class="update-link" href="/en/maps.html">View visualisation →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">Database</div><h3>Buddhist monuments corpus</h3><p>Progressive publication of records, sources, images and structured data.</p><a class="update-link" href="/en/databases.html">Explore database →</a></div></article></div>
 </section>
 </div>
+```

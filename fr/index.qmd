@@ -6,6 +6,7 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
+```{=html}
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
@@ -26,3 +27,4 @@ format:
   <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/50360/1708490/main-image" alt="" loading="lazy"><div><div class="update-type">Infographie</div><h3>Samguk Yusa</h3><p>Une lecture visuelle des récits, figures, lieux et motifs du Samguk Yusa.</p><a class="update-link" href="/fr/cartes.html">Voir l’infographie →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tongdosa_Temple_01.jpg" alt="" loading="lazy"><div><div class="update-type">Infographie</div><h3>Histoire des monastères et des stūpas</h3><p>Organisation visuelle des monuments, typologies et évolutions historiques.</p><a class="update-link" href="/fr/cartes.html">Voir l’infographie →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">Base de données</div><h3>Corpus de monuments bouddhiques</h3><p>Mise en ligne progressive de fiches, sources, images et données structurées.</p><a class="update-link" href="/fr/bases.html">Explorer la base →</a></div></article></div>
 </section>
 </div>
+```
