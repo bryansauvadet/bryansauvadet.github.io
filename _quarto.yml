@@ -9,7 +9,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: assets/css/site.css?v=20261017-4
+    css: assets/css/site-20261017.css
     include-in-header: assets/includes/head.html
     toc: false
     page-layout: full
