@@ -9,9 +9,9 @@ format:
 <section class="page-hero"><h1>圖片來源</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>五臺山全景圖 — 1846年</h3><p>Lhundrub 雕刻，中國五臺山慈福寺 · 布本木刻印刷、手工設色 · Rubin Museum of Himalayan Art, Gift of Deborah Ashencaen, C2004.29.1 (HAR 65371). 依 Project Himalayan Art 所允許之非商業教育用途使用。 <a href="https://rubinmuseum.org/projecthimalayanart/essays/panoramic-map-of-mount-wutai/">來源</a> · <a href="https://rubinmuseum.org/projecthimalayanart/terms-and-conditions/">使用條款</a></p></div>
 <div class="credit-item"><h3>百濟寺（Hyakusai-ji）— 日本滋賀縣</h3><p>新綠與青苔覆蓋的百濟寺參道 · 攝影：Juniper Breeze · 4travel. <a href="https://4travel.jp/dm_shisetsu_tips/14368842">原始來源</a></p></div>
 <div class="credit-item"><h3>千手千眼觀音 — 北寧筆塔寺</h3><p>寺內原像正面照片 · Khangoii，2023 · CC BY-SA 4.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Quan_%C3%A2m_ch%C3%B9a_B%C3%BAt_Th%C3%A1p_01.jpg">原始來源</a></p></div>
-<div class="credit-item"><h3>五臺山圖 — 敦煌，10世紀</h3><p>莫高窟第61窟壁畫，描繪五臺山寺院與僧院 · 作者不詳，10世紀 · 公共領域 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Mogao_Cave_61,_painting_of_Mount_Wutai_monasteries.jpg">原始來源</a></p></div>
 <div class="credit-item"><h3>天姥寺與佛塔 — 順化，越南</h3><p>Photo by CEphoto, Uwe Aranas, 2010 · CC BY-SA 3.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg">原始來源</a></p></div>
 <div class="credit-item"><h3>石窟庵本尊佛 — 慶州，韓國</h3><p>來源：韓國文化財廳（문화재청）· Korea Open Government License Type 1. <a href="https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg">原始來源</a></p></div>
 <div class="credit-item"><h3>Scene from the Life of the Buddha — Japan, early 15th century</h3><p>The Metropolitan Museum of Art, object 1993.478.4 · Public Domain / Open Access. <a href="https://www.metmuseum.org/art/collection/search/45213">Source originale</a></p></div>
