@@ -9,8 +9,8 @@ format:
 <section class="page-hero"><h1>画像クレジット</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
-<div class="credit-item"><h3>チュア・ラン／チュックラム・イエントゥー禅院、ベトナム</h3><p>Thang Nguyen撮影、2008年 · CC BY-SA 2.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_L%C3%A2n-Thi%E1%BB%81n_vi%E1%BB%87n_Tr%C3%BAc_L%C3%A2m_Y%C3%AAn_T%E1%BB%AD.jpg">原典</a></p></div>
-<div class="credit-item"><h3>石窟庵本尊仏 · 慶州</h3><p>myllissa撮影、2009年 · CC BY 2.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Seokguram-Buddha_statue-05.jpg">原典</a></p></div>
+<div class="credit-item"><h3>ティエンムー寺と塔 — フエ、ベトナム</h3><p>Photo by CEphoto, Uwe Aranas, 2010 · CC BY-SA 3.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg">原典</a></p></div>
+<div class="credit-item"><h3>石窟庵本尊仏 — 慶州、韓国</h3><p>出典：韓国文化財庁（문화재청）· Korea Open Government License Type 1. <a href="https://commons.wikimedia.org/wiki/File:%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg">原典</a></p></div>
 <div class="credit-item"><h3>Scene from the Life of the Buddha — Japan, early 15th century</h3><p>The Metropolitan Museum of Art, object 1993.478.4 · Public Domain / Open Access. <a href="https://www.metmuseum.org/art/collection/search/45213">Source originale</a></p></div>
 <div class="credit-item"><h3>Sŏkkat’ap (Seokgatap), Pulguksa</h3><p>Photographie Bernard Gagnon, 2022 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Seokgatap_Pagoda.jpg">Source originale</a></p></div>
 <div class="credit-item"><h3>Tripiṭaka Koreana, Haeinsa</h3><p>Photographie Bernard Gagnon, 2022 · CC0 1.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Tripitaka_Koreana_02.jpg">Source originale</a></p></div>
