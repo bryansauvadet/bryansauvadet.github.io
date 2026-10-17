@@ -9,6 +9,7 @@ format:
 <section class="page-hero"><h1>画像クレジット</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>個人写真 — Bryan Sauvadet</h3><p>Bryan Sauvadet 提供 · © Bryan Sauvadet.</p></div>
 <div class="credit-item"><h3>五台山全景図 — 1846年</h3><p>Lhundrub 刻、慈福寺、五台山、中国 · 麻布への木版刷り、手彩色 · Rubin Museum of Himalayan Art, Gift of Deborah Ashencaen, C2004.29.1 (HAR 65371). Project Himalayan Art が認める非商用・教育目的で使用。 <a href="https://rubinmuseum.org/projecthimalayanart/essays/panoramic-map-of-mount-wutai/">出典</a> · <a href="https://rubinmuseum.org/projecthimalayanart/terms-and-conditions/">利用条件</a></p></div>
 <div class="credit-item"><h3>百済寺（Hyakusai-ji）— 滋賀県</h3><p>新緑と苔に包まれた百済寺の参道 · 撮影：Juniper Breeze · 4travel. <a href="https://4travel.jp/dm_shisetsu_tips/14368842">原典</a></p></div>
 <div class="credit-item"><h3>千手千眼観音 — バクニン省筆塔寺</h3><p>寺内に安置された像の正面写真 · Khangoii、2023年 · CC BY-SA 4.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Quan_%C3%A2m_ch%C3%B9a_B%C3%BAt_Th%C3%A1p_01.jpg">原典</a></p></div>

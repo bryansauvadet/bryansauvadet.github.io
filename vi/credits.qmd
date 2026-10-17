@@ -9,6 +9,7 @@ format:
 <section class="page-hero"><h1>Nguồn ảnh</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>Ảnh cá nhân — Bryan Sauvadet</h3><p>Ảnh do Bryan Sauvadet cung cấp · © Bryan Sauvadet.</p></div>
 <div class="credit-item"><h3>Bản đồ toàn cảnh núi Wutai — 1846</h3><p>Lhundrub khắc ván, chùa Cifu, núi Wutai, Trung Quốc · tranh khắc gỗ trên vải lanh, tô màu bằng tay · Rubin Museum of Himalayan Art, Gift of Deborah Ashencaen, C2004.29.1 (HAR 65371). Hình ảnh được sử dụng cho mục đích giáo dục phi thương mại theo điều khoản của Project Himalayan Art. <a href="https://rubinmuseum.org/projecthimalayanart/essays/panoramic-map-of-mount-wutai/">Nguồn</a> · <a href="https://rubinmuseum.org/projecthimalayanart/terms-and-conditions/">Điều khoản sử dụng</a></p></div>
 <div class="credit-item"><h3>Hyakusai-ji (百済寺) — Shiga, Nhật Bản</h3><p>Lối đi phủ rêu giữa cây xanh mùa xuân tại Hyakusai-ji · ảnh: Juniper Breeze · 4travel. <a href="https://4travel.jp/dm_shisetsu_tips/14368842">Nguồn gốc</a></p></div>
 <div class="credit-item"><h3>Quan Âm nghìn mắt nghìn tay — chùa Bút Tháp, Bắc Ninh</h3><p>Ảnh chính diện pho tượng nguyên gốc tại chùa · Khangoii, 2023 · CC BY-SA 4.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Quan_%C3%A2m_ch%C3%B9a_B%C3%BAt_Th%C3%A1p_01.jpg">Nguồn gốc</a></p></div>

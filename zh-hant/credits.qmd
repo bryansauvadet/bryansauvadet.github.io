@@ -9,6 +9,7 @@ format:
 <section class="page-hero"><h1>圖片來源</h1></section>
 <div class="content-inner"><p class="lead">Les images utilisées sur ce site proviennent de collections ouvertes. Les licences et sources originales sont indiquées ci-dessous.</p>
 <div class="credit-list">
+<div class="credit-item"><h3>個人照片 — Bryan Sauvadet</h3><p>Bryan Sauvadet 提供 · © Bryan Sauvadet.</p></div>
 <div class="credit-item"><h3>五臺山全景圖 — 1846年</h3><p>Lhundrub 雕刻，中國五臺山慈福寺 · 布本木刻印刷、手工設色 · Rubin Museum of Himalayan Art, Gift of Deborah Ashencaen, C2004.29.1 (HAR 65371). 依 Project Himalayan Art 所允許之非商業教育用途使用。 <a href="https://rubinmuseum.org/projecthimalayanart/essays/panoramic-map-of-mount-wutai/">來源</a> · <a href="https://rubinmuseum.org/projecthimalayanart/terms-and-conditions/">使用條款</a></p></div>
 <div class="credit-item"><h3>百濟寺（Hyakusai-ji）— 日本滋賀縣</h3><p>新綠與青苔覆蓋的百濟寺參道 · 攝影：Juniper Breeze · 4travel. <a href="https://4travel.jp/dm_shisetsu_tips/14368842">原始來源</a></p></div>
 <div class="credit-item"><h3>千手千眼觀音 — 北寧筆塔寺</h3><p>寺內原像正面照片 · Khangoii，2023 · CC BY-SA 4.0 · Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Quan_%C3%A2m_ch%C3%B9a_B%C3%BAt_Th%C3%A1p_01.jpg">原始來源</a></p></div>
