@@ -40,6 +40,7 @@ main.content{max-width:none!important;width:100%!important;margin:0!important;pa
 .hero-copy h2{font-size:25px;line-height:1.25;font-weight:400;margin:0 0 20px;color:#2a2621}
 .hero-rule{width:34px;height:2px;background:var(--accent);margin:0 0 20px}
 .hero-copy p{font-size:17px;line-height:1.55;max-width:590px;margin:0 0 22px;text-align:justify;text-align-last:left}
+.hero-copy > p{text-align:justify!important;text-justify:inter-word!important;text-align-last:left!important;hyphens:auto}
 .hero-cta{display:inline-flex;align-items:center;gap:13px;width:max-content;background:#9a8059;color:#fff;padding:12px 20px;font:10px Arial,sans-serif;letter-spacing:.11em;text-transform:uppercase}
 .hero-cta:hover{background:#7f6847}
 .hero-media{position:relative;overflow:hidden;background:#4b4035;height:440px;min-height:440px}
