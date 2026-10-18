@@ -126,16 +126,16 @@ format:
           <a class="hab-toc-part" href="#japon"><span>VI</span> Japon — Formation d’une architecture bouddhique japonaise</a>
           <ol>
             <li><a href="#vi-1">L’arrivée de l’architecture bouddhique au Japon</a></li>
-            <li><a href="#vi-2">Asuka — Les premiers monastères</a></li>
-            <li><a href="#vi-3">Hōryū-ji et l’architecture bouddhique ancienne</a></li>
-            <li><a href="#vi-4">Nara — Les grands monastères d’État</a></li>
-            <li><a href="#vi-5">Tōdai-ji et le Daibutsuden</a></li>
+            <li><a href="#vi-2">Asuka <span class="hab-han" lang="ja">飛鳥</span> — Les premiers monastères</a></li>
+            <li><a href="#vi-3">Hōryū-ji <span class="hab-han" lang="ja">法隆寺</span> et l’architecture bouddhique ancienne</a></li>
+            <li><a href="#vi-4">Nara <span class="hab-han" lang="ja">奈良</span> — Les grands monastères d’État</a></li>
+            <li><a href="#vi-5">Tōdai-ji <span class="hab-han" lang="ja">東大寺</span> et le Daibutsuden <span class="hab-han" lang="ja">大仏殿</span></a></li>
             <li><a href="#vi-6">De la capitale à la montagne</a></li>
             <li><a href="#vi-7">Architecture ésotérique et espace du mandala</a></li>
-            <li><a href="#vi-8">La Terre pure et le Byōdō-in</a></li>
-            <li><a href="#vi-9">L’architecture Zen</a></li>
+            <li><a href="#vi-8">La Terre pure <span class="hab-han" lang="ja">浄土</span> et le Byōdō-in <span class="hab-han" lang="ja">平等院</span></a></li>
+            <li><a href="#vi-9">L’architecture Zen <span class="hab-han" lang="ja">禅宗</span></a></li>
             <li><a href="#vi-10">Le pavillon japonais et la relation au jardin</a></li>
-            <li><a href="#vi-11">La pagode japonaise : trois étages, cinq étages et tahōtō</a></li>
+            <li><a href="#vi-11">La pagode japonaise : trois étages, cinq étages et tahōtō <span class="hab-han" lang="ja">多宝塔</span></a></li>
             <li><a href="#vi-12">Permanences et spécificités japonaises</a></li>
           </ol>
         </div>
@@ -144,16 +144,16 @@ format:
           <a class="hab-toc-part" href="#vietnam"><span>VII</span> Vietnam — Formation et transformations de l’architecture bouddhique</a>
           <ol>
             <li><a href="#vii-1">Introduction du bouddhisme au Vietnam</a></li>
-            <li><a href="#vii-2">Luy Lâu et les premiers centres bouddhiques</a></li>
-            <li><a href="#vii-3">Les dynasties Lý et Trần</a></li>
-            <li><a href="#vii-4">La pagode au Pilier unique</a></li>
+            <li><a href="#vii-2">Luy Lâu <span class="hab-han" lang="vi">羸𨻻</span> et les premiers centres bouddhiques</a></li>
+            <li><a href="#vii-3">Les dynasties Lý <span class="hab-han" lang="vi">李朝</span> et Trần <span class="hab-han" lang="vi">陳朝</span></a></li>
+            <li><a href="#vii-4">La pagode au Pilier unique — Chùa Một Cột <span class="hab-han" lang="vi">一柱寺</span></a></li>
             <li><a href="#vii-5">Les tours et stoupas vietnamiens</a></li>
             <li><a href="#vii-6">Organisation du monastère vietnamien</a></li>
-            <li><a href="#vii-7">Le principe nội công ngoại quốc</a></li>
+            <li><a href="#vii-7">Le principe nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span></a></li>
             <li><a href="#vii-8">Charpente et structure en bois</a></li>
             <li><a href="#vii-9">La toiture vietnamienne</a></li>
             <li><a href="#vii-10">Architecture et paysage</a></li>
-            <li><a href="#vii-11">Huế et la pagode Thiên Mụ</a></li>
+            <li><a href="#vii-11">Huế et la pagode Thiên Mụ <span class="hab-han" lang="vi">天姥寺</span></a></li>
             <li><a href="#vii-12">Syncrétisme religieux et pluralité des autels</a></li>
           </ol>
         </div>
