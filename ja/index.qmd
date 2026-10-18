@@ -10,8 +10,8 @@ format:
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
-    <p style="text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">私の研究は、東アジアにおける仏教美術、モニュメント、そして仏教実践を対象としています。美術史、文献および物質資料の研究、さらにイメージ・造形・実践の流通と伝承の分析を交差させる学際的なアプローチをとっています。</p>
-    <p style="text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">本サイトでは、現在進行中および過去の研究、フィールドワーク、ならびに調査を通じて収集したデータの一部を紹介しています。また、今後の研究プロジェクトや、研究の一環として構築した複数のデータベースも公開し、参照しやすい形で提供しています。</p>
+    <p style="width: 100%; max-width: none; text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">私の研究は、東アジアにおける仏教美術、モニュメント、そして仏教実践を対象としています。美術史、文献および物質資料の研究、さらにイメージ・造形・実践の流通と伝承の分析を交差させる学際的なアプローチをとっています。</p>
+    <p style="width: 100%; max-width: none; text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">本サイトでは、現在進行中および過去の研究、フィールドワーク、ならびに調査を通じて収集したデータの一部を紹介しています。また、今後の研究プロジェクトや、研究の一環として構築した複数のデータベースも公開し、参照しやすい形で提供しています。</p>
   </div>
   <div class="hero-media">
       <div class="hero-carousel-single" data-hero-carousel data-slides="[{&quot;src&quot;:&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image&quot;,&quot;alt&quot;:&quot;Scene from the Life of the Buddha, Japan, early 15th century&quot;,&quot;credit&quot;:&quot;Scene from the Life of the Buddha · 日本、15世紀初頭 · The Met · パブリックドメイン&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg&quot;,&quot;alt&quot;:&quot;ティエンムー寺と塔、フエ、ベトナム&quot;,&quot;credit&quot;:&quot;ティエンムー寺、フエ、ベトナム · Photo by CEphoto, Uwe Aranas · CC BY-SA 3.0 · Wikimedia Commons&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg&quot;,&quot;alt&quot;:&quot;石窟庵本尊仏、慶州、韓国&quot;,&quot;credit&quot;:&quot;石窟庵本尊仏 · 慶州 · 韓国文化財庁 · KOGL Type 1&quot;,&quot;contain&quot;:false}]" aria-roledescription="carousel">

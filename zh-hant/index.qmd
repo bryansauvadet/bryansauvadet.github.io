@@ -10,8 +10,8 @@ format:
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
-    <p style="text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">我的研究聚焦於東亞的佛教藝術、遺存與佛教實踐，採取跨學科的方法，結合藝術史、文獻與物質資料的研究，以及對圖像、形式與實踐之流通與傳承的分析。</p>
-    <p style="text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">本網站介紹我目前及過去的研究、田野調查，以及在各項研究過程中蒐集的部分資料。我也在此分享未來的研究計畫，以及我在研究工作中建立的數個資料庫，以便於查閱與使用。</p>
+    <p style="width: 100%; max-width: none; text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">我的研究聚焦於東亞的佛教藝術、遺存與佛教實踐，採取跨學科的方法，結合藝術史、文獻與物質資料的研究，以及對圖像、形式與實踐之流通與傳承的分析。</p>
+    <p style="width: 100%; max-width: none; text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">本網站介紹我目前及過去的研究、田野調查，以及在各項研究過程中蒐集的部分資料。我也在此分享未來的研究計畫，以及我在研究工作中建立的數個資料庫，以便於查閱與使用。</p>
   </div>
   <div class="hero-media">
       <div class="hero-carousel-single" data-hero-carousel data-slides="[{&quot;src&quot;:&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image&quot;,&quot;alt&quot;:&quot;Scene from the Life of the Buddha, Japan, early 15th century&quot;,&quot;credit&quot;:&quot;Scene from the Life of the Buddha · 日本，15世紀初 · The Met · 公共領域&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg&quot;,&quot;alt&quot;:&quot;天姥寺與佛塔，順化，越南&quot;,&quot;credit&quot;:&quot;天姥寺，順化，越南 · Photo by CEphoto, Uwe Aranas · CC BY-SA 3.0 · Wikimedia Commons&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg&quot;,&quot;alt&quot;:&quot;石窟庵本尊佛，慶州，韓國&quot;,&quot;credit&quot;:&quot;石窟庵本尊佛 · 慶州，韓國 · 韓國文化財廳 · KOGL Type 1&quot;,&quot;contain&quot;:false}]" aria-roledescription="carousel">
