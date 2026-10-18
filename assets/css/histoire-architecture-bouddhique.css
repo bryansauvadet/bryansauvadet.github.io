@@ -18,8 +18,8 @@
 .hab-hall{position:absolute;right:7%;bottom:13%;width:180px;height:145px}.hab-hall-roof{position:absolute;left:0;top:0;width:180px;height:48px;background:#594434;clip-path:polygon(12% 0,88% 0,100% 46%,82% 38%,82% 58%,18% 58%,18% 38%,0 46%)}.hab-hall-body{position:absolute;left:25px;bottom:0;width:130px;height:96px;background:repeating-linear-gradient(90deg,#8b684a 0 9px,#d7b98f 9px 26px);border-bottom:12px solid #6b503b}
 .hab-route{position:absolute;left:12%;right:8%;bottom:10%;height:2px;background:linear-gradient(90deg,#5b4b3e,#76543a,#594434);opacity:.45}
 .hab-overview{padding:72px 0}.hab-section-head{max-width:760px;margin-bottom:30px}.hab-section-head h2{font-size:42px;font-weight:400;line-height:1.1;margin:0 0 14px}.hab-section-head p{font-size:17px;line-height:1.65;color:var(--hab-muted);margin:0}
-.hab-part-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.hab-part-card{display:flex;flex-direction:column;min-height:220px;padding:26px;border:1px solid var(--hab-line);background:#fff;color:inherit;text-decoration:none;transition:transform .18s ease,box-shadow .18s ease}.hab-part-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(56,43,28,.08);text-decoration:none}.hab-part-num{font:400 42px/1 Georgia,serif;color:#b58b60;margin-bottom:auto}.hab-part-card strong{font-size:20px;line-height:1.25;font-weight:500;margin-bottom:10px}.hab-part-card small{font:10px/1.3 Arial,sans-serif;text-transform:uppercase;letter-spacing:.1em;color:var(--hab-muted)}
-.hab-chapter{padding:74px 0;border-top:1px solid var(--hab-line)}.hab-chapter:nth-of-type(even){background:#f7f3ec}.hab-chapter-head{display:grid;grid-template-columns:96px 1fr;gap:28px;align-items:start}.hab-chapter-head>span{font:400 72px/1 Georgia,serif;color:#b58b60}.hab-chapter-head h2{font-size:44px;font-weight:400;line-height:1.1;margin:0}
+.hab-part-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.hab-part-card{display:flex;flex-direction:column;min-height:220px;padding:26px;border:1px solid var(--hab-line);background:#fff;color:inherit;text-decoration:none;transition:transform .18s ease,box-shadow .18s ease}.hab-part-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(56,43,28,.08);text-decoration:none}.hab-part-num{font:400 42px/1 "Noto Serif",Georgia,serif;color:#b58b60;margin-bottom:auto}.hab-part-card strong{font-size:20px;line-height:1.25;font-weight:500;margin-bottom:10px}.hab-part-card small{font:10px/1.3 Arial,sans-serif;text-transform:uppercase;letter-spacing:.1em;color:var(--hab-muted)}
+.hab-chapter{padding:74px 0;border-top:1px solid var(--hab-line)}.hab-chapter:nth-of-type(even){background:#f7f3ec}.hab-chapter-head{display:grid;grid-template-columns:96px 1fr;gap:28px;align-items:start}.hab-chapter-head>span{font:400 72px/1 "Noto Serif",Georgia,serif;color:#b58b60}.hab-chapter-head h2{font-size:44px;font-weight:400;line-height:1.1;margin:0}
 .hab-slot{margin-top:34px;min-height:180px;border:1px dashed #cfc3b4;background:rgba(255,255,255,.56);display:grid;place-items:center;padding:28px}.hab-slot p{margin:0;color:#8b8177;font-size:14px}
 @media(max-width:900px){.hab-hero-grid{grid-template-columns:1fr}.hab-hero-visual{min-height:430px}.hab-part-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:620px){.hab-shell{width:min(100% - 30px,1180px)}.hab-hero{padding:46px 0}.hab-hero h1{font-size:46px}.hab-hero-visual{min-height:360px}.hab-stats{gap:20px;flex-wrap:wrap}.hab-part-grid{grid-template-columns:1fr}.hab-chapter-head{grid-template-columns:1fr}.hab-chapter-head>span{font-size:48px}.hab-chapter-head h2{font-size:34px}}
@@ -38,7 +38,7 @@
 .hab-vietnam em,
 .hab-vietnam td,
 .hab-vietnam th{
-  font-family:"Segoe UI","Arial Unicode MS",Arial,sans-serif!important;
+  font-family:"Noto Serif",Georgia,"Times New Roman",serif!important;
   font-variant-ligatures:none;
   font-feature-settings:normal;
   font-kerning:normal;
@@ -61,7 +61,7 @@
 .hab-toc-group{background:#fff;border:1px solid var(--hab-line);padding:22px 24px}
 .hab-toc-part{display:flex;gap:12px;align-items:flex-start;color:var(--hab-ink);font-size:17px;line-height:1.35;font-weight:600;text-decoration:none;margin-bottom:14px}
 .hab-toc-part:hover{text-decoration:none;color:#8a633d}
-.hab-toc-part span{flex:0 0 auto;font:400 28px/1 Georgia,serif;color:#b58b60;min-width:34px}
+.hab-toc-part span{flex:0 0 auto;font:400 28px/1 "Noto Serif",Georgia,serif;color:#b58b60;min-width:34px}
 .hab-toc ol{margin:0;padding-left:24px}
 .hab-toc li{padding:4px 0 4px 3px;color:#8d8378}
 .hab-toc li a{font-size:13px;line-height:1.45;color:#5d554c;text-decoration:none}
