@@ -80,3 +80,13 @@
 .hab-backtop{position:fixed;right:18px;bottom:18px;z-index:20}
 .hab-backtop a{display:block;padding:9px 12px;background:rgba(50,43,36,.9);color:#fff;text-decoration:none;font:700 9px/1 Arial,sans-serif;text-transform:uppercase;letter-spacing:.08em}
 @media(max-width:800px){.hab-toc{grid-template-columns:1fr}.hab-chapter h3{font-size:26px;margin-top:56px}.hab-chapter p{font-size:16px;line-height:1.86;margin-bottom:24px;text-align:left}.hab-intro .hab-section-head p{text-align:left;line-height:1.78}}
+
+
+/* Shared Buddhist architecture hero image */
+.hab-hero-visual {
+  min-height: 0 !important;
+  aspect-ratio: 16 / 9;
+  background: url("/assets/images/buddhist-architecture-five-monuments-20261019.avif") center center / cover no-repeat !important;
+}
+.hab-hero-visual > * { display: none !important; }
+/* End shared Buddhist architecture hero image */
