@@ -50,10 +50,7 @@ format:
 
     <div class="maps-project-grid">
       <a class="maps-project-card" href="/fr/cartes/yom-sungik-koryo.html">
-        <div class="maps-project-image">
-          <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site%2C_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" alt="Stoupa à sept étages du site de Namgyewŏn">
-          <div class="maps-project-credit">Stoupa de Namgyewŏn · Bart0278 · CC BY-SA 3.0</div>
-        </div>
+        <div class="maps-project-image"><img src="/assets/img/yom-sungik/yom-sungik-thumbnail.webp" alt="Détail du frontispice du Soutra du Lotus de Namgyewŏn" loading="lazy" decoding="async" style="object-position:center 44%"><div class="maps-project-credit">Soutra du Lotus de Namgyewŏn · détail du frontispice</div></div>
         <div class="maps-project-copy">
           <div class="maps-project-type">Étude thématique · Koryŏ</div>
           <h2>Yŏm Sŭngik et l’art bouddhique au Koryŏ</h2>
