@@ -27,7 +27,7 @@ format:
 
     <section class="stupa-text-section">
       <h2>Phạm vi nghiên cứu</h2>
-      <p>Lớp dữ liệu đầu tiên tập trung vào <strong>bảo tháp đá (석탑, 石塔)</strong> và phân biệt rõ <strong>Silla, Baekje, Goguryeo, Silla Thống nhất, Goryeo và Joseon</strong>. <strong>Tháp mộ các cao tăng (승탑, 僧塔 / 부도, 浮屠)</strong> và <strong>bảo tháp xá lợi (사리탑, 舎利塔)</strong> được tách riêng để tránh trộn lẫn các chức năng kiến trúc khác nhau. Đối với <strong>Goguryeo</strong>, không bổ sung một cách giả tạo các tháp đá không còn tồn tại; các dấu tích chủ yếu liên quan đến tháp gỗ thuộc một nhóm tư liệu khảo cổ riêng.</p>
+      <p>Lớp dữ liệu đầu tiên tập trung vào <strong>bảo tháp đá (석탑, 石塔)</strong> và phân biệt rõ <strong>Silla, Baekje, Goguryeo, Silla Thống nhất, Goryeo và Joseon</strong>. <strong>Tháp mộ các cao tăng (승탑, 僧塔 / 부도, 浮屠)</strong> và <strong>bảo tháp xá lợi (사리탑, 舍利塔)</strong> được tách riêng để tránh trộn lẫn các chức năng kiến trúc khác nhau. Đối với <strong>Goguryeo</strong>, không bổ sung một cách giả tạo các tháp đá không còn tồn tại; các dấu tích chủ yếu liên quan đến tháp gỗ thuộc một nhóm tư liệu khảo cổ riêng.</p>
     </section>
 
     <section class="stupa-text-section">
