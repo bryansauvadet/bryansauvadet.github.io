@@ -1,0 +1,29 @@
+::: {.hab-chapter #india-monastery}
+::: {.hab-shell}
+<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">Ấn Độ · 4 mục</div><h2>Ấn Độ — Sự ra đời của tu viện Phật giáo</h2></div></header>
+
+### 1. Phật giáo trước khi có tu viện {#i-1}
+
+Thuở ban đầu, các tu sĩ Phật giáo không sống trong những tu viện cố định. Việc rời bỏ gia đình, tài sản và những ràng buộc vật chất chính là nền tảng của đời sống xuất gia. Khí hậu miền Bắc Ấn Độ cho phép một lối sống tương đối lưu động: sống bằng khất thực, mặc y may từ vải bỏ đi, nghỉ dưới gốc cây hoặc trong hang và dùng những phương thuốc đơn giản nhất. Đức Phật cùng các đệ tử đầu tiên đi lại giữa rừng, vườn và những nơi trú tự nhiên. Các hang ở Gṛdhrakūṭa gần Rājagṛha gợi lại thời kỳ mà kiến trúc tôn giáo và cảnh quan thiêng chưa tách biệt rõ ràng. Khi số đệ tử tăng lên, cộng đồng cần nơi ổn định để an cư mùa mưa, giảng dạy và duy trì giới luật. Vua chúa và cư sĩ bắt đầu hiến tặng đất, vườn và công trình. Tu viện vì thế ra đời từ một sự căng thẳng có tính sáng tạo: lý tưởng không sở hữu vẫn được tôn trọng, nhưng một môi trường ổn định giúp việc tu tập, truyền dạy và đời sống saṃgha bền vững hơn.
+
+<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+
+### 2. Các tên gọi của tu viện và ý nghĩa {#i-2}
+
+Những từ dùng để chỉ tu viện phản ánh các chức năng khác nhau của nó. Trong tiếng Phạn, ārāma trước hết có nghĩa là “vườn” hay “công viên”, cho thấy các cộng đồng sớm thường sống trong những khu cây xanh do cư sĩ cúng dường gần đô thị. Saṃghārāma kết hợp saṃgha với ārāma, tức “khu vườn của tăng đoàn”, và được phiên sang Đông Á thành già lam 伽藍. Vihāra nhấn mạnh chức năng cư trú, với các tăng phòng tổ chức quanh không gian chung; caitya thiên về nơi tưởng niệm và thờ phụng, thường gắn với stūpa. Ở Trung Quốc, chữ 寺 vốn chỉ cơ quan hành chính dần trở thành từ thông dụng cho chùa Phật giáo; 寺院 nhấn mạnh một khuôn viên được tổ chức và bao bọc. Ở Triều Tiên, từ thông dụng chŏl được dùng trong đời sống thường nhật, còn karam 伽藍 tồn tại trong ngôn ngữ học thuật. Lịch sử từ vựng này cho thấy “tu viện” chưa bao giờ là một loại hình cố định duy nhất: khi Phật giáo chuyển sang môi trường mới, quan hệ giữa cư trú, thờ phụng và tổ chức cộng đồng cũng thay đổi.
+
+<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+
+### 3. Những tu viện lớn đầu tiên ở Ấn Độ {#i-3}
+
+Các tu viện lớn đầu tiên phát triển gần những trung tâm chính trị và đô thị của Bắc Ấn. Tại Rājagṛha, kinh đô Magadha, Trúc Lâm được vua Bimbisāra hiến cho Đức Phật và dần biến từ một khu vườn thành nơi cư trú cộng đồng. Gần đó, Gṛdhrakūṭa vẫn là địa điểm ẩn tu và thuyết pháp, cho thấy tu viện xây dựng và cảnh quan thiêng vẫn hoạt động song song. Ở Śrāvastī, Jetavana đánh dấu một bước phát triển khác: trưởng giả Anāthapiṇḍika mua khu vườn của thái tử Jeta và tổ chức tăng phòng, nơi giảng dạy, thiền định, tắm rửa, ăn uống và chăm sóc người bệnh. Tại Vaiśālī, Đại Lâm và vườn xoài của Ambapālī cũng cho thấy vai trò căn bản của sự cúng dường từ cư sĩ. Tu viện lúc này không còn chỉ là chỗ nghỉ mà trở thành một cơ sở phức hợp cho tu tập, giáo dục, chăm sóc và gặp gỡ với xã hội. Kiến trúc vật chất hóa quá trình Phật giáo chuyển từ một phong trào du hành sang một cộng đồng thể chế có thể tồn tại lâu dài.
+
+<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+
+### 4. Tu viện, đô thị và khất thực {#i-4}
+
+Tu viện Phật giáo cổ ở Ấn Độ không nhất thiết nằm sâu trong núi. Trái lại, chúng thường được đặt ở rìa làng hoặc thành phố để cân bằng giữa yên tĩnh và khả năng đi khất thực. Luật tạng khuyến nghị một vị trí “không quá gần, không quá xa” khu dân cư. Khất thực không chỉ là phương thức kiếm sống mà còn tạo quan hệ tương hỗ giữa tăng đoàn và cư sĩ: người tại gia cung cấp thức ăn, vật dụng; tu sĩ giảng pháp, thực hiện nghi lễ và đưa ra hình mẫu đạo đức. Vì vậy, những tu viện sớm không cần bếp lớn. Khi cộng đồng tăng số lượng và nguồn cúng dường ổn định hơn, bếp và kho mới phát triển. Những cơ sở khổng lồ như Nālandā cho thấy khất thực cá nhân không thể duy trì một cộng đồng ở quy mô ấy. Điều này đặc biệt quan trọng khi nhìn sang Đông Á: chùa núi không phải là mô hình nguyên thủy của Phật giáo mà là kết quả lịch sử của những thay đổi về kinh tế, xã hội, khí hậu và văn hóa.
+
+<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+:::
+:::
