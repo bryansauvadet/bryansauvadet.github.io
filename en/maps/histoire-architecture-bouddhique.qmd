@@ -17,7 +17,7 @@ format:
         <div class="hab-kicker">Visual dossier · India · China · Korea · Japan · Vietnam</div>
         <h1>History of Buddhist Architecture</h1>
         <p class="hab-lead">From the Indian monastery and stupa to the Chinese transformation of the pagoda and the Korean, Japanese, and Vietnamese traditions: a comparative history of Buddhist forms, uses, materials, and sacred landscapes.</p>
-        <p class="hab-note">Parts I–V take the French translation of <em>사찰과 불탑 이야기</em> as their main framework. Parts VI and VII broaden the account to Japan and Vietnam through complementary heritage sources. The final part compares the five regional traditions.</p>
+
         <div class="hab-stats" aria-label="Dossier structure">
           <div><strong>8</strong><span>major parts</span></div>
           <div><strong>69</strong><span>subsections</span></div>
