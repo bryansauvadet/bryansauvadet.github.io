@@ -553,3 +553,37 @@ a,span,p,h1,h2,h3,h4,div{
   .hero-copy{padding-left:12px;padding-right:12px}
   .portal-card{padding-left:10px;padding-right:10px}
 }
+
+
+/* Mobile languages single line 2026-10-18 */
+@media(max-width:600px){
+  .header-tools{
+    width:auto;
+    max-width:none;
+    min-width:0;
+  }
+  .languages{
+    display:flex;
+    flex-wrap:nowrap;
+    justify-content:flex-end;
+    align-items:center;
+    gap:0 3px;
+    width:auto;
+    max-width:none;
+    white-space:nowrap;
+    overflow:visible;
+    font-size:6.4px;
+    letter-spacing:0;
+    line-height:1;
+  }
+  .languages a{
+    flex:0 0 auto;
+    padding:1px 0;
+  }
+}
+@media(max-width:390px){
+  .languages{
+    font-size:5.9px;
+    gap:0 2px;
+  }
+}
