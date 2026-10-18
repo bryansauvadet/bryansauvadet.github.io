@@ -1,6 +1,7 @@
 ---
 title: "廉承益與高麗佛教藝術"
 lang: zh-Hant
+image: /assets/img/yom-sungik/yom-sungik-thumbnail.webp
 format:
   html:
     include-before-body: _includes/zh-hant-header.html
