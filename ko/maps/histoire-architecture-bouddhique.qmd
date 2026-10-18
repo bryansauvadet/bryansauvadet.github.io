@@ -3,8 +3,8 @@ title: "불교 건축의 역사"
 lang: ko
 format:
   html:
-    include-before-body: ../_includes/ko-header.html
-    include-after-body: ../_includes/ko-footer.html
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
 ---
 
 ```{=html}
