@@ -1,6 +1,7 @@
 ---
 title: "염승익(廉承益)과 고려 불교미술"
 lang: ko
+image: /assets/img/yom-sungik/yom-sungik-thumbnail.webp
 format:
   html:
     include-before-body: _includes/ko-header.html
