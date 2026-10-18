@@ -7,7 +7,7 @@ format:
     include-after-body: _includes/fr-footer.html
 ---
 
-\`\`\`{=html}
+```{=html}
 <link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
 
 <main class="hab-page">
@@ -174,7 +174,7 @@ format:
     </div>
   </section>
 </main>
-\`\`\`
+```
 
 {{< include histoire-architecture-bouddhique/part-i.qmd >}}
 
@@ -192,6 +192,6 @@ format:
 
 {{< include histoire-architecture-bouddhique/part-viii.qmd >}}
 
-\`\`\`{=html}
+```{=html}
 <div class="hab-backtop"><a href="#haut">↑ Retour en haut</a></div>
-\`\`\`
+```
