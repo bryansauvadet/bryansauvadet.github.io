@@ -27,6 +27,8 @@ jobs:
           file assets/images/carnet-recherche-build.jpg
       - name: Render
         run: quarto render
+      - name: Ensure global navigation
+        run: python3 scripts/ensure_global_header.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
