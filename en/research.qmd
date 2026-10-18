@@ -6,5 +6,239 @@ format:
     include-before-body: _includes/en-header.html
     include-after-body: _includes/en-footer.html
 ---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/recherche.css">
+
 <section class="page-hero"><h1>Research</h1></section>
-<main class="content"><p class="lead">Research axes, projects and current work.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="research-page">
+
+<section class="research-intro">
+  <div class="research-intro-copy">
+    <div class="research-kicker">History of Buddhist art · East Asia</div>
+    <h2>Images, rituals, power, and circulation</h2>
+    <p>My research examines transformations in Buddhist art over the longue durée, from antiquity to the contemporary period, across China, Korea, Japan, and Vietnam. I study images and monuments not as isolated objects, but through their patrons, ritual uses, movements, and the political, social, and religious contexts in which they acquire meaning.</p>
+    <nav class="research-nav" aria-label="Navigation among research themes">
+      <a href="#axes">Research themes</a>
+      <a href="#queer">Queer &amp; Buddhism</a>
+      <a href="#projets">Current work</a>
+      <a href="#methode">Methods</a>
+      <a href="#ressources">Corpora &amp; data</a>
+    </nav>
+  </div>
+
+  <div class="research-map" aria-label="Diagram of the main concepts used in the research">
+    <div class="research-core"><strong>Image<br>↔ Ritual<br>↔ Power</strong></div>
+    <div class="research-node n1">Patrons</div>
+    <div class="research-node n2">Circulation</div>
+    <div class="research-node n3">Gender</div>
+    <div class="research-node n4">Materiality</div>
+    <div class="research-node n5">Architecture</div>
+    <div class="research-node n6">Identities</div>
+    <div class="research-geography">China · Korea · Japan · Vietnam</div>
+  </div>
+</section>
+
+<section class="research-section" id="axes">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">01—06 · Research themes</div>
+      <h2>A social, material, and transregional history of Buddhism</h2>
+    </div>
+    <p>The different corpora are approached through their inscriptions, materiality, ritual practices, patronage networks, and the circulation of forms among East Asian societies.</p>
+  </div>
+
+  <div class="axes-grid">
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="Water-Moon Avalokiteśvara, Goryeo Buddhist painting" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">THEME 01</div>
+        <h3>Court Buddhist art and the Goryeo–Joseon transition</h3>
+        <p>Artistic continuities beyond dynastic rupture, royal patrons, the role of court women, inscriptions, religious policies, and image production from late Goryeo to early Joseon.</p>
+        <div class="axis-tags"><span>Royal court</span><span>Patrons</span><span>Inscriptions</span></div>
+        <small class="image-credit-line">Water-Moon Avalokiteśvara · Goryeo · The Metropolitan Museum of Art / Wikimedia Commons · public domain.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="Detail of a Sweet Dew painting, gamnodo" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">THEME 02</div>
+        <h3>Images, rituals, and performativity</h3>
+        <p>The Buddhist image is studied as an object activated through ritual practices and dispositifs. Sweet Dew paintings 甘露幀 provide a particularly rich field for analyzing the emergence, function, and performativity of images.</p>
+        <div class="axis-tags"><span>甘露幀</span><span>Rituals</span><span>Performativity</span></div>
+        <small class="image-credit-line">Detail of a gamnodo, replica of an eighteenth-century work · Daderot / Wikimedia Commons · CC0.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-circulation" aria-label="Diagram of circulation between Hangzhou, Dadu, Gaegyeong, and Japan">
+        <span class="route-line l1"></span><span class="route-line l2"></span><span class="route-line l3"></span>
+        <span class="route-dot hz"></span><span class="route-city hz">Hangzhou<br>杭州</span>
+        <span class="route-dot dd"></span><span class="route-city dd">Dadu<br>大都</span>
+        <span class="route-dot kg"></span><span class="route-city kg">Gaegyeong<br>開京</span>
+        <span class="route-dot jp"></span><span class="route-city jp">Japan<br>日本</span>
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">THEME 03</div>
+        <h3>Circulation and artistic transfers</h3>
+        <p>The circulation of artists, models, works, and practices between China, Korea, and Japan: Hangzhou–Dadu–Gaegyeong networks, the reception of Song and Yuan forms, the movement of objects, and the history of their preservation in collections.</p>
+        <div class="axis-tags"><span>Transfers</span><span>Provenance</span><span>Networks</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual axis-stupa">
+        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Dabotap at Bulguksa Monastery, Gyeongju" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">THEME 04</div>
+        <h3>Architecture, monasteries, and stupas</h3>
+        <p>The evolution and persistence of architectural forms, the siting of monasteries, and the history of stupas. The corpora distinguish Silla, Baekje, Goguryeo, Unified Silla, Goryeo, and Joseon, as well as the different functions of monuments.</p>
+        <div class="axis-tags"><span>Stupas</span><span>Monasteries</span><span>Longue durée</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Six_of_the_Ten_Kings_of_Hell_LACMA_AC1998.268.3.1-.6_%283_of_5%29.jpg" alt="Korean painting depicting one of the Ten Kings of Hell" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">THEME 05</div>
+        <h3>Iconography, death, and salvation</h3>
+        <p>Study of the Ten Kings 十王, the Buddhist afterlife, Avalokiteśvara, and processes of local adaptation of iconographic models. This research notably connects Korean and Vietnamese traditions.</p>
+        <div class="axis-tags"><span>十王</span><span>Afterlife</span><span>Korea–Vietnam</span></div>
+        <small class="image-credit-line">Six of the Ten Kings of Hell · Joseon, 1798 · LACMA / Wikimedia Commons · public domain.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Water-Moon Avalokiteśvara, Goryeo painting in the Freer Gallery of Art" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">THEME 06</div>
+        <h3>Sources, materiality, and collecting history</h3>
+        <p>Joint analysis of works, inscriptions, ritual texts, and material data; study of the rediscovery, reattribution, and provenance of Korean works preserved in Korea, Japan, Europe, and the United States.</p>
+        <div class="axis-tags"><span>Materiality</span><span>Museums</span><span>Attributions</span></div>
+        <small class="image-credit-line">Water-Moon Avalokiteśvara · Goryeo, fourteenth century · Freer Gallery of Art / Wikimedia Commons · public domain.</small>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="research-section" id="queer">
+  <div class="queer-feature">
+    <div class="queer-copy">
+      <div class="research-section-kicker">Cross-cutting theme · contemporary period</div>
+      <h2>Queer and contemporary Buddhism</h2>
+      <p class="artist-name">Pak Kurim 박그림 · Grim Park</p>
+      <p>Part of my research examines the relationships between Buddhism, contemporary art, gender, and queer identities in Korea. I am particularly interested in the work of Pak Kurim 박그림, who reworks the techniques and visual structures of Korean Buddhist painting to question identity, gender norms, and binary categories.</p>
+      <p>His <em>Shimhodo</em> 尋虎圖 series reinterprets the images of the ox-herding quest, <em>Simudo</em> 尋牛圖, by replacing the ox with the figure of the tiger. Transforming a traditional religious narrative into a contemporary language makes it possible to examine marginality, subjectivity, and the possibility of a queer iconography within inherited forms at the same time.</p>
+      <div class="queer-sources"><a class="queer-source" href="https://heypop.kr/n/26670/" target="_blank" rel="noopener">Heypop ↗</a><span> · </span><a class="queer-source" href="https://kiaf.org/insights/46599" target="_blank" rel="noopener">Kiaf Seoul ↗</a></div>
+    </div>
+
+    <div class="queer-gallery">
+      <figure class="queer-image portrait">
+        <img src="https://storage.heypop.kr/assets/2022/02/24090810/1-29-473x1024.jpeg" alt="Pak Kurim, Shimhodo – Nakryu, 2019" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_樂流</em>, 2019 · image: Heypop.</figcaption>
+      </figure>
+      <figure class="queer-image diptych">
+        <img src="https://static-edge.kiaf.org/web/2024/11/04133336/%EB%B0%95%EA%B7%B8%EB%A6%BC_%EC%8B%AC%ED%98%B8%EB%8F%84-%EC%9B%94%EA%B4%91%E5%B0%8B%E8%99%8E%E5%9C%96-%E6%9C%88%E5%85%89_%EB%B9%84%EB%8B%A8%EC%97%90-%EB%8B%B4%EC%B1%84_250%C3%97120cm_2022.jpg" alt="Pak Kurim, Shimhodo – Moonlight and Sunlight, 2022" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_月光 · 日光</em>, 2022 · image: Kiaf Seoul.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="projets">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">Current work</div>
+      <h2>Research currently in development</h2>
+    </div>
+    
+  </div>
+
+  <div class="projects-grid">
+    <article class="project-card">
+      <div class="status">Article in preparation</div>
+      <h3>Long Goryeo and stone stupas</h3>
+      <p>Reconsidering dynastic periodization through architectural continuities and the longue durée of monumental forms.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Article in preparation</div>
+      <h3>Iconographic origins of Water-Moon Avalokiteśvara</h3>
+      <p>Connecting scriptural sources, legends, sacred topography, ritual practices, and the construction of the iconography.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Research in progress</div>
+      <h3>Circulation between Hangzhou — Dadu — Gaegyeong</h3>
+      <p>Reconstructing networks of people, objects, and artistic models linking Song and Yuan China with Goryeo.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Research in progress</div>
+      <h3>Sweet Dew 甘露幀</h3>
+      <p>Analyzing the emergence of Sweet Dew paintings through rituals, image use, and their performative dispositifs.</p>
+    </article>
+  </div>
+</section>
+
+<section class="research-section" id="methode">
+  <div class="method-wrap">
+    <div class="method-copy">
+      <div class="research-section-kicker">Methods</div>
+      <h2>Studying the work within its network</h2>
+      <p>My approach combines art history, textual studies, epigraphy, material analysis, social history, fieldwork, and digital tools. The object is not merely described: it is situated within the network of relationships that determine its production, ritual activation, circulation, and reception.</p>
+    </div>
+    <div class="method-diagram" aria-label="Methodological matrix">
+      <div class="method-item">Text</div>
+      <div class="method-item">Inscription</div>
+      <div class="method-item">Patron</div>
+      <div class="method-item">Ritual</div>
+      <div class="method-center">Work</div>
+      <div class="method-item">Place</div>
+      <div class="method-item">Materiality</div>
+      <div class="method-item">Circulation</div>
+      <div class="method-item">Provenance</div>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="ressources">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">Corpora, fieldwork &amp; digital humanities</div>
+      <h2>Explore the research</h2>
+    </div>
+    <p>The site provides access to structured corpora, maps, thematic studies, and ongoing work that progressively document these research themes.</p>
+  </div>
+
+  <div class="resources-strip">
+    <a class="resource-link" href="/en/databases.html">
+      <small>Data</small>
+      <strong>Databases →</strong>
+      <p>Stupas, monuments, iconographies, locations, and structured corpora.</p>
+    </a>
+    <a class="resource-link" href="/en/maps.html">
+      <small>Studies</small>
+      <strong>Thematic studies →</strong>
+      <p>Yŏm Sŭngik, Buddhist architecture, maps, chronologies, and visualizations.</p>
+    </a>
+    <a class="resource-link" href="/en/publications.html">
+      <small>Outputs</small>
+      <strong>Publications →</strong>
+      <p>Articles, book chapters, conference papers, and online texts.</p>
+    </a>
+  </div>
+</section>
+
+</main>
+```
