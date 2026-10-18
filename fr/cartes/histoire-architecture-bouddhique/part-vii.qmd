@@ -1,5 +1,5 @@
 
-::: {.hab-chapter #vietnam}
+::: {.hab-chapter .hab-vietnam #vietnam}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>VII</span>
