@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Yuji+Syuku&display=swap');
 :root{
   --ink:#181512;--muted:#6f675e;--paper:#f4f0e8;--paper-2:#faf8f3;
   --card:#fff;--line:#ddd5c8;--accent:#8c6c40;--accent-dark:#6d5230
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0!important;color:var(--ink);background:#fff;font-family:Georgia,"Times New Roman",serif}
+body{margin:0!important;color:var(--ink);background:#fff;font-family:"Noto Serif",Georgia,"Times New Roman",serif}
 a{color:inherit;text-decoration:none}
 #quarto-content,.page-columns,.page-full{display:block!important;margin:0!important;padding:0!important}
 main.content{max-width:none!important;width:100%!important;margin:0!important;padding:0!important}
@@ -21,7 +21,7 @@ main.content{max-width:none!important;width:100%!important;margin:0!important;pa
 .brand-ko{display:inline-block!important;font-family:"GungsuhChe","Gungsuh","궁서체","궁서",serif!important;font-size:13.5px!important;line-height:1.2}
 .brand-zh{display:inline-block!important;font-family:"KaiTi","STKaiti","Kaiti TC","DFKai-SB",serif!important;font-size:14px!important;line-height:1.2}
 .brand-ja{display:inline-block!important;font-family:"Yuji Syuku","Yu Mincho","Hiragino Mincho ProN",serif!important;font-size:13.5px!important;line-height:1.2}
-.brand-sep{display:inline-block!important;font:10px/1 Georgia,"Times New Roman",serif;color:#91877b}
+.brand-sep{display:inline-block!important;font:10px/1 "Noto Serif",Georgia,"Times New Roman",serif;color:#91877b}
 .brand-sub{font:9.5px/1.35 Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:#6b645c;margin-top:7px;white-space:nowrap}
 .nav{display:flex;justify-content:center;align-items:center;gap:20px;align-self:end;padding-bottom:11px;font:12px Arial,sans-serif;white-space:nowrap;flex-wrap:nowrap}
 .nav a{padding:0 0 8px;border-bottom:1px solid transparent}
@@ -127,7 +127,7 @@ html[lang="vi"] .image-credit,
 html[lang="vi"] .page-hero,
 html[lang="vi"] .page-hero h1,
 html[lang="vi"] .content-inner{
-  font-family:"Segoe UI","Arial Unicode MS",Arial,sans-serif !important;
+  font-family:"Noto Serif",Georgia,"Times New Roman",serif !important;
   font-variant-ligatures:none;
   font-feature-settings:normal;
   font-kerning:normal;
@@ -639,7 +639,7 @@ a,span,p,h1,h2,h3,h4,div{
 .stupa-map{width:100%;height:570px;border:1px solid var(--line);background:#e8e4dd;z-index:1}
 .stupa-map .leaflet-popup-content-wrapper,.stupa-map .leaflet-popup-tip{border-radius:0}
 .stupa-map .leaflet-popup-content{font:12px/1.45 Arial,sans-serif;min-width:215px}
-.stupa-popup strong{display:block;font:15px/1.35 Georgia,"Times New Roman",serif;font-weight:400;margin-bottom:6px}
+.stupa-popup strong{display:block;font:15px/1.35 "Noto Serif",Georgia,"Times New Roman",serif;font-weight:400;margin-bottom:6px}
 .stupa-popup a{display:inline-block;margin-top:7px;color:var(--accent-dark);text-decoration:underline;text-underline-offset:2px}
 .stupa-data-error,.stupa-loading{padding:28px;border:1px solid var(--line);background:var(--paper-2);font-size:14px;color:#645d55}
 .stupa-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
@@ -719,7 +719,7 @@ html.site-intro-skip .site-intro{display:none!important}
   opacity:0;transform:translateY(8px);
   animation:intro-label-in .62s ease forwards;animation-delay:1.42s;
 }
-.site-intro-place span{display:block;font:20px/1.05 Georgia,"Times New Roman",serif;letter-spacing:.02em}
+.site-intro-place span{display:block;font:20px/1.05 "Noto Serif",Georgia,"Times New Roman",serif;letter-spacing:.02em}
 .site-intro-place small{display:block;margin-top:5px;font:9px/1.2 Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase}
 .site-intro-title{
   position:relative;z-index:5;text-align:center;color:#fff;padding:18px 24px;
@@ -727,7 +727,7 @@ html.site-intro-skip .site-intro{display:none!important}
   text-shadow:0 2px 18px rgba(0,0,0,.58);
   animation:intro-title-in .82s ease forwards;animation-delay:2.08s;
 }
-.site-intro-name{font:43px/1.05 Georgia,"Times New Roman",serif;letter-spacing:.015em}
+.site-intro-name{font:43px/1.05 "Noto Serif",Georgia,"Times New Roman",serif;letter-spacing:.015em}
 .site-intro-subtitle{margin-top:10px;font:10px/1.4 Arial,sans-serif;letter-spacing:.15em;text-transform:uppercase}
 @keyframes intro-failsafe-hide{to{visibility:hidden;pointer-events:none}}
 @keyframes intro-panel-in{
