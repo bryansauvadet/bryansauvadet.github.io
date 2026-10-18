@@ -53,15 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="Thủy Nguyệt Quán Âm, tranh Phật giáo thời Cao Ly" loading="lazy">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg" alt="Thủy Nguyệt Quán Âm, tranh Phật giáo thời Cao Ly" loading="lazy" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">TRỤC 01</div>
         <h3>Nghệ thuật Phật giáo cung đình và chuyển tiếp Cao Ly–Triều Tiên</h3>
         <p>Nghiên cứu tính liên tục nghệ thuật vượt qua đứt gãy triều đại, sự bảo trợ hoàng gia, vai trò của phụ nữ cung đình, minh văn, chính sách tôn giáo và việc tạo tác hình tượng từ cuối Cao Ly đến đầu Triều Tiên.</p>
         <div class="axis-tags"><span>Cung đình</span><span>Bảo trợ</span><span>Minh văn</span></div>
-        <small class="image-credit-line">Thủy Nguyệt Quán Âm · Cao Ly · The Metropolitan Museum of Art / Wikimedia Commons · phạm vi công cộng.</small>
-      </div>
+</div>
     </article>
 
     <article class="axis-card">
