@@ -1,4 +1,4 @@
-/* Yŏm Sŭngik dossier — page-scoped styles */
+/* Yŏm Sŭngik — page-scoped styles */
 .yom-page{
   --yom-ink:#1d1915;
   --yom-muted:#6d655b;
@@ -213,4 +213,39 @@
   .yom-text-panel dd{margin-bottom:9px}
   .yom-inscription{padding:24px 20px}
   .yom-inscription .hanja{font-size:18px}
+}
+
+
+/* inserted research maps */
+.yom-map-insert{
+  max-width:1180px;
+  margin:36px auto 44px;
+}
+.yom-map-insert img{
+  display:block;
+  width:100%;
+  height:auto;
+  border:1px solid var(--yom-line);
+  background:var(--yom-paper);
+  box-shadow:0 10px 28px rgba(50,40,28,.08);
+}
+.yom-map-insert figcaption{
+  padding:12px 3px 0;
+  font:11px/1.55 Arial,sans-serif;
+  color:var(--yom-muted);
+}
+.yom-map-insert figcaption strong{
+  color:var(--yom-ink);
+  font-weight:600;
+}
+.yom-map-chunked:not(.is-loaded){
+  min-height:360px;
+  background:linear-gradient(100deg,var(--yom-paper) 30%,var(--yom-paper-2) 50%,var(--yom-paper) 70%);
+}
+.yom-map-insert.has-error .yom-map-chunked{
+  min-height:120px;
+}
+@media(max-width:680px){
+  .yom-map-insert{margin:25px auto 32px}
+  .yom-map-chunked:not(.is-loaded){min-height:220px}
 }
