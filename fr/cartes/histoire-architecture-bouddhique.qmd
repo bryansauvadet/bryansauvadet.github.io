@@ -140,7 +140,7 @@ format:
           </ol>
         </div>
 
-        <div class="hab-toc-group">
+        <div class="hab-toc-group hab-vietnam">
           <a class="hab-toc-part" href="#vietnam"><span>VII</span> Vietnam — Formation et transformations de l’architecture bouddhique</a>
           <ol>
             <li><a href="#vii-1">Introduction du bouddhisme au Vietnam</a></li>
