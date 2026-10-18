@@ -8,8 +8,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const forceIntro = new URLSearchParams(window.location.search).get('intro') === '1';
     let alreadySeen = false;
-    try { alreadySeen = !!sessionStorage.getItem('bs-site-intro-v2'); } catch (e) {}
+    try { alreadySeen = !forceIntro && !!sessionStorage.getItem('bs-site-intro-v2'); } catch (e) {}
     if (reducedMotion || alreadySeen) {
       document.documentElement.classList.remove('site-intro-pending');
       return;
