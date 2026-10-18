@@ -38,7 +38,7 @@
 .yom-hero h1 .yom-hanja{display:block;font-size:.58em;margin-top:12px;color:#e7d9bf;letter-spacing:.05em}
 .yom-hero-lead{font-size:20px!important;line-height:1.55!important;max-width:590px;color:#f3eee6}
 .yom-hero-note{font:12px/1.55 Arial,sans-serif;color:#d8d0c5;max-width:570px;border-left:2px solid #b99a69;padding-left:14px;margin-top:10px}
-.yom-hero-media{position:relative;min-height:640px}
+.yom-hero-media{position:relative;min-height:427px}
 .yom-hero-media img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.62) contrast(1.05) brightness(.73)}
 .yom-hero-media:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--yom-indigo) 0%,rgba(36,51,68,.18) 28%,rgba(36,51,68,.05) 100%)}
 .yom-hero-caption{position:absolute;right:18px;bottom:18px;z-index:2;max-width:72%;padding:7px 9px;background:rgba(17,20,25,.62);font:10px/1.4 Arial,sans-serif;color:#fff;text-align:right}
@@ -116,7 +116,7 @@
 /* media */
 .yom-media-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:28px;align-items:stretch;margin:36px 0}
 .yom-figure{margin:0;background:#16181b;border:1px solid #2c2f33;position:relative;overflow:hidden}
-.yom-figure img{display:block;width:100%;height:100%;min-height:360px;object-fit:cover}
+.yom-figure img{display:block;width:100%;height:100%;min-height:240px;object-fit:cover}
 .yom-figure.contain{background:#ebe7df}
 .yom-figure.contain img{object-fit:contain;padding:18px}
 .yom-figure figcaption{position:absolute;left:0;right:0;bottom:0;padding:10px 12px;background:linear-gradient(transparent,rgba(0,0,0,.78));color:#fff;font:10px/1.45 Arial,sans-serif;padding-top:34px}
@@ -143,7 +143,7 @@
 /* object triad */
 .yom-objects{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin:34px 0}
 .yom-object{border:1px solid var(--yom-line);background:#fff;display:flex;flex-direction:column}
-.yom-object img{width:100%;height:290px;object-fit:cover;background:#eee}
+.yom-object img{width:100%;height:193px;object-fit:cover;background:#eee}
 .yom-object.tall img{object-fit:contain;background:#121212}
 .yom-object-body{padding:20px;flex:1}
 .yom-object-year{font:700 11px Arial,sans-serif;color:var(--yom-gold-dark);letter-spacing:.1em}
@@ -179,7 +179,7 @@
   .yom-hero-grid{grid-template-columns:1fr}
   .yom-hero,.yom-hero-grid{min-height:0}
   .yom-hero-copy{padding:58px 0 40px}
-  .yom-hero-media{min-height:430px}
+  .yom-hero-media{min-height:287px}
   .yom-hero-media:after{background:linear-gradient(180deg,var(--yom-indigo) 0%,rgba(36,51,68,.06) 22%)}
   .yom-intro-grid,.yom-media-grid,.yom-cutaway,.yom-sources-grid{grid-template-columns:1fr}
   .yom-mission{grid-template-columns:1fr 1fr}
@@ -195,7 +195,7 @@
   .yom-section h2{font-size:32px}
   .yom-hero h1{font-size:44px}
   .yom-hero-lead{font-size:17px!important}
-  .yom-hero-media{min-height:330px}
+  .yom-hero-media{min-height:220px}
   .yom-hero-caption{max-width:92%;font-size:9px}
   .yom-profile-facts{grid-template-columns:1fr}
   .yom-distinction,.yom-objects,.yom-legacy{grid-template-columns:1fr}
@@ -207,7 +207,7 @@
   .yom-timeline:before{left:52px}
   .yom-event-year{left:-86px;width:42px;font-size:12px}
   .yom-event:before{left:-39px}
-  .yom-figure img{min-height:280px}
+  .yom-figure img{min-height:187px}
   .yom-text-panel{padding:22px}
   .yom-text-panel dl{grid-template-columns:1fr;gap:4px}
   .yom-text-panel dd{margin-bottom:9px}
@@ -218,7 +218,7 @@
 
 /* inserted research maps */
 .yom-map-insert{
-  max-width:960px;
+  max-width:640px;
   margin:36px auto 44px;
 }
 .yom-map-insert img{
@@ -253,7 +253,7 @@
 
 /* Compact display for the supplied replacement map */
 .yom-map-insert--compact{
-  max-width:880px;
+  max-width:587px;
 }
 @media(max-width:920px){
   .yom-map-insert--compact{
