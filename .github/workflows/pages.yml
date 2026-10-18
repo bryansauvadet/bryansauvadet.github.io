@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
-      - name: Rebuild About image
+      - name: Rebuild site images
         shell: bash
         run: |
           cat .github/site-assets/about-bryan.part{1..6} | tr -d '\n\r' | base64 --decode > assets/images/about-bryan-build.jpg
@@ -25,6 +25,9 @@ jobs:
           cat .github/site-assets/carnet-recherche-exact.{00..02} | tr -d '\n\r' | base64 --decode > assets/images/carnet-recherche-build.jpg
           echo "d0867964b943d9bec7be1eec61e2030b1e80a34e63f52df1fa8b4790db571fc4  assets/images/carnet-recherche-build.jpg" | sha256sum -c -
           file assets/images/carnet-recherche-build.jpg
+          cat .github/site-assets/buddhist-architecture-five-monuments.part{01..05} | tr -d '\n\r' | base64 --decode > assets/images/buddhist-architecture-five-monuments.jpg
+          echo "96525a80fca92bbcee63eedc3eb4fc7d1f6a55f74add97ac2690d989fbbb800b  assets/images/buddhist-architecture-five-monuments.jpg" | sha256sum -c -
+          file assets/images/buddhist-architecture-five-monuments.jpg
       - name: Render
         run: quarto render
       - name: Ensure global navigation
