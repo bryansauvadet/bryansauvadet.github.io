@@ -5,10 +5,13 @@
 (function(){
   try{
     var home=/^\/(fr|en|ko|ja|zh-hant|vi)\/(?:index\.html)?$/;
-    if(!home.test(location.pathname)) return;
+    var match=location.pathname.match(home);
+    if(!match) return;
+    var lang=match[1];
+    var key='bs-site-intro-v4-'+lang;
     var force=new URLSearchParams(location.search).get('intro')==='1';
     var reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    var seen=sessionStorage.getItem('bs-site-intro-v3');
+    var seen=sessionStorage.getItem(key);
     if(!force&&(reduced||seen)) document.documentElement.classList.add('site-intro-skip');
   }catch(e){}
 })();
