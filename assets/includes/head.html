@@ -2,3 +2,15 @@
 <meta name="theme-color" content="#f4f0e8">
 <meta name="color-scheme" content="light">
 <script defer src="/assets/js/site.js"></script>
+
+<script>
+(function(){
+  try{
+    var home=/^\/(fr|en|ko|ja|zh-hant|vi)\/(?:index\.html)?$/;
+    var reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if(home.test(location.pathname)&&!reduced&&!sessionStorage.getItem('bs-site-intro-v2')){
+      document.documentElement.classList.add('site-intro-pending');
+    }
+  }catch(e){}
+})();
+</script>
