@@ -46,7 +46,7 @@ format:
 
 <main class="content">
   <div class="maps-index">
-    <p class="maps-index-lead">Des dossiers thématiques consacrés à des figures, monuments et questions de l’art bouddhique en Asie de l’Est, réunissant analyses, sources, cartes, chronologies et visualisations issues de mes recherches.</p>
+    <p class="maps-index-lead">Des études thématiques consacrées à des figures, monuments et problématiques de l’art bouddhique en Asie de l’Est, réunissant analyses, sources, chronologies, cartes et visualisations issues de mes recherches.</p>
 
     <div class="maps-project-grid">
       <a class="maps-project-card" href="/fr/cartes/yom-sungik-koryo.html">
