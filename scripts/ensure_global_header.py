@@ -14,7 +14,7 @@ HEADERS = {
     "vi": ROOT / "_includes" / "vi-header.html",
 }
 
-BODY_RE = re.compile(r"(<body\\b[^>]*>)", re.IGNORECASE)
+BODY_RE = re.compile(r"(<body\b[^>]*>)", re.IGNORECASE)
 
 def main() -> None:
     if not SITE.exists():
