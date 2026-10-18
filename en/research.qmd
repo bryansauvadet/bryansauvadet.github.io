@@ -53,13 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://www.museum.go.kr/relic_image/PS01001001/duk000/2019/0925174542564/duk003324-000-90000.jpg" alt="Water-Moon Avalokiteśvara, Goryeo Buddhist painting" loading="eager" fetchpriority="high" style="object-position:center 34%;" referrerpolicy="no-referrer">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-3" alt="Bhaisajyaguru Buddha Triad, Joseon royal-court Buddhist painting, 1565" loading="eager" fetchpriority="high" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">THEME 01</div>
         <h3>Court Buddhist art and the Goryeo–Joseon transition</h3>
         <p>Artistic continuities beyond dynastic rupture, royal patrons, the role of court women, inscriptions, religious policies, and image production from late Goryeo to early Joseon.</p>
         <div class="axis-tags"><span>Royal court</span><span>Patrons</span><span>Inscriptions</span></div>
+        <small class="image-credit-line">Bhaisajyaguru Buddha Triad · Joseon, 1565 · National Museum of Korea · KOGL Type 1 (attribution).</small>
 </div>
     </article>
 
