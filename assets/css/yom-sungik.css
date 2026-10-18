@@ -249,3 +249,14 @@
   .yom-map-insert{margin:25px auto 32px}
   .yom-map-chunked:not(.is-loaded){min-height:220px}
 }
+
+
+/* Compact display for the supplied replacement map */
+.yom-map-insert--compact{
+  max-width:880px;
+}
+@media(max-width:920px){
+  .yom-map-insert--compact{
+    max-width:100%;
+  }
+}

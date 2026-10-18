@@ -86,7 +86,7 @@ format:
         <p>Filtrez les événements pour isoler les différentes dimensions de la trajectoire de Yŏm Sŭngik.</p>
       </div>
 
-      <figure class="yom-map-insert">
+      <figure class="yom-map-insert yom-map-insert--compact">
         <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="Carte des parcours religieux et administratifs de Yŏm Sŭngik à Kaegyŏng entre 1277 et 1283." loading="lazy">
         <figcaption><strong>Parcours religieux et administratifs de Yŏm Sŭngik, 1277–1283.</strong> La carte réunit les grands déplacements qui structurent la première partie de sa carrière : Ch’ŏnhyo, Hyŏnhwa, le scriptorium royal et la tournée de restauration de 1283.</figcaption>
       </figure>
