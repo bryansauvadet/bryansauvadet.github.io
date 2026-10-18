@@ -3,10 +3,14 @@ title: "Recherche"
 lang: fr
 format:
   html:
-    css: /assets/css/recherche.css
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/recherche.css">
+```
+
 <section class="page-hero"><div class="eyebrow">Bryan Sauvadet</div><h1>Recherche</h1></section>
 
 <main class="research-page">
