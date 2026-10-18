@@ -53,13 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://www.museum.go.kr/relic_image/PS01001001/duk000/2019/0925174542564/duk003324-000-90000.jpg" alt="고려 불화 수월관음도" loading="eager" fetchpriority="high" style="object-position:center 34%;" referrerpolicy="no-referrer">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-3" alt="회암사명 약사여래삼존도, 조선 왕실 발원 불화, 1565년" loading="eager" fetchpriority="high" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">연구축 01</div>
         <h3>궁정 불교미술과 고려–조선 전환기</h3>
         <p>왕조 교체를 넘어 지속된 예술적 연속성, 왕실 후원자, 궁중 여성의 역할, 명문, 종교 정책, 그리고 고려 말에서 조선 초에 이르는 이미지 제작을 연구한다.</p>
         <div class="axis-tags"><span>왕실</span><span>후원자</span><span>명문</span></div>
+        <small class="image-credit-line">회암사명 약사여래삼존도 · 조선, 1565 · 국립중앙박물관 · 공공누리 제1유형(출처표시).</small>
 </div>
     </article>
 
