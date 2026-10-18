@@ -7,121 +7,191 @@ format:
     include-after-body: _includes/fr-footer.html
 ---
 
-```{=html}
+\`\`\`{=html}
 <link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
 
 <main class="hab-page">
   <section class="hab-hero" id="haut">
     <div class="hab-shell hab-hero-grid">
       <div class="hab-hero-copy">
-        <div class="hab-kicker">Dossier visuel · Inde · Chine · Corée</div>
+        <div class="hab-kicker">Dossier visuel · Inde · Chine · Corée · Japon · Vietnam</div>
         <h1>Histoire de l’architecture bouddhique</h1>
-        <p class="hab-lead">Du monastère itinérant au complexe monastique, du stoupa indien à la pagode d’Asie orientale, puis au pavillon du Bouddha : une histoire visuelle des formes, des usages et des transformations de l’architecture bouddhique.</p>
-        <p class="hab-note">Le dossier est construit à partir de la traduction française de <em>사찰과 불탑 이야기</em>. Chaque sous-partie recevra une illustration originale synthétisant les informations architecturales, rituelles et historiques du texte.</p>
+        <p class="hab-lead">Du monastère indien au stoupa, de la transformation chinoise de la pagode aux développements coréens, japonais et vietnamiens : une histoire comparée des formes, des usages, des matériaux et des paysages du bouddhisme asiatique.</p>
+        <p class="hab-note">Les parties I à V prennent comme colonne vertébrale la traduction française de <em>사찰과 불탑 이야기</em>. Les parties VI et VII élargissent cette histoire au Japon et au Vietnam à partir de sources patrimoniales complémentaires. La dernière partie met les cinq traditions en comparaison.</p>
         <div class="hab-stats" aria-label="Structure du dossier">
-          <div><strong>4</strong><span>grandes parties</span></div>
-          <div><strong>31</strong><span>sous-parties</span></div>
-          <div><strong>3</strong><span>aires majeures</span></div>
+          <div><strong>8</strong><span>grandes parties</span></div>
+          <div><strong>69</strong><span>sous-parties</span></div>
+          <div><strong>5</strong><span>traditions régionales</span></div>
         </div>
       </div>
       <div class="hab-hero-visual" aria-hidden="true">
         <div class="hab-cosmos"></div>
-        <div class="hab-stupa">
-          <span class="hab-stupa-finial"></span>
-          <span class="hab-stupa-dome"></span>
-          <span class="hab-stupa-base"></span>
-        </div>
-        <div class="hab-pagoda">
-          <span></span><span></span><span></span><span></span>
-        </div>
-        <div class="hab-hall">
-          <span class="hab-hall-roof"></span>
-          <span class="hab-hall-body"></span>
-        </div>
+        <div class="hab-stupa"><span class="hab-stupa-finial"></span><span class="hab-stupa-dome"></span><span class="hab-stupa-base"></span></div>
+        <div class="hab-pagoda"><span></span><span></span><span></span><span></span></div>
+        <div class="hab-hall"><span class="hab-hall-roof"></span><span class="hab-hall-body"></span></div>
         <div class="hab-route"></div>
       </div>
     </div>
   </section>
 
-  <section class="hab-overview">
+  <section class="hab-intro" id="introduction">
     <div class="hab-shell">
       <div class="hab-section-head">
-        <div class="hab-kicker">Structure</div>
-        <h2>Quatre transformations majeures</h2>
-        <p>Le parcours suit la logique du texte : naissance du monastère, constitution du stoupa, union des deux institutions puis développement du pavillon bouddhique en Asie orientale.</p>
+        <div class="hab-kicker">Introduction</div>
+        <h2>Lire l’architecture bouddhique dans le temps et dans l’espace</h2>
+        <p>Une religion circule plus facilement qu’un bâtiment. Textes, reliques, images et rites peuvent voyager sur des milliers de kilomètres ; l’architecture doit, elle, être reconstruite avec les matériaux, les techniques, le climat et les traditions de chaque région. Cette page suit donc moins la diffusion d’un « style » unique que les traductions successives d’un même ensemble de fonctions : habiter en communauté, conserver des reliques, rendre le Bouddha présent, enseigner, accomplir des rites et organiser le déplacement des fidèles.</p>
+        <p>Le parcours commence en Inde avec la naissance du monastère et du stoupa, suit leur rencontre puis la transformation du stoupa en pagode en Chine, avant d’étudier les développements propres à la Corée, au Japon et au Vietnam. Chaque sous-partie est conçue comme un module autonome destiné à recevoir une illustration complète.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="hab-toc-section" id="sommaire">
+    <div class="hab-shell">
+      <div class="hab-section-head">
+        <div class="hab-kicker">Navigation</div>
+        <h2>Table des matières interactive</h2>
+        <p>Cliquez sur n’importe quelle sous-partie pour accéder directement au passage correspondant.</p>
       </div>
 
-      <nav class="hab-part-grid" aria-label="Parties du dossier">
-        <a href="#monastere" class="hab-part-card">
-          <span class="hab-part-num">I</span>
-          <strong>Qu’est-ce qu’un monastère bouddhique ?</strong>
-          <small>4 sous-parties</small>
-        </a>
-        <a href="#stoupa" class="hab-part-card">
-          <span class="hab-part-num">II</span>
-          <strong>Qu’est-ce qu’un stoupa ?</strong>
-          <small>7 sous-parties</small>
-        </a>
-        <a href="#union" class="hab-part-card">
-          <span class="hab-part-num">III</span>
-          <strong>Union du monastère et du stoupa</strong>
-          <small>12 sous-parties</small>
-        </a>
-        <a href="#pavillon" class="hab-part-card">
-          <span class="hab-part-num">IV</span>
-          <strong>Qu’est-ce qu’un pavillon ?</strong>
-          <small>8 sous-parties</small>
-        </a>
+      <nav class="hab-toc" aria-label="Table des matières">
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#inde-monastere"><span>I</span> Inde — Naissance du monastère bouddhique</a>
+          <ol>
+            <li><a href="#i-1">Le bouddhisme avant l’existence des monastères</a></li>
+            <li><a href="#i-2">Les différentes appellations du monastère</a></li>
+            <li><a href="#i-3">Les premiers grands monastères de l’Inde</a></li>
+            <li><a href="#i-4">Monastères, villes et quête d’aumônes</a></li>
+          </ol>
+        </div>
+
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#inde-stoupa"><span>II</span> Inde — Naissance et développement du stoupa</a>
+          <ol>
+            <li><a href="#ii-1">Qu’est-ce qu’un stoupa ?</a></li>
+            <li><a href="#ii-2">Les premiers stoupas à l’époque du Bouddha</a></li>
+            <li><a href="#ii-3">Le parinirvāṇa et le partage des reliques</a></li>
+            <li><a href="#ii-4">Qui construit les stoupas et où ?</a></li>
+            <li><a href="#ii-5">Sāñcī et Bhārhut : le stoupa devient monument narratif</a></li>
+            <li><a href="#ii-6">Circumambulation et cosmologie</a></li>
+            <li><a href="#ii-7">Du stoupa du Bouddha au stoupa du maître</a></li>
+          </ol>
+        </div>
+
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#inde-chine-pagode"><span>III</span> De l’Inde à la Chine — Le stoupa devient pagode</a>
+          <ol>
+            <li><a href="#iii-1">L’intégration du stoupa au monastère indien</a></li>
+            <li><a href="#iii-2">Caitya et vihāra : deux fonctions complémentaires</a></li>
+            <li><a href="#iii-3">La transmission du bouddhisme vers la Chine</a></li>
+            <li><a href="#iii-4">La rencontre avec l’architecture chinoise</a></li>
+            <li><a href="#iii-5">Du stoupa indien à la pagode chinoise</a></li>
+            <li><a href="#iii-6">Le pavillon-stoupa : reliques, images et circulation</a></li>
+            <li><a href="#iii-7">Du bois à la brique : la pagode chinoise change de fonction</a></li>
+          </ol>
+        </div>
+
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#chine-coree-monastere"><span>IV</span> Chine et Corée — Transformation du monastère d’Asie orientale</a>
+          <ol>
+            <li><a href="#iv-1">Du pavillon-stoupa au monastère centré sur le pavillon du Bouddha</a></li>
+            <li><a href="#iv-2">T’apdori et sundang : du stoupa à l’image</a></li>
+            <li><a href="#iv-3">Chine, Corée, Japon : trois choix de matériaux</a></li>
+            <li><a href="#iv-4">La naissance du stoupa de pierre coréen</a></li>
+            <li><a href="#iv-5">Le modèle classique du Silla unifié</a></li>
+            <li><a href="#iv-6">Le stoupa comme microcosme bouddhique</a></li>
+            <li><a href="#iv-7">Diversification des stoupas coréens</a></li>
+            <li><a href="#iv-8">Le pudo et le sŭngt’ap</a></li>
+            <li><a href="#iv-9">Réduction du stoupa et agrandissement du pavillon</a></li>
+            <li><a href="#iv-10">Le monastère conçu comme un palais sacré</a></li>
+            <li><a href="#iv-11">Les portes du monastère coréen</a></li>
+            <li><a href="#iv-12">Le monastère de montagne coréen</a></li>
+          </ol>
+        </div>
+
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#chine-coree-pavillon"><span>V</span> Chine et Corée — Le pavillon bouddhique et l’architecture en bois</a>
+          <ol>
+            <li><a href="#v-1">Hiérarchie des bâtiments monastiques</a></li>
+            <li><a href="#v-2">Structure du hanok et construction en bois</a></li>
+            <li><a href="#v-3">Le bouddhisme et la conservation de l’architecture du Koryŏ</a></li>
+            <li><a href="#v-4">Koryŏ et Chosŏn : chusimp’o et tap’o</a></li>
+            <li><a href="#v-5">Les formes de toiture</a></li>
+            <li><a href="#v-6">Portes, fenêtres et treillis floraux</a></li>
+            <li><a href="#v-7">Du sol de brique au plancher de bois</a></li>
+            <li><a href="#v-8">Les pavillons des Bouddhas et bodhisattvas</a></li>
+          </ol>
+        </div>
+
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#japon"><span>VI</span> Japon — Formation d’une architecture bouddhique japonaise</a>
+          <ol>
+            <li><a href="#vi-1">L’arrivée de l’architecture bouddhique au Japon</a></li>
+            <li><a href="#vi-2">Asuka — Les premiers monastères</a></li>
+            <li><a href="#vi-3">Hōryū-ji et l’architecture bouddhique ancienne</a></li>
+            <li><a href="#vi-4">Nara — Les grands monastères d’État</a></li>
+            <li><a href="#vi-5">Tōdai-ji et le Daibutsuden</a></li>
+            <li><a href="#vi-6">De la capitale à la montagne</a></li>
+            <li><a href="#vi-7">Architecture ésotérique et espace du mandala</a></li>
+            <li><a href="#vi-8">La Terre pure et le Byōdō-in</a></li>
+            <li><a href="#vi-9">L’architecture Zen</a></li>
+            <li><a href="#vi-10">Le pavillon japonais et la relation au jardin</a></li>
+            <li><a href="#vi-11">La pagode japonaise : trois étages, cinq étages et tahōtō</a></li>
+            <li><a href="#vi-12">Permanences et spécificités japonaises</a></li>
+          </ol>
+        </div>
+
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#vietnam"><span>VII</span> Vietnam — Formation et transformations de l’architecture bouddhique</a>
+          <ol>
+            <li><a href="#vii-1">Introduction du bouddhisme au Vietnam</a></li>
+            <li><a href="#vii-2">Luy Lâu et les premiers centres bouddhiques</a></li>
+            <li><a href="#vii-3">Les dynasties Lý et Trần</a></li>
+            <li><a href="#vii-4">La pagode au Pilier unique</a></li>
+            <li><a href="#vii-5">Les tours et stoupas vietnamiens</a></li>
+            <li><a href="#vii-6">Organisation du monastère vietnamien</a></li>
+            <li><a href="#vii-7">Le principe nội công ngoại quốc</a></li>
+            <li><a href="#vii-8">Charpente et structure en bois</a></li>
+            <li><a href="#vii-9">La toiture vietnamienne</a></li>
+            <li><a href="#vii-10">Architecture et paysage</a></li>
+            <li><a href="#vii-11">Huế et la pagode Thiên Mụ</a></li>
+            <li><a href="#vii-12">Syncrétisme religieux et pluralité des autels</a></li>
+          </ol>
+        </div>
+
+        <div class="hab-toc-group">
+          <a class="hab-toc-part" href="#synthese"><span>VIII</span> Synthèse — Cinq traditions, une même architecture bouddhique ?</a>
+          <ol>
+            <li><a href="#viii-1">Du stoupa à la pagode</a></li>
+            <li><a href="#viii-2">De la relique à l’image : déplacement du centre monastique</a></li>
+            <li><a href="#viii-3">Les matériaux façonnent les traditions régionales</a></li>
+            <li><a href="#viii-4">Comparer les plans monastiques</a></li>
+            <li><a href="#viii-5">Architecture et pouvoir</a></li>
+            <li><a href="#viii-6">Architecture et paysage</a></li>
+            <li><a href="#viii-7">Cinq façons de monumentaliser la présence du Bouddha</a></li>
+          </ol>
+        </div>
       </nav>
     </div>
   </section>
-
-  <section class="hab-chapter" id="monastere">
-    <div class="hab-shell">
-      <header class="hab-chapter-head">
-        <span>I</span>
-        <div><div class="hab-kicker">4 sous-parties</div><h2>Qu’est-ce qu’un monastère bouddhique ?</h2></div>
-      </header>
-      <div class="hab-slot" data-chapter="I">
-        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="hab-chapter" id="stoupa">
-    <div class="hab-shell">
-      <header class="hab-chapter-head">
-        <span>II</span>
-        <div><div class="hab-kicker">7 sous-parties</div><h2>Qu’est-ce qu’un stoupa ?</h2></div>
-      </header>
-      <div class="hab-slot" data-chapter="II">
-        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="hab-chapter" id="union">
-    <div class="hab-shell">
-      <header class="hab-chapter-head">
-        <span>III</span>
-        <div><div class="hab-kicker">12 sous-parties</div><h2>Union du monastère et du stoupa</h2></div>
-      </header>
-      <div class="hab-slot" data-chapter="III">
-        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="hab-chapter" id="pavillon">
-    <div class="hab-shell">
-      <header class="hab-chapter-head">
-        <span>IV</span>
-        <div><div class="hab-kicker">8 sous-parties</div><h2>Qu’est-ce qu’un pavillon ?</h2></div>
-      </header>
-      <div class="hab-slot" data-chapter="IV">
-        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
-      </div>
-    </div>
-  </section>
 </main>
-```
+\`\`\`
+
+{{< include histoire-architecture-bouddhique/part-i.qmd >}}
+
+{{< include histoire-architecture-bouddhique/part-ii.qmd >}}
+
+{{< include histoire-architecture-bouddhique/part-iii.qmd >}}
+
+{{< include histoire-architecture-bouddhique/part-iv.qmd >}}
+
+{{< include histoire-architecture-bouddhique/part-v.qmd >}}
+
+{{< include histoire-architecture-bouddhique/part-vi.qmd >}}
+
+{{< include histoire-architecture-bouddhique/part-vii.qmd >}}
+
+{{< include histoire-architecture-bouddhique/part-viii.qmd >}}
+
+\`\`\`{=html}
+<div class="hab-backtop"><a href="#haut">↑ Retour en haut</a></div>
+\`\`\`
