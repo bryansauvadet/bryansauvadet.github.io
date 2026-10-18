@@ -25,6 +25,32 @@
 @media(max-width:620px){.hab-shell{width:min(100% - 30px,1180px)}.hab-hero{padding:46px 0}.hab-hero h1{font-size:46px}.hab-hero-visual{min-height:360px}.hab-stats{gap:20px;flex-wrap:wrap}.hab-part-grid{grid-template-columns:1fr}.hab-chapter-head{grid-template-columns:1fr}.hab-chapter-head>span{font-size:48px}.hab-chapter-head h2{font-size:34px}}
 
 
+
+/* Vietnamese text on this French-language dossier:
+   force a Windows/Chrome-safe Latin stack for stacked tone marks. */
+.hab-vietnam,
+.hab-vietnam h2,
+.hab-vietnam h3,
+.hab-vietnam p,
+.hab-vietnam a,
+.hab-vietnam li,
+.hab-vietnam strong,
+.hab-vietnam em,
+.hab-vietnam td,
+.hab-vietnam th{
+  font-family:"Segoe UI","Arial Unicode MS",Arial,sans-serif!important;
+  font-variant-ligatures:none;
+  font-feature-settings:normal;
+  font-kerning:normal;
+  text-rendering:auto;
+  font-synthesis:none;
+}
+.hab-vietnam .hab-han{
+  font-family:"Noto Serif TC","Noto Serif CJK TC","PMingLiU","Songti TC","Times New Roman",serif!important;
+  font-variant-ligatures:normal;
+  white-space:nowrap;
+}
+
 /* Long-form dossier */
 .hab-intro,.hab-toc-section{padding:72px 0;border-bottom:1px solid var(--hab-line)}
 .hab-intro{background:#fff}
