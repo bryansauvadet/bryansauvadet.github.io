@@ -53,13 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://www.museum.go.kr/relic_image/PS01001001/duk000/2019/0925174542564/duk003324-000-90000.jpg" alt="Avalokiteśvara à la lune d’eau, peinture bouddhique du Koryŏ" loading="eager" fetchpriority="high" style="object-position:center 34%;" referrerpolicy="no-referrer">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-3" alt="Triptyque du Bouddha de Médecine, peinture bouddhique de cour du Chosŏn, 1565" loading="eager" fetchpriority="high" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">AXE 01</div>
         <h3>Art bouddhique de cour et transition Koryŏ–Chosŏn</h3>
         <p>Continuités artistiques au-delà de la rupture dynastique, commanditaires royaux, rôle des femmes de cour, inscriptions, politiques religieuses et production des images entre la fin du Koryŏ et les débuts du Chosŏn.</p>
         <div class="axis-tags"><span>Cour royale</span><span>Commanditaires</span><span>Inscriptions</span></div>
+        <small class="image-credit-line">« Triptyque du Bouddha de Médecine » (약사여래삼존도) · Chosŏn, 1565 · Musée national de Corée · KOGL Type 1 (attribution).</small>
 </div>
     </article>
 
