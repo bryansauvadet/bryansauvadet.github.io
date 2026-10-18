@@ -16,7 +16,7 @@ format:
 
 <section class="research-intro">
   <div class="research-intro-copy">
-    <div class="research-kicker">Histoire de l’art bouddhique · Asie de l’Est</div>
+    <div class="research-kicker">Histoire de l’art bouddhique · Asie Orientale</div>
     <h2>Images, rituels, pouvoirs et circulations</h2>
     <p>Mes recherches portent sur les transformations de l’art bouddhique sur le temps long, de l’Antiquité à la période contemporaine, aussi bien de la Chine au Japon en passant par la Corée et le Viêt Nam. J’étudie les images et les monuments non comme des objets isolés, mais à travers leurs commanditaires, leurs usages rituels, leurs déplacements et les contextes politiques, sociaux et religieux dans lesquels ils acquièrent leur sens.</p>
     <nav class="research-nav" aria-label="Navigation dans les axes de recherche">
@@ -46,7 +46,7 @@ format:
       <div class="research-section-kicker">01—06 · Axes de recherche</div>
       <h2>Une histoire sociale, matérielle et transrégionale du bouddhisme</h2>
     </div>
-    <p>Les différents corpus sont abordés à partir de leurs inscriptions, de leur matérialité, des pratiques rituelles, des réseaux de commanditaires et des circulations des formes entre les sociétés d’Asie de l’Est.</p>
+    <p>Les différents corpus sont abordés à partir de leurs inscriptions, de leur matérialité, des pratiques rituelles, des réseaux de commanditaires et des circulations des formes entre les sociétés d’Asie Orientale.</p>
   </div>
 
   <div class="axes-grid">
