@@ -7,6 +7,15 @@ format:
     include-after-body: _includes/zh-hant-footer.html
 ---
 ```{=html}
+<div class="site-intro" aria-hidden="true">
+  <div class="site-intro-panels">
+    <div class="site-intro-panel site-intro-cn"><div class="site-intro-place"><span>中國</span><small>五臺山</small></div></div>
+    <div class="site-intro-panel site-intro-ko"><div class="site-intro-place"><span>한국</span><small>석굴암</small></div></div>
+    <div class="site-intro-panel site-intro-ja"><div class="site-intro-place"><span>日本</span><small>仏教美術</small></div></div>
+    <div class="site-intro-panel site-intro-vi"><div class="site-intro-place"><span>Việt Nam</span><small>Thiên Mụ</small></div></div>
+  </div>
+  <div class="site-intro-title"><div class="site-intro-name">Bryan Sauvadet</div><div class="site-intro-subtitle">東亞佛教藝術史</div></div>
+</div>
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
