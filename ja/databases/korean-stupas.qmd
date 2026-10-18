@@ -6,5 +6,64 @@ format:
     include-before-body: _includes/ja-header.html
     include-after-body: _includes/ja-footer.html
 ---
-<section class="page-hero database-subhero"><div class="eyebrow"><a href="/ja/databases.html">データベース</a></div><h1>韓国の仏塔</h1></section>
-<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州・仏国寺の多宝塔"><figcaption>多宝塔 · 仏国寺 · 慶州</figcaption></figure><p class="lead">このサブページでは、韓国の仏塔に関するデータベースを構築します。</p><div class="database-empty-state"><h2>韓国の仏塔</h2><p>データベースは現在構築中です。</p></div></div></main>
+```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script defer src="/assets/js/korean-stupas.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/ja/databases.html">データベース</a></div>
+  <h1>韓国の仏塔</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail korean-stupas-page">
+    <figure class="database-detail-visual">
+      <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州・仏国寺の多宝塔">
+      <figcaption>多宝塔 · 仏国寺 · 慶州</figcaption>
+    </figure>
+
+    <div class="stupa-objective"><strong>目的：</strong>朝鮮前期の仏塔建築にみられる建築的保守性を示すこと。</div>
+
+    <section class="stupa-text-section">
+      <h2>研究範囲</h2>
+      <p>資料の第一層は<strong>石塔（석탑）</strong>を中心とし、<strong>新羅・百済・高句麗・統一新羅・高麗・朝鮮</strong>を明確に区別する。建築的機能の異なる遺構を混同しないため、<strong>僧塔・浮屠（승탑 / 부도）</strong>と<strong>舎利塔（사리탑）</strong>は別カテゴリーとして扱う。<strong>高句麗</strong>については、現存しない石塔をこの層に便宜的に加えず、主として木塔に関わる遺構を別個の考古学的資料群として扱う。</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>構成</h2>
+      <p>本目録は<strong>王朝・年代・類型・層数・所在地・文化遺産指定</strong>によって絞り込めるデータベースとして設計している。基本表示は古いものから新しいものへの年代順で、各項目には位置情報と、画像利用条件が許す場合には写真サムネイルを付す。</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>主要参考資料</h2>
+      <ul class="stupa-source-list">
+        <li><a href="https://www.heritage.go.kr/" target="_blank" rel="noopener">국가유산포털 ↗</a></li>
+        <li><a href="https://portal.nrich.go.kr/" target="_blank" rel="noopener">국립문화유산연구원 ↗</a></li>
+      </ul>
+      <p class="stupa-method"><strong>方法：</strong>正確な年が確実に確認できない場合は、便宜的な年を設定せず、時期または世紀単位の年代をそのまま示す。</p>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-map-title">
+      <div class="stupa-section-head">
+        <div><div class="stupa-section-kicker">韓国仏塔目録</div><h2 id="stupa-map-title">インタラクティブ地図</h2></div>
+        <div class="stupa-count" id="korean-stupas-count">56 仏塔</div>
+      </div>
+
+      <div class="stupa-filters" aria-label="韓国仏塔目録">
+        <label><span>検索</span><input id="stupa-search" type="search" placeholder="遺構・場所・年代…"></label>
+        <label><span>時代</span><select id="stupa-realm"><option value="">すべての時代</option></select></label>
+        <label><span>類型</span><select id="stupa-type"><option value="">すべての類型</option></select></label>
+        <button id="stupa-reset" type="button">リセット</button>
+      </div>
+
+      <div id="korean-stupas-map" class="stupa-map" aria-label="インタラクティブ地図"></div>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-gallery-title">
+      <div class="stupa-section-head"><div><div class="stupa-section-kicker">韓国仏塔目録</div><h2 id="stupa-gallery-title">年代順ギャラリー</h2></div></div>
+      <div id="korean-stupas-gallery" class="stupa-gallery"><div class="stupa-loading">目録を読み込み中…</div></div>
+    </section>
+  </div>
+</main>
+```
