@@ -71,10 +71,10 @@ format:
 
       <a class="maps-project-card" href="/fr/cartes/histoire-architecture-bouddhique.html">
         <div class="maps-project-image maps-history-cover">
-          <div class="maps-project-credit">Dossier visuel · architecture bouddhique</div>
+          <div class="maps-project-credit">Présentation visuelle · architecture bouddhique</div>
         </div>
         <div class="maps-project-copy">
-          <div class="maps-project-type">Dossier visuel · Inde · Chine · Corée</div>
+          <div class="maps-project-type">Présentation visuelle · Inde · Chine · Corée</div>
           <h2>Histoire de l’architecture bouddhique</h2>
           <div class="maps-project-hanja">寺院 · 佛塔 · 殿</div>
           <p>Un parcours en 31 sous-parties : naissance du monastère, développement du stoupa, union des deux institutions et transformation du pavillon bouddhique en Asie orientale.</p>
@@ -84,7 +84,7 @@ format:
             <span>rituels</span>
             <span>Inde → Asie orientale</span>
           </div>
-          <span class="maps-project-link">Ouvrir le dossier →</span>
+          <span class="maps-project-link">Ouvrir la page →</span>
         </div>
       </a>
     </div>
