@@ -6,5 +6,64 @@ format:
     include-before-body: _includes/ko-header.html
     include-after-body: _includes/ko-footer.html
 ---
-<section class="page-hero database-subhero"><div class="eyebrow"><a href="/ko/databases.html">데이터베이스</a></div><h1>한국 불탑</h1></section>
-<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="경주 불국사 다보탑"><figcaption>다보탑 · 불국사 · 경주</figcaption></figure><p class="lead">이 하위 페이지에는 한국 불탑 데이터베이스가 구축될 예정입니다.</p><div class="database-empty-state"><h2>한국 불탑</h2><p>데이터베이스 구축 중.</p></div></div></main>
+```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script defer src="/assets/js/korean-stupas.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/ko/databases.html">데이터베이스</a></div>
+  <h1>한국 불탑</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail korean-stupas-page">
+    <figure class="database-detail-visual">
+      <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="경주 불국사 다보탑">
+      <figcaption>다보탑 · 불국사 · 경주</figcaption>
+    </figure>
+
+    <div class="stupa-objective"><strong>목적:</strong> 조선 전기 불탑 건축에서 나타나는 건축적 보수성을 보여주는 것.</div>
+
+    <section class="stupa-text-section">
+      <h2>연구 범위</h2>
+      <p>자료의 첫 번째 층위는 <strong>석탑</strong>을 중심으로 하며 <strong>신라, 백제, 고구려, 통일신라, 고려, 조선</strong>을 명확히 구분한다. 기능이 다른 건축 유형을 혼동하지 않기 위해 <strong>승탑·부도</strong>와 <strong>사리탑</strong>은 별도의 범주로 유지한다. <strong>고구려</strong>의 경우 현존 석탑을 인위적으로 이 층위에 추가하지 않으며, 주로 목탑과 관련된 유구는 별도의 고고학적 자료군으로 다룬다.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>구성</h2>
+      <p>이 목록은 <strong>시대</strong>, <strong>연대</strong>, <strong>유형</strong>, <strong>층수</strong>, <strong>소재지</strong>, <strong>문화유산 지정 현황</strong>으로 필터링할 수 있도록 구성했다. 기본 배열은 오래된 사례에서 최근 사례로 이어지는 연대순이며, 각 항목은 위치 정보와 이미지 이용 조건이 허용되는 경우 사진 썸네일을 함께 제공한다.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>주요 참고 자료</h2>
+      <ul class="stupa-source-list">
+        <li><a href="https://www.heritage.go.kr/" target="_blank" rel="noopener">국가유산포털 ↗</a></li>
+        <li><a href="https://portal.nrich.go.kr/" target="_blank" rel="noopener">국립문화유산연구원 ↗</a></li>
+      </ul>
+      <p class="stupa-method"><strong>방법:</strong> 정확한 연도가 확실히 입증되지 않은 경우 임의의 연도를 부여하지 않고 시대 또는 세기 단위의 연대를 유지한다.</p>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-map-title">
+      <div class="stupa-section-head">
+        <div><div class="stupa-section-kicker">한국 불탑 목록</div><h2 id="stupa-map-title">인터랙티브 지도</h2></div>
+        <div class="stupa-count" id="korean-stupas-count">56 불탑</div>
+      </div>
+
+      <div class="stupa-filters" aria-label="한국 불탑 목록">
+        <label><span>검색</span><input id="stupa-search" type="search" placeholder="유적, 장소, 연대…"></label>
+        <label><span>시대</span><select id="stupa-realm"><option value="">전체 시대</option></select></label>
+        <label><span>유형</span><select id="stupa-type"><option value="">전체 유형</option></select></label>
+        <button id="stupa-reset" type="button">초기화</button>
+      </div>
+
+      <div id="korean-stupas-map" class="stupa-map" aria-label="인터랙티브 지도"></div>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-gallery-title">
+      <div class="stupa-section-head"><div><div class="stupa-section-kicker">한국 불탑 목록</div><h2 id="stupa-gallery-title">연대순 갤러리</h2></div></div>
+      <div id="korean-stupas-gallery" class="stupa-gallery"><div class="stupa-loading">목록을 불러오는 중…</div></div>
+    </section>
+  </div>
+</main>
+```
