@@ -1,71 +1,33 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // Brief four-culture opening sequence on the first homepage visit of each session.
+  // Static opening sequence: markup is embedded directly in each localized homepage.
   (() => {
-    const home = /^\/(fr|en|ko|ja|zh-hant|vi)\/(?:index\.html)?$/;
-    if (!home.test(window.location.pathname)) {
-      document.documentElement.classList.remove('site-intro-pending');
-      return;
-    }
+    const intro = document.querySelector('.site-intro');
+    if (!intro) return;
 
-    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     const forceIntro = new URLSearchParams(window.location.search).get('intro') === '1';
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     let alreadySeen = false;
-    try { alreadySeen = !forceIntro && !!sessionStorage.getItem('bs-site-intro-v2'); } catch (e) {}
-    if (reducedMotion || alreadySeen) {
-      document.documentElement.classList.remove('site-intro-pending');
+    try { alreadySeen = !forceIntro && !!sessionStorage.getItem('bs-site-intro-v3'); } catch (e) {}
+
+    if (!forceIntro && (reducedMotion || alreadySeen)) {
+      intro.remove();
+      document.documentElement.classList.remove('site-intro-skip');
       return;
     }
 
-    try { sessionStorage.setItem('bs-site-intro-v2', '1'); } catch (e) {}
-
-    const lang = (document.documentElement.lang || 'fr').toLowerCase();
-    const subtitles = {
-      fr: "Histoire de l’art bouddhique d’Asie de l’Est",
-      en: "History of East Asian Buddhist Art",
-      ko: "동아시아 불교미술사",
-      ja: "東アジア仏教美術史",
-      "zh-hant": "東亞佛教藝術史",
-      vi: "Lịch sử nghệ thuật Phật giáo Đông Á"
-    };
-    const key = lang.startsWith('zh') ? 'zh-hant' : lang.split('-')[0];
-
-    const intro = document.createElement('div');
-    intro.className = 'site-intro';
-    intro.setAttribute('aria-hidden', 'true');
-    intro.innerHTML = `
-      <div class="site-intro-panels">
-        <div class="site-intro-panel site-intro-cn">
-          <div class="site-intro-place"><span>中國</span><small>五臺山</small></div>
-        </div>
-        <div class="site-intro-panel site-intro-ko">
-          <div class="site-intro-place"><span>한국</span><small>석굴암</small></div>
-        </div>
-        <div class="site-intro-panel site-intro-ja">
-          <div class="site-intro-place"><span>日本</span><small>仏教美術</small></div>
-        </div>
-        <div class="site-intro-panel site-intro-vi">
-          <div class="site-intro-place"><span>Việt Nam</span><small>Thiên Mụ</small></div>
-        </div>
-      </div>
-      <div class="site-intro-title">
-        <div class="site-intro-name">Bryan Sauvadet</div>
-        <div class="site-intro-subtitle">${subtitles[key] || subtitles.fr}</div>
-      </div>
-    `;
-    document.documentElement.appendChild(intro);
+    document.documentElement.classList.remove('site-intro-skip');
+    try { if (!forceIntro) sessionStorage.setItem('bs-site-intro-v3', '1'); } catch (e) {}
 
     let finished = false;
     const finish = () => {
       if (finished) return;
       finished = true;
-      document.documentElement.classList.remove('site-intro-pending');
       intro.classList.add('is-exiting');
       window.setTimeout(() => intro.remove(), 620);
     };
 
     requestAnimationFrame(() => intro.classList.add('is-active'));
-    window.setTimeout(() => document.documentElement.classList.remove('site-intro-pending'), 2250);
-    window.setTimeout(finish, 2450);
+    window.setTimeout(finish, 3000);
     intro.addEventListener('click', finish, {once:true});
     window.addEventListener('keydown', e => { if (e.key === 'Escape') finish(); }, {once:true});
   })();
