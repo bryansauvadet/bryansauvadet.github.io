@@ -6,6 +6,7 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
+```{=html}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script defer src="/assets/js/korean-stupas.js"></script>
@@ -90,3 +91,4 @@ format:
     </section>
   </div>
 </main>
+```
