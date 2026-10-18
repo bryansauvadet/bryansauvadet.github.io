@@ -53,13 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://www.museum.go.kr/relic_image/PS01001001/duk000/2019/0925174542564/duk003324-000-90000.jpg" alt="高麗仏画の水月観音" loading="eager" fetchpriority="high" style="object-position:center 34%;" referrerpolicy="no-referrer">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-3" alt="薬師如来三尊図、朝鮮王室発願の仏画、1565年" loading="eager" fetchpriority="high" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">研究軸 01</div>
         <h3>宮廷仏教美術と高麗–朝鮮移行期</h3>
         <p>王朝交替を越える芸術的連続性、王室の発願者、宮廷女性の役割、銘文、宗教政策、そして高麗末から朝鮮初期にかけての造像・制作を研究する。</p>
         <div class="axis-tags"><span>王室</span><span>発願者</span><span>銘文</span></div>
+        <small class="image-credit-line">薬師如来三尊図 · 朝鮮, 1565年 · 韓国国立中央博物館 · KOGL 第1類型（出典表示）.</small>
 </div>
     </article>
 
