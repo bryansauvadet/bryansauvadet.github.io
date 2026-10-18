@@ -30,12 +30,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     vi:{'Silla':'Silla','Paekche':'Baekje','Grand Silla':'Silla Thống nhất','Koryŏ':'Goryeo','Transition Koryŏ–Chosŏn':'Giai đoạn chuyển tiếp Goryeo–Joseon','Chosŏn':'Joseon'}
   };
   const typeMaps = {
-    fr:{'석탑 — stoupa de pierre':'석탑 (石塔) — stoupa de pierre','승탑/부도 — stoupa funéraire':'승탑 (僧塔) / 부도 (浮屠) — stoupa funéraire','사리탑 — stoupa-reliquaire':'사리탑 (舎利塔) — stoupa-reliquaire'},
-    en:{'석탑 — stoupa de pierre':'석탑 (石塔) — stone stupa','승탑/부도 — stoupa funéraire':'승탑 (僧塔) / 부도 (浮屠) — funerary stupa','사리탑 — stoupa-reliquaire':'사리탑 (舎利塔) — reliquary stupa'},
-    ko:{'석탑 — stoupa de pierre':'석탑','승탑/부도 — stoupa funéraire':'승탑·부도','사리탑 — stoupa-reliquaire':'사리탑'},
+    fr:{'석탑 — stoupa de pierre':'석탑 (石塔) — stoupa de pierre','승탑/부도 — stoupa funéraire':'승탑 (僧塔) / 부도 (浮屠) — stoupa funéraire','사리탑 — stoupa-reliquaire':'사리탑 (舍利塔) — stoupa-reliquaire'},
+    en:{'석탑 — stoupa de pierre':'석탑 (石塔) — stone stupa','승탑/부도 — stoupa funéraire':'승탑 (僧塔) / 부도 (浮屠) — funerary stupa','사리탑 — stoupa-reliquaire':'사리탑 (舍利塔) — reliquary stupa'},
+    ko:{'석탑 — stoupa de pierre':'석탑 (石塔)','승탑/부도 — stoupa funéraire':'승탑 (僧塔) · 부도 (浮屠)','사리탑 — stoupa-reliquaire':'사리탑 (舍利塔)'},
     ja:{'석탑 — stoupa de pierre':'石塔','승탑/부도 — stoupa funéraire':'僧塔・浮屠','사리탑 — stoupa-reliquaire':'舎利塔'},
     'zh-hant':{'석탑 — stoupa de pierre':'石塔','승탑/부도 — stoupa funéraire':'僧塔・浮屠','사리탑 — stoupa-reliquaire':'舍利塔'},
-    vi:{'석탑 — stoupa de pierre':'석탑 (石塔) — bảo tháp đá','승탑/부도 — stoupa funéraire':'승탑 (僧塔) / 부도 (浮屠) — tháp mộ cao tăng','사리탑 — stoupa-reliquaire':'사리탑 (舎利塔) — bảo tháp xá lợi'}
+    vi:{'석탑 — stoupa de pierre':'석탑 (石塔) — bảo tháp đá','승탑/부도 — stoupa funéraire':'승탑 (僧塔) / 부도 (浮屠) — tháp mộ cao tăng','사리탑 — stoupa-reliquaire':'사리탑 (舍利塔) — bảo tháp xá lợi'}
   };
   const realmLabel = value => (realmMaps[lang] || realmMaps.fr)[value] || value;
   const typeLabel = value => (typeMaps[lang] || typeMaps.fr)[value] || value;
