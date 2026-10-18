@@ -53,7 +53,7 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-2" alt="高麗水月觀音圖" loading="eager" fetchpriority="high" style="object-position:center 34%;">
+        <img src="https://www.museum.go.kr/relic_image/PS01001001/duk000/2019/0925174542564/duk003324-000-90000.jpg" alt="高麗水月觀音圖" loading="eager" fetchpriority="high" style="object-position:center 34%;" referrerpolicy="no-referrer">
       </div>
       <div class="axis-copy">
         <div class="axis-number">研究軸 01</div>
