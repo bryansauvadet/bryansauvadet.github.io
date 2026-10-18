@@ -25,6 +25,18 @@ jobs:
           cat .github/site-assets/carnet-recherche-exact.{00..02} | tr -d '\n\r' | base64 --decode > assets/images/carnet-recherche-build.jpg
           echo "d0867964b943d9bec7be1eec61e2030b1e80a34e63f52df1fa8b4790db571fc4  assets/images/carnet-recherche-build.jpg" | sha256sum -c -
           file assets/images/carnet-recherche-build.jpg
+
+      - name: Rebuild Research painting image
+        shell: bash
+        run: |
+          curl --fail --location --retry 3 \
+            --user-agent "Mozilla/5.0" \
+            --referer "https://www.museum.go.kr/" \
+            "https://www.museum.go.kr/relic_image/PS01001001/duk000/2019/0925174542564/duk003324-000-90000.jpg" \
+            -o /tmp/koryo-choson-court-buddhist-art.jpg
+          test -s /tmp/koryo-choson-court-buddhist-art.jpg
+          file /tmp/koryo-choson-court-buddhist-art.jpg
+          mv /tmp/koryo-choson-court-buddhist-art.jpg assets/images/koryo-choson-court-buddhist-art-20261019.jpg
       - name: Render
         run: quarto render
       - name: Ensure global navigation
