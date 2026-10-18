@@ -453,3 +453,27 @@ html,body{overflow-x:hidden}
   .portal-card{padding-left:13px;padding-right:13px}
   .portal-image{height:180px}
 }
+
+/* Mobile language switcher containment fix 2026-10-18 */
+@media(max-width:600px){
+  .header-tools{min-width:0;max-width:42vw}
+  .languages{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:flex-end;
+    gap:2px 4px;
+    width:100%;
+    max-width:100%;
+    overflow:visible;
+    white-space:normal;
+    line-height:1.15;
+  }
+  .languages a{padding:1px 0}
+}
+@media(max-width:420px){
+  .header-tools{max-width:38vw}
+  .languages{
+    font-size:7px;
+    gap:1px 3px;
+  }
+}
