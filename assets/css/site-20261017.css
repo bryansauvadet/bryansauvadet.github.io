@@ -243,3 +243,213 @@ html[lang="vi"] .brand-sub{
   .cv-skills{grid-template-columns:1fr}
   .cv-section{padding-top:34px}
 }
+
+
+/* Mobile-first refinements 2026-10-18 */
+img,video,iframe{max-width:100%}
+html,body{overflow-x:hidden}
+
+@media(max-width:860px){
+  .site-header{position:sticky;top:0}
+  .header-inner{
+    min-height:0;
+    grid-template-columns:minmax(0,1fr) auto;
+    gap:10px 14px;
+    padding:11px 16px 10px;
+  }
+  .brand{min-width:0}
+  .brand-name-line{white-space:normal}
+  .brand-name{font-size:25px}
+  .brand-asian{flex-wrap:wrap;white-space:normal;row-gap:2px}
+  .brand-sub{max-width:38rem;line-height:1.25}
+  .header-tools{
+    height:auto;
+    align-self:start;
+    justify-content:flex-start;
+    align-items:flex-end;
+    gap:7px;
+    padding:0;
+  }
+  .languages{
+    max-width:42vw;
+    overflow-x:auto;
+    overflow-y:hidden;
+    scrollbar-width:none;
+    -webkit-overflow-scrolling:touch;
+  }
+  .languages::-webkit-scrollbar{display:none}
+  .menu-btn{
+    display:inline-grid;
+    place-items:center;
+    width:38px;
+    height:38px;
+    margin:0;
+    border:1px solid #ddd5c8;
+    border-radius:2px;
+    background:#fff;
+    cursor:pointer;
+    font-size:20px;
+  }
+  .search-mark{display:none}
+  .nav{
+    grid-column:1/-1;
+    width:100%;
+    gap:0;
+    padding:8px 0 2px;
+    margin-top:1px;
+    border-top:1px solid #eee9e0;
+    flex-direction:column;
+    align-items:stretch;
+  }
+  .nav a{
+    width:100%;
+    padding:11px 2px;
+    border-bottom:1px solid #f0ebe4;
+    font-size:13px;
+  }
+  .nav a:last-child{border-bottom:0}
+  .nav a:hover,.nav a.active{
+    border-bottom-color:#f0ebe4;
+    color:var(--accent-dark);
+  }
+
+  .home-shell{width:100%}
+  .hero{
+    grid-template-columns:1fr;
+    height:auto;
+    min-height:0;
+  }
+  .hero-copy{
+    order:1;
+    padding:34px 24px 30px;
+  }
+  .hero-media{
+    order:2;
+    height:clamp(260px,55vw,360px);
+    min-height:0;
+  }
+  .hero-copy p{
+    max-width:none;
+    font-size:16px;
+    line-height:1.62;
+  }
+  .hero-copy p:last-child{margin-bottom:0}
+  .portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .portal-card{min-width:0}
+  .portal-image{height:170px}
+
+  .page-hero{padding:42px 22px 28px}
+  .page-hero h1{font-size:40px}
+  .content-inner{padding:32px 22px}
+}
+
+@media(max-width:600px){
+  .header-inner{padding:10px 12px 9px;gap:8px 10px}
+  .brand-name{font-size:21px}
+  .brand-asian{gap:3px 5px;margin-top:4px}
+  .brand-ko,.brand-ja{font-size:10.5px!important}
+  .brand-zh{font-size:11px!important}
+  .brand-sep{font-size:8px}
+  .brand-sub{
+    margin-top:5px;
+    font-size:7.5px;
+    letter-spacing:.09em;
+  }
+  .header-tools{gap:5px}
+  .languages{
+    max-width:34vw;
+    font-size:8px;
+    letter-spacing:.02em;
+  }
+  .languages a{padding:3px 1px}
+  .menu-btn{width:36px;height:36px}
+
+  .hero-copy{padding:28px 18px 26px}
+  .hero-copy h1{font-size:38px}
+  .hero-copy h2{font-size:20px}
+  .hero-copy p{
+    font-size:15px;
+    line-height:1.58;
+    text-align:left!important;
+    hyphens:none;
+  }
+  .hero-media{height:260px}
+  .hero-carousel-single .image-credit{
+    right:10px;
+    bottom:10px;
+    max-width:72%;
+    font-size:8px;
+  }
+  .hero-carousel-controls{left:10px;bottom:10px}
+  .hero-carousel-arrow{width:34px;height:34px}
+
+  .portal-grid{grid-template-columns:1fr}
+  .portal-card,
+  .portal-card:nth-child(3),
+  .portal-card:nth-child(2n){
+    border-right:0;
+    border-bottom:1px solid #e7e0d5;
+    padding:14px 16px 18px;
+  }
+  .portal-card:last-child{border-bottom:0}
+  .portal-image{height:200px;margin-bottom:11px}
+  .portal-card h3{font-size:19px}
+  .portal-card p{min-height:0;margin-bottom:8px;font-size:13px}
+
+  .updates{padding:24px 16px}
+  .updates-head{
+    align-items:flex-start;
+    gap:12px;
+    flex-direction:column;
+  }
+  .updates-grid{gap:24px}
+  .update-card{
+    grid-template-columns:96px minmax(0,1fr);
+    gap:14px;
+    min-height:0;
+  }
+  .update-thumb{width:96px;height:138px}
+  .update-card h3{font-size:16px}
+  .update-card p{font-size:12px}
+
+  .footer-inner{padding:22px 18px 26px}
+  .page-hero{padding:34px 18px 24px}
+  .page-hero h1{font-size:34px}
+  .content-inner{padding:28px 18px}
+  .lead{font-size:18px}
+
+  .about-page{padding:26px 18px 48px}
+  .about-profile{gap:22px;padding-bottom:28px}
+  .about-photo-wrap{width:min(100%,280px);margin:0 auto}
+  .about-profile-copy h2{font-size:29px}
+  .about-summary{font-size:15.5px}
+  .about-status{gap:7px 12px}
+  .cv-nav{
+    flex-wrap:nowrap;
+    overflow-x:auto;
+    padding-bottom:5px;
+    scrollbar-width:none;
+  }
+  .cv-nav::-webkit-scrollbar{display:none}
+  .cv-nav a{flex:0 0 auto;padding:9px 12px}
+  .cv-section{scroll-margin-top:100px}
+  .cv-section>h2{font-size:24px}
+  .cv-entry{grid-template-columns:1fr}
+  .cv-when{padding-top:0}
+  .cv-body h3{font-size:17px}
+  .cv-body p,.cv-body li{font-size:13px}
+  .cv-skills{grid-template-columns:1fr}
+
+  table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  pre{max-width:100%;overflow-x:auto}
+}
+
+@media(max-width:380px){
+  .brand-name{font-size:19px}
+  .brand-asian{max-width:230px}
+  .brand-sub{font-size:7px}
+  .languages{max-width:30vw;font-size:7.5px}
+  .hero-copy{padding-left:15px;padding-right:15px}
+  .portal-card{padding-left:13px;padding-right:13px}
+  .portal-image{height:180px}
+}
