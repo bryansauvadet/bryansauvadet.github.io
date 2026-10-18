@@ -6,5 +6,5 @@ format:
     include-before-body: _includes/en-header.html
     include-after-body: _includes/en-footer.html
 ---
-<section class="page-hero"><div class="eyebrow">Bryan Sauvadet</div><h1>Databases</h1></section>
+<section class="page-hero"><h1>Databases</h1></section>
 <main class="content"><div class="content-inner database-index"><div class="database-grid"><a class="database-card" href="/en/databases/korean-stupas.html"><div class="database-card-kicker">Databases</div><h2>Korean stupas</h2><p>Database devoted to Korean stupas.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>

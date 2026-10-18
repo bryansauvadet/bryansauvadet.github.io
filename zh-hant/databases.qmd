@@ -6,5 +6,5 @@ format:
     include-before-body: _includes/zh-hant-header.html
     include-after-body: _includes/zh-hant-footer.html
 ---
-<section class="page-hero"><div class="eyebrow">Bryan Sauvadet</div><h1>資料庫</h1></section>
+<section class="page-hero"><h1>資料庫</h1></section>
 <main class="content"><div class="content-inner database-index"><div class="database-grid"><a class="database-card" href="/zh-hant/databases/korean-stupas.html"><div class="database-card-kicker">資料庫</div><h2>韓國佛塔</h2><p>韓國佛塔資料庫。</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
