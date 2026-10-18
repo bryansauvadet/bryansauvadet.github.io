@@ -6,5 +6,64 @@ format:
     include-before-body: _includes/en-header.html
     include-after-body: _includes/en-footer.html
 ---
-<section class="page-hero database-subhero"><div class="eyebrow"><a href="/en/databases.html">Databases</a></div><h1>Korean stupas</h1></section>
-<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap at Bulguksa, Gyeongju"><figcaption>Tabot'ap · Bulguksa · Gyeongju</figcaption></figure><p class="lead">This subpage will host the database devoted to Korean stupas.</p><div class="database-empty-state"><h2>Korean stupas</h2><p>Database under construction.</p></div></div></main>
+```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script defer src="/assets/js/korean-stupas.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/en/databases.html">Databases</a></div>
+  <h1>Korean stupas</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail korean-stupas-page">
+    <figure class="database-detail-visual">
+      <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap at Bulguksa, Gyeongju">
+      <figcaption>Tabot'ap · Bulguksa · Gyeongju</figcaption>
+    </figure>
+
+    <div class="stupa-objective"><strong>Objective:</strong> to show the architectural conservatism at work in the early Joseon period.</div>
+
+    <section class="stupa-text-section">
+      <h2>Scope</h2>
+      <p>The first layer of the corpus focuses on <strong>stone stupas (석탑)</strong> and explicitly distinguishes <strong>Silla, Baekje, Goguryeo, Unified Silla, Goryeo and Joseon</strong>. <strong>Funerary stupas of masters (승탑 / 부도)</strong> and <strong>reliquary stupas (사리탑)</strong> are kept separate so that monuments with different architectural functions are not conflated. For <strong>Goguryeo</strong>, no surviving stone pagoda is artificially added to this layer: the mainly wooden pagoda remains belong to a distinct archaeological corpus.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>Organisation</h2>
+      <p>The catalogue is designed as a database filterable by <strong>kingdom</strong>, <strong>date</strong>, <strong>type</strong>, <strong>number of stories</strong>, <strong>location</strong> and <strong>heritage status</strong>. The main view follows a chronological sequence from the earliest to the latest monument and links each entry to its location data and, where image rights permit, a photographic thumbnail.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>Reference sources</h2>
+      <ul class="stupa-source-list">
+        <li><a href="https://www.heritage.go.kr/" target="_blank" rel="noopener">국가유산포털 ↗</a></li>
+        <li><a href="https://portal.nrich.go.kr/" target="_blank" rel="noopener">국립문화유산연구원 ↗</a></li>
+      </ul>
+      <p class="stupa-method"><strong>Method:</strong> when a precise year is not securely attested, the date is left as a period or century rather than assigning an invented exact date.</p>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-map-title">
+      <div class="stupa-section-head">
+        <div><div class="stupa-section-kicker">Catalogue of Korean stupas</div><h2 id="stupa-map-title">Interactive map</h2></div>
+        <div class="stupa-count" id="korean-stupas-count">56 stupas</div>
+      </div>
+
+      <div class="stupa-filters" aria-label="Catalogue of Korean stupas">
+        <label><span>Search</span><input id="stupa-search" type="search" placeholder="Monument, place, date…"></label>
+        <label><span>Kingdom</span><select id="stupa-realm"><option value="">All kingdoms</option></select></label>
+        <label><span>Type</span><select id="stupa-type"><option value="">All types</option></select></label>
+        <button id="stupa-reset" type="button">Reset</button>
+      </div>
+
+      <div id="korean-stupas-map" class="stupa-map" aria-label="Interactive map"></div>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-gallery-title">
+      <div class="stupa-section-head"><div><div class="stupa-section-kicker">Catalogue of Korean stupas</div><h2 id="stupa-gallery-title">Chronological gallery</h2></div></div>
+      <div id="korean-stupas-gallery" class="stupa-gallery"><div class="stupa-loading">Loading catalogue…</div></div>
+    </section>
+  </div>
+</main>
+```
