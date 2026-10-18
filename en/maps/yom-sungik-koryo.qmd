@@ -59,6 +59,10 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · Interactive chronology</div><h2>A career between court, monasteries, and Buddhist commissions</h2><p>Filter the events to isolate the different dimensions of Yŏm’s trajectory.</p></div>
+    <figure class="yom-map-insert yom-map-insert--compact">
+      <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="Map of Yŏm Sŭngik’s religious and administrative movements in Kaegyŏng between 1277 and 1283." loading="lazy">
+      <figcaption><strong>Yŏm Sŭngik’s religious and administrative routes, 1277–1283.</strong> The map brings together the principal movements that structure the first part of his career: Ch’ŏnhyo, Hyŏnhwa, the royal scriptorium, and the 1283 restoration circuit.</figcaption>
+    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="Chronology filters">
       <button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">All</button>
       <button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">Court</button>
@@ -92,6 +96,10 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · Seventh lunar month of 1283</div><h2>The stupa-restoration mission</h2><p>After the destruction and damage connected with the Mongol wars, Ch’ungnyŏl entrusts Yŏm Sŭngik and Kong Yu with a mission among the Buddhist institutions of the capital. The itinerary documented in the dissertation links four sites.</p></div>
+    <figure class="yom-map-insert">
+      <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="Map of Yŏm Sŭngik’s 1283 circuit to restore stupas in Kaegyŏng." loading="lazy">
+      <figcaption><strong>Stupa-restoration circuit, 1283.</strong> The map visualises the mission entrusted to Yŏm Sŭngik and Kong Yu: Hyŏnhwasa, Wangnyunsa, Namgyewŏn, and a dependency of Kaeguksa. This was a royal mission supervised by Yŏm Sŭngik, not four personal commissions.</figcaption>
+    </figure>
     <div class="yom-mission" aria-label="1283 restoration mission">
       <div class="yom-mission-step"><div class="num">01</div><h3>Hyŏnhwa</h3><div class="hanja yom-hanja">玄化寺</div><p>A monastery already linked to Yŏm through the royal architectural commission of 1280.</p></div>
       <div class="yom-mission-step"><div class="num">02</div><h3>Wangnyun</h3><div class="hanja yom-hanja">王輪寺</div><p>One of the capital’s major institutions included in the restoration program.</p></div>
@@ -127,6 +135,20 @@ format:
       <figure class="yom-figure contain yom-image-reduced"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9997c4b7344a/kjmh-33-3-563f4.jpg" alt="Votive text of the Lotus Sūtra commissioned by Yŏm Sŭngik" loading="lazy"><figcaption>Votive text associated with Yŏm Sŭngik’s Lotus Sūtra · reproduced in Lim Young-ae, 2024 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">source ↗</a></figcaption></figure>
       <div class="yom-text-panel"><div class="big-number">1283</div><h3>Text, image, and deposition</h3><dl><dt>Title</dt><dd>Lotus Sūtra of the Wondrous Dharma</dd><dt>Sinographs</dt><dd class="yom-hanja">妙法蓮華經</dd><dt>Romanization</dt><dd><span class="yom-roman">Myobŏp yŏnhwagyŏng</span></dd><dt>Patron</dt><dd>Yŏm Sŭngik <span class="yom-hanja">廉承益</span></dd><dt>Support</dt><dd>Indigo paper, metallic-ink writing</dd><dt>Function</dt><dd>Vow, consecration, and deposition inside the stupa</dd></dl></div>
     </div>
+    <div class="yom-lotus-analysis" aria-labelledby="lotus-image-analysis-title">
+      <figure class="yom-lotus-frontispiece">
+        <img src="/assets/img/yom-sungik/namgyewon-lotus-frontispiece.webp" alt="Frontispiece of the first roll of the Namgyewŏn Lotus Sūtra, showing a wrathful protective figure painted in gold on indigo paper" loading="lazy">
+        <figcaption>Frontispiece of the first roll of the <em>Lotus Sūtra</em> <span class="yom-hanja">妙法蓮華經</span> from Namgyewŏn, c. 1283 · indigo paper, gold and silver · National Museum of Korea.</figcaption>
+      </figure>
+      <div class="yom-lotus-analysis-copy">
+        <div class="yom-kicker">Image analysis</div>
+        <h3 id="lotus-image-analysis-title">A protective figure condensed within a “sūtra as relic”</h3>
+        <p>The first of the seven rolls discovered in the stupa <span class="yom-hanja">塔</span> at Namgyewŏn is the best preserved. On indigo-dyed paper, the text is copied in silver, while the cover and frontispiece are executed in gold. The image is remarkable for its iconographic economy: rather than presenting an extended narrative scene, it isolates a single wrathful figure standing on a lotus throne <span class="yom-hanja">蓮華座</span> and holding a large vajra <span class="yom-hanja">金剛杵</span> (<span class="yom-roman">kŭmgangjŏ</span>) in the right hand.</p>
+        <p>The body turns to the left while the head twists in the opposite direction. The pronounced musculature, animated folds of the garment, tension of the arms, and flames surrounding the head give the figure an energetic, protective presence. The composition does not seek to narrate the contents of the sūtra; instead, it concentrates the power of the Dharma <span class="yom-hanja">法</span> into an immediately legible image. Stylistically, it is very close to protective figures in illustrated sūtras <span class="yom-hanja">經</span> produced around 1275–1276, notably the <em>Sūtra of the Mantras of the Miraculous Transformations of the Amoghapāśa</em> and the <em>Sūtra of the Bodhisattva <span class="yom-hanja">菩薩</span> Mañjuśrī <span class="yom-hanja">文殊師利</span></em>.</p>
+        <p>This simplicity becomes especially meaningful when the manuscript’s destination is considered. The seven rolls were not intended to remain visible: they were deposited inside the stupa <span class="yom-hanja">塔</span> restored in 1283. The image should therefore be understood less as an aid to contemplation than as a <strong>condensed and operative ritual presence</strong>. Such an object can be understood as a <strong>“sūtra as relic”</strong>: the sacred text, its protective image, and the monument enclosing them together form a device of consecration. This interpretation resonates with the passage in the <em>Lotus Sūtra</em> <span class="yom-hanja">妙法蓮華經</span> that equates the presence of the text with that of the very body of the Tathāgata <span class="yom-hanja">如來</span>.</p>
+        <p class="yom-source">The manuscript commissioned by Yŏm Sŭngik around 1283 and discovered in the Namgyewŏn stupa is preserved in the National Museum of Korea.</p>
+      </div>
+    </div>
     <div class="yom-inscription"><div class="yom-kicker">A shared votive motif</div><div class="hanja yom-hanja" lang="zh-Hant">願我臨欲命終時 · 盡除一切諸障礙 · 面見彼佛阿彌陀 · 即得往生安樂刹</div><div class="translation">“When the moment of my death comes, may all obstacles be dispelled; may I behold the Buddha Amitābha face to face and immediately be reborn in the Land of Peace.”</div><div class="note">This gāthā connects the Lotus Sūtra commissioned by Yŏm with the Amitābha painting of 1286. The translation is provided here to make the sense of the vow legible; the full colophon is more extensive.</div></div>
     <div class="yom-practice-flow" aria-label="Function of the sūtra as relic"><div class="yom-practice-step"><b>Copy</b><small>materially produce the sacred text</small></div><div class="yom-practice-step"><b>Formulate the vow</b><small>king, relatives, patron</small></div><div class="yom-practice-step"><b>Deposit</b><small>place the scrolls inside the stupa</small></div><div class="yom-practice-step"><b>Seal</b><small>remove the object from view</small></div><div class="yom-practice-step"><b>Consecrate</b><small>make the text an operative presence</small></div></div>
   </div></section>
@@ -160,6 +182,10 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · Kaegyŏng 開京</div><h2>A trajectory embedded in the capital’s Buddhist institutions</h2><p>Yŏm’s trajectory intersects with several major monasteries of Kaegyŏng, but this page does not duplicate the general map of the capital’s Buddhist networks. It isolates only Yŏm’s own path: <strong>Ch’ŏnhyo → Hyŏnhwa → royal scriptorium → stupa mission → Namgyewŏn</strong>.</p></div>
     <div class="yom-practice-flow" aria-label="Yŏm’s path through Kaegyŏng’s Buddhist institutions"><div class="yom-practice-step"><b>Ch’ŏnhyo</b><small><span class="yom-hanja">天孝寺</span> · 1277</small></div><div class="yom-practice-step"><b>Hyŏnhwa</b><small><span class="yom-hanja">玄化寺</span> · 1280</small></div><div class="yom-practice-step"><b>Scriptorium</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>Royal mission</b><small>several stupas · 1283</small></div><div class="yom-practice-step"><b>Namgyewŏn</b><small><span class="yom-hanja">南溪院</span> · sūtra deposit</small></div></div>
+  <figure class="yom-map-insert">
+      <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="Map of Yŏm Sŭngik’s routes between Kaegyŏng and Dadu, including the court journeys of 1289 and 1293." loading="lazy">
+      <figcaption><strong>From Kaegyŏng to Dadu.</strong> The journeys of 1289 and 1293 place Yŏm Sŭngik within a broader political space: his activities in Kaegyŏng’s Buddhist institutions intersect with his role as an intermediary between the Koryŏ court and the Yuan world.</figcaption>
+    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">
