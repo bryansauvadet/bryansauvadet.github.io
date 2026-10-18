@@ -46,7 +46,7 @@ format:
 
 <main class="content">
   <div class="maps-index">
-    <p class="maps-index-lead">Cartes interactives, chronologies, réseaux et dossiers visuels conçus pour rendre lisibles des ensembles documentaires complexes issus de mes recherches.</p>
+    <p class="maps-index-lead">Cartes interactives, chronologies, réseaux et visualisations conçus pour rendre lisibles des ensembles documentaires complexes issus de mes recherches.</p>
 
     <div class="maps-project-grid">
       <a class="maps-project-card" href="/fr/cartes/yom-sungik-koryo.html">
@@ -55,7 +55,7 @@ format:
           <div class="maps-project-credit">Stoupa de Namgyewŏn · Bart0278 · CC BY-SA 3.0</div>
         </div>
         <div class="maps-project-copy">
-          <div class="maps-project-type">Dossier interactif · Koryŏ</div>
+          <div class="maps-project-type">Étude interactive · Koryŏ</div>
           <h2>Yŏm Sŭngik et l’art bouddhique au Koryŏ</h2>
           <div class="maps-project-hanja" lang="zh-Hant">廉承益</div>
           <p>Une biographie visuelle de Yŏm Sŭngik (?–1302) : carrière auprès de Ch’ungnyŏl, restaurations de stoupas en 1283, Soutra du Lotus de Namgyewŏn, peinture d’Amitābha et dhāraṇī de 1292.</p>
@@ -65,7 +65,7 @@ format:
             <span>sinogrammes</span>
             <span>œuvres & monuments</span>
           </div>
-          <span class="maps-project-link">Ouvrir le dossier →</span>
+          <span class="maps-project-link">Ouvrir la page →</span>
         </div>
       </a>
 
