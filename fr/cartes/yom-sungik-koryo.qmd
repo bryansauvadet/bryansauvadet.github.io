@@ -1,0 +1,471 @@
+---
+title: "Yŏm Sŭngik et l’art bouddhique au Koryŏ"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/yom-sungik.css">
+<script defer src="/assets/js/yom-sungik.js"></script>
+
+<main class="yom-page">
+  <section class="yom-hero" id="haut">
+    <div class="yom-shell yom-hero-grid">
+      <div class="yom-hero-copy">
+        <div class="yom-kicker">Dossier interactif · royaume du Koryŏ</div>
+        <h1>Yŏm Sŭngik <span class="yom-hanja" lang="zh-Hant">廉承益</span></h1>
+        <p class="yom-hero-lead">Pouvoir, dévotion et production artistique à la cour du roi Ch’ungnyŏl <span class="yom-hanja" lang="zh-Hant">忠烈王</span>.</p>
+        <p class="yom-hero-note">Haut fonctionnaire, interprète du mongol, proche du souverain et fervent bouddhiste, Yŏm Sŭngik (?–1302) constitue un observatoire privilégié des liens entre cour, monastères, restauration de stoupas, copie de soutras et commande d’images au Koryŏ.</p>
+        <div class="yom-hero-dates" aria-label="Repères chronologiques">
+          <a href="#chronologie" data-yom-scroll>1277</a>
+          <a href="#scriptorium" data-yom-scroll>1281</a>
+          <a href="#mission-1283" data-yom-scroll>1283</a>
+          <a href="#amitabha" data-yom-scroll>1286</a>
+          <a href="#dharani" data-yom-scroll>1292</a>
+          <a href="#dernieres-annees" data-yom-scroll>1302</a>
+        </div>
+      </div>
+      <figure class="yom-hero-media">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site%2C_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" alt="Stoupa à sept étages du site de Namgyewŏn, provenant de Kaesŏng">
+        <figcaption class="yom-hero-caption">Stoupa à sept étages du site de Namgyewŏn <span lang="zh-Hant">南溪院址七層石塔</span> · aujourd’hui au Musée national de Corée · photographie Bart0278, CC BY-SA 3.0 · <a href="https://commons.wikimedia.org/wiki/File:Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site,_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" target="_blank" rel="noopener">source ↗</a></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="yom-section" id="portrait">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">01 · Un homme de cour</div>
+        <h2>Yŏm Sŭngik au cœur du règne de Ch’ungnyŏl</h2>
+        <p>La biographie de Yŏm Sŭngik dans l’<em>Histoire du Koryŏ</em> le place parmi les proches du souverain. Sa carrière prend un tournant décisif en 1277, lorsqu’il accompagne le roi Ch’ungnyŏl au monastère de Ch’ŏnhyo <span class="yom-hanja" lang="zh-Hant">天孝寺</span> pendant une maladie du souverain et participe à ses soins. Son rôle ne se limite pourtant pas à la cour : il devient aussi un intermédiaire entre le pouvoir royal et les institutions bouddhiques.</p>
+      </div>
+
+      <div class="yom-intro-grid">
+        <div>
+          <p>Yŏm parle le mongol et intervient comme interprète auprès des émissaires venus de Dadu. Il appartient ainsi au milieu des hauts fonctionnaires qui assurent la médiation entre le royaume du Koryŏ et la cour des Yuan. Dans le même temps, sa dévotion bouddhique se manifeste par des donations, des pratiques rituelles et des commandes artistiques.</p>
+          <p>Cette double position explique son importance : Yŏm n’est ni simplement un « mécène », ni seulement un fonctionnaire. Il met en relation <strong>autorité royale, ressources administratives, monastères, artisans, copistes et pratiques votives</strong>.</p>
+          <p class="yom-source">Base documentaire : thèse de Bryan Sauvadet, chap. 1, § 1.1.2.2.1 ; <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123.</p>
+        </div>
+
+        <aside class="yom-profile-card" aria-label="Repères biographiques">
+          <div class="yom-profile-name">Yŏm Sŭngik</div>
+          <div class="yom-profile-hanja yom-hanja" lang="zh-Hant">廉承益</div>
+          <div class="yom-profile-facts">
+            <div class="yom-profile-fact"><b>Dates</b><span>?–1302</span></div>
+            <div class="yom-profile-fact"><b>Cadre</b><span>Royaume du Koryŏ</span></div>
+            <div class="yom-profile-fact"><b>Souverain</b><span>Ch’ungnyŏl <span class="yom-hanja">忠烈王</span></span></div>
+            <div class="yom-profile-fact"><b>Capitale</b><span>Kaegyŏng <span class="yom-hanja">開京</span></span></div>
+            <div class="yom-profile-fact"><b>Fonctions</b><span>Haut fonctionnaire, interprète, proche de la cour</span></div>
+            <div class="yom-profile-fact"><b>Dévotion</b><span>Monastères, soutras, images, rites et guérison</span></div>
+          </div>
+        </aside>
+      </div>
+
+      <div class="yom-constellation" aria-label="Réseau fonctionnel de Yŏm Sŭngik">
+        <div class="yom-constellation-grid">
+          <div class="yom-node king">Ch’ungnyŏl <span class="yom-hanja">忠烈王</span><small>autorité royale</small></div>
+          <div class="yom-node yuan">Dadu et cour des Yuan <span class="yom-hanja">元</span><small>missions · langue mongole</small></div>
+          <div class="yom-node monasteries">Monastères de Kaegyŏng<small>restaurations · cérémonies</small></div>
+          <div class="yom-node core">Yŏm Sŭngik <span class="yom-hanja">廉承益</span><small>intermédiaire</small></div>
+          <div class="yom-node scriptorium">Scriptorium royal <span class="yom-hanja">金字大藏寫經所</span><small>copies à l’or</small></div>
+          <div class="yom-node ritual">Pratiques bouddhiques<small>vœux · guérison · mérite</small></div>
+          <div class="yom-node kong">Kong Yu <span class="yom-hanja">孔愉</span><small>mission de 1283</small></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="chronologie">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">02 · Chronologie interactive</div>
+        <h2>Une carrière entre cour, monastères et commandes bouddhiques</h2>
+        <p>Filtrez les événements pour isoler les différentes dimensions de la trajectoire de Yŏm.</p>
+      </div>
+
+      <div class="yom-timeline-tools" role="group" aria-label="Filtres de la chronologie">
+        <button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">Tout</button>
+        <button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">Cour</button>
+        <button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">Monastères</button>
+        <button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">Commandes</button>
+        <button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">Rituel & guérison</button>
+      </div>
+
+      <div class="yom-timeline">
+        <article class="yom-event" data-kind="cour rituel">
+          <div class="yom-event-year">1277</div>
+          <div class="yom-event-body"><h3>Auprès du roi malade</h3><p>Yŏm accompagne Ch’ungnyŏl au monastère de Ch’ŏnhyo <span class="yom-hanja">天孝寺</span> et prend part aux soins du souverain. Cet épisode consolide sa proximité avec le roi.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">guérison</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="cour">
+          <div class="yom-event-year">1278</div>
+          <div class="yom-event-body"><h3>Ascension politique</h3><p>Sa faveur royale se traduit par une promotion et par son intégration aux cercles où sont discutées les affaires du royaume.</p><div class="yom-event-tags"><span class="yom-tag">cour</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="cour monastere">
+          <div class="yom-event-year">1280</div>
+          <div class="yom-event-body"><h3>Monastère de Hyŏnhwa <span class="yom-hanja">玄化寺</span></h3><p>Sur ordre de Ch’ungnyŏl et d’une princesse royale, Yŏm fait édifier un nouveau pavillon au monastère. Il agit ici comme <strong>exécutant d’une commande royale</strong>.</p><div class="yom-event-tags"><span class="yom-tag">mission royale</span><span class="yom-tag">architecture</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="cour commande monastere" id="scriptorium">
+          <div class="yom-event-year">1281</div>
+          <div class="yom-event-body"><h3>Un scriptorium dans une dépendance de Yŏm</h3><p>Il met à disposition une de ses dépendances pour l’installation du scriptorium royal consacré à la copie de la Grande Corbeille en caractères d’or : <span class="yom-hanja">金字大藏寫經所</span>, <span class="yom-roman">Kŭmja taejang sagyŏngso</span>.</p><div class="yom-event-tags"><span class="yom-tag">scriptorium</span><span class="yom-tag">soutras</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="cour monastere commande" id="timeline-1283">
+          <div class="yom-event-year">1283</div>
+          <div class="yom-event-body"><h3>Restaurer les stoupas de la capitale</h3><p>Ch’ungnyŏl charge Yŏm et Kong Yu <span class="yom-hanja">孔愉</span> de superviser des restaurations à Hyŏnhwa, Wangnyun, Namgyewŏn et dans une dépendance du monastère de Kaeguk. Vers la même période, Yŏm commandite le Soutra du Lotus associé au stoupa de Namgyewŏn.</p><div class="yom-event-tags"><span class="yom-tag">mission royale</span><span class="yom-tag">patronage personnel</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="commande rituel">
+          <div class="yom-event-year">1286</div>
+          <div class="yom-event-body"><h3>Amitābha <span class="yom-hanja">阿彌陀如來圖</span></h3><p>Yŏm fait réaliser une peinture d’Amitābha afin de formuler des vœux pour la famille royale, ses proches et la renaissance dans la Terre pure.</p><div class="yom-event-tags"><span class="yom-tag">peinture</span><span class="yom-tag">vœu</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="cour">
+          <div class="yom-event-year">1289</div>
+          <div class="yom-event-body"><h3>Voyage à Dadu</h3><p>Yŏm accompagne le roi et la reine à Dadu, révélant sa position dans les relations entre le Koryŏ et les Yuan.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">Yuan</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="commande rituel">
+          <div class="yom-event-year">1292</div>
+          <div class="yom-event-body"><h3>Dhāraṇī du Sceau du Coffret précieux <span class="yom-hanja">寶篋印陀羅尼</span></h3><p>Une matrice xylographique et ses impressions témoignent d’une autre forme de patronage : une image-textuelle reproductible, destinée à l’efficacité rituelle.</p><div class="yom-event-tags"><span class="yom-tag">xylographie</span><span class="yom-tag">dhāraṇī</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="cour">
+          <div class="yom-event-year">1293</div>
+          <div class="yom-event-body"><h3>Nouveau déplacement à Dadu</h3><p>Yŏm accompagne de nouveau le couple royal.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">Yuan</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="cour rituel">
+          <div class="yom-event-year">1295</div>
+          <div class="yom-event-body"><h3>Retrait pour maladie</h3><p>La maladie conduit Yŏm à se retirer des affaires politiques, sans mettre fin à son engagement religieux.</p><div class="yom-event-tags"><span class="yom-tag">maladie</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="rituel cour">
+          <div class="yom-event-year">1297</div>
+          <div class="yom-event-body"><h3>Rituel et guérison</h3><p>Lors de la maladie d’une princesse royale, Yŏm est rappelé auprès de la cour et accomplit des pratiques dévotionnelles extrêmes attestant la persistance de sa réputation de guérisseur.</p><div class="yom-event-tags"><span class="yom-tag">rituel</span><span class="yom-tag">guérison</span></div></div>
+        </article>
+        <article class="yom-event" data-kind="rituel">
+          <div class="yom-event-year">1302</div>
+          <div class="yom-event-body"><h3>Entrée dans la vie monastique et mort</h3><p>Après avoir refusé de nouvelles charges, Yŏm rend ses titres, devient moine bouddhiste et meurt la même année.</p><div class="yom-event-tags"><span class="yom-tag">vie monastique</span></div></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="commanditaire">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">03 · Une distinction essentielle</div>
+        <h2>Superviser pour le roi n’est pas commanditer pour soi</h2>
+        <p>Les sources associent Yŏm à des réalisations de statuts différents. Les confondre ferait de lui le commanditaire de travaux qui relèvent en réalité de l’initiative de Ch’ungnyŏl.</p>
+      </div>
+
+      <div class="yom-distinction">
+        <article class="yom-distinction-card royal">
+          <div class="yom-distinction-label">Mission royale · Ch’ungnyŏl ordonne</div>
+          <h3>Yŏm supervise ou exécute</h3>
+          <ul>
+            <li><strong>1280 :</strong> édification d’un pavillon au monastère de Hyŏnhwa <span class="yom-hanja">玄化寺</span>.</li>
+            <li><strong>1283 :</strong> mission de restauration des stoupas de pierre de plusieurs établissements de Kaegyŏng.</li>
+          </ul>
+        </article>
+        <article class="yom-distinction-card personal">
+          <div class="yom-distinction-label">Patronage personnel · Yŏm formule le vœu</div>
+          <h3>Trois œuvres conservées ou documentées</h3>
+          <ul>
+            <li><strong>vers 1283 :</strong> Soutra du Lotus <span class="yom-hanja">妙法蓮華經</span>.</li>
+            <li><strong>1286 :</strong> peinture d’Amitābha <span class="yom-hanja">阿彌陀如來圖</span>.</li>
+            <li><strong>1292 :</strong> Dhāraṇī du Sceau du Coffret précieux <span class="yom-hanja">寶篋印陀羅尼</span>.</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="mission-1283">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">04 · Septième lune de 1283</div>
+        <h2>La mission de restauration des stoupas</h2>
+        <p>Après les destructions et dégradations liées aux guerres mongoles, Ch’ungnyŏl confie à Yŏm Sŭngik et à Kong Yu une mission auprès des établissements bouddhiques de la capitale. Le parcours documenté dans la thèse relie quatre sites.</p>
+      </div>
+
+      <div class="yom-mission" aria-label="Mission de restauration de 1283">
+        <div class="yom-mission-step"><div class="num">01</div><h3>Hyŏnhwa</h3><div class="hanja yom-hanja">玄化寺</div><p>Monastère déjà lié à Yŏm par la commande architecturale royale de 1280.</p></div>
+        <div class="yom-mission-step"><div class="num">02</div><h3>Wangnyun</h3><div class="hanja yom-hanja">王輪寺</div><p>Un des grands établissements de la capitale concernés par la restauration.</p></div>
+        <div class="yom-mission-step"><div class="num">03</div><h3>Namgyewŏn</h3><div class="hanja yom-hanja">南溪院</div><p>Le cas décisif : le stoupa conservé permet de relier architecture, restauration et dépôt d’un soutra.</p></div>
+        <div class="yom-mission-step"><div class="num">04</div><h3>Kaeguk</h3><div class="hanja yom-hanja">開國寺</div><p>Une dépendance du monastère figure également dans la mission rapportée par les sources utilisées dans la thèse.</p></div>
+      </div>
+
+      <p class="yom-source">Le dossier ne reconstruit pas artificiellement l’apparence des monuments disparus : seul Namgyewŏn est ici développé comme étude matérielle lorsque le monument et les objets associés sont documentés.</p>
+    </div>
+  </section>
+
+  <section class="yom-section" id="namgyewon">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">05 · Architecture et dépôt</div>
+        <h2>Namgyewŏn <span class="yom-hanja">南溪院</span> : le stoupa comme contenant rituel</h2>
+        <p>Le stoupa à sept étages provenant du site de Namgyewŏn, près de Kaesŏng, constitue le point où la biographie de Yŏm rejoint directement la matérialité de l’œuvre. Lors de son démontage et de son déplacement au début du XX<sup>e</sup> siècle, des rouleaux bouddhiques ont été découverts à l’intérieur.</p>
+      </div>
+
+      <div class="yom-media-grid">
+        <figure class="yom-figure">
+          <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site%2C_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" alt="Stoupa à sept étages du site de Namgyewŏn">
+          <figcaption>Stoupa à sept étages du site de Namgyewŏn · <span class="yom-hanja">開城 南溪院址 七層石塔</span> · photographie Bart0278, CC BY-SA 3.0 · <a href="https://commons.wikimedia.org/wiki/File:Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site,_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" target="_blank" rel="noopener">Wikimedia Commons ↗</a></figcaption>
+        </figure>
+        <div class="yom-text-panel">
+          <div class="big-number">7</div>
+          <h3>étages de pierre, sept rouleaux associés</h3>
+          <p>Le monument est aujourd’hui conservé au Musée national de Corée. La découverte de rouleaux copiés à l’encre métallique sur papier indigo permet de lire le stoupa non seulement comme une architecture, mais comme un espace de dépôt.</p>
+          <dl>
+            <dt>Nom</dt><dd>Stoupa à sept étages du site de Namgyewŏn</dd>
+            <dt>Sinogrammes</dt><dd class="yom-hanja">南溪院址七層石塔</dd>
+            <dt>Provenance</dt><dd>Kaesŏng, royaume du Koryŏ</dd>
+            <dt>Intervention</dt><dd>Restauration supervisée par Yŏm en 1283 sur ordre royal</dd>
+            <dt>Statut</dt><dd>Trésor national de Corée n° 100</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class="yom-cutaway" aria-label="Schéma du dépôt à l'intérieur du stoupa">
+        <div class="yom-pagoda" aria-hidden="true">
+          <div class="yom-roof r1"></div><div class="yom-body"></div>
+          <div class="yom-roof r2"></div><div class="yom-body"></div>
+          <div class="yom-roof r3"></div><div class="yom-body"></div>
+          <div class="yom-roof r4"></div><div class="yom-body"></div>
+          <div class="yom-roof r5"></div><div class="yom-body"></div>
+          <div class="yom-roof r6"></div><div class="yom-body"></div>
+          <div class="yom-roof r7"></div><div class="yom-body"></div>
+          <div class="yom-base"><span class="yom-relic-slot" title="Dépôt rituel"></span></div>
+        </div>
+        <div class="yom-cutaway-flow">
+          <div class="yom-flow-step"><div class="yom-flow-index">1</div><div><h3>Monument de pierre</h3><p>Le stoupa matérialise la présence bouddhique dans le paysage de Kaegyŏng.</p></div></div>
+          <div class="yom-flow-step"><div class="yom-flow-index">2</div><div><h3>Cavité interne</h3><p>Une partie de l’architecture devient un espace inaccessible après fermeture.</p></div></div>
+          <div class="yom-flow-step"><div class="yom-flow-index">3</div><div><h3>Dépôt du soutra</h3><p>Le texte n’est plus destiné à une lecture ordinaire : il devient un objet votif incorporé au monument.</p></div></div>
+          <div class="yom-flow-step"><div class="yom-flow-index">4</div><div><h3>Présence reliquaire</h3><p>Dans l’analyse développée dans la thèse, le soutra agit comme une relique et participe à la consécration du stoupa.</p></div></div>
+        </div>
+      </div>
+
+      <figure class="yom-figure contain" style="max-width:980px;margin:42px auto 0;">
+        <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9987ba0aac76/kjmh-33-3-563f5.jpg" alt="Photographie ancienne du stoupa de Namgyewŏn et sept rouleaux découverts dans le monument" loading="lazy">
+        <figcaption>Photographie ancienne du stoupa et ensemble des sept rouleaux découverts lors de son déplacement · reproduit dans Lim Young-ae, 2024 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">article en libre accès ↗</a></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="yom-section" id="lotus">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">06 · Vers 1283</div>
+        <h2>Le Soutra du Lotus <span class="yom-hanja">妙法蓮華經</span> : un « soutra comme relique »</h2>
+        <p>Le colophon identifie Yŏm Sŭngik comme commanditaire. L’association avec la restauration du stoupa de Namgyewŏn donne à l’œuvre une fonction qui dépasse la copie luxueuse : elle est pensée pour être déposée dans un dispositif de consécration.</p>
+      </div>
+
+      <div class="yom-media-grid">
+        <figure class="yom-figure contain">
+          <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9997c4b7344a/kjmh-33-3-563f4.jpg" alt="Texte votif du Soutra du Lotus commandité par Yŏm Sŭngik" loading="lazy">
+          <figcaption>Texte votif associé au Soutra du Lotus de Yŏm Sŭngik · reproduit dans Lim Young-ae, 2024 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">source ↗</a></figcaption>
+        </figure>
+        <div class="yom-text-panel">
+          <div class="big-number">1283</div>
+          <h3>Texte, image et dépôt</h3>
+          <dl>
+            <dt>Titre</dt><dd>Soutra du Lotus de la Loi merveilleuse</dd>
+            <dt>Sinogrammes</dt><dd class="yom-hanja">妙法蓮華經</dd>
+            <dt>Romanisation</dt><dd><span class="yom-roman">Myobŏp yŏnhwagyŏng</span></dd>
+            <dt>Commanditaire</dt><dd>Yŏm Sŭngik <span class="yom-hanja">廉承益</span></dd>
+            <dt>Support</dt><dd>Papier indigo, écriture à l’encre métallique</dd>
+            <dt>Fonction</dt><dd>Vœu, consécration et dépôt à l’intérieur du stoupa</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class="yom-inscription">
+        <div class="yom-kicker">Un motif votif commun</div>
+        <div class="hanja yom-hanja" lang="zh-Hant">願我臨欲命終時 · 盡除一切諸障礙 · 面見彼佛阿彌陀 · 即得往生安樂刹</div>
+        <div class="translation">« Lorsque viendra le moment de ma mort, puissent tous les obstacles être dissipés ; puissé-je voir face à face le Bouddha Amitābha et renaître aussitôt dans la Terre de Paix. »</div>
+        <div class="note">Cette gāthā relie le Soutra du Lotus commandité par Yŏm à la peinture d’Amitābha de 1286. La traduction est ici donnée pour rendre lisible le sens du vœu ; le texte complet du colophon est plus développé.</div>
+      </div>
+
+      <div class="yom-practice-flow" aria-label="Fonction du soutra comme relique">
+        <div class="yom-practice-step"><b>Copier</b><small>produire matériellement le texte sacré</small></div>
+        <div class="yom-practice-step"><b>Formuler le vœu</b><small>roi, proches, commanditaire</small></div>
+        <div class="yom-practice-step"><b>Déposer</b><small>placer les rouleaux dans le stoupa</small></div>
+        <div class="yom-practice-step"><b>Sceller</b><small>soustraire l’objet au regard</small></div>
+        <div class="yom-practice-step"><b>Consacrer</b><small>faire du texte une présence opératoire</small></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="amitabha">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">07 · 1286</div>
+        <h2>Amitābha <span class="yom-hanja">阿彌陀如來圖</span> : la prière devient image</h2>
+        <p>Trois ans après la restauration de Namgyewŏn, Yŏm commandite une peinture d’Amitābha. Son inscription prie pour le bonheur et la longévité du roi, de la princesse et des proches de Yŏm, tout en réaffirmant l’espérance d’une renaissance dans la Terre pure.</p>
+      </div>
+
+      <div class="yom-media-grid">
+        <figure class="yom-figure contain">
+          <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amitabha_%28former_Shimazu_collection%29.jpg" alt="Peinture d’Amitābha commanditée par Yŏm Sŭngik en 1286" loading="lazy">
+          <figcaption>Amitābha, 1286, ancienne collection Shimazu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Amitabha_(former_Shimazu_collection).jpg" target="_blank" rel="noopener">Wikimedia Commons ↗</a></figcaption>
+        </figure>
+        <div class="yom-text-panel">
+          <div class="big-number">1286</div>
+          <h3>De l’écriture à l’image dévotionnelle</h3>
+          <dl>
+            <dt>Titre</dt><dd>Peinture du Bouddha Amitābha</dd>
+            <dt>Sinogrammes</dt><dd class="yom-hanja">阿彌陀如來圖</dd>
+            <dt>Romanisation</dt><dd><span class="yom-roman">Amit’a yŏraedo</span></dd>
+            <dt>Commanditaire</dt><dd>Yŏm Sŭngik <span class="yom-hanja">廉承益</span></dd>
+            <dt>Date</dt><dd>1286 · Zhiyuan 23 <span class="yom-hanja">至元二十三年</span></dd>
+            <dt>Vœu</dt><dd>Longévité, protection et renaissance dans la Terre pure d’Amitābha</dd>
+          </dl>
+          <p style="margin-top:24px;">Le rapprochement avec le Soutra du Lotus n’est pas seulement chronologique : la même gāthā de quatre vers apparaît dans les deux ensembles. L’écriture déposée dans le stoupa et l’image destinée à la dévotion participent ainsi d’un même horizon votif.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="dharani">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">08 · 1292</div>
+        <h2>La dhāraṇī devient matrice et image</h2>
+        <p>La Dhāraṇī du Sceau du Coffret précieux <span class="yom-hanja">寶篋印陀羅尼</span>, produite sous la supervision de Yŏm, introduit une autre logique matérielle : non plus un exemplaire unique, mais une matrice permettant la multiplication d’impressions destinées à l’usage rituel.</p>
+      </div>
+
+      <div class="yom-media-grid">
+        <figure class="yom-figure contain">
+          <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/8ae5e7ed0cc9/kjmh-33-3-563f7.jpg" alt="Dhāraṇī-maṇḍala du Sceau du Coffret précieux associée à Yŏm Sŭngik, 1292" loading="lazy">
+          <figcaption>Dhāraṇī-maṇḍala du Sceau du Coffret précieux, 1292 · reproduit dans Lim Young-ae, 2024 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">source ↗</a></figcaption>
+        </figure>
+        <div class="yom-text-panel">
+          <div class="big-number">1292</div>
+          <h3>Une image-textuelle reproductible</h3>
+          <p>L’objet associe texte, structure diagrammatique et puissance rituelle. La xylographie transforme le patronage de Yŏm : une même matrice peut engendrer plusieurs impressions, qui circulent ensuite dans des contextes de consécration.</p>
+          <dl>
+            <dt>Technique</dt><dd>Impression xylographique</dd>
+            <dt>Texte</dt><dd>Dhāraṇī du Sceau du Coffret précieux <span class="yom-hanja">寶篋印陀羅尼</span></dd>
+            <dt>Rôle de Yŏm</dt><dd>Supervision attestée par l’inscription associée à la production</dd>
+            <dt>Fonction</dt><dd>Protection, mérite et efficacité rituelle</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="trois-oeuvres">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">09 · Trois jalons</div>
+        <h2>1283 → 1286 → 1292 : suivre le patronage personnel de Yŏm</h2>
+        <p>Plutôt que d’isoler chaque œuvre par médium, leur succession montre comment les mêmes préoccupations — protection, longévité, mérite et salut — peuvent passer de l’écriture manuscrite à la peinture puis à l’image imprimée.</p>
+      </div>
+
+      <div class="yom-objects">
+        <article class="yom-object">
+          <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9987ba0aac76/kjmh-33-3-563f5.jpg" alt="Rouleaux associés au stoupa de Namgyewŏn" loading="lazy">
+          <div class="yom-object-body"><div class="yom-object-year">VERS 1283 · ÉCRITURE</div><h3>Soutra du Lotus</h3><div class="hanja yom-hanja">妙法蓮華經</div><p>Copie votive, dépôt dans le stoupa et transformation du texte en présence reliquaire.</p></div>
+        </article>
+        <article class="yom-object tall">
+          <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amitabha_%28former_Shimazu_collection%29.jpg" alt="Amitābha commandité par Yŏm Sŭngik en 1286" loading="lazy">
+          <div class="yom-object-body"><div class="yom-object-year">1286 · IMAGE</div><h3>Amitābha</h3><div class="hanja yom-hanja">阿彌陀如來圖</div><p>Une peinture dévotionnelle qui reprend le même horizon votif de renaissance dans la Terre pure.</p></div>
+        </article>
+        <article class="yom-object">
+          <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/8ae5e7ed0cc9/kjmh-33-3-563f7.jpg" alt="Dhāraṇī-maṇḍala associée à Yŏm Sŭngik, 1292" loading="lazy">
+          <div class="yom-object-body"><div class="yom-object-year">1292 · IMPRESSION</div><h3>Dhāraṇī</h3><div class="hanja yom-hanja">寶篋印陀羅尼</div><p>La matrice xylographique permet la multiplication d’objets rituels sans dissocier texte et image.</p></div>
+        </article>
+      </div>
+
+      <div class="yom-practice-flow" aria-label="Évolution du patronage personnel de Yŏm">
+        <div class="yom-practice-step"><b>Commanditaire</b><small>Yŏm Sŭngik 廉承益</small></div>
+        <div class="yom-practice-step"><b>Intention</b><small>protéger · prolonger la vie</small></div>
+        <div class="yom-practice-step"><b>Pratique</b><small>copie · image · impression</small></div>
+        <div class="yom-practice-step"><b>Objet</b><small>soutra · peinture · dhāraṇī</small></div>
+        <div class="yom-practice-step"><b>Horizon</b><small>mérite · salut · Terre pure</small></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="kaegyong">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">10 · Kaegyŏng 開京</div>
+        <h2>Un parcours inscrit dans les institutions bouddhiques de la capitale</h2>
+        <p>La trajectoire de Yŏm recoupe plusieurs monastères majeurs de Kaegyŏng, mais ce dossier ne duplique pas la carte générale des réseaux bouddhiques de la capitale. Il en isole seulement le parcours de Yŏm : <strong>Ch’ŏnhyo → Hyŏnhwa → scriptorium royal → mission des stoupas → Namgyewŏn</strong>.</p>
+      </div>
+      <div class="yom-practice-flow" aria-label="Parcours de Yŏm dans les institutions bouddhiques de Kaegyŏng">
+        <div class="yom-practice-step"><b>Ch’ŏnhyo</b><small><span class="yom-hanja">天孝寺</span> · 1277</small></div>
+        <div class="yom-practice-step"><b>Hyŏnhwa</b><small><span class="yom-hanja">玄化寺</span> · 1280</small></div>
+        <div class="yom-practice-step"><b>Scriptorium</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div>
+        <div class="yom-practice-step"><b>Mission royale</b><small>plusieurs stoupas · 1283</small></div>
+        <div class="yom-practice-step"><b>Namgyewŏn</b><small><span class="yom-hanja">南溪院</span> · dépôt du soutra</small></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="dernieres-annees">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">11 · 1295–1302</div>
+        <h2>Maladie, retrait et entrée dans la vie monastique</h2>
+        <p>La dernière partie de la vie de Yŏm donne une cohérence supplémentaire à son patronage religieux. En 1295, il se retire des affaires politiques en raison de sa santé. Deux ans plus tard, sa réputation de guérisseur le ramène encore auprès de la famille royale. En 1302, après avoir refusé de nouvelles nominations, il abandonne ses titres et devient moine bouddhiste peu avant sa mort.</p>
+      </div>
+
+      <div class="yom-legacy">
+        <article class="yom-legacy-card"><div class="mark">1295</div><h3>Retrait</h3><p>La maladie interrompt la carrière politique active, mais non les pratiques religieuses de Yŏm.</p></article>
+        <article class="yom-legacy-card"><div class="mark">1297</div><h3>Guérison et dévotion</h3><p>La cour continue de solliciter Yŏm dans un contexte thérapeutique et rituel.</p></article>
+        <article class="yom-legacy-card"><div class="mark">1302</div><h3>Moine bouddhiste</h3><p>Le renoncement final aux titres de cour clôt une trajectoire où fonction politique et engagement bouddhique avaient constamment coexisté.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section" id="conclusion">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">12 · Ce que révèle le cas Yŏm Sŭngik</div>
+        <h2>Un intermédiaire plus qu’un simple commanditaire</h2>
+        <p>Yŏm permet de saisir l’art bouddhique au Koryŏ comme le produit d’actions coordonnées : une décision royale, une mission administrative, un monastère, un scriptorium, un objet votif et un geste rituel peuvent appartenir à une même chaîne d’action.</p>
+      </div>
+
+      <div class="yom-legacy">
+        <article class="yom-legacy-card"><div class="mark yom-hanja">王</div><h3>L’homme de pouvoir</h3><p>Sa proximité avec Ch’ungnyŏl lui donne accès aux ressources de la cour et aux grands établissements bouddhiques.</p></article>
+        <article class="yom-legacy-card"><div class="mark yom-hanja">願</div><h3>Le pratiquant</h3><p>Les colophons et inscriptions montrent des préoccupations personnelles : santé, protection, mérite et renaissance en Terre pure.</p></article>
+        <article class="yom-legacy-card"><div class="mark yom-hanja">像</div><h3>L’intermédiaire</h3><p>Il relie architecture, manuscrit, peinture et impression sans que ces médiums aient la même fonction ni le même statut de commande.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="yom-section yom-sources" id="sources">
+    <div class="yom-shell">
+      <div class="yom-section-head">
+        <div class="yom-kicker">Sources & méthode</div>
+        <h2>Une page construite à partir de la thèse</h2>
+        <p>Le texte et la structure interprétative reposent d’abord sur les chapitres de thèse consacrés à Yŏm Sŭngik, au Soutra du Lotus de Namgyewŏn et aux productions bouddhiques du règne de Ch’ungnyŏl. Les éléments factuels ont été recoupés avec les sources primaires et la bibliographie récente.</p>
+      </div>
+
+      <div class="yom-sources-grid">
+        <div>
+          <h3>Sources principales</h3>
+          <ul>
+            <li><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, notamment k. 29 et k. 123.</li>
+            <li>Thèse de Bryan Sauvadet, chapitres 1 et 2, sections consacrées à Yŏm Sŭngik et aux soutras du Koryŏ.</li>
+            <li><a href="https://www.museum.go.kr/ENG/contents/E0201070000.do?schM=view&id=100252" target="_blank" rel="noopener">Musée national de Corée — stoupa de Namgyewŏn ↗</a></li>
+            <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">Lim Young-ae, étude sur Yŏm Sŭngik, maladie, guérison et pratiques bouddhiques ↗</a></li>
+            <li><a href="https://doi.org/10.3390/rel17070769" target="_blank" rel="noopener">Lim Young-ae, étude sur les œuvres commanditées par Yŏm Sŭngik ↗</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Principes éditoriaux</h3>
+          <ul>
+            <li>Romanisation coréenne selon le système <strong>McCune–Reischauer</strong>.</li>
+            <li>Sinogrammes donnés à la première occurrence des personnes, institutions et œuvres importantes.</li>
+            <li>Distinction explicite entre <strong>mission royale</strong> et <strong>patronage personnel</strong>.</li>
+            <li>Datation prudente (« vers 1283 ») lorsqu’une année exacte n’est pas assurée par l’objet lui-même.</li>
+            <li>Les reconstitutions graphiques sont des infographies explicatives et non des restitutions archéologiques.</li>
+          </ul>
+        </div>
+      </div>
+
+      <a class="yom-back" href="/fr/cartes.html">← Retour à Cartes & infographies</a>
+    </div>
+  </section>
+</main>
+```
