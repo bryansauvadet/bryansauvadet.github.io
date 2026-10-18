@@ -1,0 +1,40 @@
+---
+title: "불교 건축의 역사"
+lang: ko
+format:
+  html:
+    include-before-body: ../_includes/ko-header.html
+    include-after-body: ../_includes/ko-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<main class="hab-page">
+<section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy">
+<div class="hab-kicker">시각 자료 · 인도 · 중국 · 한국 · 일본 · 베트남</div>
+<h1>불교 건축의 역사</h1>
+<p class="hab-lead">인도의 승원과 스투파에서 중국의 탑 변형, 그리고 한국·일본·베트남의 지역적 전개까지: 불교 건축의 형태, 기능, 재료, 성스러운 경관을 비교하는 역사.</p>
+<p class="hab-note">I–V부는 <em>사찰과 불탑 이야기</em>의 프랑스어 번역을 주된 골격으로 삼고, VI–VII부는 일본과 베트남의 문화유산 자료로 범위를 확장한다. VIII부에서는 다섯 지역 전통을 비교한다.</p>
+<div class="hab-stats"><div><strong>8</strong><span>대주제</span></div><div><strong>69</strong><span>소주제</span></div><div><strong>5</strong><span>지역 전통</span></div></div>
+</div><div class="hab-hero-visual" aria-hidden="true"><div class="hab-cosmos"></div><div class="hab-stupa"><span class="hab-stupa-finial"></span><span class="hab-stupa-dome"></span><span class="hab-stupa-base"></span></div><div class="hab-pagoda"><span></span><span></span><span></span><span></span></div><div class="hab-hall"><span class="hab-hall-roof"></span><span class="hab-hall-body"></span></div><div class="hab-route"></div></div></div></section>
+<section class="hab-intro" id="introduction"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">서론</div><h2>시간과 공간 속에서 읽는 불교 건축</h2><p>종교는 건물보다 쉽게 이동한다. 경전, 사리, 불상과 의례는 수천 킬로미터를 이동할 수 있지만 건축은 각 지역의 재료, 기술, 기후, 건축 전통 속에서 다시 만들어져야 한다. 따라서 이 페이지는 하나의 고정된 ‘양식’이 퍼지는 과정보다, 공동체의 거주, 사리 봉안, 부처의 현존, 교육, 의례, 신도의 이동이라는 기능이 지역마다 어떻게 번역되었는지를 추적한다.</p><p>인도에서 승원과 스투파가 형성되는 과정에서 시작해 둘의 결합과 중국에서의 탑 변형을 살펴보고, 이어 한국·일본·베트남의 독자적인 전개를 비교한다. 각 소주제는 독립적인 시각 자료를 배치할 수 있는 하나의 모듈로 구성했다.</p></div></div></section>
+<section class="hab-toc-section" id="contents"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">내비게이션</div><h2>인터랙티브 목차</h2><p>소주제 제목을 클릭하면 해당 본문으로 바로 이동한다.</p></div><nav class="hab-toc">
+<div class="hab-toc-group"><a class="hab-toc-part" href="#india-monastery"><span>I</span> 인도 — 불교 승원의 탄생</a><ol><li><a href="#i-1">승원이 존재하기 전의 불교</a></li><li><a href="#i-2">승원을 가리키는 여러 명칭과 의미</a></li><li><a href="#i-3">인도의 초기 대승원</a></li><li><a href="#i-4">승원, 도시, 탁발</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#india-stupa"><span>II</span> 인도 — 스투파의 탄생과 발전</a><ol><li><a href="#ii-1">스투파란 무엇인가?</a></li><li><a href="#ii-2">붓다 생전의 스투파</a></li><li><a href="#ii-3">열반과 사리 분배</a></li><li><a href="#ii-4">누가 어디에 스투파를 세웠는가?</a></li><li><a href="#ii-5">산치와 바르후트: 이야기하는 스투파</a></li><li><a href="#ii-6">요잡과 우주론</a></li><li><a href="#ii-7">붓다의 스투파에서 선사의 승탑으로</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#india-china-pagoda"><span>III</span> 인도에서 중국으로 — 스투파가 사찰 안으로 들어와 탑이 되다</a><ol><li><a href="#iii-1">인도 승원에 스투파가 통합되다</a></li><li><a href="#iii-2">차이티야와 비하라</a></li><li><a href="#iii-3">중국으로의 불교 전래</a></li><li><a href="#iii-4">중국 건축과의 만남</a></li><li><a href="#iii-5">인도 스투파에서 중국식 탑으로</a></li><li><a href="#iii-6">전탑적 건물: 사리·불상·순환</a></li><li><a href="#iii-7">목재에서 벽돌로</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#china-korea-monastery"><span>IV</span> 중국과 한국 — 동아시아 사찰의 변형</a><ol><li><a href="#iv-1">탑 중심에서 불전 중심으로</a></li><li><a href="#iv-2">탑돌이와 순당</a></li><li><a href="#iv-3">중국·한국·일본의 재료 선택</a></li><li><a href="#iv-4">한국 석탑의 탄생</a></li><li><a href="#iv-5">대신라의 고전적 석탑</a></li><li><a href="#iv-6">불교 우주의 축소판으로서의 탑</a></li><li><a href="#iv-7">한국 석탑의 다양화</a></li><li><a href="#iv-8">부도와 승탑</a></li><li><a href="#iv-9">작아지는 탑, 커지는 불전</a></li><li><a href="#iv-10">성스러운 궁궐로서의 사찰</a></li><li><a href="#iv-11">한국 사찰의 문</a></li><li><a href="#iv-12">한국의 산지 사찰</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#china-korea-hall"><span>V</span> 중국과 한국 — 불전과 목조건축</a><ol><li><a href="#v-1">사찰 건물의 위계</a></li><li><a href="#v-2">한옥 구조와 목조건축</a></li><li><a href="#v-3">불교와 고려 건축의 보존</a></li><li><a href="#v-4">고려와 조선: 주심포와 다포</a></li><li><a href="#v-5">지붕의 형식</a></li><li><a href="#v-6">문·창호·꽃살</a></li><li><a href="#v-7">전돌 바닥에서 마루로</a></li><li><a href="#v-8">부처와 보살의 전각</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#japan"><span>VI</span> 일본 — 일본 불교 건축의 형성</a><ol><li><a href="#vi-1">일본에 불교 건축이 들어오다</a></li><li><a href="#vi-2">아스카 飛鳥 — 초기 사찰</a></li><li><a href="#vi-3">호류지 法隆寺와 고대 불교 건축</a></li><li><a href="#vi-4">나라 奈良 — 국가 사찰</a></li><li><a href="#vi-5">도다이지 東大寺와 대불전 大仏殿</a></li><li><a href="#vi-6">수도에서 산으로</a></li><li><a href="#vi-7">밀교 건축과 만다라 공간</a></li><li><a href="#vi-8">정토 浄土와 뵤도인 平等院</a></li><li><a href="#vi-9">선종 禅宗 건축</a></li><li><a href="#vi-10">일본 전각과 정원</a></li><li><a href="#vi-11">삼층·오층탑과 다보탑 多宝塔</a></li><li><a href="#vi-12">일본 건축의 지속성과 특수성</a></li></ol></div>
+<div class="hab-toc-group hab-vietnam"><a class="hab-toc-part" href="#vietnam"><span>VII</span> 베트남 — 베트남 불교 건축의 형성과 변형</a><ol><li><a href="#vii-1">베트남 불교의 도입</a></li><li><a href="#vii-2">Luy Lâu 羸𨻻와 초기 불교 중심지</a></li><li><a href="#vii-3">Lý 李朝와 Trần 陳朝</a></li><li><a href="#vii-4">Chùa Một Cột 一柱寺</a></li><li><a href="#vii-5">베트남의 탑과 스투파</a></li><li><a href="#vii-6">베트남 사찰의 구성</a></li><li><a href="#vii-7">nội công ngoại quốc 內工外國</a></li><li><a href="#vii-8">목구조와 가구</a></li><li><a href="#vii-9">베트남 지붕</a></li><li><a href="#vii-10">건축과 경관</a></li><li><a href="#vii-11">Huế와 Thiên Mụ 天姥寺</a></li><li><a href="#vii-12">종교적 혼합과 다층적 제단</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#synthesis"><span>VIII</span> 종합 — 다섯 전통, 하나의 불교 건축인가?</a><ol><li><a href="#viii-1">스투파에서 탑으로</a></li><li><a href="#viii-2">사리에서 불상으로</a></li><li><a href="#viii-3">재료가 만든 지역적 전통</a></li><li><a href="#viii-4">사찰 배치 비교</a></li><li><a href="#viii-5">건축과 권력</a></li><li><a href="#viii-6">건축과 경관</a></li><li><a href="#viii-7">부처의 현존을 기념비화하는 다섯 방식</a></li></ol></div>
+</nav></div></section></main>
+```
+{{< include histoire-architecture-bouddhique/part-i.qmd >}}
+{{< include histoire-architecture-bouddhique/part-ii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-iii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-iv.qmd >}}
+{{< include histoire-architecture-bouddhique/part-v.qmd >}}
+{{< include histoire-architecture-bouddhique/part-vi.qmd >}}
+{{< include histoire-architecture-bouddhique/part-vii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-viii.qmd >}}
+```{=html}<div class="hab-backtop"><a href="#top">↑ 맨 위로</a></div>```
