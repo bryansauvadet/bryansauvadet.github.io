@@ -675,7 +675,7 @@ a,span,p,h1,h2,h3,h4,div{
 
 
 /* Short four-culture homepage intro */
-html.site-intro-pending body{visibility:hidden;overflow:hidden}
+html.site-intro-skip .site-intro{display:none!important}
 .site-intro{
   position:fixed;inset:0;z-index:10000;display:grid;place-items:center;
   background:#151310;overflow:hidden;opacity:1;cursor:pointer;
