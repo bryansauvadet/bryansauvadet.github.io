@@ -53,7 +53,7 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg" alt="Thủy Nguyệt Quán Âm, tranh Phật giáo thời Cao Ly" loading="lazy" style="object-position:center 34%;">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-2" alt="Thủy Nguyệt Quán Âm, tranh Phật giáo thời Cao Ly" loading="eager" fetchpriority="high" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">TRỤC 01</div>
