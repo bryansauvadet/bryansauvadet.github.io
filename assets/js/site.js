@@ -6,8 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const forceIntro = new URLSearchParams(window.location.search).get('intro') === '1';
     const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const rawLang = (document.documentElement.lang || 'fr').toLowerCase();
+    const introLang = rawLang.startsWith('zh') ? 'zh-hant' : rawLang.split('-')[0];
+    const introKey = 'bs-site-intro-v4-' + introLang;
     let alreadySeen = false;
-    try { alreadySeen = !forceIntro && !!sessionStorage.getItem('bs-site-intro-v3'); } catch (e) {}
+    try { alreadySeen = !forceIntro && !!sessionStorage.getItem(introKey); } catch (e) {}
 
     if (!forceIntro && (reducedMotion || alreadySeen)) {
       intro.remove();
@@ -16,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     document.documentElement.classList.remove('site-intro-skip');
-    try { if (!forceIntro) sessionStorage.setItem('bs-site-intro-v3', '1'); } catch (e) {}
+    try { if (!forceIntro) sessionStorage.setItem(introKey, '1'); } catch (e) {}
 
     let finished = false;
     const finish = () => {
