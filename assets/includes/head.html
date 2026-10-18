@@ -8,7 +8,8 @@
   try{
     var home=/^\/(fr|en|ko|ja|zh-hant|vi)\/(?:index\.html)?$/;
     var reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    if(home.test(location.pathname)&&!reduced&&!sessionStorage.getItem('bs-site-intro-v2')){
+    var force=new URLSearchParams(location.search).get('intro')==='1';
+    if(home.test(location.pathname)&&!reduced&&(force||!sessionStorage.getItem('bs-site-intro-v2'))){
       document.documentElement.classList.add('site-intro-pending');
     }
   }catch(e){}
