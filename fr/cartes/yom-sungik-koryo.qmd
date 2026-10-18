@@ -460,7 +460,11 @@ format:
         <div>
           <h3>Sources principales</h3>
           <ul>
-            <li><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a : biographie de Yŏm Sŭngik dans la section des « favoris ».</li>\n            <li><em>Koryŏsa</em>, k. 123, 10a–b : réputation de Yŏm Sŭngik, proximité avec la cour et activités liées au bouddhisme.</li>\n            <li><em>Koryŏsa</em>, k. 29, 9a–b : ordre royal relatif au pavillon du monastère de Hyŏnhwa en 1280.</li>\n            <li><em>Koryŏsa</em>, k. 29, 45a : mission de 1283 pour la restauration des stoupas de Hyŏnhwa, Wangnyun, Namgyewŏn et d’une dépendance de Kaeguk.</li>\n            <li><em>Koryŏsa</em>, k. 32, 10a : dernières années et entrée de Yŏm Sŭngik dans la vie monastique en 1302.</li>
+            <li><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a : biographie de Yŏm Sŭngik dans la section des « favoris ».</li>
+            <li><em>Koryŏsa</em>, k. 123, 10a–b : réputation de Yŏm Sŭngik, proximité avec la cour et activités liées au bouddhisme.</li>
+            <li><em>Koryŏsa</em>, k. 29, 9a–b : ordre royal relatif au pavillon du monastère de Hyŏnhwa en 1280.</li>
+            <li><em>Koryŏsa</em>, k. 29, 45a : mission de 1283 pour la restauration des stoupas de Hyŏnhwa, Wangnyun, Namgyewŏn et d’une dépendance de Kaeguk.</li>
+            <li><em>Koryŏsa</em>, k. 32, 10a : dernières années et entrée de Yŏm Sŭngik dans la vie monastique en 1302.</li>
             <li>Thèse de Bryan Sauvadet, chapitres 1 et 2, sections consacrées à Yŏm Sŭngik et aux soutras du Koryŏ.</li>
             <li><a href="https://www.museum.go.kr/ENG/contents/E0201070000.do?schM=view&id=100252" target="_blank" rel="noopener">Musée national de Corée — stoupa de Namgyewŏn ↗</a></li>
             <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">Lim Young-ae, étude sur Yŏm Sŭngik, maladie, guérison et pratiques bouddhiques ↗</a></li>
