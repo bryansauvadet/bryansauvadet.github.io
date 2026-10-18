@@ -286,6 +286,22 @@ format:
         </div>
       </div>
 
+      <div class="yom-lotus-analysis" aria-labelledby="lotus-image-analysis-title">
+        <figure class="yom-lotus-frontispiece">
+          <img src="/assets/img/yom-sungik/namgyewon-lotus-frontispiece.webp" alt="Frontispice du premier rouleau du Soutra du Lotus de Namgyewŏn, figure protectrice courroucée peinte à l’or sur papier indigo" loading="lazy">
+          <figcaption>Frontispice du premier rouleau du <em>Soutra du Lotus</em> de Namgyewŏn, vers 1283 · papier indigo, or et argent · Musée national de Corée.</figcaption>
+        </figure>
+
+        <div class="yom-lotus-analysis-copy">
+          <div class="yom-kicker">Analyse de l’image</div>
+          <h3 id="lotus-image-analysis-title">Une figure protectrice condensée dans un « soutra comme relique »</h3>
+          <p>Le premier des sept rouleaux découverts dans le stoupa de Namgyewŏn est le mieux conservé. Sur le papier teinté à l’indigo, le texte est copié à l’argent tandis que la couverture et le frontispice sont exécutés à l’or. L’image se distingue par une économie iconographique remarquable : au lieu d’une scène narrative développée, elle isole une seule figure aux traits courroucés, debout sur un trône de lotus et tenant dans la main droite un grand foudre <span class="yom-hanja">金剛杵</span> (<span class="yom-roman">kŭmgangjŏ</span>, vajra).</p>
+          <p>Le corps est orienté vers la gauche tandis que la tête se détourne dans le sens opposé. La musculature saillante, les pans du vêtement animés par le mouvement, la tension des bras et le motif de flammes entourant la tête donnent à la figure une présence énergique et protectrice. Cette construction visuelle ne cherche pas à raconter le contenu du soutra : elle concentre au contraire la puissance du Dharma dans une image immédiatement lisible. Sur le plan stylistique, elle est très proche des figures protectrices des soutras illustrés réalisés autour de 1275–1276, notamment le <em>Soutra des mantras des transformations miraculeuses du Lasso Infaillible</em> et le <em>Soutra du Bodhisattva Mañjuśrī</em>.</p>
+          <p>Cette simplicité prend tout son sens lorsque l’on considère la destination du manuscrit. Les sept rouleaux n’étaient pas destinés à rester visibles : ils furent déposés à l’intérieur du stoupa restauré en 1283. L’image doit donc être comprise moins comme un support de contemplation que comme une <strong>présence rituelle condensée et opératoire</strong>. Dans la thèse, cette catégorie est désignée comme celle des <strong>« soutras comme reliques »</strong> : le texte sacré, son image protectrice et le monument qui les enferme forment ensemble un dispositif de consécration. Cette interprétation rejoint le passage du <em>Soutra du Lotus</em> qui assimile la présence du texte à celle du corps même du Tathāgata.</p>
+          <p class="yom-source">Analyse d’après la thèse, chap. 2, § 2.1.1.1.1 « Les soutras comme reliques ». Le manuscrit commandité par Yŏm Sŭngik vers 1283 et découvert dans le stoupa de Namgyewŏn est conservé au Musée national de Corée.</p>
+        </div>
+      </div>
+
       <div class="yom-inscription">
         <div class="yom-kicker">Un motif votif commun</div>
         <div class="hanja yom-hanja" lang="zh-Hant">願我臨欲命終時 · 盡除一切諸障礙 · 面見彼佛阿彌陀 · 即得往生安樂刹</div>
