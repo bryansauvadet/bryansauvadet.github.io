@@ -168,7 +168,7 @@ format:
       <div class="research-section-kicker">Travaux en cours</div>
       <h2>Recherches actuellement développées</h2>
     </div>
-    <p>Ces dossiers prolongent les axes précédents et servent de laboratoires pour de futurs articles, corpus comparatifs et visualisations scientifiques.</p>
+    
   </div>
 
   <div class="projects-grid">
