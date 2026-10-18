@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/fr-footer.html
 ---
 <section class="page-hero"><h1>Bases de données</h1></section>
-<main class="content"><div class="content-inner database-index"><div class="database-grid"><a class="database-card" href="/fr/bases/stoupas-coreens.html"><h2>Stoupas coréens</h2><p>Base de données consacrée aux stoupas coréens.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
+<main class="content"><div class="content-inner database-index"><div class="database-grid"><a class="database-card" href="/fr/bases/stoupas-coreens.html"><div class="database-card-image"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap au monastère Pulguksa, Kyŏngju" loading="lazy"></div><h2>Stoupas coréens</h2><p>Base de données consacrée aux stoupas coréens.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>

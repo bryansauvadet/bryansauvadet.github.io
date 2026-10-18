@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/zh-hant-footer.html
 ---
 <section class="page-hero database-subhero"><div class="eyebrow"><a href="/zh-hant/databases.html">資料庫</a></div><h1>韓國佛塔</h1></section>
-<main class="content"><div class="content-inner database-detail"><p class="lead">此子頁面將用於建立韓國佛塔資料庫。</p><div class="database-empty-state"><h2>韓國佛塔</h2><p>資料庫建置中。</p></div></div></main>
+<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州佛國寺多寶塔"><figcaption>多寶塔 · 佛國寺 · 慶州</figcaption></figure><p class="lead">此子頁面將用於建立韓國佛塔資料庫。</p><div class="database-empty-state"><h2>韓國佛塔</h2><p>資料庫建置中。</p></div></div></main>

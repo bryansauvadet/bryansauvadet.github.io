@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/vi-footer.html
 ---
 <section class="page-hero database-subhero"><div class="eyebrow"><a href="/vi/databases.html">Cơ sở dữ liệu</a></div><h1>Bảo tháp Hàn Quốc</h1></section>
-<main class="content"><div class="content-inner database-detail"><p class="lead">Trang con này sẽ chứa cơ sở dữ liệu về các bảo tháp Hàn Quốc.</p><div class="database-empty-state"><h2>Bảo tháp Hàn Quốc</h2><p>Cơ sở dữ liệu đang được xây dựng.</p></div></div></main>
+<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tháp Dabo tại chùa Bulguksa, Gyeongju"><figcaption>Tháp Dabo · Bulguksa · Gyeongju</figcaption></figure><p class="lead">Trang con này sẽ chứa cơ sở dữ liệu về các bảo tháp Hàn Quốc.</p><div class="database-empty-state"><h2>Bảo tháp Hàn Quốc</h2><p>Cơ sở dữ liệu đang được xây dựng.</p></div></div></main>

@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/en-footer.html
 ---
 <section class="page-hero database-subhero"><div class="eyebrow"><a href="/en/databases.html">Databases</a></div><h1>Korean stupas</h1></section>
-<main class="content"><div class="content-inner database-detail"><p class="lead">This subpage will host the database devoted to Korean stupas.</p><div class="database-empty-state"><h2>Korean stupas</h2><p>Database under construction.</p></div></div></main>
+<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap at Bulguksa, Gyeongju"><figcaption>Tabot'ap · Bulguksa · Gyeongju</figcaption></figure><p class="lead">This subpage will host the database devoted to Korean stupas.</p><div class="database-empty-state"><h2>Korean stupas</h2><p>Database under construction.</p></div></div></main>
