@@ -215,7 +215,7 @@ format:
       </div>
 
       <div class="yom-media-grid">
-        <figure class="yom-figure">
+        <figure class="yom-figure yom-image-reduced">
           <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site%2C_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" alt="Stoupa à sept étages du site de Namgyewŏn">
           <figcaption>Stoupa à sept étages du site de Namgyewŏn · <span class="yom-hanja">開城 南溪院址 七層石塔</span> · photographie Bart0278, CC BY-SA 3.0 · <a href="https://commons.wikimedia.org/wiki/File:Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site,_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" target="_blank" rel="noopener">Wikimedia Commons ↗</a></figcaption>
         </figure>
@@ -252,7 +252,7 @@ format:
         </div>
       </div>
 
-      <figure class="yom-figure contain" style="max-width:980px;margin:42px auto 0;">
+      <figure class="yom-figure contain yom-image-reduced" style="max-width:980px;margin:42px auto 0;">
         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9987ba0aac76/kjmh-33-3-563f5.jpg" alt="Photographie ancienne du stoupa de Namgyewŏn et sept rouleaux découverts dans le monument" loading="lazy">
         <figcaption>Photographie ancienne du stoupa et ensemble des sept rouleaux découverts lors de son déplacement · reproduit dans Lim Young-ae, 2024 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">article en libre accès ↗</a></figcaption>
       </figure>
@@ -268,7 +268,7 @@ format:
       </div>
 
       <div class="yom-media-grid">
-        <figure class="yom-figure contain">
+        <figure class="yom-figure contain yom-image-reduced">
           <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9997c4b7344a/kjmh-33-3-563f4.jpg" alt="Texte votif du Soutra du Lotus commandité par Yŏm Sŭngik" loading="lazy">
           <figcaption>Texte votif associé au Soutra du Lotus de Yŏm Sŭngik · reproduit dans Lim Young-ae, 2024 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">source ↗</a></figcaption>
         </figure>
@@ -312,7 +312,7 @@ format:
       </div>
 
       <div class="yom-media-grid">
-        <figure class="yom-figure contain">
+        <figure class="yom-figure contain yom-image-reduced">
           <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amitabha_%28former_Shimazu_collection%29.jpg" alt="Peinture d’Amitābha commanditée par Yŏm Sŭngik en 1286" loading="lazy">
           <figcaption>Amitābha, 1286, ancienne collection Shimazu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Amitabha_(former_Shimazu_collection).jpg" target="_blank" rel="noopener">Wikimedia Commons ↗</a></figcaption>
         </figure>
@@ -342,7 +342,7 @@ format:
       </div>
 
       <div class="yom-media-grid">
-        <figure class="yom-figure contain">
+        <figure class="yom-figure contain yom-image-reduced">
           <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/8ae5e7ed0cc9/kjmh-33-3-563f7.jpg" alt="Dhāraṇī-maṇḍala du Sceau du Coffret précieux associée à Yŏm Sŭngik, 1292" loading="lazy">
           <figcaption>Dhāraṇī-maṇḍala du Sceau du Coffret précieux, 1292 · reproduit dans Lim Young-ae, 2024 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">source ↗</a></figcaption>
         </figure>
