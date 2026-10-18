@@ -198,14 +198,14 @@ html[lang="vi"] .brand-sub{
 
 /* About / academic CV */
 .about-page{max-width:1240px;margin:0 auto;padding:42px 30px 76px}
-.about-profile{display:grid;grid-template-columns:290px minmax(0,1fr);gap:46px;align-items:center;padding-bottom:38px;border-bottom:1px solid var(--line)}
-.about-photo-wrap{width:290px;aspect-ratio:1/1;overflow:hidden;background:#e9e2d7}
+.about-profile{display:grid;grid-template-columns:310px minmax(0,1fr);gap:46px;align-items:center;padding-bottom:38px;border-bottom:1px solid var(--line)}
+.about-photo-wrap{width:310px;aspect-ratio:1/1;overflow:hidden;background:#e9e2d7;border:1px solid #e1d8cb}
 .about-profile-photo{display:block;width:100%;height:100%;object-fit:cover;object-position:center center}
-.about-role{font:10px/1.4 Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--accent-dark);margin-bottom:10px}
+.about-role{font:11px/1.45 Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-dark);margin-bottom:10px}.about-degree{font-size:13px;letter-spacing:.055em}
 .about-profile-copy h2{font-size:38px;line-height:1.08;font-weight:400;margin:0 0 14px}
 .about-summary{font-size:18px;line-height:1.65;max-width:810px;margin:0;color:#38332e}
 .about-status{display:flex;flex-wrap:wrap;gap:8px 18px;margin:17px 0 0;font:11px/1.45 Arial,sans-serif;color:#635d55}
-.about-status span{padding-left:12px;position:relative}.about-status span:before{content:"";width:4px;height:4px;border-radius:50%;background:var(--accent);position:absolute;left:0;top:.55em}
+.about-status span{padding-left:12px;position:relative}.about-status span:before{content:"";width:4px;height:4px;border-radius:50%;background:var(--accent);position:absolute;left:0;top:.55em}.about-email{display:inline-block;color:var(--accent-dark);text-decoration:underline;text-underline-offset:3px}
 .cv-nav{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
 .cv-nav a{border:1px solid #d9d0c3;padding:7px 11px;font:10px/1 Arial,sans-serif;letter-spacing:.04em;background:#fff}
 .cv-nav a:hover{border-color:var(--accent);color:var(--accent-dark)}
@@ -214,7 +214,7 @@ html[lang="vi"] .brand-sub{
 .cv-entry{display:grid;grid-template-columns:170px minmax(0,1fr);gap:28px;padding:22px 0;border-bottom:1px solid #eee8df}
 .cv-when{font:11px/1.45 Arial,sans-serif;color:#5f584f;padding-top:3px}
 .cv-when strong{display:block;font-weight:600;color:#28231f;margin-bottom:3px}
-.cv-when span{display:block}
+.cv-when span{display:block}.cv-place{display:flex!important;align-items:center;gap:6px}.cv-flag{font-size:15px;line-height:1;padding:0!important}.cv-flag:before{display:none!important}
 .cv-body h3{font-size:18px;line-height:1.35;font-weight:400;margin:0 0 5px}
 .cv-org{font:12px/1.5 Arial,sans-serif;color:var(--accent-dark);margin-bottom:7px}
 .cv-body p,.cv-body li{font-size:13.5px;line-height:1.62;color:#514b44}
@@ -226,7 +226,7 @@ html[lang="vi"] .brand-sub{
 .cv-skill-card{border:1px solid var(--line);background:var(--paper-2);padding:20px 22px}
 .cv-skill-card h3{font-size:18px;font-weight:400;margin:0 0 12px}
 .cv-skill-card ul{margin:0;padding-left:18px}
-.cv-skill-card li{font-size:13px;line-height:1.65;margin-bottom:3px}
+.cv-skill-card li{font:13px/1.65 "Segoe UI","Arial Unicode MS",Arial,sans-serif;margin-bottom:3px;font-variant-ligatures:none;text-rendering:auto}
 @media(max-width:860px){
   .about-page{padding:32px 22px 58px}
   .about-profile{grid-template-columns:190px minmax(0,1fr);gap:28px}
