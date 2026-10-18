@@ -6,5 +6,239 @@ format:
     include-before-body: _includes/vi-header.html
     include-after-body: _includes/vi-footer.html
 ---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/recherche.css">
+
 <section class="page-hero"><h1>Nghiên cứu</h1></section>
-<main class="content"><p class="lead">Research axes, projects and current work.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="research-page">
+
+<section class="research-intro">
+  <div class="research-intro-copy">
+    <div class="research-kicker">Lịch sử nghệ thuật Phật giáo · Đông Á</div>
+    <h2>Hình ảnh, nghi lễ, quyền lực và lưu chuyển</h2>
+    <p>Nghiên cứu của tôi tập trung vào những biến đổi của nghệ thuật Phật giáo trong trường kỳ lịch sử, từ cổ đại đến đương đại, trên không gian Trung Quốc, Triều Tiên, Nhật Bản và Việt Nam. Tôi xem xét hình ảnh và di tích không như những đối tượng biệt lập, mà qua người bảo trợ, cách sử dụng trong nghi lễ, quá trình dịch chuyển, cùng những bối cảnh chính trị, xã hội và tôn giáo nơi chúng hình thành ý nghĩa.</p>
+    <nav class="research-nav" aria-label="Điều hướng các trục nghiên cứu">
+      <a href="#axes">Trục nghiên cứu</a>
+      <a href="#queer">Queer &amp; Phật giáo</a>
+      <a href="#projets">Nghiên cứu đang thực hiện</a>
+      <a href="#methode">Phương pháp</a>
+      <a href="#ressources">Tư liệu &amp; dữ liệu</a>
+    </nav>
+  </div>
+
+  <div class="research-map" aria-label="Sơ đồ các khái niệm chính của nghiên cứu">
+    <div class="research-core"><strong>Hình ảnh<br>↔ Nghi lễ<br>↔ Quyền lực</strong></div>
+    <div class="research-node n1">Người bảo trợ</div>
+    <div class="research-node n2">Lưu chuyển</div>
+    <div class="research-node n3">Giới</div>
+    <div class="research-node n4">Tính vật chất</div>
+    <div class="research-node n5">Kiến trúc</div>
+    <div class="research-node n6">Căn tính</div>
+    <div class="research-geography">Trung Quốc · Triều Tiên · Nhật Bản · Việt Nam</div>
+  </div>
+</section>
+
+<section class="research-section" id="axes">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">01—06 · Trục nghiên cứu</div>
+      <h2>Một lịch sử xã hội, vật chất và xuyên vùng của Phật giáo</h2>
+    </div>
+    <p>Các corpus được tiếp cận từ minh văn, tính vật chất, thực hành nghi lễ, mạng lưới bảo trợ và sự lưu chuyển của hình thức giữa các xã hội Đông Á.</p>
+  </div>
+
+  <div class="axes-grid">
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="Thủy Nguyệt Quán Âm, tranh Phật giáo thời Cao Ly" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">TRỤC 01</div>
+        <h3>Nghệ thuật Phật giáo cung đình và chuyển tiếp Cao Ly–Triều Tiên</h3>
+        <p>Nghiên cứu tính liên tục nghệ thuật vượt qua đứt gãy triều đại, sự bảo trợ hoàng gia, vai trò của phụ nữ cung đình, minh văn, chính sách tôn giáo và việc tạo tác hình tượng từ cuối Cao Ly đến đầu Triều Tiên.</p>
+        <div class="axis-tags"><span>Cung đình</span><span>Bảo trợ</span><span>Minh văn</span></div>
+        <small class="image-credit-line">Thủy Nguyệt Quán Âm · Cao Ly · The Metropolitan Museum of Art / Wikimedia Commons · phạm vi công cộng.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="Chi tiết tranh Cam Lộ" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">TRỤC 02</div>
+        <h3>Hình ảnh, nghi lễ và tính tác hành</h3>
+        <p>Hình ảnh Phật giáo được nghiên cứu như một đối tượng được kích hoạt qua thực hành và thiết chế nghi lễ. Tranh Cam Lộ 甘露幀 là một corpus đặc biệt quan trọng để phân tích sự xuất hiện, chức năng và tính tác hành của hình ảnh.</p>
+        <div class="axis-tags"><span>甘露幀</span><span>Nghi lễ</span><span>Tính tác hành</span></div>
+        <small class="image-credit-line">Chi tiết tranh Cam Lộ, bản sao một tác phẩm thế kỷ XVIII · Daderot / Wikimedia Commons · CC0.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-circulation" aria-label="Sơ đồ lưu chuyển giữa Hàng Châu, Đại Đô, Khai Kinh và Nhật Bản">
+        <span class="route-line l1"></span><span class="route-line l2"></span><span class="route-line l3"></span>
+        <span class="route-dot hz"></span><span class="route-city hz">Hàng Châu<br>杭州</span>
+        <span class="route-dot dd"></span><span class="route-city dd">Đại Đô<br>大都</span>
+        <span class="route-dot kg"></span><span class="route-city kg">Khai Kinh<br>開京</span>
+        <span class="route-dot jp"></span><span class="route-city jp">Nhật Bản<br>日本</span>
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">TRỤC 03</div>
+        <h3>Lưu chuyển và chuyển giao nghệ thuật</h3>
+        <p>Nghiên cứu sự lưu chuyển của nghệ sĩ, mẫu hình, tác phẩm và thực hành giữa Trung Quốc, Triều Tiên và Nhật Bản: mạng lưới Hàng Châu–Đại Đô–Khai Kinh, sự tiếp nhận các hình thức thời Tống và Nguyên, sự dịch chuyển của hiện vật và lịch sử bảo tồn của chúng trong các bộ sưu tập.</p>
+        <div class="axis-tags"><span>Chuyển giao</span><span>Lịch sử lưu truyền</span><span>Mạng lưới</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual axis-stupa">
+        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Đa Bảo tháp tại Phật Quốc tự, Khánh Châu" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">TRỤC 04</div>
+        <h3>Kiến trúc, tự viện và bảo tháp</h3>
+        <p>Nghiên cứu sự biến đổi và tính bảo thủ của hình thức kiến trúc, vị trí của tự viện và lịch sử bảo tháp. Các corpus phân biệt Tân La, Bách Tế, Cao Câu Ly, Tân La Thống nhất, Cao Ly và Triều Tiên, đồng thời tách biệt những chức năng khác nhau của các di tích.</p>
+        <div class="axis-tags"><span>Bảo tháp</span><span>Tự viện</span><span>Trường kỳ</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Six_of_the_Ten_Kings_of_Hell_LACMA_AC1998.268.3.1-.6_%283_of_5%29.jpg" alt="Tranh Triều Tiên mô tả một vị trong Thập Vương" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">TRỤC 05</div>
+        <h3>Biểu tượng học, cái chết và cứu độ</h3>
+        <p>Nghiên cứu Thập Vương 十王, thế giới bên kia trong Phật giáo, Quán Thế Âm và các quá trình bản địa hóa mô hình biểu tượng. Nghiên cứu này đặc biệt đặt truyền thống Triều Tiên và Việt Nam trong cùng một khung so sánh.</p>
+        <div class="axis-tags"><span>十王</span><span>Thế giới bên kia</span><span>Triều Tiên–Việt Nam</span></div>
+        <small class="image-credit-line">Một phần bộ Thập Vương · Triều Tiên, 1798 · LACMA / Wikimedia Commons · phạm vi công cộng.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Thủy Nguyệt Quán Âm thời Cao Ly tại Freer Gallery of Art" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">TRỤC 06</div>
+        <h3>Nguồn tư liệu, tính vật chất và lịch sử sưu tập</h3>
+        <p>Đọc kết hợp tác phẩm, minh văn, văn bản nghi lễ và dữ liệu vật chất; nghiên cứu quá trình tái phát hiện, tái quy thuộc và lịch sử lưu truyền của các tác phẩm Triều Tiên hiện lưu giữ tại Triều Tiên, Nhật Bản, châu Âu và Hoa Kỳ.</p>
+        <div class="axis-tags"><span>Tính vật chất</span><span>Bảo tàng</span><span>Quy thuộc</span></div>
+        <small class="image-credit-line">Thủy Nguyệt Quán Âm · Cao Ly, thế kỷ XIV · Freer Gallery of Art / Wikimedia Commons · phạm vi công cộng.</small>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="research-section" id="queer">
+  <div class="queer-feature">
+    <div class="queer-copy">
+      <div class="research-section-kicker">Trục xuyên suốt · thời đương đại</div>
+      <h2>Queer và Phật giáo đương đại</h2>
+      <p class="artist-name">Pak Kurim 박그림 · Grim Park</p>
+      <p>Một phần nghiên cứu của tôi tập trung vào quan hệ giữa Phật giáo, nghệ thuật đương đại, giới và căn tính queer tại Triều Tiên. Tôi đặc biệt quan tâm đến thực hành của Pak Kurim 박그림, người tái vận dụng kỹ thuật và cấu trúc thị giác của hội họa Phật giáo Triều Tiên để chất vấn căn tính, chuẩn mực giới và các phạm trù nhị nguyên.</p>
+      <p>Loạt <em>Tầm Hổ Đồ</em> 尋虎圖 của ông tái diễn giải hình ảnh trong <em>Tầm Ngưu Đồ</em> 尋牛圖 bằng cách thay hình tượng con trâu bằng con hổ. Việc chuyển hóa một tự sự tôn giáo truyền thống thành ngôn ngữ đương đại cho phép đồng thời khảo sát tính bên lề, chủ thể tính và khả năng hình thành một biểu tượng học queer trong những hình thức được kế thừa.</p>
+      <div class="queer-sources"><a class="queer-source" href="https://heypop.kr/n/26670/" target="_blank" rel="noopener">Heypop ↗</a><span> · </span><a class="queer-source" href="https://kiaf.org/insights/46599" target="_blank" rel="noopener">Kiaf Seoul ↗</a></div>
+    </div>
+
+    <div class="queer-gallery">
+      <figure class="queer-image portrait">
+        <img src="https://storage.heypop.kr/assets/2022/02/24090810/1-29-473x1024.jpeg" alt="Pak Kurim, Tầm Hổ Đồ – Lạc Lưu, 2019" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_樂流</em>, 2019 · ảnh: Heypop.</figcaption>
+      </figure>
+      <figure class="queer-image diptych">
+        <img src="https://static-edge.kiaf.org/web/2024/11/04133336/%EB%B0%95%EA%B7%B8%EB%A6%BC_%EC%8B%AC%ED%98%B8%EB%8F%84-%EC%9B%94%EA%B4%91%E5%B0%8B%E8%99%8E%E5%9C%96-%E6%9C%88%E5%85%89_%EB%B9%84%EB%8B%A8%EC%97%90-%EB%8B%B4%EC%B1%84_250%C3%97120cm_2022.jpg" alt="Pak Kurim, Tầm Hổ Đồ – Nguyệt Quang và Nhật Quang, 2022" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_月光 · 日光</em>, 2022 · ảnh: Kiaf Seoul.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="projets">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">Nghiên cứu đang thực hiện</div>
+      <h2>Các nghiên cứu hiện đang phát triển</h2>
+    </div>
+    
+  </div>
+
+  <div class="projects-grid">
+    <article class="project-card">
+      <div class="status">Bài viết đang chuẩn bị</div>
+      <h3>« Cao Ly trường kỳ » và bảo tháp đá</h3>
+      <p>Xem xét lại cách phân kỳ theo triều đại từ những tính liên tục kiến trúc và trường kỳ của các hình thức kiến trúc kỷ niệm.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Bài viết đang chuẩn bị</div>
+      <h3>Khởi nguyên biểu tượng học của Thủy Nguyệt Quán Âm</h3>
+      <p>Đặt các nguồn kinh điển, truyền thuyết, địa hình linh thiêng, thực hành nghi lễ và quá trình kiến tạo biểu tượng trong cùng một hệ quan hệ.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Nghiên cứu đang tiến hành</div>
+      <h3>Lưu chuyển Hàng Châu — Đại Đô — Khai Kinh</h3>
+      <p>Tái dựng các mạng lưới con người, hiện vật và mô hình nghệ thuật nối Trung Quốc thời Tống–Nguyên với Cao Ly.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Nghiên cứu đang tiến hành</div>
+      <h3>Cam Lộ 甘露幀</h3>
+      <p>Phân tích sự hình thành của tranh Cam Lộ từ nghi lễ, cách sử dụng hình ảnh và các thiết chế mang tính tác hành.</p>
+    </article>
+  </div>
+</section>
+
+<section class="research-section" id="methode">
+  <div class="method-wrap">
+    <div class="method-copy">
+      <div class="research-section-kicker">Phương pháp</div>
+      <h2>Nghiên cứu tác phẩm trong mạng lưới quan hệ</h2>
+      <p>Cách tiếp cận của tôi kết hợp lịch sử nghệ thuật, nghiên cứu văn bản, minh văn học, phân tích vật chất, lịch sử xã hội, điền dã và công cụ số. Đối tượng không chỉ được mô tả, mà được đặt lại trong toàn bộ những quan hệ chi phối quá trình tạo tác, kích hoạt trong nghi lễ, lưu chuyển và tiếp nhận.</p>
+    </div>
+    <div class="method-diagram" aria-label="Ma trận phương pháp luận">
+      <div class="method-item">Văn bản</div>
+      <div class="method-item">Minh văn</div>
+      <div class="method-item">Người bảo trợ</div>
+      <div class="method-item">Nghi lễ</div>
+      <div class="method-center">Tác phẩm</div>
+      <div class="method-item">Địa điểm</div>
+      <div class="method-item">Tính vật chất</div>
+      <div class="method-item">Lưu chuyển</div>
+      <div class="method-item">Lịch sử lưu truyền</div>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="ressources">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">Tư liệu, điền dã &amp; nhân văn số</div>
+      <h2>Khám phá nghiên cứu</h2>
+    </div>
+    <p>Trang web cung cấp các corpus có cấu trúc, bản đồ, nghiên cứu chuyên đề và công trình đang phát triển nhằm từng bước làm rõ các trục nghiên cứu này.</p>
+  </div>
+
+  <div class="resources-strip">
+    <a class="resource-link" href="/vi/databases.html">
+      <small>Dữ liệu</small>
+      <strong>Cơ sở dữ liệu →</strong>
+      <p>Bảo tháp, di tích, biểu tượng, địa điểm và các corpus có cấu trúc.</p>
+    </a>
+    <a class="resource-link" href="/vi/maps.html">
+      <small>Nghiên cứu</small>
+      <strong>Nghiên cứu chuyên đề →</strong>
+      <p>Liêm Thừa Ích, kiến trúc Phật giáo, bản đồ, niên biểu và trực quan hóa.</p>
+    </a>
+    <a class="resource-link" href="/vi/publications.html">
+      <small>Kết quả</small>
+      <strong>Công bố →</strong>
+      <p>Bài báo, chương sách, tham luận khoa học và văn bản trực tuyến.</p>
+    </a>
+  </div>
+</section>
+
+</main>
+```

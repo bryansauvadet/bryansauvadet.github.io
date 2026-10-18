@@ -6,5 +6,239 @@ format:
     include-before-body: _includes/ja-header.html
     include-after-body: _includes/ja-footer.html
 ---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/recherche.css">
+
 <section class="page-hero"><h1>研究</h1></section>
-<main class="content"><p class="lead">Research axes, projects and current work.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="research-page">
+
+<section class="research-intro">
+  <div class="research-intro-copy">
+    <div class="research-kicker">仏教美術史 · 東アジア</div>
+    <h2>イメージ、儀礼、権力、移動</h2>
+    <p>私の研究は、古代から現代までの長期的な時間軸のなかで、中国・韓国・日本・ベトナムにおける仏教美術の変容を扱う。イメージやモニュメントを孤立した対象としてではなく、発願者、儀礼的使用、移動、そしてそれらが意味を獲得する政治的・社会的・宗教的文脈を通して考察する。</p>
+    <nav class="research-nav" aria-label="研究テーマのナビゲーション">
+      <a href="#axes">研究テーマ</a>
+      <a href="#queer">クィアと仏教</a>
+      <a href="#projets">進行中の研究</a>
+      <a href="#methode">方法論</a>
+      <a href="#ressources">コーパスとデータ</a>
+    </nav>
+  </div>
+
+  <div class="research-map" aria-label="研究で用いる主要概念の模式図">
+    <div class="research-core"><strong>イメージ<br>↔ 儀礼<br>↔ 権力</strong></div>
+    <div class="research-node n1">発願者</div>
+    <div class="research-node n2">移動・交流</div>
+    <div class="research-node n3">ジェンダー</div>
+    <div class="research-node n4">物質性</div>
+    <div class="research-node n5">建築</div>
+    <div class="research-node n6">アイデンティティ</div>
+    <div class="research-geography">中国 · 韓国 · 日本 · ベトナム</div>
+  </div>
+</section>
+
+<section class="research-section" id="axes">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">01—06 · 研究テーマ</div>
+      <h2>社会史・物質文化史・越境史としての仏教</h2>
+    </div>
+    <p>各コーパスを、銘文、物質性、儀礼実践、発願者のネットワーク、そして東アジア諸社会の間を移動する造形形式という観点から分析する。</p>
+  </div>
+
+  <div class="axes-grid">
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="高麗仏画の水月観音" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 01</div>
+        <h3>宮廷仏教美術と高麗–朝鮮移行期</h3>
+        <p>王朝交替を越える芸術的連続性、王室の発願者、宮廷女性の役割、銘文、宗教政策、そして高麗末から朝鮮初期にかけての造像・制作を研究する。</p>
+        <div class="axis-tags"><span>王室</span><span>発願者</span><span>銘文</span></div>
+        <small class="image-credit-line">水月観音 · 高麗 · The Metropolitan Museum of Art / Wikimedia Commons · パブリックドメイン.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="甘露幀の細部" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 02</div>
+        <h3>イメージ、儀礼、パフォーマティヴィティ</h3>
+        <p>仏教イメージを、儀礼実践や装置によって作動する対象として研究する。甘露幀は、イメージの出現、機能、パフォーマティヴィティを分析するうえで重要な研究対象である。</p>
+        <div class="axis-tags"><span>甘露幀</span><span>儀礼</span><span>パフォーマティヴィティ</span></div>
+        <small class="image-credit-line">甘露幀の細部、18世紀作品の複製 · Daderot / Wikimedia Commons · CC0.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-circulation" aria-label="杭州・大都・開京・日本の間の移動を示す模式図">
+        <span class="route-line l1"></span><span class="route-line l2"></span><span class="route-line l3"></span>
+        <span class="route-dot hz"></span><span class="route-city hz">杭州<br>杭州</span>
+        <span class="route-dot dd"></span><span class="route-city dd">大都<br>大都</span>
+        <span class="route-dot kg"></span><span class="route-city kg">開京<br>開京</span>
+        <span class="route-dot jp"></span><span class="route-city jp">日本<br>日本</span>
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 03</div>
+        <h3>移動と芸術的伝播</h3>
+        <p>中国・韓国・日本の間を移動した芸術家、様式モデル、作品、実践を研究する。杭州–大都–開京のネットワーク、宋・元代様式の受容、作品の移動、さらにコレクションにおける保存の歴史を考察する。</p>
+        <div class="axis-tags"><span>伝播</span><span>来歴</span><span>ネットワーク</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual axis-stupa">
+        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州・仏国寺の多宝塔" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 04</div>
+        <h3>建築、寺院、仏塔</h3>
+        <p>建築形式の変化と保守性、寺院の立地、仏塔の歴史を研究する。コーパスでは新羅、百済、高句麗、統一新羅、高麗、朝鮮を区別し、モニュメントの異なる機能も分類する。</p>
+        <div class="axis-tags"><span>仏塔</span><span>寺院</span><span>長期持続</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Six_of_the_Ten_Kings_of_Hell_LACMA_AC1998.268.3.1-.6_%283_of_5%29.jpg" alt="十王の一尊を描いた朝鮮仏画" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 05</div>
+        <h3>図像、死、救済</h3>
+        <p>十王、仏教的来世観、観音、そして図像モデルの地域的変容を研究する。とりわけ韓国とベトナムの伝統を相互に関連づけて考察する。</p>
+        <div class="axis-tags"><span>十王</span><span>来世</span><span>韓国–ベトナム</span></div>
+        <small class="image-credit-line">十王図の一部 · 朝鮮, 1798 · LACMA / Wikimedia Commons · パブリックドメイン.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="フリーア美術館所蔵の高麗水月観音" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 06</div>
+        <h3>史料、物質性、コレクション史</h3>
+        <p>作品、銘文、儀礼文献、物質的データを総合的に読み、韓国・日本・ヨーロッパ・アメリカに所蔵される韓国作品の再発見、再帰属、来歴を研究する。</p>
+        <div class="axis-tags"><span>物質性</span><span>美術館</span><span>帰属</span></div>
+        <small class="image-credit-line">水月観音 · 高麗, 14世紀 · Freer Gallery of Art / Wikimedia Commons · パブリックドメイン.</small>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="research-section" id="queer">
+  <div class="queer-feature">
+    <div class="queer-copy">
+      <div class="research-section-kicker">横断的研究テーマ · 現代</div>
+      <h2>クィアと現代仏教</h2>
+      <p class="artist-name">パク・クリム 박그림 · Grim Park</p>
+      <p>研究の一部では、韓国における仏教、現代美術、ジェンダー、クィア・アイデンティティの関係を扱う。とりわけ、韓国仏画の技法と視覚構造を再構成し、アイデンティティ、ジェンダー規範、二項対立的なカテゴリーを問い直すパク・クリム 박그림の作品に注目している。</p>
+      <p>彼の<em>尋虎図</em>シリーズは、伝統的な<em>尋牛図</em>の牛を虎に置き換えることで、その図像を再解釈する。宗教的な伝統物語を現代的な言語へ変換することで、周縁性、主体性、そして継承された形式の内部にクィアな図像表現が成立しうるかを同時に問う。</p>
+      <div class="queer-sources"><a class="queer-source" href="https://heypop.kr/n/26670/" target="_blank" rel="noopener">Heypop ↗</a><span> · </span><a class="queer-source" href="https://kiaf.org/insights/46599" target="_blank" rel="noopener">Kiaf Seoul ↗</a></div>
+    </div>
+
+    <div class="queer-gallery">
+      <figure class="queer-image portrait">
+        <img src="https://storage.heypop.kr/assets/2022/02/24090810/1-29-473x1024.jpeg" alt="パク・クリム, 尋虎図―楽流, 2019" loading="lazy">
+        <figcaption>パク・クリム 박그림 · <em>尋虎圖_樂流</em>, 2019 · 画像: Heypop.</figcaption>
+      </figure>
+      <figure class="queer-image diptych">
+        <img src="https://static-edge.kiaf.org/web/2024/11/04133336/%EB%B0%95%EA%B7%B8%EB%A6%BC_%EC%8B%AC%ED%98%B8%EB%8F%84-%EC%9B%94%EA%B4%91%E5%B0%8B%E8%99%8E%E5%9C%96-%E6%9C%88%E5%85%89_%EB%B9%84%EB%8B%A8%EC%97%90-%EB%8B%B4%EC%B1%84_250%C3%97120cm_2022.jpg" alt="パク・クリム, 尋虎図―月光・日光, 2022" loading="lazy">
+        <figcaption>パク・クリム 박그림 · <em>尋虎圖_月光 · 日光</em>, 2022 · 画像: Kiaf Seoul.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="projets">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">進行中の研究</div>
+      <h2>現在展開中の研究</h2>
+    </div>
+    
+  </div>
+
+  <div class="projects-grid">
+    <article class="project-card">
+      <div class="status">論文準備中</div>
+      <h3>「長期高麗」と石塔</h3>
+      <p>建築的連続性とモニュメンタルな形式の長期持続から、王朝を基準とする時代区分を再検討する。</p>
+    </article>
+    <article class="project-card">
+      <div class="status">論文準備中</div>
+      <h3>水月観音図像の起源</h3>
+      <p>経典資料、伝承、聖地の地形、儀礼実践、図像形成の関係を総合的に検討する。</p>
+    </article>
+    <article class="project-card">
+      <div class="status">研究進行中</div>
+      <h3>杭州 — 大都 — 開京の移動ネットワーク</h3>
+      <p>宋・元代中国と高麗を結んだ人物、作品、芸術的モデルのネットワークを再構成する。</p>
+    </article>
+    <article class="project-card">
+      <div class="status">研究進行中</div>
+      <h3>甘露幀</h3>
+      <p>儀礼、イメージの使用、パフォーマティブな装置から甘露幀の成立を分析する。</p>
+    </article>
+  </div>
+</section>
+
+<section class="research-section" id="methode">
+  <div class="method-wrap">
+    <div class="method-copy">
+      <div class="research-section-kicker">方法論</div>
+      <h2>作品を関係網の中で研究する</h2>
+      <p>私の方法は、美術史、文献研究、金石学、物質分析、社会史、現地調査、デジタルツールを組み合わせる。作品を単に記述するのではなく、その制作、儀礼的な作動、移動、受容を規定する関係の総体のなかに位置づけ直す。</p>
+    </div>
+    <div class="method-diagram" aria-label="方法論マトリクス">
+      <div class="method-item">テキスト</div>
+      <div class="method-item">銘文</div>
+      <div class="method-item">発願者</div>
+      <div class="method-item">儀礼</div>
+      <div class="method-center">作品</div>
+      <div class="method-item">場所</div>
+      <div class="method-item">物質性</div>
+      <div class="method-item">移動</div>
+      <div class="method-item">来歴</div>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="ressources">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">コーパス、現地調査 &amp; デジタル・ヒューマニティーズ</div>
+      <h2>研究を探る</h2>
+    </div>
+    <p>このサイトでは、これらの研究テーマを段階的に具体化する構造化コーパス、地図、テーマ別研究、進行中の成果にアクセスできる。</p>
+  </div>
+
+  <div class="resources-strip">
+    <a class="resource-link" href="/ja/databases.html">
+      <small>データ</small>
+      <strong>データベース →</strong>
+      <p>仏塔、モニュメント、図像、所在地、構造化コーパス.</p>
+    </a>
+    <a class="resource-link" href="/ja/maps.html">
+      <small>研究</small>
+      <strong>テーマ別研究 →</strong>
+      <p>廉承益、仏教建築、地図、年表、可視化.</p>
+    </a>
+    <a class="resource-link" href="/ja/publications.html">
+      <small>成果</small>
+      <strong>業績 →</strong>
+      <p>論文、書籍所収論文、学会発表、オンライン論考.</p>
+    </a>
+  </div>
+</section>
+
+</main>
+```

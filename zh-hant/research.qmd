@@ -6,5 +6,239 @@ format:
     include-before-body: _includes/zh-hant-header.html
     include-after-body: _includes/zh-hant-footer.html
 ---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/recherche.css">
+
 <section class="page-hero"><h1>研究</h1></section>
-<main class="content"><p class="lead">Research axes, projects and current work.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="research-page">
+
+<section class="research-intro">
+  <div class="research-intro-copy">
+    <div class="research-kicker">佛教藝術史 · 東亞</div>
+    <h2>圖像、儀式、權力與流動</h2>
+    <p>我的研究關注佛教藝術在長時段中的轉變，時間從古代延伸至當代，地域涵蓋中國、韓國、日本與越南。我不把圖像與遺構視為彼此孤立的物件，而是從發願者、儀式用途、移動過程，以及它們獲得意義的政治、社會與宗教脈絡中加以考察。</p>
+    <nav class="research-nav" aria-label="研究主題導覽">
+      <a href="#axes">研究主題</a>
+      <a href="#queer">酷兒與佛教</a>
+      <a href="#projets">進行中研究</a>
+      <a href="#methode">方法</a>
+      <a href="#ressources">語料庫與資料</a>
+    </nav>
+  </div>
+
+  <div class="research-map" aria-label="研究所運用的主要概念示意圖">
+    <div class="research-core"><strong>圖像<br>↔ 儀式<br>↔ 權力</strong></div>
+    <div class="research-node n1">發願者</div>
+    <div class="research-node n2">流動</div>
+    <div class="research-node n3">性別</div>
+    <div class="research-node n4">物質性</div>
+    <div class="research-node n5">建築</div>
+    <div class="research-node n6">身分認同</div>
+    <div class="research-geography">中國 · 韓國 · 日本 · 越南</div>
+  </div>
+</section>
+
+<section class="research-section" id="axes">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">01—06 · 研究主題</div>
+      <h2>佛教的社會史、物質史與跨區域史</h2>
+    </div>
+    <p>不同語料庫皆從銘文、物質性、儀式實踐、發願者網絡，以及造形形式在東亞社會之間的流動來進行研究。</p>
+  </div>
+
+  <div class="axes-grid">
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="高麗水月觀音圖" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 01</div>
+        <h3>宮廷佛教藝術與高麗–朝鮮轉型</h3>
+        <p>研究王朝更替之外持續存在的藝術連續性、王室發願者、宮廷女性的角色、銘文、宗教政策，以及高麗末至朝鮮初期的圖像製作。</p>
+        <div class="axis-tags"><span>王室</span><span>發願者</span><span>銘文</span></div>
+        <small class="image-credit-line">水月觀音 · 高麗 · The Metropolitan Museum of Art / Wikimedia Commons · 公有領域.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="甘露幀局部" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 02</div>
+        <h3>圖像、儀式與施為性</h3>
+        <p>將佛教圖像視為透過儀式實踐與裝置而被啟動的對象。甘露幀是分析圖像的出現、功能與施為性的核心研究材料。</p>
+        <div class="axis-tags"><span>甘露幀</span><span>儀式</span><span>施為性</span></div>
+        <small class="image-credit-line">甘露幀局部，18世紀作品複製品 · Daderot / Wikimedia Commons · CC0.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-circulation" aria-label="杭州、大都、開京與日本之間的流動示意圖">
+        <span class="route-line l1"></span><span class="route-line l2"></span><span class="route-line l3"></span>
+        <span class="route-dot hz"></span><span class="route-city hz">杭州<br>杭州</span>
+        <span class="route-dot dd"></span><span class="route-city dd">大都<br>大都</span>
+        <span class="route-dot kg"></span><span class="route-city kg">開京<br>開京</span>
+        <span class="route-dot jp"></span><span class="route-city jp">日本<br>日本</span>
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 03</div>
+        <h3>流動與藝術轉移</h3>
+        <p>研究藝術家、造形範式、作品與實踐在中國、韓國、日本之間的移動：杭州–大都–開京網絡、宋元形式的接受、物件的流轉，以及其在收藏中保存的歷史。</p>
+        <div class="axis-tags"><span>轉移</span><span>來源與流傳</span><span>網絡</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual axis-stupa">
+        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州佛國寺多寶塔" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 04</div>
+        <h3>建築、寺院與佛塔</h3>
+        <p>研究建築形式的演變與保守性、寺院的空間配置，以及佛塔的歷史。語料庫區分新羅、百濟、高句麗、統一新羅、高麗與朝鮮，並區別各類遺構的不同功能。</p>
+        <div class="axis-tags"><span>佛塔</span><span>寺院</span><span>長時段</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Six_of_the_Ten_Kings_of_Hell_LACMA_AC1998.268.3.1-.6_%283_of_5%29.jpg" alt="描繪十王之一的韓國佛畫" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 05</div>
+        <h3>圖像、死亡與救度</h3>
+        <p>研究十王、佛教來世觀、觀音，以及圖像模式在地方脈絡中的轉化。這一研究尤其將韓國與越南的傳統放在同一比較框架中。</p>
+        <div class="axis-tags"><span>十王</span><span>來世</span><span>韓國–越南</span></div>
+        <small class="image-credit-line">十王圖之一組 · 朝鮮, 1798 · LACMA / Wikimedia Commons · 公有領域.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="弗里爾美術館藏高麗水月觀音圖" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">研究軸 06</div>
+        <h3>史料、物質性與收藏史</h3>
+        <p>綜合閱讀作品、銘文、儀式文獻與物質資料，並研究收藏於韓國、日本、歐洲與美國的韓國作品如何被重新發現、重新歸屬，以及其來源與流傳史。</p>
+        <div class="axis-tags"><span>物質性</span><span>博物館</span><span>歸屬</span></div>
+        <small class="image-credit-line">水月觀音 · 高麗, 14世紀 · Freer Gallery of Art / Wikimedia Commons · 公有領域.</small>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="research-section" id="queer">
+  <div class="queer-feature">
+    <div class="queer-copy">
+      <div class="research-section-kicker">橫向研究軸 · 當代</div>
+      <h2>酷兒與當代佛教</h2>
+      <p class="artist-name">Pak Kurim 박그림 · Grim Park</p>
+      <p>我的部分研究聚焦韓國佛教、當代藝術、性別與酷兒身分之間的關係。我尤其關注 Pak Kurim 박그림 的創作；他重新運用韓國佛畫的技法與視覺結構，藉此探問身分、性別規範與二元分類。</p>
+      <p>他的<em>尋虎圖</em>系列重新詮釋傳統<em>尋牛圖</em>，以虎取代牛。將傳統宗教敘事轉化為當代語言，使作品得以同時思考邊緣性、主體性，以及在繼承而來的形式內部建立酷兒圖像的可能性。</p>
+      <div class="queer-sources"><a class="queer-source" href="https://heypop.kr/n/26670/" target="_blank" rel="noopener">Heypop ↗</a><span> · </span><a class="queer-source" href="https://kiaf.org/insights/46599" target="_blank" rel="noopener">Kiaf Seoul ↗</a></div>
+    </div>
+
+    <div class="queer-gallery">
+      <figure class="queer-image portrait">
+        <img src="https://storage.heypop.kr/assets/2022/02/24090810/1-29-473x1024.jpeg" alt="Pak Kurim, 尋虎圖―樂流, 2019" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_樂流</em>, 2019 · 圖片: Heypop.</figcaption>
+      </figure>
+      <figure class="queer-image diptych">
+        <img src="https://static-edge.kiaf.org/web/2024/11/04133336/%EB%B0%95%EA%B7%B8%EB%A6%BC_%EC%8B%AC%ED%98%B8%EB%8F%84-%EC%9B%94%EA%B4%91%E5%B0%8B%E8%99%8E%E5%9C%96-%E6%9C%88%E5%85%89_%EB%B9%84%EB%8B%A8%EC%97%90-%EB%8B%B4%EC%B1%84_250%C3%97120cm_2022.jpg" alt="Pak Kurim, 尋虎圖―月光與日光, 2022" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_月光 · 日光</em>, 2022 · 圖片: Kiaf Seoul.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="projets">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">進行中研究</div>
+      <h2>目前發展中的研究</h2>
+    </div>
+    
+  </div>
+
+  <div class="projects-grid">
+    <article class="project-card">
+      <div class="status">論文準備中</div>
+      <h3>「長期高麗」與石塔</h3>
+      <p>從建築的連續性與紀念性形式的長時段延續，重新思考以王朝為中心的時代劃分。</p>
+    </article>
+    <article class="project-card">
+      <div class="status">論文準備中</div>
+      <h3>水月觀音圖像的起源</h3>
+      <p>將經典文獻、傳說、聖地地形、儀式實踐與圖像形成放在同一脈絡中考察。</p>
+    </article>
+    <article class="project-card">
+      <div class="status">研究進行中</div>
+      <h3>杭州 — 大都 — 開京的流動</h3>
+      <p>重建連結宋元中國與高麗的人物、物件與藝術模式網絡。</p>
+    </article>
+    <article class="project-card">
+      <div class="status">研究進行中</div>
+      <h3>甘露幀</h3>
+      <p>從儀式、圖像使用方式與施為性裝置分析甘露幀的形成。</p>
+    </article>
+  </div>
+</section>
+
+<section class="research-section" id="methode">
+  <div class="method-wrap">
+    <div class="method-copy">
+      <div class="research-section-kicker">方法</div>
+      <h2>在關係網絡中研究作品</h2>
+      <p>我的方法結合藝術史、文獻研究、金石學、物質分析、社會史、田野調查與數位工具。作品不只是被描述，而是被重新置於決定其製作、儀式性啟動、流動與接受的整體關係之中。</p>
+    </div>
+    <div class="method-diagram" aria-label="方法論矩陣">
+      <div class="method-item">文本</div>
+      <div class="method-item">銘文</div>
+      <div class="method-item">發願者</div>
+      <div class="method-item">儀式</div>
+      <div class="method-center">作品</div>
+      <div class="method-item">地點</div>
+      <div class="method-item">物質性</div>
+      <div class="method-item">流動</div>
+      <div class="method-item">來源流傳</div>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="ressources">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">語料庫、田野 &amp; 數位人文</div>
+      <h2>探索研究</h2>
+    </div>
+    <p>本網站提供結構化語料庫、地圖、專題研究與進行中的成果，逐步呈現並充實上述研究主題。</p>
+  </div>
+
+  <div class="resources-strip">
+    <a class="resource-link" href="/zh-hant/databases.html">
+      <small>資料</small>
+      <strong>資料庫 →</strong>
+      <p>佛塔、遺構、圖像、地點與結構化語料庫.</p>
+    </a>
+    <a class="resource-link" href="/zh-hant/maps.html">
+      <small>研究</small>
+      <strong>專題研究 →</strong>
+      <p>廉承益、佛教建築、地圖、年表與視覺化.</p>
+    </a>
+    <a class="resource-link" href="/zh-hant/publications.html">
+      <small>成果</small>
+      <strong>出版物 →</strong>
+      <p>論文、書籍章節、學術發表與線上文章.</p>
+    </a>
+  </div>
+</section>
+
+</main>
+```
