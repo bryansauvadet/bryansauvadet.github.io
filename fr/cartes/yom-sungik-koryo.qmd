@@ -15,7 +15,7 @@ format:
   <section class="yom-hero" id="haut">
     <div class="yom-shell yom-hero-grid">
       <div class="yom-hero-copy">
-        <div class="yom-kicker">Dossier interactif · royaume du Koryŏ</div>
+        <div class="yom-kicker">Étude interactive · royaume du Koryŏ</div>
         <h1>Yŏm Sŭngik <span class="yom-hanja" lang="zh-Hant">廉承益</span></h1>
         <p class="yom-hero-lead">Pouvoir, dévotion et production artistique à la cour du roi Ch’ungnyŏl <span class="yom-hanja" lang="zh-Hant">忠烈王</span>.</p>
         <p class="yom-hero-note">Haut fonctionnaire, interprète du mongol, proche du souverain et fervent bouddhiste, Yŏm Sŭngik (?–1302) constitue un observatoire privilégié des liens entre cour, monastères, restauration de stoupas, copie de soutras et commande d’images au Koryŏ.</p>
@@ -47,7 +47,7 @@ format:
         <div>
           <p>Yŏm parle le mongol et intervient comme interprète auprès des émissaires venus de Dadu. Il appartient ainsi au milieu des hauts fonctionnaires qui assurent la médiation entre le royaume du Koryŏ et la cour des Yuan. Dans le même temps, sa dévotion bouddhique se manifeste par des donations, des pratiques rituelles et des commandes artistiques.</p>
           <p>Cette double position explique son importance : Yŏm n’est ni simplement un « mécène », ni seulement un fonctionnaire. Il met en relation <strong>autorité royale, ressources administratives, monastères, artisans, copistes et pratiques votives</strong>.</p>
-          <p class="yom-source">Base documentaire : thèse de Bryan Sauvadet, chap. 1, § 1.1.2.2.1 ; <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123.</p>
+          <p class="yom-source">Source principale : <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a, biographie de Yŏm Sŭngik dans la section des « favoris » ; thèse de Bryan Sauvadet, chap. 1, § 1.1.2.2.1.</p>
         </div>
 
         <aside class="yom-profile-card" aria-label="Repères biographiques">
@@ -97,15 +97,15 @@ format:
       <div class="yom-timeline">
         <article class="yom-event" data-kind="cour rituel">
           <div class="yom-event-year">1277</div>
-          <div class="yom-event-body"><h3>Auprès du roi malade</h3><p>Yŏm accompagne Ch’ungnyŏl au monastère de Ch’ŏnhyo <span class="yom-hanja">天孝寺</span> et prend part aux soins du souverain. Cet épisode consolide sa proximité avec le roi.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">guérison</span></div></div>
+          <div class="yom-event-body"><h3>Auprès du roi malade</h3><p>Yŏm accompagne Ch’ungnyŏl au monastère de Ch’ŏnhyo <span class="yom-hanja">天孝寺</span> et prend part aux soins du souverain. Cet épisode consolide sa proximité avec le roi.</p><p class="yom-source"><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">guérison</span></div></div>
         </article>
         <article class="yom-event" data-kind="cour">
           <div class="yom-event-year">1278</div>
-          <div class="yom-event-body"><h3>Ascension politique</h3><p>Sa faveur royale se traduit par une promotion et par son intégration aux cercles où sont discutées les affaires du royaume.</p><div class="yom-event-tags"><span class="yom-tag">cour</span></div></div>
+          <div class="yom-event-body"><h3>Ascension politique</h3><p>Sa faveur royale se traduit par une promotion et par son intégration aux cercles où sont discutées les affaires du royaume.</p><p class="yom-source"><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">cour</span></div></div>
         </article>
         <article class="yom-event" data-kind="cour monastere">
           <div class="yom-event-year">1280</div>
-          <div class="yom-event-body"><h3>Monastère de Hyŏnhwa <span class="yom-hanja">玄化寺</span></h3><p>Sur ordre de Ch’ungnyŏl et d’une princesse royale, Yŏm fait édifier un nouveau pavillon au monastère. Il agit ici comme <strong>exécutant d’une commande royale</strong>.</p><div class="yom-event-tags"><span class="yom-tag">mission royale</span><span class="yom-tag">architecture</span></div></div>
+          <div class="yom-event-body"><h3>Monastère de Hyŏnhwa <span class="yom-hanja">玄化寺</span></h3><p>Sur ordre de Ch’ungnyŏl et d’une princesse royale, Yŏm fait édifier un nouveau pavillon au monastère. Il agit ici comme <strong>exécutant d’une commande royale</strong>.</p><p class="yom-source"><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 29, 9a–b.</p><div class="yom-event-tags"><span class="yom-tag">mission royale</span><span class="yom-tag">architecture</span></div></div>
         </article>
         <article class="yom-event" data-kind="cour commande monastere" id="scriptorium">
           <div class="yom-event-year">1281</div>
@@ -113,7 +113,7 @@ format:
         </article>
         <article class="yom-event" data-kind="cour monastere commande" id="timeline-1283">
           <div class="yom-event-year">1283</div>
-          <div class="yom-event-body"><h3>Restaurer les stoupas de la capitale</h3><p>Ch’ungnyŏl charge Yŏm et Kong Yu <span class="yom-hanja">孔愉</span> de superviser des restaurations à Hyŏnhwa, Wangnyun, Namgyewŏn et dans une dépendance du monastère de Kaeguk. Vers la même période, Yŏm commandite le Soutra du Lotus associé au stoupa de Namgyewŏn.</p><div class="yom-event-tags"><span class="yom-tag">mission royale</span><span class="yom-tag">patronage personnel</span></div></div>
+          <div class="yom-event-body"><h3>Restaurer les stoupas de la capitale</h3><p>Ch’ungnyŏl charge Yŏm et Kong Yu <span class="yom-hanja">孔愉</span> de superviser des restaurations à Hyŏnhwa, Wangnyun, Namgyewŏn et dans une dépendance du monastère de Kaeguk. Vers la même période, Yŏm commandite le Soutra du Lotus associé au stoupa de Namgyewŏn.</p><p class="yom-source"><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 29, 45a.</p><div class="yom-event-tags"><span class="yom-tag">mission royale</span><span class="yom-tag">patronage personnel</span></div></div>
         </article>
         <article class="yom-event" data-kind="commande rituel">
           <div class="yom-event-year">1286</div>
@@ -121,7 +121,7 @@ format:
         </article>
         <article class="yom-event" data-kind="cour">
           <div class="yom-event-year">1289</div>
-          <div class="yom-event-body"><h3>Voyage à Dadu</h3><p>Yŏm accompagne le roi et la reine à Dadu, révélant sa position dans les relations entre le Koryŏ et les Yuan.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">Yuan</span></div></div>
+          <div class="yom-event-body"><h3>Voyage à Dadu</h3><p>Yŏm accompagne le roi et la reine à Dadu, révélant sa position dans les relations entre le Koryŏ et les Yuan.</p><p class="yom-source">Voir également la biographie de Yŏm dans le <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">Yuan</span></div></div>
         </article>
         <article class="yom-event" data-kind="commande rituel">
           <div class="yom-event-year">1292</div>
@@ -129,11 +129,11 @@ format:
         </article>
         <article class="yom-event" data-kind="cour">
           <div class="yom-event-year">1293</div>
-          <div class="yom-event-body"><h3>Nouveau déplacement à Dadu</h3><p>Yŏm accompagne de nouveau le couple royal.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">Yuan</span></div></div>
+          <div class="yom-event-body"><h3>Nouveau déplacement à Dadu</h3><p>Yŏm accompagne de nouveau le couple royal.</p><p class="yom-source">Voir <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">cour</span><span class="yom-tag">Yuan</span></div></div>
         </article>
         <article class="yom-event" data-kind="cour rituel">
           <div class="yom-event-year">1295</div>
-          <div class="yom-event-body"><h3>Retrait pour maladie</h3><p>La maladie conduit Yŏm à se retirer des affaires politiques, sans mettre fin à son engagement religieux.</p><div class="yom-event-tags"><span class="yom-tag">maladie</span></div></div>
+          <div class="yom-event-body"><h3>Retrait pour maladie</h3><p>La maladie conduit Yŏm à se retirer des affaires politiques, sans mettre fin à son engagement religieux.</p><p class="yom-source">Voir la biographie de Yŏm dans le <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">maladie</span></div></div>
         </article>
         <article class="yom-event" data-kind="rituel cour">
           <div class="yom-event-year">1297</div>
@@ -141,7 +141,7 @@ format:
         </article>
         <article class="yom-event" data-kind="rituel">
           <div class="yom-event-year">1302</div>
-          <div class="yom-event-body"><h3>Entrée dans la vie monastique et mort</h3><p>Après avoir refusé de nouvelles charges, Yŏm rend ses titres, devient moine bouddhiste et meurt la même année.</p><div class="yom-event-tags"><span class="yom-tag">vie monastique</span></div></div>
+          <div class="yom-event-body"><h3>Entrée dans la vie monastique et mort</h3><p>Après avoir refusé de nouvelles charges, Yŏm rend ses titres, devient moine bouddhiste et meurt la même année.</p><p class="yom-source"><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 32, 10a ; voir aussi k. 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">vie monastique</span></div></div>
         </article>
       </div>
     </div>
@@ -192,7 +192,7 @@ format:
         <div class="yom-mission-step"><div class="num">04</div><h3>Kaeguk</h3><div class="hanja yom-hanja">開國寺</div><p>Une dépendance du monastère figure également dans la mission rapportée par les sources utilisées dans la thèse.</p></div>
       </div>
 
-      <p class="yom-source">Le dossier ne reconstruit pas artificiellement l’apparence des monuments disparus : seul Namgyewŏn est ici développé comme étude matérielle lorsque le monument et les objets associés sont documentés.</p>
+      <p class="yom-source"><strong>Source textuelle :</strong> <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 29, 45a. La page ne reconstruit pas artificiellement l’apparence des monuments disparus : seul Namgyewŏn est ici développé comme étude matérielle lorsque le monument et les objets associés sont documentés.</p>
     </div>
   </section>
 
@@ -217,7 +217,7 @@ format:
             <dt>Nom</dt><dd>Stoupa à sept étages du site de Namgyewŏn</dd>
             <dt>Sinogrammes</dt><dd class="yom-hanja">南溪院址七層石塔</dd>
             <dt>Provenance</dt><dd>Kaesŏng, royaume du Koryŏ</dd>
-            <dt>Intervention</dt><dd>Restauration supervisée par Yŏm en 1283 sur ordre royal</dd>
+            <dt>Intervention</dt><dd>Restauration supervisée par Yŏm en 1283 sur ordre royal · <em>Koryŏsa</em>, k. 29, 45a</dd>
             <dt>Statut</dt><dd>Trésor national de Corée n° 100</dd>
           </dl>
         </div>
@@ -389,7 +389,7 @@ format:
       <div class="yom-section-head">
         <div class="yom-kicker">10 · Kaegyŏng 開京</div>
         <h2>Un parcours inscrit dans les institutions bouddhiques de la capitale</h2>
-        <p>La trajectoire de Yŏm recoupe plusieurs monastères majeurs de Kaegyŏng, mais ce dossier ne duplique pas la carte générale des réseaux bouddhiques de la capitale. Il en isole seulement le parcours de Yŏm : <strong>Ch’ŏnhyo → Hyŏnhwa → scriptorium royal → mission des stoupas → Namgyewŏn</strong>.</p>
+        <p>La trajectoire de Yŏm recoupe plusieurs monastères majeurs de Kaegyŏng, mais cette page ne duplique pas la carte générale des réseaux bouddhiques de la capitale. Il en isole seulement le parcours de Yŏm : <strong>Ch’ŏnhyo → Hyŏnhwa → scriptorium royal → mission des stoupas → Namgyewŏn</strong>.</p>
       </div>
       <div class="yom-practice-flow" aria-label="Parcours de Yŏm dans les institutions bouddhiques de Kaegyŏng">
         <div class="yom-practice-step"><b>Ch’ŏnhyo</b><small><span class="yom-hanja">天孝寺</span> · 1277</small></div>
@@ -406,7 +406,7 @@ format:
       <div class="yom-section-head">
         <div class="yom-kicker">11 · 1295–1302</div>
         <h2>Maladie, retrait et entrée dans la vie monastique</h2>
-        <p>La dernière partie de la vie de Yŏm donne une cohérence supplémentaire à son patronage religieux. En 1295, il se retire des affaires politiques en raison de sa santé. Deux ans plus tard, sa réputation de guérisseur le ramène encore auprès de la famille royale. En 1302, après avoir refusé de nouvelles nominations, il abandonne ses titres et devient moine bouddhiste peu avant sa mort.</p>
+        <p>La dernière partie de la vie de Yŏm donne une cohérence supplémentaire à son patronage religieux. En 1295, il se retire des affaires politiques en raison de sa santé. Deux ans plus tard, sa réputation de guérisseur le ramène encore auprès de la famille royale. En 1302, après avoir refusé de nouvelles nominations, il abandonne ses titres et devient moine bouddhiste peu avant sa mort.</p><p class="yom-source">Pour la trajectoire biographique : <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a ; pour l’année 1302 : k. 32, 10a.</p>
       </div>
 
       <div class="yom-legacy">
@@ -445,7 +445,7 @@ format:
         <div>
           <h3>Sources principales</h3>
           <ul>
-            <li><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, notamment k. 29 et k. 123.</li>
+            <li><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a : biographie de Yŏm Sŭngik dans la section des « favoris ».</li>\n            <li><em>Koryŏsa</em>, k. 123, 10a–b : réputation de Yŏm, proximité avec la cour et activités liées au bouddhisme.</li>\n            <li><em>Koryŏsa</em>, k. 29, 9a–b : ordre royal relatif au pavillon du monastère de Hyŏnhwa en 1280.</li>\n            <li><em>Koryŏsa</em>, k. 29, 45a : mission de 1283 pour la restauration des stoupas de Hyŏnhwa, Wangnyun, Namgyewŏn et d’une dépendance de Kaeguk.</li>\n            <li><em>Koryŏsa</em>, k. 32, 10a : dernières années et entrée de Yŏm dans la vie monastique en 1302.</li>
             <li>Thèse de Bryan Sauvadet, chapitres 1 et 2, sections consacrées à Yŏm Sŭngik et aux soutras du Koryŏ.</li>
             <li><a href="https://www.museum.go.kr/ENG/contents/E0201070000.do?schM=view&id=100252" target="_blank" rel="noopener">Musée national de Corée — stoupa de Namgyewŏn ↗</a></li>
             <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">Lim Young-ae, étude sur Yŏm Sŭngik, maladie, guérison et pratiques bouddhiques ↗</a></li>
