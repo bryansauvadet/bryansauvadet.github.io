@@ -53,15 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="高麗水月觀音圖" loading="lazy">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg" alt="高麗水月觀音圖" loading="lazy" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">研究軸 01</div>
         <h3>宮廷佛教藝術與高麗–朝鮮轉型</h3>
         <p>研究王朝更替之外持續存在的藝術連續性、王室發願者、宮廷女性的角色、銘文、宗教政策，以及高麗末至朝鮮初期的圖像製作。</p>
         <div class="axis-tags"><span>王室</span><span>發願者</span><span>銘文</span></div>
-        <small class="image-credit-line">水月觀音 · 高麗 · The Metropolitan Museum of Art / Wikimedia Commons · 公有領域.</small>
-      </div>
+</div>
     </article>
 
     <article class="axis-card">
