@@ -10,11 +10,8 @@ format:
 <div class="home-shell">
 <section class="hero">
   <div class="hero-copy">
-    <h1>Bryan Sauvadet</h1>
-    <h2>Histoire de l’art du bouddhisme d’Asie de l’Est</h2>
-    <div class="hero-rule"></div>
-    <p>Mes recherches portent sur l’art, les monuments et les pratiques bouddhiques en Asie de l’Est, du Moyen Âge à l’époque moderne, à travers une approche croisant histoire de l’art, textes, sources matérielles et circulation des images.</p>
-    <a class="hero-cta" href="/fr/recherche.html">En savoir plus <span>→</span></a>
+    <p>Mes recherches portent sur l’art, les monuments et les pratiques bouddhiques en Asie de l’Est. Elles s’inscrivent dans une approche interdisciplinaire croisant l’histoire de l’art, l’étude des textes et des sources matérielles, ainsi que l’analyse de la circulation et de la transmission des images, des formes et des pratiques.</p>
+    <p>Ce site présente mes recherches en cours et passées, mes travaux de terrain, ainsi qu’une sélection de données collectées au fil de mes enquêtes. J’y partage également mes projets de recherche à venir et plusieurs bases de données que j’ai constituées dans le cadre de mes travaux, afin d’en faciliter la consultation.</p>
   </div>
   <div class="hero-media">
       <div class="hero-carousel-single" data-hero-carousel data-slides="[{&quot;src&quot;:&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image&quot;,&quot;alt&quot;:&quot;Scene from the Life of the Buddha, Japan, early 15th century&quot;,&quot;credit&quot;:&quot;Scene from the Life of the Buddha · Japon, début du XVe siècle · The Met · Domaine public&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg&quot;,&quot;alt&quot;:&quot;Temple et pagode Thiên Mụ, Huế, Vietnam&quot;,&quot;credit&quot;:&quot;Thiên Mụ, Huế, Vietnam · Photo by CEphoto, Uwe Aranas · CC BY-SA 3.0 · Wikimedia Commons&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg&quot;,&quot;alt&quot;:&quot;Bouddha principal de Sŏkkuram, Kyŏngju, Corée&quot;,&quot;credit&quot;:&quot;Bouddha de Sŏkkuram · Kyŏngju, Corée · 문화재청 · 공공누리 / KOGL Type 1&quot;,&quot;contain&quot;:false}]" aria-roledescription="carousel">
