@@ -966,7 +966,7 @@
       "source": "https://heritage.go.kr/heri/cul/culGuidePostDetail.do?ccbaCpno=1123118080000&ccgbGbtype=IND&ccgbGbtypeNo=2&pageNo=1_5_0_0",
       "source_photo": "",
       "licence_photo": "",
-      "image": null
+      "image": "https://cdn.ibulgyo.com/news/photo/202107/213042_227480_1010.jpg"
     },
     {
       "numero": 47,
@@ -987,7 +987,7 @@
       "source": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=1123804740000",
       "source_photo": "",
       "licence_photo": "",
-      "image": null
+      "image": "https://img2.daumcdn.net/thumb/R658x0.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202604%2F05%2F551806-wgXWzV3%2F20260405060003457ceap.jpg"
     },
     {
       "numero": 48,
@@ -1008,7 +1008,7 @@
       "source": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=1121109280000",
       "source_photo": "https://www.museum.go.kr/MUSEUM/contents/M0502000000.do?relicId=4875&schM=view&searchId=search",
       "licence_photo": "KOGL Type 1 — attribution obligatoire",
-      "image": null
+      "image": "https://www.museum.go.kr/relic_image/PS01001001/ssu05/ssu09432.jpg"
     },
     {
       "numero": 49,
@@ -1050,7 +1050,7 @@
       "source": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=2113300270000&pageNo=1_1_2_0",
       "source_photo": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=2113300270000&pageNo=1_1_2_0",
       "licence_photo": "Source institutionnelle 국가유산포털 — statut de réutilisation de cette image à vérifier",
-      "image": null
+      "image": "https://www.heritage.go.kr/unisearch/images/tangible_cult_prop/thumb/1638435.jpg?time=1749186817695"
     },
     {
       "numero": 51,
@@ -1071,7 +1071,7 @@
       "source": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=1122205390000&pageNo=1_1_1_0&sngl=Y",
       "source_photo": "https://portal.nrich.go.kr/kor/ksmUsrView.do?ksm_idx=13971&menuIdx=584",
       "licence_photo": "KOGL Type 1 — attribution obligatoire",
-      "image": null
+      "image": "https://portal.nrich.go.kr/file_link/newFolder/584/Image/original/20251127203348709_00005.jpg"
     },
     {
       "numero": 52,
@@ -1113,7 +1113,7 @@
       "source": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=21%2C00650000%2C33&pageNo=1_1_2_0&pageNo__=5_1_1_0",
       "source_photo": "",
       "licence_photo": "",
-      "image": null
+      "image": "https://dh.aks.ac.kr/~heritage/wiki/images/thumb/b/b4/%EC%B2%AD%EC%A3%BC%EB%B3%B4%EC%82%B4%EC%82%AC%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg/720px-%EC%B2%AD%EC%A3%BC%EB%B3%B4%EC%82%B4%EC%82%AC%EC%98%A4%EC%B8%B5%EC%84%9D%ED%83%91.jpg"
     },
     {
       "numero": 54,
@@ -1134,7 +1134,7 @@
       "source": "https://dh.aks.ac.kr/~heritage/wiki/index.php/%EA%B8%88%EA%B0%95%EC%82%B0_%EA%B1%B4%EB%B4%89%EC%82%AC",
       "source_photo": "https://anthony.sogang.ac.kr/Geonbongsa.html",
       "licence_photo": "Image de référence exacte — statut de réutilisation à vérifier",
-      "image": null
+      "image": "https://anthony.sogang.ac.kr/Diamond/GeonpongsaSaritap.jpg"
     },
     {
       "numero": 55,
@@ -1155,7 +1155,7 @@
       "source": "https://encykorea.aks.ac.kr/Article/E0015609",
       "source_photo": "https://v.daum.net/v/Q2mwgS9HGO",
       "licence_photo": "Image de référence exacte — droits réservés ; réutilisation à vérifier",
-      "image": null
+      "image": "https://t1.daumcdn.net/news/202504/10/ned/20250410131310772ymza.jpg"
     },
     {
       "numero": 56,
@@ -1176,7 +1176,7 @@
       "source": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=1123514340000&pageNo=1_1_2_0",
       "source_photo": "https://encykorea.aks.ac.kr/Article/E0069096",
       "licence_photo": "KOGL Type 1 — attribution obligatoire",
-      "image": null
+      "image": "https://devin.aks.ac.kr/image/99cb5d88-7475-41fe-8be6-0ce98e1437a4?preset=orig"
     }
   ]
 }
