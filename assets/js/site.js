@@ -23,11 +23,12 @@ document.addEventListener('DOMContentLoaded', () => {
       if (finished) return;
       finished = true;
       intro.classList.add('is-exiting');
-      window.setTimeout(() => intro.remove(), 820);
+      window.setTimeout(() => { intro.style.display = 'none'; intro.remove(); }, 820);
     };
 
     requestAnimationFrame(() => intro.classList.add('is-active'));
     window.setTimeout(finish, 4200);
+    window.setTimeout(() => { if (intro && intro.isConnected) { intro.style.display = 'none'; intro.remove(); } }, 5400);
     intro.addEventListener('click', finish, {once:true});
     window.addEventListener('keydown', e => { if (e.key === 'Escape') finish(); }, {once:true});
   })();
