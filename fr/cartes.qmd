@@ -18,6 +18,9 @@ format:
 .maps-project-image img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
 .maps-project-card:hover .maps-project-image img{transform:scale(1.025)}
 .maps-project-image:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(20,17,14,.35),transparent 42%)}
+.maps-history-cover{display:grid;place-items:center;background:radial-gradient(circle at 50% 40%,#f7f1e7 0 8%,#dfd0bc 38%,#b89b79 100%)}
+.maps-history-cover:before{content:"";width:63%;height:68%;background:linear-gradient(180deg,transparent 0 10%,#5b493a 10% 13%,transparent 13% 27%,#715640 27% 31%,transparent 31% 47%,#8b684b 47% 52%,transparent 52% 70%,#5d4939 70% 74%,transparent 74%),linear-gradient(90deg,transparent 0 44%,rgba(78,61,48,.25) 44% 56%,transparent 56%);clip-path:polygon(50% 0,54% 13%,70% 18%,62% 24%,75% 30%,67% 36%,82% 44%,73% 50%,88% 60%,77% 67%,77% 100%,23% 100%,23% 67%,12% 60%,27% 50%,18% 44%,33% 36%,25% 30%,38% 24%,30% 18%,46% 13%);opacity:.9}
+.maps-history-cover:after{background:linear-gradient(0deg,rgba(39,29,22,.48),transparent 55%)}
 .maps-project-credit{position:absolute;z-index:2;left:13px;right:13px;bottom:11px;color:#fff;font:9px/1.4 Arial,sans-serif}
 .maps-project-copy{padding:38px 40px;display:flex;flex-direction:column;justify-content:center}
 .maps-project-type{font:700 10px/1.3 Arial,sans-serif;text-transform:uppercase;letter-spacing:.13em;color:var(--accent-dark);margin-bottom:10px}
@@ -61,6 +64,25 @@ format:
             <span>infographies</span>
             <span>sinogrammes</span>
             <span>œuvres & monuments</span>
+          </div>
+          <span class="maps-project-link">Ouvrir le dossier →</span>
+        </div>
+      </a>
+
+      <a class="maps-project-card" href="/fr/cartes/histoire-architecture-bouddhique.html">
+        <div class="maps-project-image maps-history-cover">
+          <div class="maps-project-credit">Dossier visuel · architecture bouddhique</div>
+        </div>
+        <div class="maps-project-copy">
+          <div class="maps-project-type">Dossier visuel · Inde · Chine · Corée</div>
+          <h2>Histoire de l’architecture bouddhique</h2>
+          <div class="maps-project-hanja">寺院 · 佛塔 · 殿</div>
+          <p>Un parcours en 31 sous-parties : naissance du monastère, développement du stoupa, union des deux institutions et transformation du pavillon bouddhique en Asie orientale.</p>
+          <div class="maps-project-features">
+            <span>31 illustrations</span>
+            <span>architecture</span>
+            <span>rituels</span>
+            <span>Inde → Asie orientale</span>
           </div>
           <span class="maps-project-link">Ouvrir le dossier →</span>
         </div>
