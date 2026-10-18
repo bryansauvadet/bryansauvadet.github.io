@@ -70,10 +70,10 @@ format:
       </a>
 
       <a class="maps-project-card" href="/fr/cartes/histoire-architecture-bouddhique.html">
-        <div class="maps-project-image maps-history-cover">
-          <div class="maps-project-credit">Présentation visuelle · architecture bouddhique</div>
-        </div>
-        <div class="maps-project-copy">
+        <div class="maps-project-image">
+    <img src="/assets/images/buddhist-architecture-five-monuments.jpg" alt="Panorama illustrant cinq traditions de l’architecture bouddhique en Inde, Chine, Corée, Japon et Vietnam" loading="lazy" decoding="async">
+  </div>
+  <div class="maps-project-copy">
           <div class="maps-project-type">Étude thématique · Inde → Asie orientale</div>
           <h2>Histoire de l’architecture bouddhique</h2>
           <div class="maps-project-hanja">寺院 · 佛塔 · 殿</div>
