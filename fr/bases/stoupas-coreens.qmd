@@ -6,5 +6,87 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
-<section class="page-hero database-subhero"><div class="eyebrow"><a href="/fr/bases.html">Bases de données</a></div><h1>Stoupas coréens</h1></section>
-<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap au monastère Pulguksa, Kyŏngju"><figcaption>Tabot'ap · Pulguksa · Kyŏngju</figcaption></figure><p class="lead">Cette sous-page accueillera la base de données consacrée aux stoupas coréens.</p><div class="database-empty-state"><h2>Stoupas coréens</h2><p>Base de données en cours de construction.</p></div></div></main>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script defer src="/assets/js/korean-stupas.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/fr/bases.html">Bases de données</a></div>
+  <h1>Stoupas coréens</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail korean-stupas-page">
+    <figure class="database-detail-visual">
+      <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap au monastère Pulguksa, Kyŏngju">
+      <figcaption>Tabot'ap · Pulguksa · Kyŏngju</figcaption>
+    </figure>
+
+    <div class="stupa-objective">
+      <strong>Objectif :</strong> montrer le conservatisme architectural à l’œuvre au début du Chosŏn.
+    </div>
+
+    <section class="stupa-text-section">
+      <h2>Périmètre de travail</h2>
+      <p>La première couche du corpus porte sur les <strong>stoupas de pierre (석탑)</strong> et distingue désormais explicitement <strong>Silla, Paekche, Koguryŏ, Grand Silla, Koryŏ et Chosŏn</strong>. Les <strong>stoupas funéraires de maîtres (승탑 / 부도)</strong> et les <strong>stoupas-reliquaires (사리탑)</strong> restent séparés afin d’éviter de mélanger des fonctions architecturales différentes. Pour <strong>Koguryŏ</strong>, aucune pagode de pierre conservée n’est artificiellement ajoutée à cette couche : les vestiges de pagodes principalement en bois relèvent d’un corpus archéologique distinct.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>Organisation</h2>
+      <p>Le répertoire est conçu comme une base filtrable par <strong>royaume</strong>, <strong>datation</strong>, <strong>type</strong>, <strong>nombre d’étages</strong>, <strong>localisation</strong> et <strong>statut patrimonial</strong>. La vue principale suit une chronologie du plus ancien au plus récent et associe chaque monument à ses données de localisation et, lorsque les droits le permettent, à une miniature photographique.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>Sources de référence</h2>
+      <ul class="stupa-source-list">
+        <li><a href="https://www.heritage.go.kr/" target="_blank" rel="noopener">국가유산포털 — Portail national du patrimoine coréen ↗</a></li>
+        <li><a href="https://portal.nrich.go.kr/" target="_blank" rel="noopener">국립문화유산연구원 — Institut national de recherche sur le patrimoine ↗</a></li>
+      </ul>
+      <p class="stupa-method"><strong>Méthode :</strong> quand une année précise n’est pas attestée, la datation est laissée sous forme de période ou de siècle plutôt que d’inventer une date exacte.</p>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-map-title">
+      <div class="stupa-section-head">
+        <div>
+          <div class="stupa-section-kicker">Répertoire des stoupas coréens</div>
+          <h2 id="stupa-map-title">Carte interactive</h2>
+        </div>
+        <div class="stupa-count" id="korean-stupas-count">56 stoupas</div>
+      </div>
+
+      <div class="stupa-filters" aria-label="Filtres du répertoire">
+        <label>
+          <span>Recherche</span>
+          <input id="stupa-search" type="search" placeholder="Monument, lieu, datation…">
+        </label>
+        <label>
+          <span>Royaume</span>
+          <select id="stupa-realm">
+            <option value="">Tous les royaumes</option>
+          </select>
+        </label>
+        <label>
+          <span>Type</span>
+          <select id="stupa-type">
+            <option value="">Tous les types</option>
+          </select>
+        </label>
+        <button id="stupa-reset" type="button">Réinitialiser</button>
+      </div>
+
+      <div id="korean-stupas-map" class="stupa-map" aria-label="Carte interactive des stoupas coréens"></div>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-gallery-title">
+      <div class="stupa-section-head">
+        <div>
+          <div class="stupa-section-kicker">Répertoire des stoupas coréens</div>
+          <h2 id="stupa-gallery-title">Galerie chronologique</h2>
+        </div>
+      </div>
+      <div id="korean-stupas-gallery" class="stupa-gallery">
+        <div class="stupa-loading">Chargement du répertoire…</div>
+      </div>
+    </section>
+  </div>
+</main>
