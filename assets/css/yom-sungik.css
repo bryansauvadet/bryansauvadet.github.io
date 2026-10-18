@@ -273,3 +273,59 @@
   min-height:0!important;
   height:auto!important;
 }
+
+
+/* Namgyewŏn Lotus Sutra image analysis */
+.yom-lotus-analysis{
+  max-width:920px;
+  margin:44px auto 38px;
+  padding-top:30px;
+  border-top:1px solid var(--yom-line);
+}
+.yom-lotus-frontispiece{
+  margin:0 0 28px;
+  padding:14px;
+  background:#e8e3d9;
+  border:1px solid var(--yom-line);
+}
+.yom-lotus-frontispiece img{
+  display:block;
+  width:100%;
+  height:auto;
+  background:#d8d2c7;
+}
+.yom-lotus-frontispiece figcaption{
+  margin-top:10px;
+  font:10px/1.5 Arial,sans-serif;
+  color:var(--yom-muted);
+}
+.yom-lotus-analysis-copy{
+  max-width:820px;
+  margin:0 auto;
+}
+.yom-lotus-analysis-copy h3{
+  margin:7px 0 18px;
+  font-size:27px;
+  line-height:1.2;
+}
+.yom-lotus-analysis-copy p{
+  font-size:14.5px;
+  line-height:1.72;
+  margin:0 0 15px;
+}
+.yom-lotus-analysis-copy .yom-source{
+  margin-top:20px;
+}
+@media(max-width:680px){
+  .yom-lotus-analysis{
+    margin:32px auto 28px;
+    padding-top:24px;
+  }
+  .yom-lotus-frontispiece{
+    padding:8px;
+    margin-bottom:22px;
+  }
+  .yom-lotus-analysis-copy h3{
+    font-size:23px;
+  }
+}
