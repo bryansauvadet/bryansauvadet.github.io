@@ -214,7 +214,7 @@ html[lang="vi"] .brand-sub{
 .cv-entry{display:grid;grid-template-columns:170px minmax(0,1fr);gap:28px;padding:22px 0;border-bottom:1px solid #eee8df}
 .cv-when{font:11px/1.45 Arial,sans-serif;color:#5f584f;padding-top:3px}
 .cv-when strong{display:block;font-weight:600;color:#28231f;margin-bottom:3px}
-.cv-when span{display:block}.cv-place{display:flex!important;align-items:center;gap:7px}.cv-flag-img{display:inline-block;width:20px;height:auto;flex:0 0 auto;border:1px solid rgba(0,0,0,.10);box-shadow:0 0 0 1px rgba(255,255,255,.5)}
+.cv-when span{display:block}.cv-place{display:flex!important;align-items:center;gap:7px}.cv-flag-img{display:inline-block!important;width:20px!important;height:13px!important;object-fit:cover;flex:0 0 auto;border:1px solid rgba(0,0,0,.12);box-shadow:none;vertical-align:middle}
 .cv-body h3{font-size:18px;line-height:1.35;font-weight:400;margin:0 0 5px}
 .cv-org{font:12px/1.5 Arial,sans-serif;color:var(--accent-dark);margin-bottom:7px}
 .cv-body p,.cv-body li{font-size:13.5px;line-height:1.62;color:#514b44}
