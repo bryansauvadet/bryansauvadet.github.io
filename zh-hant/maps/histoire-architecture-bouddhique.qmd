@@ -3,8 +3,8 @@ title: "佛教建築史"
 lang: zh-Hant
 format:
   html:
-    include-before-body: ../_includes/zh-hant-header.html
-    include-after-body: ../_includes/zh-hant-footer.html
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
 ---
 
 ```{=html}
