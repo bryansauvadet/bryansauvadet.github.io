@@ -97,7 +97,7 @@ format:
             <li><a href="#iv-2">T’apdori et sundang : du stoupa à l’image</a></li>
             <li><a href="#iv-3">Chine, Corée, Japon : trois choix de matériaux</a></li>
             <li><a href="#iv-4">La naissance du stoupa de pierre coréen</a></li>
-            <li><a href="#iv-5">Le modèle classique du Silla unifié</a></li>
+            <li><a href="#iv-5">Le modèle classique du Grand Silla</a></li>
             <li><a href="#iv-6">Le stoupa comme microcosme bouddhique</a></li>
             <li><a href="#iv-7">Diversification des stoupas coréens</a></li>
             <li><a href="#iv-8">Le pudo et le sŭngt’ap</a></li>
