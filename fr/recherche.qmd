@@ -142,21 +142,17 @@ format:
       <p class="artist-name">Pak Kurim 박그림 · Grim Park</p>
       <p>Une partie de mes recherches porte sur les relations entre bouddhisme, art contemporain, genre et identités queer en Corée. Je m’intéresse notamment au travail de Pak Kurim 박그림, qui réinvestit les techniques et les structures visuelles de la peinture bouddhique coréenne pour interroger l’identité, les normes de genre et les catégories binaires.</p>
       <p>Sa série <em>Shimhodo</em> 尋虎圖 réinterprète les images de la quête du buffle, <em>Simudo</em> 尋牛圖, en substituant au bœuf la figure du tigre. La transformation d’un récit religieux traditionnel en un langage contemporain permet d’interroger simultanément marginalité, subjectivité et possibilité d’une iconographie queer au sein de formes héritées.</p>
-      <a class="queer-source" href="https://kiaf.org/en/highlight/54278" target="_blank" rel="noopener">Source des œuvres et présentation de l’artiste · Kiaf Seoul / THEO ↗</a>
+      <div class="queer-sources"><a class="queer-source" href="https://heypop.kr/n/26670/" target="_blank" rel="noopener">Heypop ↗</a><span> · </span><a class="queer-source" href="https://kiaf.org/insights/46599" target="_blank" rel="noopener">Kiaf Seoul ↗</a></div>
     </div>
 
     <div class="queer-gallery">
-      <figure class="queer-image">
-        <img src="https://static-edge.kiaf.org/web/2025/07/29150411/%EC%8B%AC%ED%98%B8%EB%8F%84-%EA%B0%84%ED%83%9D-Shimhodo-Chosen-2018-Korean-traditional-painting-on-silk-70-%C3%97-92-cm.png" alt="Pak Kurim, Shimhodo – Chosen, 2018" loading="lazy">
-        <figcaption>Pak Kurim 박그림 · <em>Shimhodo – Chosen</em>, 2018 · peinture traditionnelle coréenne sur soie · image : Kiaf Seoul / THEO.</figcaption>
+      <figure class="queer-image portrait">
+        <img src="https://storage.heypop.kr/assets/2022/02/24090810/1-29-473x1024.jpeg" alt="Pak Kurim, Shimhodo – Nakryu, 2019" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_樂流</em>, 2019 · image : Heypop.</figcaption>
       </figure>
-      <figure class="queer-image">
-        <img src="https://static-edge.kiaf.org/web/2025/07/29150412/%E6%88%91%E8%AC%8E-%EC%95%84%EB%AF%B8-Enigma-2024-Korean-Traditional-Paint-on-Silk-120x40cm.jpg" alt="Pak Kurim, Enigma, 2024" loading="lazy">
-        <figcaption>Pak Kurim 박그림 · <em>Enigma</em>, 2024 · image : Kiaf Seoul / THEO.</figcaption>
-      </figure>
-      <figure class="queer-image">
-        <img src="https://static-edge.kiaf.org/web/2025/07/29150413/%E6%98%A5%E7%9B%96-%EC%B6%98%EA%B0%9C-Spring-Umbrella-2024-Korean-Traditional-Paint-on-Silk-120x40cm.jpg" alt="Pak Kurim, Spring Umbrella, 2024" loading="lazy">
-        <figcaption>Pak Kurim 박그림 · <em>Spring Umbrella</em>, 2024 · image : Kiaf Seoul / THEO.</figcaption>
+      <figure class="queer-image diptych">
+        <img src="https://static-edge.kiaf.org/web/2024/11/04133336/%EB%B0%95%EA%B7%B8%EB%A6%BC_%EC%8B%AC%ED%98%B8%EB%8F%84-%EC%9B%94%EA%B4%91%E5%B0%8B%E8%99%8E%E5%9C%96-%E6%9C%88%E5%85%89_%EB%B9%84%EB%8B%A8%EC%97%90-%EB%8B%B4%EC%B1%84_250%C3%97120cm_2022.jpg" alt="Pak Kurim, Shimhodo – Moonlight and Sunlight, 2022" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>尋虎圖_月光 · 日光</em>, 2022 · image : Kiaf Seoul.</figcaption>
       </figure>
     </div>
   </div>
