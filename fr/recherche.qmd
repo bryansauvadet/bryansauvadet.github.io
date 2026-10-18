@@ -9,7 +9,6 @@ format:
 
 ```{=html}
 <link rel="stylesheet" href="/assets/css/recherche.css">
-```
 
 <section class="page-hero"><div class="eyebrow">Bryan Sauvadet</div><h1>Recherche</h1></section>
 
@@ -246,3 +245,4 @@ format:
 </section>
 
 </main>
+```
