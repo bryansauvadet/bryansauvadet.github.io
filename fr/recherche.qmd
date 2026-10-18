@@ -53,15 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="Avalokiteśvara à la lune d’eau, peinture bouddhique du Koryŏ" loading="lazy">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg" alt="Avalokiteśvara à la lune d’eau, peinture bouddhique du Koryŏ" loading="lazy" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">AXE 01</div>
         <h3>Art bouddhique de cour et transition Koryŏ–Chosŏn</h3>
         <p>Continuités artistiques au-delà de la rupture dynastique, commanditaires royaux, rôle des femmes de cour, inscriptions, politiques religieuses et production des images entre la fin du Koryŏ et les débuts du Chosŏn.</p>
         <div class="axis-tags"><span>Cour royale</span><span>Commanditaires</span><span>Inscriptions</span></div>
-        <small class="image-credit-line">Avalokiteśvara à la lune d’eau · Koryŏ · The Metropolitan Museum of Art / Wikimedia Commons · domaine public.</small>
-      </div>
+</div>
     </article>
 
     <article class="axis-card">
