@@ -1,0 +1,10 @@
+---
+title: "韓國佛塔"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/zh-hant/databases.html">資料庫</a></div><h1>韓國佛塔</h1></section>
+<main class="content"><div class="content-inner database-detail"><p class="lead">此子頁面將用於建立韓國佛塔資料庫。</p><div class="database-empty-state"><h2>韓國佛塔</h2><p>資料庫建置中。</p></div></div></main>

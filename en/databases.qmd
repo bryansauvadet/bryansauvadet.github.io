@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/en-footer.html
 ---
 <section class="page-hero"><div class="eyebrow">Bryan Sauvadet</div><h1>Databases</h1></section>
-<main class="content"><p class="lead">Structured research datasets and searchable corpora.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+<main class="content"><div class="content-inner database-index"><div class="database-grid"><a class="database-card" href="/en/databases/korean-stupas.html"><div class="database-card-kicker">Databases</div><h2>Korean stupas</h2><p>Database devoted to Korean stupas.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>

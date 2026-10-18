@@ -1,0 +1,10 @@
+---
+title: "한국 불탑"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/ko/databases.html">데이터베이스</a></div><h1>한국 불탑</h1></section>
+<main class="content"><div class="content-inner database-detail"><p class="lead">이 하위 페이지에는 한국 불탑 데이터베이스가 구축될 예정입니다.</p><div class="database-empty-state"><h2>한국 불탑</h2><p>데이터베이스 구축 중.</p></div></div></main>

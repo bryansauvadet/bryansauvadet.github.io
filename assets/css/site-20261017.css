@@ -587,3 +587,21 @@ a,span,p,h1,h2,h3,h4,div{
     gap:0 2px;
   }
 }
+
+
+/* Database index */
+.database-index{padding-top:36px;padding-bottom:72px}
+.database-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.database-card{position:relative;display:block;min-height:220px;padding:26px 28px 34px;border:1px solid var(--line);background:var(--paper-2);transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease}
+.database-card:hover{transform:translateY(-2px);border-color:#c6b79f;box-shadow:0 9px 24px rgba(67,54,37,.07)}
+.database-card-kicker{font:10px/1.4 Arial,sans-serif;letter-spacing:.11em;text-transform:uppercase;color:var(--accent-dark);margin-bottom:20px}
+.database-card h2{font-size:28px;line-height:1.2;font-weight:400;margin:0 0 12px}
+.database-card p{font-size:14px;line-height:1.6;color:#625b53;max-width:430px;margin:0}
+.database-card-arrow{position:absolute;right:25px;bottom:22px;font-size:23px;color:var(--accent-dark)}
+.database-subhero .eyebrow a{text-decoration:underline;text-underline-offset:3px}
+.database-detail{padding-top:36px;padding-bottom:72px}
+.database-empty-state{margin-top:30px;padding:30px;border:1px solid var(--line);background:var(--paper-2)}
+.database-empty-state h2{font-size:26px;font-weight:400;margin:0 0 10px}
+.database-empty-state p{font-size:14px;line-height:1.6;color:#625b53;margin:0}
+@media(max-width:860px){.database-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:600px){.database-grid{grid-template-columns:1fr}.database-card{min-height:180px}}

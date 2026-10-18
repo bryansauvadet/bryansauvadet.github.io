@@ -1,0 +1,10 @@
+---
+title: "韓国の仏塔"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/ja/databases.html">データベース</a></div><h1>韓国の仏塔</h1></section>
+<main class="content"><div class="content-inner database-detail"><p class="lead">このサブページでは、韓国の仏塔に関するデータベースを構築します。</p><div class="database-empty-state"><h2>韓国の仏塔</h2><p>データベースは現在構築中です。</p></div></div></main>
