@@ -36,6 +36,10 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · インタラクティブ年表</div><h2>宮廷・寺院・仏教美術発願を横断する経歴</h2><p>出来事を絞り込み、廉承益の生涯における各側面を個別に確認できる。</p></div>
+    <figure class="yom-map-insert yom-map-insert--compact">
+      <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277年から1283年にかけての開京における廉承益の宗教的・行政的移動を示す地図" loading="lazy">
+      <figcaption><strong>廉承益の宗教的・行政的移動、1277–1283年。</strong> 天孝寺、玄化寺、王室写経所、そして1283年の石塔修復巡回という、前半生を形づくる主要な移動を一枚の地図にまとめている。</figcaption>
+    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="年表フィルター"><button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">すべて</button><button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">宮廷</button><button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">寺院</button><button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">発願・制作</button><button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">儀礼・治療</button></div>
     <div class="yom-timeline">
       <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1277</div><div class="yom-event-body"><h3>病に伏す王の側で</h3><p>廉承益は忠烈王に随行して天孝寺 <span class="yom-hanja">天孝寺</span> に赴き、王の療養に関わった。この出来事によって王との近さはさらに強まった。</p><p class="yom-source">『<em>高麗史</em>』巻123、8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">宮廷</span><span class="yom-tag">治療</span></div></div></article>
@@ -60,6 +64,10 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · 1283年7月</div><h2>石塔修復の任務</h2><p>モンゴルとの戦争による破壊と損傷の後、忠烈王は廉承益と孔愉に、都城の仏教施設を巡って修復を監督する任務を与えた。論文で確認できる行程は四地点を結んでいる。</p></div>
+    <figure class="yom-map-insert">
+      <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="1283年に開京の石塔修復のため廉承益が巡回した経路を示す地図" loading="lazy">
+      <figcaption><strong>石塔修復の巡回、1283年。</strong> 玄化寺、王輪寺、南溪院、開國寺別院を対象として廉承益と孔愉に託された任務を可視化した地図である。これは廉承益が監督した<strong>王命による任務</strong>であり、四件の個人発願ではない。</figcaption>
+    </figure>
     <div class="yom-mission" aria-label="1283年の石塔修復任務"><div class="yom-mission-step"><div class="num">01</div><h3>玄化寺</h3><div class="hanja yom-hanja">玄化寺</div><p>1280年の王室建築命令によって、すでに廉承益と関係していた寺院。</p></div><div class="yom-mission-step"><div class="num">02</div><h3>王輪寺</h3><div class="hanja yom-hanja">王輪寺</div><p>修復対象に含まれた都城の主要寺院の一つ。</p></div><div class="yom-mission-step"><div class="num">03</div><h3>南溪院</h3><div class="hanja yom-hanja">南溪院</div><p>現存石塔を通じて、建築・修復・経典納入を直接結びつけられる重要例。</p></div><div class="yom-mission-step"><div class="num">04</div><h3>開國寺</h3><div class="hanja yom-hanja">開國寺</div><p>論文で用いた史料には開國寺の一属院も修復任務の対象として現れる。</p></div></div>
     <p class="yom-source"><strong>文献史料：</strong>『<em>高麗史</em>』巻29、45a。失われた建物の姿を恣意的に復元せず、現存建築と関連遺物が確認できる南溪院のみを物質文化の事例として詳述する。</p>
   </div></section>
@@ -79,6 +87,20 @@ format:
     <div class="yom-section-head"><div class="yom-kicker">06 · 1283年頃</div><h2>『妙法蓮華經』：〈舎利としての経典〉</h2><p>奥書は廉承益を発願者として明記する。南溪院石塔の修復と結びつくことで、この経典は豪華写経という範囲を超え、荘厳・納入装置の内部に置くために制作された儀礼的対象となる。</p></div>
     <div class="yom-media-grid"><figure class="yom-figure contain yom-image-reduced"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9997c4b7344a/kjmh-33-3-563f4.jpg" alt="廉承益発願の妙法蓮華經に関する願文" loading="lazy"><figcaption>廉承益発願『妙法蓮華經』に関わる願文 · Lim Young-ae, 2024再録 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">出典 ↗</a></figcaption></figure>
       <div class="yom-text-panel"><div class="big-number">1283</div><h3>テクスト・画像・納入</h3><dl><dt>題名</dt><dd>妙法蓮華經</dd><dt>漢字</dt><dd class="yom-hanja">妙法蓮華經</dd><dt>McCune–Reischauer</dt><dd><span class="yom-roman">Myobŏp yŏnhwagyŏng</span></dd><dt>発願者</dt><dd>廉承益 <span class="yom-roman">Yŏm Sŭngik</span></dd><dt>料紙</dt><dd>紺紙、金属顔料による書写</dd><dt>機能</dt><dd>発願、聖化、石塔内部への納入</dd></dl></div>
+    </div>
+    <div class="yom-lotus-analysis" aria-labelledby="lotus-image-analysis-title">
+      <figure class="yom-lotus-frontispiece">
+        <img src="/assets/img/yom-sungik/namgyewon-lotus-frontispiece.webp" alt="南溪院『妙法蓮華經』第一巻の扉絵。紺紙に金泥で描かれた忿怒相の護法像" loading="lazy">
+        <figcaption>南溪院『妙法蓮華經』<span class="yom-hanja">妙法蓮華經</span> 第一巻扉絵、1283年頃 · 紺紙、金・銀 · 韓国国立中央博物館。</figcaption>
+      </figure>
+      <div class="yom-lotus-analysis-copy">
+        <div class="yom-kicker">図像分析</div>
+        <h3 id="lotus-image-analysis-title">「舎利としての経典」に凝縮された護法像</h3>
+        <p>南溪院の仏塔 <span class="yom-hanja">塔</span> から発見された七巻のうち、第一巻は最も保存状態がよい。紺紙の上に本文を銀泥で書写し、表紙と扉絵を金泥で表している。図像はきわめて簡潔で、物語的な場面を展開する代わりに、蓮華座 <span class="yom-hanja">蓮華座</span> に立ち、右手に大きな金剛杵 <span class="yom-hanja">金剛杵</span>（<span class="yom-roman">kŭmgangjŏ</span>）を執る忿怒相の像を一尊のみ描く。</p>
+        <p>身体は左方を向く一方、頭部は反対方向へひねられている。隆起した筋肉、動きを帯びた衣文、緊張した腕、頭部を囲む火焔文は、この像に強い運動感と護法的な性格を与えている。この構成は経典内容を物語として説明するものではなく、法 <span class="yom-hanja">法</span> の力を即時に把握できる一像へ凝縮する。様式的には1275–1276年頃の図像を伴う写経 <span class="yom-hanja">經</span> の護法像と非常に近く、とりわけ『不空羂索神變真言經』や文殊師利菩薩 <span class="yom-hanja">文殊師利菩薩</span> に関わる経典の作例と比較できる。</p>
+        <p>この簡潔さは、写本の用途を考えるとさらに意味を持つ。七巻は鑑賞のために外部へ見せるものではなく、1283年に修復された仏塔 <span class="yom-hanja">塔</span> の内部に納入された。したがって扉絵は、観想のための画像というより、<strong>凝縮され、儀礼的に作用する存在</strong>として理解すべきである。このような経典は<strong>「舎利としての経典」</strong>と捉えることができる。聖なる本文、護法像、そして両者を封じ込める仏塔が一体となって、奉安と加持の装置を形成するからである。この解釈は、『妙法蓮華經』<span class="yom-hanja">妙法蓮華經</span> において経典の所在が如來 <span class="yom-hanja">如來</span> の身体そのものの現前と結びつけられる記述とも響き合う。</p>
+        <p class="yom-source">1283年頃に廉承益が発願し、南溪院の仏塔から発見されたこの写本は、韓国国立中央博物館に所蔵されている。</p>
+      </div>
     </div>
     <div class="yom-inscription"><div class="yom-kicker">共通する発願偈</div><div class="hanja yom-hanja">願我臨欲命終時 · 盡除一切諸障礙 · 面見彼佛阿彌陀 · 即得往生安樂刹</div><div class="translation">「わが命終わらんとする時、一切の障礙がことごとく除かれ、かの阿弥陀仏をまのあたりに見て、ただちに安楽国に往生できますように。」</div><div class="note">この四句の偈は、廉承益発願の『妙法蓮華經』と1286年の阿弥陀如来図を結びつける。ここでは願意を理解しやすくするため訳を示したが、奥書全文はさらに長い。</div></div>
     <div class="yom-practice-flow" aria-label="舎利としての経典の機能"><div class="yom-practice-step"><b>写経</b><small>聖なるテクストを物質化</small></div><div class="yom-practice-step"><b>発願</b><small>国王 · 親族 · 発願者</small></div><div class="yom-practice-step"><b>納入</b><small>巻子を石塔内部へ置く</small></div><div class="yom-practice-step"><b>封鎖</b><small>視線と日常的アクセスから隔離</small></div><div class="yom-practice-step"><b>聖化</b><small>テクストを働く現前へ変える</small></div></div>
@@ -107,6 +129,10 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · 開京</div><h2>都城の仏教制度に刻まれた廉承益の軌跡</h2><p>廉承益の生涯は開京の複数の主要寺院と交差する。しかしこのページは、都城全体の仏教ネットワーク地図を重複して示すものではなく、廉承益自身の動線だけを抽出する。<strong>天孝寺 → 玄化寺 → 王室写経所 → 石塔修復任務 → 南溪院</strong>。</p></div>
     <div class="yom-practice-flow" aria-label="開京の仏教施設を結ぶ廉承益の軌跡"><div class="yom-practice-step"><b>天孝寺</b><small>1277</small></div><div class="yom-practice-step"><b>玄化寺</b><small>1280</small></div><div class="yom-practice-step"><b>写経所</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>王命</b><small>複数の石塔 · 1283</small></div><div class="yom-practice-step"><b>南溪院</b><small>経典納入</small></div></div>
+  <figure class="yom-map-insert">
+      <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="1289年と1293年の宮廷旅行を含む、開京から大都までの廉承益の移動を示す地図" loading="lazy">
+      <figcaption><strong>開京から大都へ。</strong> 1289年と1293年の旅は、廉承益をより広い政治空間の中に位置づける。開京の仏教施設における活動は、高麗宮廷と元朝世界を結ぶ仲介者としての役割と重なっていた。</figcaption>
+    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">
