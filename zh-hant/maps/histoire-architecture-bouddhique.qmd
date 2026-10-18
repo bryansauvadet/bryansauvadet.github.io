@@ -1,0 +1,34 @@
+---
+title: "佛教建築史"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: ../_includes/zh-hant-header.html
+    include-after-body: ../_includes/zh-hant-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<main class="hab-page">
+<section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy"><div class="hab-kicker">視覺專題 · 印度 · 中國 · 韓國 · 日本 · 越南</div><h1>佛教建築史</h1><p class="hab-lead">從印度僧院與窣堵波，到中國佛塔的轉化，以及韓國、日本、越南各自的發展：比較佛教建築的形制、功能、材料與神聖景觀。</p><p class="hab-note">第一至第五部分以《사찰과 불탑 이야기》的法文譯稿為主要骨架；第六與第七部分以文化遺產資料擴展至日本與越南；第八部分比較五個地域傳統。</p><div class="hab-stats"><div><strong>8</strong><span>大部分</span></div><div><strong>69</strong><span>小節</span></div><div><strong>5</strong><span>地域傳統</span></div></div></div><div class="hab-hero-visual" aria-hidden="true"><div class="hab-cosmos"></div><div class="hab-stupa"><span class="hab-stupa-finial"></span><span class="hab-stupa-dome"></span><span class="hab-stupa-base"></span></div><div class="hab-pagoda"><span></span><span></span><span></span><span></span></div><div class="hab-hall"><span class="hab-hall-roof"></span><span class="hab-hall-body"></span></div><div class="hab-route"></div></div></div></section>
+<section class="hab-intro" id="introduction"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">導論</div><h2>在時間與空間中理解佛教建築</h2><p>宗教比建築更容易旅行。經典、舍利、佛像與儀式可以跨越千里，但建築必須在各地的材料、技術、氣候與既有營造傳統中重新建造。因此，本頁追蹤的不是單一「風格」的擴散，而是共同居住、保存舍利、使佛陀現前、教學、儀式與信眾動線等功能如何在不同地區被重新翻譯。</p><p>敘事從印度僧院與窣堵波的形成開始，經過兩者的結合以及中國將窣堵波轉化為佛塔的歷程，再比較韓國、日本與越南的地域性發展。每一小節都設計成可單獨配上一幅完整圖像的模組。</p></div></div></section>
+<section class="hab-toc-section" id="contents"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">導覽</div><h2>互動式目錄</h2><p>點擊任何小節標題即可直接跳至相應段落。</p></div><nav class="hab-toc">
+<div class="hab-toc-group"><a class="hab-toc-part" href="#india-monastery"><span>I</span> 印度 — 佛教僧院的誕生</a><ol><li><a href="#i-1">僧院出現以前的佛教</a></li><li><a href="#i-2">僧院的不同稱呼與意義</a></li><li><a href="#i-3">印度最早的大型僧院</a></li><li><a href="#i-4">僧院、城市與托鉢</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#india-stupa"><span>II</span> 印度 — 窣堵波的誕生與發展</a><ol><li><a href="#ii-1">什麼是窣堵波？</a></li><li><a href="#ii-2">佛陀在世時的窣堵波</a></li><li><a href="#ii-3">涅槃與舍利分配</a></li><li><a href="#ii-4">誰建塔，又建在哪裡？</a></li><li><a href="#ii-5">桑奇與巴爾胡特</a></li><li><a href="#ii-6">繞塔與宇宙論</a></li><li><a href="#ii-7">從佛陀之塔到高僧之塔</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#india-china-pagoda"><span>III</span> 從印度到中國 — 窣堵波進入僧院並轉化為佛塔</a><ol><li><a href="#iii-1">窣堵波進入印度僧院</a></li><li><a href="#iii-2">支提與毘訶羅</a></li><li><a href="#iii-3">佛教傳入中國</a></li><li><a href="#iii-4">與中國建築的相遇</a></li><li><a href="#iii-5">從印度窣堵波到中國佛塔</a></li><li><a href="#iii-6">堂塔合一：舍利、佛像與行走</a></li><li><a href="#iii-7">從木塔到磚塔</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#china-korea-monastery"><span>IV</span> 中國與韓國 — 東亞寺院的轉型</a><ol><li><a href="#iv-1">從塔中心到佛殿中心</a></li><li><a href="#iv-2">T’apdori 與 sundang</a></li><li><a href="#iv-3">中國、韓國、日本的材料選擇</a></li><li><a href="#iv-4">韓國石塔的誕生</a></li><li><a href="#iv-5">大新羅（Grand Silla）的古典石塔</a></li><li><a href="#iv-6">佛塔作為佛教宇宙縮影</a></li><li><a href="#iv-7">韓國石塔的多樣化</a></li><li><a href="#iv-8">pudo 與 sŭngt’ap</a></li><li><a href="#iv-9">縮小的塔與擴大的佛殿</a></li><li><a href="#iv-10">寺院作為神聖宮殿</a></li><li><a href="#iv-11">韓國寺院的山門</a></li><li><a href="#iv-12">韓國山寺</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#china-korea-hall"><span>V</span> 中國與韓國 — 佛殿與木構建築</a><ol><li><a href="#v-1">寺院建築的等級</a></li><li><a href="#v-2">韓屋結構與木構技術</a></li><li><a href="#v-3">佛教與高麗建築的保存</a></li><li><a href="#v-4">高麗與朝鮮：chusimp’o 與 tap’o</a></li><li><a href="#v-5">屋頂形式</a></li><li><a href="#v-6">門窗與花格</a></li><li><a href="#v-7">從磚地到木地板</a></li><li><a href="#v-8">佛與菩薩的殿堂</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#japan"><span>VI</span> 日本 — 日本佛教建築的形成</a><ol><li><a href="#vi-1">佛教建築傳入日本</a></li><li><a href="#vi-2">飛鳥 — 最早期寺院</a></li><li><a href="#vi-3">法隆寺與古代佛教建築</a></li><li><a href="#vi-4">奈良 — 國家大寺院</a></li><li><a href="#vi-5">東大寺與大佛殿</a></li><li><a href="#vi-6">從都城到山岳</a></li><li><a href="#vi-7">密教建築與曼荼羅空間</a></li><li><a href="#vi-8">淨土與平等院</a></li><li><a href="#vi-9">禪宗建築</a></li><li><a href="#vi-10">日本佛堂與庭園</a></li><li><a href="#vi-11">三重塔、五重塔與多寶塔</a></li><li><a href="#vi-12">日本建築的延續與特性</a></li></ol></div>
+<div class="hab-toc-group hab-vietnam"><a class="hab-toc-part" href="#vietnam"><span>VII</span> 越南 — 越南佛教建築的形成與轉型</a><ol><li><a href="#vii-1">佛教傳入越南</a></li><li><a href="#vii-2">Luy Lâu 羸𨻻與早期佛教中心</a></li><li><a href="#vii-3">Lý 李朝與 Trần 陳朝</a></li><li><a href="#vii-4">Chùa Một Cột 一柱寺</a></li><li><a href="#vii-5">越南的塔與窣堵波</a></li><li><a href="#vii-6">越南寺院的組織</a></li><li><a href="#vii-7">nội công ngoại quốc 內工外國</a></li><li><a href="#vii-8">木構架</a></li><li><a href="#vii-9">越南屋頂</a></li><li><a href="#vii-10">建築與景觀</a></li><li><a href="#vii-11">Huế 與 Thiên Mụ 天姥寺</a></li><li><a href="#vii-12">宗教融合與多重祭壇</a></li></ol></div>
+<div class="hab-toc-group"><a class="hab-toc-part" href="#synthesis"><span>VIII</span> 綜合 — 五種傳統，一種佛教建築？</a><ol><li><a href="#viii-1">從窣堵波到佛塔</a></li><li><a href="#viii-2">從舍利到佛像</a></li><li><a href="#viii-3">材料塑造地域傳統</a></li><li><a href="#viii-4">比較寺院平面</a></li><li><a href="#viii-5">建築與權力</a></li><li><a href="#viii-6">建築與景觀</a></li><li><a href="#viii-7">使佛陀現前的五種建築方式</a></li></ol></div>
+</nav></div></section></main>
+```
+{{< include histoire-architecture-bouddhique/part-i.qmd >}}
+{{< include histoire-architecture-bouddhique/part-ii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-iii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-iv.qmd >}}
+{{< include histoire-architecture-bouddhique/part-v.qmd >}}
+{{< include histoire-architecture-bouddhique/part-vi.qmd >}}
+{{< include histoire-architecture-bouddhique/part-vii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-viii.qmd >}}
+```{=html}<div class="hab-backtop"><a href="#top">↑ 回到頁首</a></div>```
