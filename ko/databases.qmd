@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/ko-footer.html
 ---
 <section class="page-hero"><h1>데이터베이스</h1></section>
-<main class="content"><div class="content-inner database-index"><div class="database-grid"><a class="database-card" href="/ko/databases/korean-stupas.html"><div class="database-card-kicker">데이터베이스</div><h2>한국 불탑</h2><p>한국 불탑을 위한 데이터베이스.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
+<main class="content"><div class="content-inner database-index"><div class="database-grid"><a class="database-card" href="/ko/databases/korean-stupas.html"><h2>한국 불탑</h2><p>한국 불탑을 위한 데이터베이스.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
