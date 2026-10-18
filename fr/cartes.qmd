@@ -1,5 +1,5 @@
 ---
-title: "Cartes & infographies"
+title: "Dossiers thématiques"
 lang: fr
 format:
   html:
@@ -41,12 +41,12 @@ format:
 
 <section class="page-hero">
   <div class="eyebrow">Bryan Sauvadet</div>
-  <h1>Cartes & infographies</h1>
+  <h1>Dossiers thématiques</h1>
 </section>
 
 <main class="content">
   <div class="maps-index">
-    <p class="maps-index-lead">Cartes interactives, chronologies, réseaux et visualisations conçus pour rendre lisibles des ensembles documentaires complexes issus de mes recherches.</p>
+    <p class="maps-index-lead">Des dossiers thématiques consacrés à des figures, monuments et questions de l’art bouddhique en Asie de l’Est, réunissant analyses, sources, cartes, chronologies et visualisations issues de mes recherches.</p>
 
     <div class="maps-project-grid">
       <a class="maps-project-card" href="/fr/cartes/yom-sungik-koryo.html">
