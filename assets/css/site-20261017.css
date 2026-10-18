@@ -680,6 +680,7 @@ html.site-intro-skip .site-intro{display:none!important}
   position:fixed;inset:0;z-index:10000;display:grid;place-items:center;
   background:#151310;overflow:hidden;opacity:1;cursor:pointer;
   transition:opacity .78s ease;
+  animation:intro-failsafe-hide .01s linear 5.25s forwards;
 }
 .site-intro.is-exiting{opacity:0;pointer-events:none}
 .site-intro-panels{
@@ -728,6 +729,7 @@ html.site-intro-skip .site-intro{display:none!important}
 }
 .site-intro-name{font:43px/1.05 Georgia,"Times New Roman",serif;letter-spacing:.015em}
 .site-intro-subtitle{margin-top:10px;font:10px/1.4 Arial,sans-serif;letter-spacing:.15em;text-transform:uppercase}
+@keyframes intro-failsafe-hide{to{visibility:hidden;pointer-events:none}}
 @keyframes intro-panel-in{
   0%{opacity:0;transform:scale(1.075) translateY(18px);filter:saturate(.7)}
   100%{opacity:1;transform:scale(1.015) translateY(0);filter:saturate(.9)}
