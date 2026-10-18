@@ -6,5 +6,239 @@ format:
     include-before-body: _includes/ko-header.html
     include-after-body: _includes/ko-footer.html
 ---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/recherche.css">
+
 <section class="page-hero"><h1>연구</h1></section>
-<main class="content"><p class="lead">Research axes, projects and current work.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="research-page">
+
+<section class="research-intro">
+  <div class="research-intro-copy">
+    <div class="research-kicker">불교미술사 · 동아시아</div>
+    <h2>이미지, 의례, 권력과 이동</h2>
+    <p>나의 연구는 고대부터 현대에 이르는 장기적 시간대 속에서 중국·한국·일본·베트남을 아우르며 불교미술의 변화를 다룬다. 이미지와 기념물을 고립된 대상으로 보지 않고, 후원자와 의례적 사용, 이동 경로, 그리고 그 의미가 형성되는 정치적·사회적·종교적 맥락 속에서 살펴본다.</p>
+    <nav class="research-nav" aria-label="연구 주제 탐색">
+      <a href="#axes">연구 주제</a>
+      <a href="#queer">퀴어와 불교</a>
+      <a href="#projets">진행 중 연구</a>
+      <a href="#methode">방법론</a>
+      <a href="#ressources">코퍼스와 데이터</a>
+    </nav>
+  </div>
+
+  <div class="research-map" aria-label="연구의 주요 개념을 나타낸 도식">
+    <div class="research-core"><strong>이미지<br>↔ 의례<br>↔ 권력</strong></div>
+    <div class="research-node n1">후원자</div>
+    <div class="research-node n2">이동과 교류</div>
+    <div class="research-node n3">젠더</div>
+    <div class="research-node n4">물질성</div>
+    <div class="research-node n5">건축</div>
+    <div class="research-node n6">정체성</div>
+    <div class="research-geography">중국 · 한국 · 일본 · 베트남</div>
+  </div>
+</section>
+
+<section class="research-section" id="axes">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">01—06 · 연구 주제</div>
+      <h2>사회사·물질문화사·초지역적 관점에서 본 불교</h2>
+    </div>
+    <p>각 코퍼스는 명문과 물질성, 의례 실천, 후원자 네트워크, 그리고 동아시아 사회 사이에서 이루어진 형식의 이동과 교류를 중심으로 분석한다.</p>
+  </div>
+
+  <div class="axes-grid">
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="고려 불화 수월관음도" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">연구축 01</div>
+        <h3>궁정 불교미술과 고려–조선 전환기</h3>
+        <p>왕조 교체를 넘어 지속된 예술적 연속성, 왕실 후원자, 궁중 여성의 역할, 명문, 종교 정책, 그리고 고려 말에서 조선 초에 이르는 이미지 제작을 연구한다.</p>
+        <div class="axis-tags"><span>왕실</span><span>후원자</span><span>명문</span></div>
+        <small class="image-credit-line">수월관음도 · 고려 · The Metropolitan Museum of Art / Wikimedia Commons · 퍼블릭 도메인.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="감로도 세부" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">연구축 02</div>
+        <h3>이미지, 의례와 수행성</h3>
+        <p>불교 이미지를 의례 실천과 장치를 통해 활성화되는 대상으로 연구한다. 감로도 甘露幀는 이미지의 출현, 기능, 수행성을 분석하기 위한 핵심 연구 대상이다.</p>
+        <div class="axis-tags"><span>甘露幀</span><span>의례</span><span>수행성</span></div>
+        <small class="image-credit-line">감로도 세부, 18세기 작품의 복제본 · Daderot / Wikimedia Commons · CC0.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-circulation" aria-label="항저우, 대도, 개경, 일본 사이의 이동을 나타낸 도식">
+        <span class="route-line l1"></span><span class="route-line l2"></span><span class="route-line l3"></span>
+        <span class="route-dot hz"></span><span class="route-city hz">항저우<br>杭州</span>
+        <span class="route-dot dd"></span><span class="route-city dd">대도<br>大都</span>
+        <span class="route-dot kg"></span><span class="route-city kg">개경<br>開京</span>
+        <span class="route-dot jp"></span><span class="route-city jp">일본<br>日本</span>
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">연구축 03</div>
+        <h3>이동과 예술적 전이</h3>
+        <p>중국·한국·일본 사이에서 이루어진 예술가, 도상과 형식, 작품, 실천의 이동을 연구한다. 항저우–대도–개경 네트워크, 송·원대 형식의 수용, 오브제의 이동, 그리고 컬렉션 속 보존의 역사를 함께 살펴본다.</p>
+        <div class="axis-tags"><span>전이</span><span>프로비넌스</span><span>네트워크</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual axis-stupa">
+        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="경주 불국사 다보탑" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">연구축 04</div>
+        <h3>건축, 사찰과 불탑</h3>
+        <p>건축 형식의 변화와 보수성, 사찰의 입지, 불탑의 역사를 연구한다. 코퍼스는 신라, 백제, 고구려, 통일신라, 고려, 조선을 구분하며, 각 기념물의 서로 다른 기능도 함께 분류한다.</p>
+        <div class="axis-tags"><span>불탑</span><span>사찰</span><span>장기지속</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Six_of_the_Ten_Kings_of_Hell_LACMA_AC1998.268.3.1-.6_%283_of_5%29.jpg" alt="십왕 가운데 한 왕을 그린 한국 불화" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">연구축 05</div>
+        <h3>도상, 죽음과 구원</h3>
+        <p>십왕 十王, 불교적 사후세계, 관음, 그리고 도상 모델이 지역적으로 변용되는 과정을 연구한다. 특히 한국과 베트남의 전통을 서로 연결해 비교한다.</p>
+        <div class="axis-tags"><span>十王</span><span>사후세계</span><span>한국–베트남</span></div>
+        <small class="image-credit-line">십왕도 일부 · 조선, 1798 · LACMA / Wikimedia Commons · 퍼블릭 도메인.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="프리어 미술관 소장 고려 수월관음도" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">연구축 06</div>
+        <h3>사료, 물질성과 컬렉션의 역사</h3>
+        <p>작품, 명문, 의례 문헌, 물질적 데이터를 함께 읽고, 한국·일본·유럽·미국에 소장된 한국 작품의 재발견, 재귀속, 프로비넌스를 연구한다.</p>
+        <div class="axis-tags"><span>물질성</span><span>박물관</span><span>귀속</span></div>
+        <small class="image-credit-line">수월관음도 · 고려, 14세기 · Freer Gallery of Art / Wikimedia Commons · 퍼블릭 도메인.</small>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="research-section" id="queer">
+  <div class="queer-feature">
+    <div class="queer-copy">
+      <div class="research-section-kicker">횡단적 연구축 · 현대</div>
+      <h2>퀴어와 현대 불교</h2>
+      <p class="artist-name">박그림 · Pak Kurim · Grim Park</p>
+      <p>나의 연구 가운데 한 축은 한국에서 불교, 현대미술, 젠더, 퀴어 정체성이 맺는 관계를 다룬다. 특히 한국 불화의 기법과 시각 구조를 새롭게 활용해 정체성, 젠더 규범, 이분법적 범주를 질문하는 박그림의 작업에 주목한다.</p>
+      <p>그의 <em>심호도</em> 尋虎圖 연작은 전통적인 <em>심우도</em> 尋牛圖의 소 대신 호랑이를 등장시켜 그 이미지를 재해석한다. 전통 종교 서사를 동시대적 언어로 전환함으로써 주변성, 주체성, 그리고 계승된 형식 안에서 퀴어 도상학이 가능할지를 동시에 탐구하게 한다.</p>
+      <div class="queer-sources"><a class="queer-source" href="https://heypop.kr/n/26670/" target="_blank" rel="noopener">Heypop ↗</a><span> · </span><a class="queer-source" href="https://kiaf.org/insights/46599" target="_blank" rel="noopener">Kiaf Seoul ↗</a></div>
+    </div>
+
+    <div class="queer-gallery">
+      <figure class="queer-image portrait">
+        <img src="https://storage.heypop.kr/assets/2022/02/24090810/1-29-473x1024.jpeg" alt="박그림, 심호도 – 낙류, 2019" loading="lazy">
+        <figcaption>박그림 · <em>尋虎圖_樂流</em>, 2019 · 이미지: Heypop.</figcaption>
+      </figure>
+      <figure class="queer-image diptych">
+        <img src="https://static-edge.kiaf.org/web/2024/11/04133336/%EB%B0%95%EA%B7%B8%EB%A6%BC_%EC%8B%AC%ED%98%B8%EB%8F%84-%EC%9B%94%EA%B4%91%E5%B0%8B%E8%99%8E%E5%9C%96-%E6%9C%88%E5%85%89_%EB%B9%84%EB%8B%A8%EC%97%90-%EB%8B%B4%EC%B1%84_250%C3%97120cm_2022.jpg" alt="박그림, 심호도 – 월광과 일광, 2022" loading="lazy">
+        <figcaption>박그림 · <em>尋虎圖_月光 · 日光</em>, 2022 · 이미지: Kiaf Seoul.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="projets">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">진행 중 연구</div>
+      <h2>현재 전개 중인 연구</h2>
+    </div>
+    
+  </div>
+
+  <div class="projects-grid">
+    <article class="project-card">
+      <div class="status">논문 준비 중</div>
+      <h3>‘장기 고려’와 석탑</h3>
+      <p>건축적 연속성과 기념비적 형식의 장기지속을 통해 왕조 중심의 시대 구분을 재검토한다.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">논문 준비 중</div>
+      <h3>수월관음 도상의 기원</h3>
+      <p>경전 자료, 전승, 성지 지형, 의례 실천, 도상 형성의 관계를 함께 분석한다.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">연구 진행 중</div>
+      <h3>항저우 — 대도 — 개경의 이동 네트워크</h3>
+      <p>송·원대 중국과 고려를 연결한 인물, 오브제, 예술적 모델의 네트워크를 재구성한다.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">연구 진행 중</div>
+      <h3>감로도 甘露幀</h3>
+      <p>의례, 이미지의 사용, 수행적 장치를 통해 감로도의 출현을 분석한다.</p>
+    </article>
+  </div>
+</section>
+
+<section class="research-section" id="methode">
+  <div class="method-wrap">
+    <div class="method-copy">
+      <div class="research-section-kicker">방법론</div>
+      <h2>관계망 속에서 작품 연구하기</h2>
+      <p>나의 접근은 미술사, 문헌 연구, 금석학과 명문 연구, 물질 분석, 사회사, 현지조사, 디지털 도구를 결합한다. 작품은 단순히 기술되는 것이 아니라, 제작과 의례적 활성화, 이동, 수용을 결정하는 관계의 전체 속에 다시 놓인다.</p>
+    </div>
+    <div class="method-diagram" aria-label="방법론적 매트릭스">
+      <div class="method-item">텍스트</div>
+      <div class="method-item">명문</div>
+      <div class="method-item">후원자</div>
+      <div class="method-item">의례</div>
+      <div class="method-center">작품</div>
+      <div class="method-item">장소</div>
+      <div class="method-item">물질성</div>
+      <div class="method-item">이동</div>
+      <div class="method-item">소장 이력</div>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="ressources">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">코퍼스, 현지조사 &amp; 디지털 인문학</div>
+      <h2>연구 자료 살펴보기</h2>
+    </div>
+    <p>이 사이트에서는 이러한 연구 주제를 점차 구체화하는 구조화된 코퍼스, 지도, 주제별 연구, 진행 중 작업을 확인할 수 있다.</p>
+  </div>
+
+  <div class="resources-strip">
+    <a class="resource-link" href="/ko/databases.html">
+      <small>데이터</small>
+      <strong>데이터베이스 →</strong>
+      <p>불탑, 기념물, 도상, 위치 정보, 구조화된 코퍼스.</p>
+    </a>
+    <a class="resource-link" href="/ko/maps.html">
+      <small>연구</small>
+      <strong>주제별 연구 →</strong>
+      <p>염승익, 불교 건축, 지도, 연표, 시각화 자료.</p>
+    </a>
+    <a class="resource-link" href="/ko/publications.html">
+      <small>성과</small>
+      <strong>출판물 →</strong>
+      <p>논문, 단행본 장, 학술 발표, 온라인 글.</p>
+    </a>
+  </div>
+</section>
+
+</main>
+```
