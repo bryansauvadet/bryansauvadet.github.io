@@ -38,6 +38,10 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · 인터랙티브 연표</div><h2>조정, 사원, 불교미술 발원을 오간 경력</h2><p>사건을 필터링하여 염승익의 생애에서 각 영역이 어떻게 전개되는지 살펴볼 수 있다.</p></div>
+    <figure class="yom-map-insert yom-map-insert--compact">
+      <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277년부터 1283년까지 개경에서 이루어진 염승익의 종교적·행정적 이동 경로 지도" loading="lazy">
+      <figcaption><strong>염승익의 종교적·행정적 이동, 1277–1283년.</strong> 천효사, 현화사, 왕실 사경소, 그리고 1283년 석탑 복원 순행 등 그의 경력 전반부를 구성하는 주요 이동을 한눈에 보여준다.</figcaption>
+    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="연표 필터"><button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">전체</button><button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">조정</button><button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">사원</button><button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">발원·제작</button><button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">의례·치유</button></div>
     <div class="yom-timeline">
       <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1277</div><div class="yom-event-body"><h3>병든 국왕 곁에서</h3><p>염승익은 충렬왕을 따라 천효사 <span class="yom-hanja">天孝寺</span>로 가서 왕의 치료에 관여하였다. 이 사건은 국왕과의 밀접한 관계를 더욱 강화했다.</p><p class="yom-source">『<em>고려사</em>』 <span class="yom-hanja">高麗史</span>, 권 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">조정</span><span class="yom-tag">치유</span></div></div></article>
@@ -65,6 +69,10 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · 1283년 7월</div><h2>석탑 복원 임무</h2><p>몽골과의 전쟁으로 인한 파괴와 훼손 이후 충렬왕은 염승익과 공유에게 수도의 불교 시설을 순회하며 복원을 감독하는 임무를 맡긴다. 논문에서 확인한 동선은 네 곳을 연결한다.</p></div>
+    <figure class="yom-map-insert">
+      <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="1283년 개경 석탑 복원을 위한 염승익의 순행 지도" loading="lazy">
+      <figcaption><strong>석탑 복원 순행, 1283년.</strong> 현화사, 왕륜사, 남계원, 개국사 별원을 대상으로 염승익과 공유 <span class="yom-hanja">孔愉</span>에게 맡겨진 임무를 시각화한다. 이는 염승익이 감독한 <strong>왕명에 따른 임무</strong>이지, 네 건의 개인 발원이 아니다.</figcaption>
+    </figure>
     <div class="yom-mission" aria-label="1283년 석탑 복원 임무">
       <div class="yom-mission-step"><div class="num">01</div><h3>현화사</h3><div class="hanja yom-hanja">玄化寺</div><p>1280년 왕실 건축 명령을 통해 이미 염승익과 관계된 사원.</p></div>
       <div class="yom-mission-step"><div class="num">02</div><h3>왕륜사</h3><div class="hanja yom-hanja">王輪寺</div><p>복원 대상에 포함된 수도의 주요 불교 시설 중 하나.</p></div>
@@ -92,6 +100,20 @@ format:
     <div class="yom-media-grid">
       <figure class="yom-figure contain yom-image-reduced"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9997c4b7344a/kjmh-33-3-563f4.jpg" alt="염승익 발원 묘법연화경의 발원문" loading="lazy"><figcaption>염승익 발원 『묘법연화경』 관련 발원문 · Lim Young-ae, 2024 재수록 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">출처 ↗</a></figcaption></figure>
       <div class="yom-text-panel"><div class="big-number">1283</div><h3>텍스트, 이미지, 봉안</h3><dl><dt>명칭</dt><dd>묘법연화경</dd><dt>한자</dt><dd class="yom-hanja">妙法蓮華經</dd><dt>McCune–Reischauer</dt><dd><span class="yom-roman">Myobŏp yŏnhwagyŏng</span></dd><dt>발원자</dt><dd>염승익 <span class="yom-hanja">廉承益</span></dd><dt>재료</dt><dd>감지, 금속성 안료 사경</dd><dt>기능</dt><dd>발원, 성화, 석탑 내부 봉안</dd></dl></div>
+    </div>
+    <div class="yom-lotus-analysis" aria-labelledby="lotus-image-analysis-title">
+      <figure class="yom-lotus-frontispiece">
+        <img src="/assets/img/yom-sungik/namgyewon-lotus-frontispiece.webp" alt="남계원 『묘법연화경』 제1권 변상도. 감지에 금니로 그린 분노상의 호법상" loading="lazy">
+        <figcaption>남계원 『묘법연화경』 <span class="yom-hanja">妙法蓮華經</span> 제1권 변상도, 1283년경 · 감지, 금·은 · 국립중앙박물관.</figcaption>
+      </figure>
+      <div class="yom-lotus-analysis-copy">
+        <div class="yom-kicker">도상 분석</div>
+        <h3 id="lotus-image-analysis-title">‘사리로서의 경전’에 응축된 호법상</h3>
+        <p>남계원 석탑 <span class="yom-hanja">塔</span> 안에서 발견된 일곱 권 가운데 제1권이 가장 잘 보존되어 있다. 감지 위에 본문을 은니로 사경하고, 표지와 변상도는 금니로 제작하였다. 이 이미지는 도상 구성이 매우 간결하다. 복잡한 설화 장면 대신, 연화좌 <span class="yom-hanja">蓮華座</span> 위에 서서 오른손에 큰 금강저 <span class="yom-hanja">金剛杵</span>(<span class="yom-roman">kŭmgangjŏ</span>)를 든 분노상의 호법상 한 구만을 독립적으로 제시한다.</p>
+        <p>몸은 왼쪽을 향하지만 머리는 반대쪽으로 돌려져 있다. 두드러진 근육, 움직임을 강조한 옷주름, 긴장된 팔, 머리를 둘러싼 화염문은 이 상에 역동적이고 수호적인 존재감을 부여한다. 이 구성은 경전의 내용을 서사적으로 설명하려는 것이 아니라 법 <span class="yom-hanja">法</span>의 힘을 즉각적으로 인식할 수 있는 하나의 이미지에 집중시킨다. 양식적으로는 1275–1276년경 제작된 도상 사경 <span class="yom-hanja">經</span>의 호법상과 매우 가깝고, 특히 『불공견삭신변진언경』과 문수사리보살 <span class="yom-hanja">文殊師利菩薩</span> 관련 경전의 도상과 비교할 수 있다.</p>
+        <p>이러한 단순성은 사경의 봉안 목적을 고려할 때 더욱 분명해진다. 일곱 권은 계속 보이도록 전시하기 위한 것이 아니라 1283년에 복원된 석탑 <span class="yom-hanja">塔</span> 내부에 봉안되었다. 따라서 이 이미지는 관상의 대상으로 보기보다 <strong>응축되어 실제 의례적 효력을 발휘하는 존재</strong>로 이해할 필요가 있다. 이런 유형은 <strong>‘사리로서의 경전’</strong>으로 이해할 수 있다. 성스러운 경문과 호법 이미지, 그리고 이들을 봉안한 석탑이 함께 하나의 봉헌·성화 장치를 이루기 때문이다. 이러한 해석은 『묘법연화경』 <span class="yom-hanja">妙法蓮華經</span>에서 경전의 현존을 여래 <span class="yom-hanja">如來</span>의 몸 자체의 현존과 연결하는 구절과도 맞닿아 있다.</p>
+        <p class="yom-source">1283년경 염승익이 발원하고 남계원 석탑에서 발견된 이 사경은 국립중앙박물관에 소장되어 있다.</p>
+      </div>
     </div>
     <div class="yom-inscription"><div class="yom-kicker">공통되는 발원 게송</div><div class="hanja yom-hanja">願我臨欲命終時 · 盡除一切諸障礙 · 面見彼佛阿彌陀 · 即得往生安樂刹</div><div class="translation">“내가 목숨을 마치려는 때에 모든 장애가 다 소멸되고, 저 아미타불을 친견하여 곧 안락국에 왕생하기를 원하나이다.”</div><div class="note">이 네 구절의 게송은 염승익 발원 『묘법연화경』과 1286년 아미타여래도를 연결한다. 여기에는 발원의 의미를 드러내기 위해 번역을 제시했으며, 실제 발문 전체는 더 길다.</div></div>
     <div class="yom-practice-flow" aria-label="사리로서의 경전 기능"><div class="yom-practice-step"><b>사경</b><small>성스러운 텍스트의 물질적 제작</small></div><div class="yom-practice-step"><b>발원</b><small>국왕 · 가족 · 발원자</small></div><div class="yom-practice-step"><b>봉안</b><small>두루마리를 석탑 내부에 넣음</small></div><div class="yom-practice-step"><b>봉함</b><small>시야와 일상적 접근에서 분리</small></div><div class="yom-practice-step"><b>성화</b><small>텍스트를 작동하는 현존으로 만듦</small></div></div>
@@ -122,6 +144,10 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · 개경 開京</div><h2>수도의 불교 제도 속에 놓인 염승익의 동선</h2><p>염승익의 생애는 개경의 여러 주요 사원과 교차한다. 그러나 이 페이지는 수도의 전체 불교 네트워크 지도를 반복하지 않고 염승익의 동선만을 추려 보여준다. <strong>천효사 → 현화사 → 왕실 사경소 → 석탑 복원 임무 → 남계원</strong>.</p></div>
     <div class="yom-practice-flow" aria-label="개경 불교 시설을 잇는 염승익의 동선"><div class="yom-practice-step"><b>천효사</b><small><span class="yom-hanja">天孝寺</span> · 1277</small></div><div class="yom-practice-step"><b>현화사</b><small><span class="yom-hanja">玄化寺</span> · 1280</small></div><div class="yom-practice-step"><b>사경소</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>왕명</b><small>여러 석탑 · 1283</small></div><div class="yom-practice-step"><b>남계원</b><small><span class="yom-hanja">南溪院</span> · 경전 봉안</small></div></div>
+  <figure class="yom-map-insert">
+      <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="1289년과 1293년의 궁정 여행을 포함한 개경과 대도 사이 염승익의 이동 경로 지도" loading="lazy">
+      <figcaption><strong>개경에서 대도로.</strong> 1289년과 1293년의 여행은 염승익을 더 넓은 정치 공간 속에 위치시킨다. 개경의 불교 제도에서 수행한 활동은 고려 조정과 원 세계를 잇는 중개자로서의 역할과 결합되어 있었다.</figcaption>
+    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">
