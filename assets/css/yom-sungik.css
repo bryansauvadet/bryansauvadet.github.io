@@ -312,6 +312,9 @@
   font-size:14.5px;
   line-height:1.72;
   margin:0 0 15px;
+  text-align:justify;
+  text-justify:inter-word;
+  hyphens:auto;
 }
 .yom-lotus-analysis-copy .yom-source{
   margin-top:20px;
