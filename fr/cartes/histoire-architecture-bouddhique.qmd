@@ -17,7 +17,7 @@ format:
         <div class="hab-kicker">Dossier visuel · Inde · Chine · Corée · Japon · Vietnam</div>
         <h1>Histoire de l’architecture bouddhique</h1>
         <p class="hab-lead">Du monastère indien au stoupa, de la transformation chinoise de la pagode aux développements coréens, japonais et vietnamiens : une histoire comparée des formes, des usages, des matériaux et des paysages du bouddhisme asiatique.</p>
-        <p class="hab-note">Les parties I à V prennent comme colonne vertébrale la traduction française de <em>사찰과 불탑 이야기</em>. Les parties VI et VII élargissent cette histoire au Japon et au Vietnam à partir de sources patrimoniales complémentaires. La dernière partie met les cinq traditions en comparaison.</p>
+
         <div class="hab-stats" aria-label="Structure du dossier">
           <div><strong>8</strong><span>grandes parties</span></div>
           <div><strong>69</strong><span>sous-parties</span></div>
