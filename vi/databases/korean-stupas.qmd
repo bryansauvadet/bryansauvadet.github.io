@@ -6,5 +6,64 @@ format:
     include-before-body: _includes/vi-header.html
     include-after-body: _includes/vi-footer.html
 ---
-<section class="page-hero database-subhero"><div class="eyebrow"><a href="/vi/databases.html">Cơ sở dữ liệu</a></div><h1>Bảo tháp Hàn Quốc</h1></section>
-<main class="content"><div class="content-inner database-detail"><figure class="database-detail-visual"><img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tháp Dabo tại chùa Bulguksa, Gyeongju"><figcaption>Tháp Dabo · Bulguksa · Gyeongju</figcaption></figure><p class="lead">Trang con này sẽ chứa cơ sở dữ liệu về các bảo tháp Hàn Quốc.</p><div class="database-empty-state"><h2>Bảo tháp Hàn Quốc</h2><p>Cơ sở dữ liệu đang được xây dựng.</p></div></div></main>
+```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script defer src="/assets/js/korean-stupas.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/vi/databases.html">Cơ sở dữ liệu</a></div>
+  <h1>Bảo tháp Hàn Quốc</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail korean-stupas-page">
+    <figure class="database-detail-visual">
+      <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tháp Dabo tại chùa Bulguksa, Gyeongju">
+      <figcaption>Tháp Dabo · Bulguksa · Gyeongju</figcaption>
+    </figure>
+
+    <div class="stupa-objective"><strong>Mục tiêu:</strong> làm rõ tính bảo thủ kiến trúc thể hiện trong kiến trúc bảo tháp vào đầu thời Joseon.</div>
+
+    <section class="stupa-text-section">
+      <h2>Phạm vi nghiên cứu</h2>
+      <p>Lớp dữ liệu đầu tiên tập trung vào <strong>bảo tháp đá (석탑)</strong> và phân biệt rõ <strong>Silla, Baekje, Goguryeo, Silla Thống nhất, Goryeo và Joseon</strong>. <strong>Tháp mộ các cao tăng (승탑 / 부도)</strong> và <strong>bảo tháp xá lợi (사리탑)</strong> được tách riêng để tránh trộn lẫn các chức năng kiến trúc khác nhau. Đối với <strong>Goguryeo</strong>, không bổ sung một cách giả tạo các tháp đá không còn tồn tại; các dấu tích chủ yếu liên quan đến tháp gỗ thuộc một nhóm tư liệu khảo cổ riêng.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>Tổ chức dữ liệu</h2>
+      <p>Danh mục được thiết kế như một cơ sở dữ liệu có thể lọc theo <strong>triều đại, niên đại, loại hình, số tầng, địa điểm và tình trạng xếp hạng di sản</strong>. Chế độ xem chính sắp xếp từ công trình sớm nhất đến muộn nhất, kèm dữ liệu vị trí và, khi quyền sử dụng hình ảnh cho phép, ảnh thu nhỏ.</p>
+    </section>
+
+    <section class="stupa-text-section">
+      <h2>Nguồn tham khảo chính</h2>
+      <ul class="stupa-source-list">
+        <li><a href="https://www.heritage.go.kr/" target="_blank" rel="noopener">국가유산포털 ↗</a></li>
+        <li><a href="https://portal.nrich.go.kr/" target="_blank" rel="noopener">국립문화유산연구원 ↗</a></li>
+      </ul>
+      <p class="stupa-method"><strong>Phương pháp:</strong> khi không thể xác nhận một năm cụ thể, niên đại được giữ ở dạng giai đoạn hoặc thế kỷ thay vì gán một năm chính xác không có cơ sở.</p>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-map-title">
+      <div class="stupa-section-head">
+        <div><div class="stupa-section-kicker">Danh mục bảo tháp Hàn Quốc</div><h2 id="stupa-map-title">Bản đồ tương tác</h2></div>
+        <div class="stupa-count" id="korean-stupas-count">56 bảo tháp</div>
+      </div>
+
+      <div class="stupa-filters" aria-label="Danh mục bảo tháp Hàn Quốc">
+        <label><span>Tìm kiếm</span><input id="stupa-search" type="search" placeholder="Công trình, địa điểm, niên đại…"></label>
+        <label><span>Triều đại</span><select id="stupa-realm"><option value="">Tất cả triều đại</option></select></label>
+        <label><span>Loại hình</span><select id="stupa-type"><option value="">Tất cả loại hình</option></select></label>
+        <button id="stupa-reset" type="button">Đặt lại</button>
+      </div>
+
+      <div id="korean-stupas-map" class="stupa-map" aria-label="Bản đồ tương tác"></div>
+    </section>
+
+    <section class="stupa-repertoire-section" aria-labelledby="stupa-gallery-title">
+      <div class="stupa-section-head"><div><div class="stupa-section-kicker">Danh mục bảo tháp Hàn Quốc</div><h2 id="stupa-gallery-title">Thư viện theo niên đại</h2></div></div>
+      <div id="korean-stupas-gallery" class="stupa-gallery"><div class="stupa-loading">Đang tải danh mục…</div></div>
+    </section>
+  </div>
+</main>
+```
