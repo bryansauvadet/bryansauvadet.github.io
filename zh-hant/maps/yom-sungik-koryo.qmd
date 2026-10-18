@@ -1,0 +1,127 @@
+---
+title: "廉承益與高麗佛教藝術"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+
+<link rel="stylesheet" href="/assets/css/yom-sungik.css">
+<script defer src="/assets/js/yom-sungik.js"></script>
+
+<main class="yom-page">
+  <section class="yom-hero" id="haut"><div class="yom-shell yom-hero-grid">
+    <div class="yom-hero-copy">
+      <div class="yom-kicker">互動研究 · 高麗</div>
+      <h1>廉承益 <span class="yom-roman">Yŏm Sŭngik</span></h1>
+      <p class="yom-hero-lead">忠烈王 <span class="yom-hanja">忠烈王</span> 朝廷中的權力、信仰與佛教藝術製作。</p>
+      <p class="yom-hero-note">廉承益（?–1302）既是高級官員、蒙古語譯員，也是國王近臣與虔誠佛教徒。他的生涯提供了一個重要視角，用以理解高麗朝廷、寺院、石塔修復、寫經與佛教圖像發願之間的關係。</p>
+      <div class="yom-hero-dates" aria-label="年代節點"><a href="#chronologie" data-yom-scroll>1277</a><a href="#scriptorium" data-yom-scroll>1281</a><a href="#mission-1283" data-yom-scroll>1283</a><a href="#amitabha" data-yom-scroll>1286</a><a href="#dharani" data-yom-scroll>1292</a><a href="#dernieres-annees" data-yom-scroll>1302</a></div>
+    </div>
+    <figure class="yom-hero-media"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site%2C_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" alt="開城南溪院址七層石塔"><figcaption class="yom-hero-caption">開城南溪院址七層石塔 <span class="yom-hanja">南溪院址七層石塔</span> · 現藏韓國國立中央博物館 · Bart0278攝影，CC BY-SA 3.0 · <a href="https://commons.wikimedia.org/wiki/File:Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site,_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" target="_blank" rel="noopener">來源 ↗</a></figcaption></figure>
+  </div></section>
+
+  <section class="yom-section" id="portrait"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">01 · 朝廷人物</div><h2>忠烈王統治核心中的廉承益</h2><p>《高麗史》中的廉承益傳將他置於國王近臣之列。1277年是其仕途的重要轉折點：忠烈王患病期間，廉承益隨王前往天孝寺 <span class="yom-hanja">天孝寺</span>，並參與照料與治療。其角色並不局限於朝廷，他同時成為王權與佛教制度之間的重要中介。</p></div>
+    <div class="yom-intro-grid">
+      <div><p>廉承益通曉蒙古語，並為來自大都的使臣擔任翻譯。因此，他屬於在高麗王國與元朝廷之間發揮中介作用的高級官員群體。同時，他的佛教信仰透過施捨、儀式實踐與藝術發願具體呈現。</p><p>這種雙重位置正是廉承益的重要性所在：他既不只是「贊助者」，也不只是官員，而是將<strong>王權、行政資源、寺院、工匠、寫經者與發願儀式</strong>連結起來的人物。</p><p class="yom-source">主要史料：《<em>高麗史</em>》卷123，8a–11a，廉承益傳；Bryan Sauvadet 博士論文，第1章 § 1.1.2.2.1。</p></div>
+      <aside class="yom-profile-card" aria-label="生平概要"><div class="yom-profile-name">廉承益</div><div class="yom-profile-hanja yom-hanja">廉承益</div><div class="yom-profile-facts"><div class="yom-profile-fact"><b>生卒年</b><span>?–1302</span></div><div class="yom-profile-fact"><b>時代</b><span>高麗</span></div><div class="yom-profile-fact"><b>君主</b><span>忠烈王 <span class="yom-hanja">忠烈王</span></span></div><div class="yom-profile-fact"><b>首都</b><span>開京 <span class="yom-hanja">開京</span></span></div><div class="yom-profile-fact"><b>身分</b><span>高級官員、譯員、國王近臣</span></div><div class="yom-profile-fact"><b>信仰活動</b><span>寺院、佛經、圖像、儀式與療癒</span></div></div></aside>
+    </div>
+    <div class="yom-constellation" aria-label="廉承益的功能性網絡"><div class="yom-constellation-grid">
+      <div class="yom-node king">忠烈王 <span class="yom-hanja">忠烈王</span><small>王權</small></div><div class="yom-node yuan">大都與元朝廷 <span class="yom-hanja">元</span><small>使行 · 蒙古語</small></div><div class="yom-node monasteries">開京寺院<small>修復 · 法會</small></div><div class="yom-node core">廉承益 <span class="yom-hanja">廉承益</span><small>中介者</small></div><div class="yom-node scriptorium">王室寫經所 <span class="yom-hanja">金字大藏寫經所</span><small>金字寫經</small></div><div class="yom-node ritual">佛教實踐<small>發願 · 療癒 · 功德</small></div><div class="yom-node kong">孔愉 <span class="yom-hanja">孔愉</span><small>1283年任務</small></div>
+    </div></div>
+  </div></section>
+
+  <section class="yom-section" id="chronologie"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">02 · 互動年表</div><h2>穿梭於朝廷、寺院與佛教藝術發願之間的仕途</h2><p>可依事件類型篩選，分別觀察廉承益生涯中的不同面向。</p></div>
+    <div class="yom-timeline-tools" role="group" aria-label="年表篩選"><button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">全部</button><button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">朝廷</button><button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">寺院</button><button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">發願與製作</button><button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">儀式與療癒</button></div>
+    <div class="yom-timeline">
+      <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1277</div><div class="yom-event-body"><h3>侍奉患病的國王</h3><p>廉承益陪同忠烈王前往天孝寺 <span class="yom-hanja">天孝寺</span>，並參與國王的照料與治療。此事進一步鞏固了他與國王的親近關係。</p><p class="yom-source">《<em>高麗史</em>》卷123，8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">朝廷</span><span class="yom-tag">療癒</span></div></div></article>
+      <article class="yom-event" data-kind="cour"><div class="yom-event-year">1278</div><div class="yom-event-body"><h3>政治升遷</h3><p>國王的寵信帶來升遷，也使他進入討論國政的核心圈層。</p><p class="yom-source">《<em>高麗史</em>》卷123，8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">朝廷</span></div></div></article>
+      <article class="yom-event" data-kind="cour monastere"><div class="yom-event-year">1280</div><div class="yom-event-body"><h3>玄化寺 <span class="yom-hanja">玄化寺</span></h3><p>奉忠烈王與一位王室女性之命，廉承益在玄化寺主持新建殿閣。此處他是<strong>王室命令的執行與監督者</strong>。</p><p class="yom-source">《<em>高麗史</em>》卷29，9a–b。</p><div class="yom-event-tags"><span class="yom-tag">王命</span><span class="yom-tag">建築</span></div></div></article>
+      <article class="yom-event" data-kind="cour commande monastere" id="scriptorium"><div class="yom-event-year">1281</div><div class="yom-event-body"><h3>設於廉承益屬邸的寫經所</h3><p>廉承益提供自己的一處屬邸，用以設置王室寫經所，專門以金字抄寫大藏經，即金字大藏寫經所 <span class="yom-hanja">金字大藏寫經所</span>（<span class="yom-roman">Kŭmja taejang sagyŏngso</span>）。</p><div class="yom-event-tags"><span class="yom-tag">寫經所</span><span class="yom-tag">寫經</span></div></div></article>
+      <article class="yom-event" data-kind="cour monastere commande" id="timeline-1283"><div class="yom-event-year">1283</div><div class="yom-event-body"><h3>修復首都的石塔</h3><p>忠烈王命廉承益與孔愉 <span class="yom-hanja">孔愉</span> 監督玄化寺、王輪寺、南溪院以及開國寺一處別院的石塔修復。大致同一時期，廉承益亦發願製作與南溪院石塔相關的《妙法蓮華經》。</p><p class="yom-source">《<em>高麗史</em>》卷29，45a。</p><div class="yom-event-tags"><span class="yom-tag">王命</span><span class="yom-tag">個人發願</span></div></div></article>
+      <article class="yom-event" data-kind="commande rituel"><div class="yom-event-year">1286</div><div class="yom-event-body"><h3>阿彌陀如來圖 <span class="yom-hanja">阿彌陀如來圖</span></h3><p>廉承益發願製作阿彌陀如來圖，以祈求王室與自身家族的福壽，以及往生淨土。</p><div class="yom-event-tags"><span class="yom-tag">佛畫</span><span class="yom-tag">發願</span></div></div></article>
+      <article class="yom-event" data-kind="cour"><div class="yom-event-year">1289</div><div class="yom-event-body"><h3>前往大都</h3><p>廉承益隨國王與王后前往大都，顯示他在高麗與元關係中的位置。</p><p class="yom-source">另參《<em>高麗史</em>》卷123，8a–11a廉承益傳。</p><div class="yom-event-tags"><span class="yom-tag">朝廷</span><span class="yom-tag">元</span></div></div></article>
+      <article class="yom-event" data-kind="commande rituel"><div class="yom-event-year">1292</div><div class="yom-event-body"><h3>寶篋印陀羅尼 <span class="yom-hanja">寶篋印陀羅尼</span></h3><p>木刻版與其印本呈現另一種發願與製作模式：一種可重複印製、用於儀式效力的文字—圖像。</p><div class="yom-event-tags"><span class="yom-tag">木版印刷</span><span class="yom-tag">陀羅尼</span></div></div></article>
+      <article class="yom-event" data-kind="cour"><div class="yom-event-year">1293</div><div class="yom-event-body"><h3>再次前往大都</h3><p>廉承益再次隨王與王后出行。</p><p class="yom-source">參《<em>高麗史</em>》卷123，8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">朝廷</span><span class="yom-tag">元</span></div></div></article>
+      <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1295</div><div class="yom-event-body"><h3>因病退居</h3><p>疾病使廉承益退出政治事務，但並未終止他的宗教實踐。</p><p class="yom-source">參《<em>高麗史</em>》卷123，8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">疾病</span></div></div></article>
+      <article class="yom-event" data-kind="rituel cour"><div class="yom-event-year">1297</div><div class="yom-event-body"><h3>儀式與療癒</h3><p>一位王室女性患病時，廉承益再度被召回朝廷，並進行強烈的宗教實踐，顯示其療癒者聲望依然存在。</p><div class="yom-event-tags"><span class="yom-tag">儀式</span><span class="yom-tag">療癒</span></div></div></article>
+      <article class="yom-event" data-kind="rituel"><div class="yom-event-year">1302</div><div class="yom-event-body"><h3>出家與去世</h3><p>拒絕新的官職任命後，廉承益交還官爵、出家為僧，並於同年去世。</p><p class="yom-source">《<em>高麗史</em>》卷32，10a；另參卷123，8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">出家</span></div></div></article>
+    </div>
+  </div></section>
+
+  <section class="yom-section" id="commanditaire"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">03 · 關鍵區分</div><h2>奉王命監督，不等於個人發願</h2><p>史料將性質不同的活動都與廉承益聯繫起來。若混為一談，就會把實際由忠烈王發起的工程誤認為廉承益個人的發願。</p></div>
+    <div class="yom-distinction"><article class="yom-distinction-card royal"><div class="yom-distinction-label">王命 · 忠烈王下令</div><h3>廉承益監督或執行</h3><ul><li><strong>1280：</strong>玄化寺 <span class="yom-hanja">玄化寺</span> 殿閣建造。</li><li><strong>1283：</strong>開京多處佛教設施石塔修復任務。</li></ul></article><article class="yom-distinction-card personal"><div class="yom-distinction-label">個人發願 · 廉承益提出願意</div><h3>三件現存或文獻可證作品</h3><ul><li><strong>約1283：</strong>《妙法蓮華經》。</li><li><strong>1286：</strong>《阿彌陀如來圖》。</li><li><strong>1292：</strong>《寶篋印陀羅尼》。</li></ul></article></div>
+  </div></section>
+
+  <section class="yom-section" id="mission-1283"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">04 · 1283年第七月</div><h2>石塔修復任務</h2><p>在蒙古戰爭造成破壞與損傷之後，忠烈王命廉承益與孔愉巡視首都佛教設施並監督修復。論文所確認的行程連結四處地點。</p></div>
+    <div class="yom-mission" aria-label="1283年石塔修復任務"><div class="yom-mission-step"><div class="num">01</div><h3>玄化寺</h3><div class="hanja yom-hanja">玄化寺</div><p>早在1280年的王室建築命令中，即已與廉承益發生關聯的寺院。</p></div><div class="yom-mission-step"><div class="num">02</div><h3>王輪寺</h3><div class="hanja yom-hanja">王輪寺</div><p>首都重要佛教設施之一，也是此次修復對象。</p></div><div class="yom-mission-step"><div class="num">03</div><h3>南溪院</h3><div class="hanja yom-hanja">南溪院</div><p>關鍵案例：現存石塔使建築、修復與佛經納入得以直接連結。</p></div><div class="yom-mission-step"><div class="num">04</div><h3>開國寺</h3><div class="hanja yom-hanja">開國寺</div><p>論文使用的史料亦記錄開國寺一處別院列入此次任務。</p></div></div>
+    <p class="yom-source"><strong>文獻史料：</strong>《<em>高麗史</em>》卷29，45a。本頁不任意重建已消失建築的外觀；只有南溪院在建築與相關遺物均有材料可據時，才作為物質文化案例深入討論。</p>
+  </div></section>
+
+  <section class="yom-section" id="namgyewon"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">05 · 建築與納入</div><h2>南溪院 <span class="yom-hanja">南溪院</span>：作為儀式容器的石塔</h2><p>原位於開城附近南溪院址的七層石塔，是廉承益生平與作品物質性最直接交會之處。20世紀初石塔拆解與移置時，內部發現了佛教經卷。</p></div>
+    <div class="yom-media-grid"><figure class="yom-figure"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site%2C_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" alt="開城南溪院址七層石塔"><figcaption>開城南溪院址七層石塔 · Bart0278攝影，CC BY-SA 3.0 · <a href="https://commons.wikimedia.org/wiki/File:Seven-story_Stone_Pagoda_from_Namgyewon_Temple_Site,_Gaeseong_%EB%82%A8%EA%B3%84%EC%9B%90%EC%A7%80_%EC%B9%A0%EC%B8%B5%EC%84%9D%ED%83%91.jpg" target="_blank" rel="noopener">Wikimedia Commons ↗</a></figcaption></figure>
+      <div class="yom-text-panel"><div class="big-number">7</div><h3>七層石塔與七卷經卷</h3><p>石塔現藏於韓國國立中央博物館。以深藍紙、金屬性顏料書寫的經卷被發現後，石塔不再只能被理解為建築，也可被視為納入聖物的空間。</p><dl><dt>名稱</dt><dd>開城南溪院址七層石塔</dd><dt>漢字</dt><dd class="yom-hanja">南溪院址七層石塔</dd><dt>原址</dt><dd>開城，高麗</dd><dt>廉承益角色</dt><dd>1283年奉王命監督修復 · 《高麗史》卷29，45a</dd><dt>文化資產</dt><dd>韓國國寶第100號</dd></dl></div>
+    </div>
+    <div class="yom-cutaway" aria-label="石塔內部納入示意圖"><div class="yom-pagoda" aria-hidden="true"><div class="yom-roof r1"></div><div class="yom-body"></div><div class="yom-roof r2"></div><div class="yom-body"></div><div class="yom-roof r3"></div><div class="yom-body"></div><div class="yom-roof r4"></div><div class="yom-body"></div><div class="yom-roof r5"></div><div class="yom-body"></div><div class="yom-roof r6"></div><div class="yom-body"></div><div class="yom-roof r7"></div><div class="yom-body"></div><div class="yom-base"><span class="yom-relic-slot" title="儀式納入"></span></div></div>
+      <div class="yom-cutaway-flow"><div class="yom-flow-step"><div class="yom-flow-index">1</div><div><h3>石造紀念物</h3><p>石塔將佛教的存在物質化於開京景觀之中。</p></div></div><div class="yom-flow-step"><div class="yom-flow-index">2</div><div><h3>內部空間</h3><p>封閉之後，建築內部成為日常無法進入的空間。</p></div></div><div class="yom-flow-step"><div class="yom-flow-index">3</div><div><h3>佛經納入</h3><p>經典不再以一般閱讀為目的，而成為嵌入石塔的發願物。</p></div></div><div class="yom-flow-step"><div class="yom-flow-index">4</div><div><h3>舍利式的存在</h3><p>依論文所提出的解讀，佛經作為法舍利發揮作用，並參與石塔的莊嚴與聖化。</p></div></div></div>
+    </div>
+    <figure class="yom-figure contain" style="max-width:980px;margin:42px auto 0;"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9987ba0aac76/kjmh-33-3-563f5.jpg" alt="南溪院址七層石塔舊照與塔內發現的七卷經卷" loading="lazy"><figcaption>石塔移置時的舊照與所發現的七卷經卷 · Lim Young-ae, 2024轉載 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">開放取用文章 ↗</a></figcaption></figure>
+  </div></section>
+
+  <section class="yom-section" id="lotus"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">06 · 約1283</div><h2>《妙法蓮華經》：作為舍利的佛經</h2><p>題記明確指出廉承益為發願者。與南溪院石塔修復相結合後，這部經典的功能超越了豪華寫經本身：它是為納入莊嚴裝置之中而製作的儀式性對象。</p></div>
+    <div class="yom-media-grid"><figure class="yom-figure contain"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9997c4b7344a/kjmh-33-3-563f4.jpg" alt="廉承益發願妙法蓮華經的願文" loading="lazy"><figcaption>與廉承益發願《妙法蓮華經》相關的願文 · Lim Young-ae, 2024轉載 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">來源 ↗</a></figcaption></figure>
+      <div class="yom-text-panel"><div class="big-number">1283</div><h3>文本、圖像與納入</h3><dl><dt>名稱</dt><dd>妙法蓮華經</dd><dt>漢字</dt><dd class="yom-hanja">妙法蓮華經</dd><dt>McCune–Reischauer</dt><dd><span class="yom-roman">Myobŏp yŏnhwagyŏng</span></dd><dt>發願者</dt><dd>廉承益 <span class="yom-roman">Yŏm Sŭngik</span></dd><dt>材質</dt><dd>深藍紙、金屬性顏料書寫</dd><dt>功能</dt><dd>發願、聖化、石塔內部納入</dd></dl></div>
+    </div>
+    <div class="yom-inscription"><div class="yom-kicker">共同的發願偈</div><div class="hanja yom-hanja">願我臨欲命終時 · 盡除一切諸障礙 · 面見彼佛阿彌陀 · 即得往生安樂刹</div><div class="translation">「願我臨命終時，一切障礙盡皆消除；得以親見阿彌陀佛，即刻往生安樂國土。」</div><div class="note">這四句偈將廉承益發願的《妙法蓮華經》與1286年的阿彌陀如來圖連結起來。此處譯文旨在清楚呈現願意；完整題記的內容更為 विस्त。</div></div>
+    <div class="yom-practice-flow" aria-label="佛經作為舍利的功能"><div class="yom-practice-step"><b>寫經</b><small>將神聖文本物質化</small></div><div class="yom-practice-step"><b>發願</b><small>國王 · 親族 · 發願者</small></div><div class="yom-practice-step"><b>納入</b><small>將經卷置入石塔</small></div><div class="yom-practice-step"><b>封閉</b><small>使物件脫離日常觀看</small></div><div class="yom-practice-step"><b>聖化</b><small>使文本成為具有作用的存在</small></div></div>
+  </div></section>
+
+  <section class="yom-section" id="amitabha"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">07 · 1286</div><h2>阿彌陀如來圖：祈願化為圖像</h2><p>南溪院修復三年後，廉承益發願製作阿彌陀如來圖。畫上題記為國王、王室女性與廉承益親族祈求福壽，同時再次表明往生淨土的願望。</p></div>
+    <div class="yom-media-grid"><figure class="yom-figure contain"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amitabha_%28former_Shimazu_collection%29.jpg" alt="1286年廉承益發願阿彌陀如來圖" loading="lazy"><figcaption>阿彌陀如來圖，1286年，舊島津家收藏 · 公共領域 · <a href="https://commons.wikimedia.org/wiki/File:Amitabha_(former_Shimazu_collection).jpg" target="_blank" rel="noopener">Wikimedia Commons ↗</a></figcaption></figure>
+      <div class="yom-text-panel"><div class="big-number">1286</div><h3>從書寫到信仰圖像</h3><dl><dt>名稱</dt><dd>阿彌陀如來圖</dd><dt>漢字</dt><dd class="yom-hanja">阿彌陀如來圖</dd><dt>McCune–Reischauer</dt><dd><span class="yom-roman">Amit’a yŏraedo</span></dd><dt>發願者</dt><dd>廉承益</dd><dt>年代</dt><dd>1286 · 至元二十三年 <span class="yom-hanja">至元二十三年</span></dd><dt>願意</dt><dd>長壽、護佑、往生阿彌陀淨土</dd></dl><p style="margin-top:24px;">它與《妙法蓮華經》的關係並不只是年代相近：相同的四句偈出現在兩組作品之中。被納入石塔的文字與供禮拜使用的圖像，因而共享同一發願脈絡。</p></div>
+    </div>
+  </div></section>
+
+  <section class="yom-section" id="dharani"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">08 · 1292</div><h2>陀羅尼成為版與圖像</h2><p>在廉承益監督下製作的寶篋印陀羅尼 <span class="yom-hanja">寶篋印陀羅尼</span> 帶來另一種物質邏輯：不再是唯一一件作品，而是藉由版木反覆印製供儀式使用的圖文。</p></div>
+    <div class="yom-media-grid"><figure class="yom-figure contain"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/8ae5e7ed0cc9/kjmh-33-3-563f7.jpg" alt="與廉承益相關的1292年寶篋印陀羅尼曼荼羅" loading="lazy"><figcaption>寶篋印陀羅尼曼荼羅，1292年 · Lim Young-ae, 2024轉載 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">來源 ↗</a></figcaption></figure>
+      <div class="yom-text-panel"><div class="big-number">1292</div><h3>可複製的文字—圖像</h3><p>此物件結合文本、圖式結構與儀式效力。木版印刷也改變了廉承益的發願方式：一塊版木可以產生多張印本，並在莊嚴與納入的脈絡中流通。</p><dl><dt>技法</dt><dd>木版印刷</dd><dt>文本</dt><dd>寶篋印陀羅尼 <span class="yom-hanja">寶篋印陀羅尼</span></dd><dt>廉承益角色</dt><dd>製作相關銘文證實其監督</dd><dt>功能</dt><dd>護佑、功德、儀式效力</dd></dl></div>
+    </div>
+  </div></section>
+
+  <section class="yom-section" id="trois-oeuvres"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">09 · 三個節點</div><h2>1283 → 1286 → 1292：追蹤廉承益的個人發願</h2><p>若不按媒材將作品彼此分離，而是順序觀看，就能看出護佑、長壽、功德與救度等共同關懷如何從寫經轉向佛畫，再轉向印刷圖像。</p></div>
+    <div class="yom-objects"><article class="yom-object"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/9987ba0aac76/kjmh-33-3-563f5.jpg" alt="與南溪院石塔相關的經卷" loading="lazy"><div class="yom-object-body"><div class="yom-object-year">約1283 · 寫經</div><h3>妙法蓮華經</h3><div class="hanja yom-hanja">妙法蓮華經</div><p>發願寫經、納入石塔，以及文本轉化為舍利式存在。</p></div></article><article class="yom-object tall"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amitabha_%28former_Shimazu_collection%29.jpg" alt="1286年廉承益發願阿彌陀如來圖" loading="lazy"><div class="yom-object-body"><div class="yom-object-year">1286 · 圖像</div><h3>阿彌陀如來圖</h3><div class="hanja yom-hanja">阿彌陀如來圖</div><p>將往生淨土這一相同發願脈絡視覺化的信仰圖像。</p></div></article><article class="yom-object"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/217c/11855048/8ae5e7ed0cc9/kjmh-33-3-563f7.jpg" alt="1292年與廉承益相關的寶篋印陀羅尼曼荼羅" loading="lazy"><div class="yom-object-body"><div class="yom-object-year">1292 · 印刷</div><h3>陀羅尼</h3><div class="hanja yom-hanja">寶篋印陀羅尼</div><p>版木在不分離文本與圖像的情況下，使儀式性物件得以重複製作。</p></div></article></div>
+    <div class="yom-practice-flow" aria-label="廉承益個人發願的演變"><div class="yom-practice-step"><b>發願者</b><small>廉承益</small></div><div class="yom-practice-step"><b>意圖</b><small>護佑 · 長壽</small></div><div class="yom-practice-step"><b>實踐</b><small>寫經 · 佛畫 · 印刷</small></div><div class="yom-practice-step"><b>物件</b><small>佛經 · 佛畫 · 陀羅尼</small></div><div class="yom-practice-step"><b>終極指向</b><small>功德 · 救度 · 淨土</small></div></div>
+  </div></section>
+
+  <section class="yom-section" id="kaegyong"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">10 · 開京</div><h2>嵌入首都佛教制度中的廉承益行跡</h2><p>廉承益的生涯與開京多座重要寺院交會。然而，本頁不重複首都佛教網絡的總體地圖，只抽取廉承益本人的行跡：<strong>天孝寺 → 玄化寺 → 王室寫經所 → 石塔修復任務 → 南溪院</strong>。</p></div>
+    <div class="yom-practice-flow" aria-label="廉承益在開京佛教設施間的行跡"><div class="yom-practice-step"><b>天孝寺</b><small>1277</small></div><div class="yom-practice-step"><b>玄化寺</b><small>1280</small></div><div class="yom-practice-step"><b>寫經所</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>王命</b><small>多座石塔 · 1283</small></div><div class="yom-practice-step"><b>南溪院</b><small>佛經納入</small></div></div>
+  </div></section>
+
+  <section class="yom-section" id="dernieres-annees"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">11 · 1295–1302</div><h2>疾病、退居與出家</h2><p>廉承益生命的最後階段，使其宗教發願呈現更強的一致性。1295年他因健康問題退出政治活動；兩年後，又因療癒者的聲望重新與王室接觸。1302年，在拒絕新的官職之後，他交還官爵、出家為僧，並於不久後去世。</p><p class="yom-source">生平脈絡：《<em>高麗史</em>》卷123，8a–11a；1302年：卷32，10a。</p></div>
+    <div class="yom-legacy"><article class="yom-legacy-card"><div class="mark">1295</div><h3>退居</h3><p>疾病中斷了積極的政治生涯，但沒有終止宗教實踐。</p></article><article class="yom-legacy-card"><div class="mark">1297</div><h3>療癒與信仰</h3><p>朝廷在治療與儀式情境中仍持續召用廉承益。</p></article><article class="yom-legacy-card"><div class="mark">1302</div><h3>出家為僧</h3><p>最終放棄官爵，為政治角色與佛教信仰長期並存的一生畫下句點。</p></article></div>
+  </div></section>
+
+  <section class="yom-section" id="conclusion"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">12 · 廉承益案例所揭示的問題</div><h2>與其說是單純贊助者，不如說是中介者</h2><p>廉承益使我們得以把高麗佛教藝術理解為一連串協同行動的產物：王室決策、行政任務、寺院、寫經所、發願物與儀式行為，可以共同構成同一條行動鏈。</p></div>
+    <div class="yom-legacy"><article class="yom-legacy-card"><div class="mark yom-hanja">王</div><h3>權力人物</h3><p>與忠烈王的親近關係，使他能夠動用朝廷資源並進入重要佛教機構。</p></article><article class="yom-legacy-card"><div class="mark yom-hanja">願</div><h3>佛教實踐者</h3><p>題記與銘文呈現其個人關懷：健康、護佑、功德與淨土往生。</p></article><article class="yom-legacy-card"><div class="mark yom-hanja">像</div><h3>中介者</h3><p>他連結建築、寫經、佛畫與印刷，但這些媒材的功能與發願地位並不相同。</p></article></div>
+  </div></section>
+
+  <section class="yom-section yom-sources" id="sources"><div class="yom-shell">
+    <div class="yom-section-head"><div class="yom-kicker">史料與方法</div><h2>以博士論文為基礎建構的頁面</h2><p>文字與解釋架構首先建立在博士論文中有關廉承益、南溪院《妙法蓮華經》與忠烈王時期佛教藝術製作的章節之上；事實資料則與第一手史料及近期研究相互核對。</p></div>
+    <div class="yom-sources-grid"><div><h3>主要史料與參考文獻</h3><ul><li>《<em>高麗史</em>》卷123，8a–11a：廉承益傳。</li><li>《高麗史》卷123，10a–b：廉承益的聲望、與朝廷的關係及佛教活動。</li><li>《高麗史》卷29，9a–b：1280年玄化寺殿閣相關王命。</li><li>《高麗史》卷29，45a：1283年玄化寺、王輪寺、南溪院與開國寺別院石塔修復任務。</li><li>《高麗史》卷32，10a：1302年的晚年行跡與出家。</li><li>Bryan Sauvadet 博士論文，第1、2章，廉承益與高麗寫經相關部分。</li><li><a href="https://www.museum.go.kr/ENG/contents/E0201070000.do?schM=view&id=100252" target="_blank" rel="noopener">韓國國立中央博物館 — 南溪院址七層石塔 ↗</a></li><li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11855048/" target="_blank" rel="noopener">Lim Young-ae：廉承益的疾病、療癒與佛教實踐研究 ↗</a></li><li><a href="https://doi.org/10.3390/rel17070769" target="_blank" rel="noopener">Lim Young-ae：廉承益發願作品研究 ↗</a></li></ul></div>
+      <div><h3>編輯原則</h3><ul><li>以拉丁字母標記韓國固有名詞時，採用<strong>McCune–Reischauer</strong>系統。</li><li>重要人物、機構與作品在首次出現時附漢字。</li><li>明確區分<strong>奉王命的任務</strong>與<strong>個人發願</strong>。</li><li>若作品本身無法確證精確年份，採用「約1283」等謹慎標示。</li><li>圖像重構屬解說性資訊圖表，而非考古學復原圖。</li></ul></div></div>
+    <a class="yom-back" href="/zh-hant/maps.html">← 返回地圖與資訊圖表</a>
+  </div></section>
+</main>
