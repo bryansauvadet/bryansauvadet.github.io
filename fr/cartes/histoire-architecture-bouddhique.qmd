@@ -1,0 +1,127 @@
+---
+title: "Histoire de l’architecture bouddhique"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+
+<main class="hab-page">
+  <section class="hab-hero" id="haut">
+    <div class="hab-shell hab-hero-grid">
+      <div class="hab-hero-copy">
+        <div class="hab-kicker">Dossier visuel · Inde · Chine · Corée</div>
+        <h1>Histoire de l’architecture bouddhique</h1>
+        <p class="hab-lead">Du monastère itinérant au complexe monastique, du stoupa indien à la pagode d’Asie orientale, puis au pavillon du Bouddha : une histoire visuelle des formes, des usages et des transformations de l’architecture bouddhique.</p>
+        <p class="hab-note">Le dossier est construit à partir de la traduction française de <em>사찰과 불탑 이야기</em>. Chaque sous-partie recevra une illustration originale synthétisant les informations architecturales, rituelles et historiques du texte.</p>
+        <div class="hab-stats" aria-label="Structure du dossier">
+          <div><strong>4</strong><span>grandes parties</span></div>
+          <div><strong>31</strong><span>sous-parties</span></div>
+          <div><strong>3</strong><span>aires majeures</span></div>
+        </div>
+      </div>
+      <div class="hab-hero-visual" aria-hidden="true">
+        <div class="hab-cosmos"></div>
+        <div class="hab-stupa">
+          <span class="hab-stupa-finial"></span>
+          <span class="hab-stupa-dome"></span>
+          <span class="hab-stupa-base"></span>
+        </div>
+        <div class="hab-pagoda">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <div class="hab-hall">
+          <span class="hab-hall-roof"></span>
+          <span class="hab-hall-body"></span>
+        </div>
+        <div class="hab-route"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hab-overview">
+    <div class="hab-shell">
+      <div class="hab-section-head">
+        <div class="hab-kicker">Structure</div>
+        <h2>Quatre transformations majeures</h2>
+        <p>Le parcours suit la logique du texte : naissance du monastère, constitution du stoupa, union des deux institutions puis développement du pavillon bouddhique en Asie orientale.</p>
+      </div>
+
+      <nav class="hab-part-grid" aria-label="Parties du dossier">
+        <a href="#monastere" class="hab-part-card">
+          <span class="hab-part-num">I</span>
+          <strong>Qu’est-ce qu’un monastère bouddhique ?</strong>
+          <small>4 sous-parties</small>
+        </a>
+        <a href="#stoupa" class="hab-part-card">
+          <span class="hab-part-num">II</span>
+          <strong>Qu’est-ce qu’un stoupa ?</strong>
+          <small>7 sous-parties</small>
+        </a>
+        <a href="#union" class="hab-part-card">
+          <span class="hab-part-num">III</span>
+          <strong>Union du monastère et du stoupa</strong>
+          <small>12 sous-parties</small>
+        </a>
+        <a href="#pavillon" class="hab-part-card">
+          <span class="hab-part-num">IV</span>
+          <strong>Qu’est-ce qu’un pavillon ?</strong>
+          <small>8 sous-parties</small>
+        </a>
+      </nav>
+    </div>
+  </section>
+
+  <section class="hab-chapter" id="monastere">
+    <div class="hab-shell">
+      <header class="hab-chapter-head">
+        <span>I</span>
+        <div><div class="hab-kicker">4 sous-parties</div><h2>Qu’est-ce qu’un monastère bouddhique ?</h2></div>
+      </header>
+      <div class="hab-slot" data-chapter="I">
+        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="hab-chapter" id="stoupa">
+    <div class="hab-shell">
+      <header class="hab-chapter-head">
+        <span>II</span>
+        <div><div class="hab-kicker">7 sous-parties</div><h2>Qu’est-ce qu’un stoupa ?</h2></div>
+      </header>
+      <div class="hab-slot" data-chapter="II">
+        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="hab-chapter" id="union">
+    <div class="hab-shell">
+      <header class="hab-chapter-head">
+        <span>III</span>
+        <div><div class="hab-kicker">12 sous-parties</div><h2>Union du monastère et du stoupa</h2></div>
+      </header>
+      <div class="hab-slot" data-chapter="III">
+        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="hab-chapter" id="pavillon">
+    <div class="hab-shell">
+      <header class="hab-chapter-head">
+        <span>IV</span>
+        <div><div class="hab-kicker">8 sous-parties</div><h2>Qu’est-ce qu’un pavillon ?</h2></div>
+      </header>
+      <div class="hab-slot" data-chapter="IV">
+        <p>Les illustrations de cette partie seront ajoutées ici au fur et à mesure.</p>
+      </div>
+    </div>
+  </section>
+</main>
+```
