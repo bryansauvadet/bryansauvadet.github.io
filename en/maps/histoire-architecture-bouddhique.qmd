@@ -1,0 +1,97 @@
+---
+title: "History of Buddhist Architecture"
+lang: en
+format:
+  html:
+    include-before-body: ../_includes/en-header.html
+    include-after-body: ../_includes/en-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+
+<main class="hab-page">
+  <section class="hab-hero" id="top">
+    <div class="hab-shell hab-hero-grid">
+      <div class="hab-hero-copy">
+        <div class="hab-kicker">Visual dossier · India · China · Korea · Japan · Vietnam</div>
+        <h1>History of Buddhist Architecture</h1>
+        <p class="hab-lead">From the Indian monastery and stupa to the Chinese transformation of the pagoda and the Korean, Japanese, and Vietnamese traditions: a comparative history of Buddhist forms, uses, materials, and sacred landscapes.</p>
+        <p class="hab-note">Parts I–V take the French translation of <em>사찰과 불탑 이야기</em> as their main framework. Parts VI and VII broaden the account to Japan and Vietnam through complementary heritage sources. The final part compares the five regional traditions.</p>
+        <div class="hab-stats" aria-label="Dossier structure">
+          <div><strong>8</strong><span>major parts</span></div>
+          <div><strong>69</strong><span>subsections</span></div>
+          <div><strong>5</strong><span>regional traditions</span></div>
+        </div>
+      </div>
+      <div class="hab-hero-visual" aria-hidden="true">
+        <div class="hab-cosmos"></div>
+        <div class="hab-stupa"><span class="hab-stupa-finial"></span><span class="hab-stupa-dome"></span><span class="hab-stupa-base"></span></div>
+        <div class="hab-pagoda"><span></span><span></span><span></span><span></span></div>
+        <div class="hab-hall"><span class="hab-hall-roof"></span><span class="hab-hall-body"></span></div>
+        <div class="hab-route"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hab-intro" id="introduction">
+    <div class="hab-shell">
+      <div class="hab-section-head">
+        <div class="hab-kicker">Introduction</div>
+        <h2>Reading Buddhist architecture through time and space</h2>
+        <p>A religion travels more easily than a building. Texts, relics, images, and rituals can move across thousands of kilometres; architecture has to be rebuilt with the materials, techniques, climate, and building traditions of each region. This page therefore follows not the diffusion of a single “style” but successive translations of the same fundamental functions: communal residence, relic preservation, making the Buddha present, teaching, ritual performance, and the organisation of devotees’ movement.</p>
+        <p>The journey begins in India with the formation of the monastery and the stupa, follows their convergence and the Chinese transformation of the stupa into the pagoda, then examines distinct developments in Korea, Japan, and Vietnam. Each subsection is conceived as a self-contained module intended to receive a complete illustration.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="hab-toc-section" id="contents">
+    <div class="hab-shell">
+      <div class="hab-section-head">
+        <div class="hab-kicker">Navigation</div>
+        <h2>Interactive table of contents</h2>
+        <p>Click any subsection title to jump directly to the corresponding passage.</p>
+      </div>
+      <nav class="hab-toc" aria-label="Table of contents">
+        <div class="hab-toc-group"><a class="hab-toc-part" href="#india-monastery"><span>I</span> India — The birth of the Buddhist monastery</a><ol>
+          <li><a href="#i-1">Buddhism before monasteries</a></li><li><a href="#i-2">Names of the monastery and their meanings</a></li><li><a href="#i-3">The first major monasteries of India</a></li><li><a href="#i-4">Monasteries, towns, and alms</a></li>
+        </ol></div>
+        <div class="hab-toc-group"><a class="hab-toc-part" href="#india-stupa"><span>II</span> India — The birth and development of the stupa</a><ol>
+          <li><a href="#ii-1">What is a stupa?</a></li><li><a href="#ii-2">Stupas in the Buddha’s lifetime</a></li><li><a href="#ii-3">Parinirvāṇa and the division of the relics</a></li><li><a href="#ii-4">Who built stupas, and where?</a></li><li><a href="#ii-5">Sāñcī and Bhārhut: the stupa becomes narrative</a></li><li><a href="#ii-6">Circumambulation and cosmology</a></li><li><a href="#ii-7">From the Buddha’s stupa to the master’s stupa</a></li>
+        </ol></div>
+        <div class="hab-toc-group"><a class="hab-toc-part" href="#india-china-pagoda"><span>III</span> From India to China — The stupa enters the monastery and becomes a pagoda</a><ol>
+          <li><a href="#iii-1">Integrating the stupa into the Indian monastery</a></li><li><a href="#iii-2">Caitya and vihāra: two complementary functions</a></li><li><a href="#iii-3">The transmission of Buddhism to China</a></li><li><a href="#iii-4">The encounter with Chinese architecture</a></li><li><a href="#iii-5">From Indian stupa to Chinese pagoda</a></li><li><a href="#iii-6">The hall-stupa: relics, images, and circulation</a></li><li><a href="#iii-7">From timber to brick: the changing Chinese pagoda</a></li>
+        </ol></div>
+        <div class="hab-toc-group"><a class="hab-toc-part" href="#china-korea-monastery"><span>IV</span> China and Korea — The transformation of the East Asian monastery</a><ol>
+          <li><a href="#iv-1">From hall-stupa to Buddha-hall monastery</a></li><li><a href="#iv-2">T’apdori and sundang: from stupa to image</a></li><li><a href="#iv-3">China, Korea, Japan: three material choices</a></li><li><a href="#iv-4">The birth of the Korean stone stupa</a></li><li><a href="#iv-5">The classical model of Grand Silla</a></li><li><a href="#iv-6">The stupa as a Buddhist microcosm</a></li><li><a href="#iv-7">Diversification of Korean stupas</a></li><li><a href="#iv-8">Pudo and sŭngt’ap</a></li><li><a href="#iv-9">The shrinking stupa and the expanding hall</a></li><li><a href="#iv-10">The monastery as a sacred palace</a></li><li><a href="#iv-11">The gates of the Korean monastery</a></li><li><a href="#iv-12">The Korean mountain monastery</a></li>
+        </ol></div>
+        <div class="hab-toc-group"><a class="hab-toc-part" href="#china-korea-hall"><span>V</span> China and Korea — The Buddhist hall and timber architecture</a><ol>
+          <li><a href="#v-1">Hierarchy of monastic buildings</a></li><li><a href="#v-2">Hanok structure and timber construction</a></li><li><a href="#v-3">Buddhism and the preservation of Koryŏ architecture</a></li><li><a href="#v-4">Koryŏ and Chosŏn: chusimp’o and tap’o</a></li><li><a href="#v-5">Roof forms</a></li><li><a href="#v-6">Doors, windows, and floral latticework</a></li><li><a href="#v-7">From brick floors to timber floors</a></li><li><a href="#v-8">Halls of Buddhas and bodhisattvas</a></li>
+        </ol></div>
+        <div class="hab-toc-group"><a class="hab-toc-part" href="#japan"><span>VI</span> Japan — Formation of a Japanese Buddhist architecture</a><ol>
+          <li><a href="#vi-1">The arrival of Buddhist architecture in Japan</a></li><li><a href="#vi-2">Asuka <span class="hab-han" lang="ja">飛鳥</span> — The first monasteries</a></li><li><a href="#vi-3">Hōryū-ji <span class="hab-han" lang="ja">法隆寺</span> and early Buddhist architecture</a></li><li><a href="#vi-4">Nara <span class="hab-han" lang="ja">奈良</span> — Great state monasteries</a></li><li><a href="#vi-5">Tōdai-ji <span class="hab-han" lang="ja">東大寺</span> and the Daibutsuden <span class="hab-han" lang="ja">大仏殿</span></a></li><li><a href="#vi-6">From capital to mountain</a></li><li><a href="#vi-7">Esoteric architecture and mandala space</a></li><li><a href="#vi-8">Pure Land <span class="hab-han" lang="ja">浄土</span> and Byōdō-in <span class="hab-han" lang="ja">平等院</span></a></li><li><a href="#vi-9">Zen architecture <span class="hab-han" lang="ja">禅宗</span></a></li><li><a href="#vi-10">The Japanese hall and the garden</a></li><li><a href="#vi-11">The Japanese pagoda: three storeys, five storeys, and tahōtō <span class="hab-han" lang="ja">多宝塔</span></a></li><li><a href="#vi-12">Continuities and Japanese specificities</a></li>
+        </ol></div>
+        <div class="hab-toc-group hab-vietnam"><a class="hab-toc-part" href="#vietnam"><span>VII</span> Vietnam — Formation and transformations of Vietnamese Buddhist architecture</a><ol>
+          <li><a href="#vii-1">The introduction of Buddhism to Vietnam</a></li><li><a href="#vii-2">Luy Lâu <span class="hab-han" lang="vi">羸𨻻</span> and the earliest Buddhist centres</a></li><li><a href="#vii-3">The Lý <span class="hab-han" lang="vi">李朝</span> and Trần <span class="hab-han" lang="vi">陳朝</span> dynasties</a></li><li><a href="#vii-4">One Pillar Pagoda — Chùa Một Cột <span class="hab-han" lang="vi">一柱寺</span></a></li><li><a href="#vii-5">Vietnamese towers and stupas</a></li><li><a href="#vii-6">Organisation of the Vietnamese monastery</a></li><li><a href="#vii-7">The nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span> principle</a></li><li><a href="#vii-8">Timber frame and structure</a></li><li><a href="#vii-9">The Vietnamese roof</a></li><li><a href="#vii-10">Architecture and landscape</a></li><li><a href="#vii-11">Huế and Thiên Mụ Pagoda <span class="hab-han" lang="vi">天姥寺</span></a></li><li><a href="#vii-12">Religious syncretism and plurality of altars</a></li>
+        </ol></div>
+        <div class="hab-toc-group"><a class="hab-toc-part" href="#synthesis"><span>VIII</span> Synthesis — Five traditions, one Buddhist architecture?</a><ol>
+          <li><a href="#viii-1">From stupa to pagoda</a></li><li><a href="#viii-2">From relic to image: the shifting centre of the monastery</a></li><li><a href="#viii-3">Materials shape regional traditions</a></li><li><a href="#viii-4">Comparing monastic plans</a></li><li><a href="#viii-5">Architecture and power</a></li><li><a href="#viii-6">Architecture and landscape</a></li><li><a href="#viii-7">Five ways of monumentalising the Buddha’s presence</a></li>
+        </ol></div>
+      </nav>
+    </div>
+  </section>
+</main>
+```
+
+{{< include histoire-architecture-bouddhique/part-i.qmd >}}
+{{< include histoire-architecture-bouddhique/part-ii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-iii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-iv.qmd >}}
+{{< include histoire-architecture-bouddhique/part-v.qmd >}}
+{{< include histoire-architecture-bouddhique/part-vi.qmd >}}
+{{< include histoire-architecture-bouddhique/part-vii.qmd >}}
+{{< include histoire-architecture-bouddhique/part-viii.qmd >}}
+
+```{=html}
+<div class="hab-backtop"><a href="#top">↑ Back to top</a></div>
+```
