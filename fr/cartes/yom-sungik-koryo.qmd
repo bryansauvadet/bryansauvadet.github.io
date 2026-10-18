@@ -87,10 +87,7 @@ format:
       </div>
 
       <figure class="yom-map-insert">
-        <img class="yom-map-chunked"
-             data-yom-chunks="/assets/img/yom-sungik/map-parcours-1277-1283-550.0.b64|/assets/img/yom-sungik/map-parcours-1277-1283-550.1.b64|/assets/img/yom-sungik/map-parcours-1277-1283-550.2.b64"
-             alt="Carte des parcours religieux et administratifs de Yŏm Sŭngik à Kaegyŏng entre 1277 et 1283."
-             loading="lazy">
+        <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="Carte des parcours religieux et administratifs de Yŏm Sŭngik à Kaegyŏng entre 1277 et 1283." loading="lazy">
         <figcaption><strong>Parcours religieux et administratifs de Yŏm Sŭngik, 1277–1283.</strong> La carte réunit les grands déplacements qui structurent la première partie de sa carrière : Ch’ŏnhyo, Hyŏnhwa, le scriptorium royal et la tournée de restauration de 1283.</figcaption>
       </figure>
 
@@ -194,10 +191,7 @@ format:
       </div>
 
       <figure class="yom-map-insert">
-        <img class="yom-map-chunked"
-             data-yom-chunks="/assets/img/yom-sungik/map-tournee-1283-700.0.b64|/assets/img/yom-sungik/map-tournee-1283-700.1.b64|/assets/img/yom-sungik/map-tournee-1283-700.2.b64|/assets/img/yom-sungik/map-tournee-1283-700.3.b64"
-             alt="Carte de la tournée de Yŏm Sŭngik pour la restauration des stoupas de Kaegyŏng en 1283."
-             loading="lazy">
+        <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="Carte de la tournée de Yŏm Sŭngik pour la restauration des stoupas de Kaegyŏng en 1283." loading="lazy">
         <figcaption><strong>Tournée de restauration des stoupas, 1283.</strong> La carte visualise la mission confiée à Yŏm Sŭngik et Kong Yu : Hyŏnhwasa, Wangnyunsa, Namgyewŏn et une dépendance de Kaeguksa. Il s’agit d’une mission royale supervisée par Yŏm Sŭngik, non de quatre commandites personnelles.</figcaption>
       </figure>
 
@@ -415,10 +409,7 @@ format:
         <div class="yom-practice-step"><b>Namgyewŏn</b><small><span class="yom-hanja">南溪院</span> · dépôt du soutra</small></div>
       </div>
       <figure class="yom-map-insert">
-        <img class="yom-map-chunked"
-             data-yom-chunks="/assets/img/yom-sungik/map-kaegyong-dadu-550.0.b64|/assets/img/yom-sungik/map-kaegyong-dadu-550.1.b64|/assets/img/yom-sungik/map-kaegyong-dadu-550.2.b64"
-             alt="Carte des itinéraires de Yŏm Sŭngik entre Kaegyŏng et Dadu, avec les voyages de cour de 1289 et 1293."
-             loading="lazy">
+        <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="Carte des itinéraires de Yŏm Sŭngik entre Kaegyŏng et Dadu, avec les voyages de cour de 1289 et 1293." loading="lazy">
         <figcaption><strong>De Kaegyŏng à Dadu.</strong> Les voyages de 1289 et 1293 replacent Yŏm Sŭngik dans un espace politique plus vaste : ses activités dans les institutions bouddhiques de Kaegyŏng se combinent à son rôle d’intermédiaire entre la cour du Koryŏ et le monde Yuan.</figcaption>
       </figure>
 

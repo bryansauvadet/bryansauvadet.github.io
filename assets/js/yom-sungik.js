@@ -32,24 +32,4 @@ document.addEventListener('DOMContentLoaded', () => {
       target.scrollIntoView({behavior:'smooth', block:'start'});
     });
   });
-
-  async function hydrateChunkedMap(img) {
-    const chunks = (img.dataset.yomChunks || '').split('|').filter(Boolean);
-    if (!chunks.length) return;
-
-    try {
-      const parts = await Promise.all(chunks.map(async (url) => {
-        const response = await fetch(url, {cache:'force-cache'});
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        return (await response.text()).trim();
-      }));
-      img.src = 'data:image/webp;base64,' + parts.join('');
-      img.classList.add('is-loaded');
-    } catch (error) {
-      img.closest('.yom-map-insert')?.classList.add('has-error');
-      console.warn('Yŏm map loading failed', error);
-    }
-  }
-
-  root.querySelectorAll('.yom-map-chunked').forEach(hydrateChunkedMap);
 });
