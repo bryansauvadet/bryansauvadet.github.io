@@ -247,7 +247,7 @@
   background:#28231f;
   color:#f6f1e8;
   display:grid;
-  grid-template-columns:minmax(0,.88fr) minmax(0,1.12fr);
+  grid-template-columns:minmax(0,1.15fr) minmax(360px,.85fr);
 }
 .queer-copy{
   padding:42px 40px;
@@ -283,33 +283,35 @@
   text-underline-offset:3px;
 }
 .queer-gallery{
-  display:grid;
-  grid-template-columns:1.35fr .65fr;
-  grid-template-rows:1fr 1fr;
-  min-height:560px;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  align-content:center;
+  justify-content:center;
+  gap:18px;
+  min-height:0;
+  padding:30px 22px;
 }
 .queer-image{
-  position:relative;
-  overflow:hidden;
-  background:#51473d;
+  margin:0;
+  background:transparent;
+  flex:0 1 auto;
+  max-width:100%;
 }
-.queer-image:first-child{grid-row:1 / span 2}
+.queer-image.portrait{width:210px}
+.queer-image.diptych{width:330px}
 .queer-image img{
   display:block;
   width:100%;
-  height:100%;
-  object-fit:cover;
+  height:auto;
+  max-height:340px;
+  object-fit:contain;
 }
-.queer-image:first-child img{object-position:center center}
 .queer-image figcaption{
-  position:absolute;
-  left:10px;
-  right:10px;
-  bottom:10px;
-  background:rgba(29,24,20,.64);
-  padding:6px 8px;
+  margin-top:6px;
   font:8.5px/1.35 Arial,sans-serif;
-  color:#fff;
+  color:#bdb4a8;
+  text-align:center;
 }
 .projects-grid{
   display:grid;
@@ -423,7 +425,7 @@
   .research-map{min-height:340px}
   .axis-card{grid-template-columns:155px minmax(0,1fr)}
   .queer-feature{grid-template-columns:1fr}
-  .queer-gallery{min-height:520px}
+  .queer-gallery{padding:24px 18px}
   .projects-grid{grid-template-columns:repeat(2,1fr)}
   .method-wrap{grid-template-columns:1fr}
 }
@@ -435,8 +437,9 @@
   .axis-card{grid-template-columns:125px minmax(0,1fr)}
   .axis-visual,.axis-circulation{min-height:260px}
   .queer-copy{padding:32px 24px}
-  .queer-gallery{grid-template-columns:1fr 1fr;grid-template-rows:330px 210px;min-height:0}
-  .queer-image:first-child{grid-column:1 / span 2;grid-row:auto}
+  .queer-gallery{gap:14px;padding:22px 16px}
+  .queer-image.portrait{width:190px}
+  .queer-image.diptych{width:300px}
   .projects-grid{grid-template-columns:1fr}
   .resources-strip{grid-template-columns:1fr}
 }
@@ -449,8 +452,10 @@
   .research-core{width:145px;height:145px}
   .axis-card{grid-template-columns:1fr}
   .axis-visual,.axis-circulation{height:210px;min-height:210px}
-  .queer-gallery{display:block}
-  .queer-image{height:280px}
+  .queer-gallery{display:flex;padding:20px 10px}
+  .queer-image.portrait{width:170px}
+  .queer-image.diptych{width:270px}
+  .queer-image img{max-height:300px}
   .method-diagram{grid-template-columns:1fr 1fr}
   .method-center{grid-column:1 / span 2}
 }
