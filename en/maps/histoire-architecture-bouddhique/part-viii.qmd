@@ -1,0 +1,55 @@
+::: {.hab-chapter #synthesis}
+::: {.hab-shell}
+<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">Comparative synthesis · 7 subsections</div><h2>Synthesis — Five traditions, one Buddhist architecture?</h2></div></header>
+
+### 1. From stupa to pagoda {#viii-1}
+
+Following the transformation from Indian stupa to pagoda reveals both the unity of Asian Buddhism and the diversity of its architecture. In India, the stupa begins as a compact reliquary: a hemispherical mass contains sacred remains while devotees circumambulate it. When Buddhism reaches China, relics travel more easily than building techniques. The monument’s function must therefore be translated into a culture dominated by multi-storeyed timber architecture. The stupa becomes vertical and turns into the pagoda; its Indian genealogy survives in the finial and relic function, while its architectural body becomes Chinese. From this East Asian model, regional trajectories diverge. China develops brick pagodas widely; Korea transforms the tower into a compact granite stupa; Japan preserves numerous timber pagodas; Vietnam uses brick or masonry towers for reliquary, commemorative, and funerary purposes. This is not a linear evolution from an Indian prototype to peripheral copies. Each region selects functions—relic, verticality, territorial landmark, funerary memory—and translates them through local materials and techniques.
+
+<div class="hab-illustration-slot">Comparative illustration forthcoming</div>
+
+### 2. From relic to image: the shifting centre of the monastery {#viii-2}
+
+Buddhist monastic history can also be read as a progressive displacement of the sacred centre. In early Indian Buddhism, material presence is closely attached to relics and places associated with the Buddha’s life, making the stupa the primary focus of devotion. When the stupa enters the monastery, it brings monastic community and lay cult together. In East Asia, great timber pagodas initially concentrate several functions: relics, images, and ritual circulation. The multiplication of statues changes this balance. Images can be reproduced much more readily than relics, and large horizontal halls can accommodate more people than towers. The centre therefore shifts toward the Buddha hall. In Korea this is especially visible in the reduction of the stone stupa before a large hall; in Japan Tōdai-ji makes the image hall itself monumental around an enormous Vairocana; in Vietnam the principal sanctuary may contain dense arrays of multiple altars and figures. The stupa does not disappear. Relic and image remain complementary, but they no longer occupy the same spatial position. Buddhist architecture becomes a continuous redistribution of sacred presence among reliquary, statue, hall, and ritual landscape.
+
+<div class="hab-illustration-slot">Comparative illustration forthcoming</div>
+
+### 3. Materials shape regional traditions {#viii-3}
+
+Differences among Buddhist architectures cannot be explained only by doctrine or “national style.” Available materials and climatic constraints shape monuments directly. In India, brick, stone, and rock-cut construction produce massive forms and excavated sacred spaces. In China, timber dominates halls while brick becomes particularly important for pagodas, increasing durability and fire resistance. Korea combines timber halls with an exceptional use of granite for stupas: stone imposes reduced scale but ensures long survival. Japan preserves timber pagodas to a much greater degree, enabling multiple roofs and flexible framing systems. Vietnam combines timber halls with brick or masonry towers, while a hot, humid climate reinforces the importance of broad roofs and ventilation. Religious form is always negotiated with matter. A stupa cannot simply be copied unchanged from one country to another; weight, humidity, fire, available resources, and construction knowledge force transformation.
+
+| Region | Structurally important materials |
+|---|---|
+| India | stone, brick, rock-cut architecture |
+| China | timber halls, many brick pagodas |
+| Korea | timber halls, granite stupas |
+| Japan | timber, including major framed pagodas |
+| Vietnam | timber halls, brick and stone towers and foundations |
+
+<div class="hab-illustration-slot">Materials infographic forthcoming</div>
+
+### 4. Comparing monastic plans {#viii-4}
+
+Placing monastic plans from India, China, Korea, Japan, and Vietnam side by side reveals not a simple succession of models but several answers to the same question: how should residence, worship, teaching, and circulation be combined? The Indian vihāra distributes cells around shared space, while the caitya organises movement around the stupa. Chinese monasteries develop strongly hierarchical axial planning inspired partly by palatial architecture: gates, courts, pagodas, and halls succeed one another according to rank. Korea receives this system but adapts it strongly to relief, especially in mountain monasteries where symbolic axis and winding valley paths coexist. Early Japan can use more asymmetrical compositions such as Hōryū-ji, then return to strong axes in Nara and Zen monasteries. Vietnam develops sequences of halls and courtyards with arrangements such as nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span>. Comparing plans at the same scale would therefore clearly distinguish cultural transmission from regional adaptation. The same elements—gate, tower, main hall, residence, courtyard—can be assembled in radically different ways.
+
+<div class="hab-illustration-slot">Comparative plans forthcoming</div>
+
+### 5. Architecture and power {#viii-5}
+
+Buddhist architecture has rarely been independent of political power. Aśoka provides the first great model of a ruler using stupas and relics to spread the Dharma across an empire. In China, monasteries received imperial patronage and partly adopted palatial spatial language; pagodas became monumental signs of Buddhism in capitals. In Korea, the Three Kingdoms, Grand Silla, and Koryŏ likewise used monasteries, stupas, and large images for protection of the realm, political legitimacy, and merit. Nara Japan carried this association especially far: the kokubun-ji system and Tōdai-ji explicitly linked Buddhist ritual to state peace. In Vietnam, the Lý and Trần dynasties strongly patronised temples, while Thiên Mụ later entered the political landscape of Nguyễn Huế. Yet the relationship was never stable. Dynastic and doctrinal change could marginalise monasteries, push them toward mountains, or alter their functions. Power could build, suppress, relocate, and rebuild. Great monasteries are therefore simultaneously spaces of salvation and economic, social, and territorial institutions. Monumental Buddhism often expresses a temporary alliance between spiritual authority and sovereign power.
+
+<div class="hab-illustration-slot">Power & architecture infographic forthcoming</div>
+
+### 6. Architecture and landscape {#viii-6}
+
+Landscape plays very different roles across regions and periods. Early Indian monasteries often stand near towns in gardens or woods accessible to the alms round. China develops major urban and axial compounds but also important mountain traditions. In Korea, mountain monasteries become especially characteristic: valley, stream, bridge, and slope reshape the axial model into a gradual approach. Japan makes mountains doctrinal territories at Mount Hiei, Mount Kōya, and the Kii sites, while at Byōdō-in the garden and pond construct an earthly image of the Pure Land. Vietnam similarly gives water and relief major roles: One Pillar Pagoda depends on its lotus pond, Thiên Mụ on the Perfume River, and Yên Tử on a mountain pilgrimage landscape. These variations show that landscape is never merely decorative. It affects orientation, movement, visibility, and sometimes doctrine itself. Buddhist architecture may attempt to impose geometric order or instead integrate itself into a landscape already understood as sacred. In either case, building and environment form a single ritual system.
+
+<div class="hab-illustration-slot">Comparative landscapes forthcoming</div>
+
+### 7. Five ways of monumentalising the Buddha’s presence {#viii-7}
+
+At the end of this survey, Buddhist architecture appears less as a collection of styles than as a set of strategies for making the Buddha present. The first is the relic: the stupa preserves a material trace of the body and gives devotees a centre to circumambulate. The second is the image: statues make visible a presence that relics keep hidden and encourage the development of large cult halls. The third is the text, sometimes deposited as a Dharma relic and treated as sacred substance. The fourth is architecture itself: pagoda, hall, or monastery can represent Mount Sumeru, a Pure Land, or a mandala. The fifth is landscape, when mountain, river, cave, or garden becomes part of Buddhist sacred geography. Each region combines these means differently. India establishes the centrality of reliquary and holy site; China develops pagoda and axial compound; Korea combines timber halls, stone stupas, and mountain monasteries; Japan preserves timber towers while turning garden and mountain into doctrinal space; Vietnam combines deep sanctuaries, towers, water, and multiple cults. There is therefore no single Buddhist architecture, but a family of spatial devices sharing one question: how can doctrine, memory, and practice be made habitable, visible, and ritual?
+
+<div class="hab-illustration-slot">Final illustration forthcoming</div>
+:::
+:::
