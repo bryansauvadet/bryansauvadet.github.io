@@ -1,6 +1,7 @@
 ---
 title: "廉承益（Yŏm Sŭngik）と高麗仏教美術"
 lang: ja
+image: /assets/img/yom-sungik/yom-sungik-thumbnail.webp
 format:
   html:
     include-before-body: _includes/ja-header.html
