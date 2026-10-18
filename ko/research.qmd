@@ -53,15 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="고려 불화 수월관음도" loading="lazy">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg" alt="고려 불화 수월관음도" loading="lazy" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">연구축 01</div>
         <h3>궁정 불교미술과 고려–조선 전환기</h3>
         <p>왕조 교체를 넘어 지속된 예술적 연속성, 왕실 후원자, 궁중 여성의 역할, 명문, 종교 정책, 그리고 고려 말에서 조선 초에 이르는 이미지 제작을 연구한다.</p>
         <div class="axis-tags"><span>왕실</span><span>후원자</span><span>명문</span></div>
-        <small class="image-credit-line">수월관음도 · 고려 · The Metropolitan Museum of Art / Wikimedia Commons · 퍼블릭 도메인.</small>
-      </div>
+</div>
     </article>
 
     <article class="axis-card">
