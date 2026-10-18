@@ -23,11 +23,11 @@ document.addEventListener('DOMContentLoaded', () => {
       if (finished) return;
       finished = true;
       intro.classList.add('is-exiting');
-      window.setTimeout(() => intro.remove(), 620);
+      window.setTimeout(() => intro.remove(), 820);
     };
 
     requestAnimationFrame(() => intro.classList.add('is-active'));
-    window.setTimeout(finish, 3000);
+    window.setTimeout(finish, 4200);
     intro.addEventListener('click', finish, {once:true});
     window.addEventListener('keydown', e => { if (e.key === 'Escape') finish(); }, {once:true});
   })();
