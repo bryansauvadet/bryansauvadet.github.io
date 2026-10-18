@@ -3,8 +3,8 @@ title: "History of Buddhist Architecture"
 lang: en
 format:
   html:
-    include-before-body: ../_includes/en-header.html
-    include-after-body: ../_includes/en-footer.html
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
 ---
 
 ```{=html}
