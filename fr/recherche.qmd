@@ -3,8 +3,242 @@ title: "Recherche"
 lang: fr
 format:
   html:
+    css: /assets/css/recherche.css
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
 <section class="page-hero"><div class="eyebrow">Bryan Sauvadet</div><h1>Recherche</h1></section>
-<main class="content"><p class="lead">Research axes, projects and current work.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="research-page">
+
+<section class="research-intro">
+  <div class="research-intro-copy">
+    <div class="research-kicker">Histoire de l’art bouddhique · Asie de l’Est</div>
+    <h2>Images, rituels, pouvoirs et circulations</h2>
+    <p>Mes recherches portent sur les transformations de l’art bouddhique sur le temps long, de l’Antiquité à la période contemporaine, aussi bien de la Chine au Japon en passant par la Corée et le Viêt Nam. J’étudie les images et les monuments non comme des objets isolés, mais à travers leurs commanditaires, leurs usages rituels, leurs déplacements et les contextes politiques, sociaux et religieux dans lesquels ils acquièrent leur sens.</p>
+    <nav class="research-nav" aria-label="Navigation dans les axes de recherche">
+      <a href="#axes">Axes de recherche</a>
+      <a href="#queer">Queer &amp; bouddhisme</a>
+      <a href="#projets">Travaux en cours</a>
+      <a href="#methode">Méthodes</a>
+      <a href="#ressources">Corpus &amp; données</a>
+    </nav>
+  </div>
+
+  <div class="research-map" aria-label="Schéma des principaux concepts mobilisés dans les recherches">
+    <div class="research-core"><strong>Image<br>↔ Rituel<br>↔ Pouvoir</strong></div>
+    <div class="research-node n1">Commanditaires</div>
+    <div class="research-node n2">Circulations</div>
+    <div class="research-node n3">Genre</div>
+    <div class="research-node n4">Matérialité</div>
+    <div class="research-node n5">Architecture</div>
+    <div class="research-node n6">Identités</div>
+    <div class="research-geography">Chine · Corée · Japon · Viêt Nam</div>
+  </div>
+</section>
+
+<section class="research-section" id="axes">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">01—06 · Axes de recherche</div>
+      <h2>Une histoire sociale, matérielle et transrégionale du bouddhisme</h2>
+    </div>
+    <p>Les différents corpus sont abordés à partir de leurs inscriptions, de leur matérialité, des pratiques rituelles, des réseaux de commanditaires et des circulations des formes entre les sociétés d’Asie de l’Est.</p>
+  </div>
+
+  <div class="axes-grid">
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokiteshvara_%28Metropolitan_Museum_of_Art%29.jpg" alt="Avalokiteśvara à la lune d’eau, peinture bouddhique du Koryŏ" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">AXE 01</div>
+        <h3>Art bouddhique de cour et transition Koryŏ–Chosŏn</h3>
+        <p>Continuités artistiques au-delà de la rupture dynastique, commanditaires royaux, rôle des femmes de cour, inscriptions, politiques religieuses et production des images entre la fin du Koryŏ et les débuts du Chosŏn.</p>
+        <div class="axis-tags"><span>Cour royale</span><span>Commanditaires</span><span>Inscriptions</span></div>
+        <small class="image-credit-line">Avalokiteśvara à la lune d’eau · Koryŏ · The Metropolitan Museum of Art / Wikimedia Commons · domaine public.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="Détail d’une peinture de la Douce Rosée, kamnodo" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">AXE 02</div>
+        <h3>Images, rituels et performativité</h3>
+        <p>L’image bouddhique est étudiée comme un objet activé par des pratiques et des dispositifs rituels. Les peintures de la Douce Rosée 甘露幀 constituent un terrain privilégié pour analyser apparition, fonction et performativité des images.</p>
+        <div class="axis-tags"><span>甘露幀</span><span>Rituels</span><span>Performativité</span></div>
+        <small class="image-credit-line">Détail d’un kamnodo, réplique d’une œuvre du XVIIIe siècle · Daderot / Wikimedia Commons · CC0.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-circulation" aria-label="Schéma des circulations entre Hangzhou, Dadu, Kaegyŏng et le Japon">
+        <span class="route-line l1"></span><span class="route-line l2"></span><span class="route-line l3"></span>
+        <span class="route-dot hz"></span><span class="route-city hz">Hangzhou<br>杭州</span>
+        <span class="route-dot dd"></span><span class="route-city dd">Dadu<br>大都</span>
+        <span class="route-dot kg"></span><span class="route-city kg">Kaegyŏng<br>開京</span>
+        <span class="route-dot jp"></span><span class="route-city jp">Japon<br>日本</span>
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">AXE 03</div>
+        <h3>Circulations et transferts artistiques</h3>
+        <p>Circulation des artistes, modèles, œuvres et pratiques entre Chine, Corée et Japon : réseaux Hangzhou–Dadu–Kaegyŏng, réception des formes des Song et des Yuan, déplacements d’objets et histoire de leur conservation dans les collections.</p>
+        <div class="axis-tags"><span>Transferts</span><span>Provenance</span><span>Réseaux</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual axis-stupa">
+        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap au monastère Pulguksa, Kyŏngju" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">AXE 04</div>
+        <h3>Architecture, monastères et stoupas</h3>
+        <p>Évolution et conservatisme des formes architecturales, implantation des monastères et histoire des stoupas. Les corpus distinguent Silla, Paekche, Koguryŏ, Grand Silla, Koryŏ et Chosŏn, ainsi que les différentes fonctions des monuments.</p>
+        <div class="axis-tags"><span>Stoupas</span><span>Monastères</span><span>Longue durée</span></div>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Six_of_the_Ten_Kings_of_Hell_LACMA_AC1998.268.3.1-.6_%283_of_5%29.jpg" alt="Peinture coréenne représentant l’un des Dix Rois de l’Enfer" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">AXE 05</div>
+        <h3>Iconographie, mort et salut</h3>
+        <p>Étude des Dix Rois 十王, de l’au-delà bouddhique, d’Avalokiteśvara et des processus d’adaptation locale des modèles iconographiques. Ces recherches mettent notamment en relation les traditions de Corée et du Viêt Nam.</p>
+        <div class="axis-tags"><span>十王</span><span>Au-delà</span><span>Corée–Viêt Nam</span></div>
+        <small class="image-credit-line">Six des Dix Rois de l’Enfer · Chosŏn, 1798 · LACMA / Wikimedia Commons · domaine public.</small>
+      </div>
+    </article>
+
+    <article class="axis-card">
+      <div class="axis-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Avalokiteśvara à la lune d’eau, peinture du Koryŏ conservée à la Freer Gallery of Art" loading="lazy">
+      </div>
+      <div class="axis-copy">
+        <div class="axis-number">AXE 06</div>
+        <h3>Sources, matérialité et histoire des collections</h3>
+        <p>Lecture conjointe des œuvres, inscriptions, textes rituels et données matérielles ; étude de la redécouverte, des réattributions et de la provenance des œuvres coréennes conservées en Corée, au Japon, en Europe et aux États-Unis.</p>
+        <div class="axis-tags"><span>Matérialité</span><span>Musées</span><span>Attributions</span></div>
+        <small class="image-credit-line">Avalokiteśvara à la lune d’eau · Koryŏ, XIVe siècle · Freer Gallery of Art / Wikimedia Commons · domaine public.</small>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section class="research-section" id="queer">
+  <div class="queer-feature">
+    <div class="queer-copy">
+      <div class="research-section-kicker">Axe transversal · période contemporaine</div>
+      <h2>Queer et bouddhisme contemporain</h2>
+      <p class="artist-name">Pak Kurim 박그림 · Grim Park</p>
+      <p>Une partie de mes recherches porte sur les relations entre bouddhisme, art contemporain, genre et identités queer en Corée. Je m’intéresse notamment au travail de Pak Kurim 박그림, qui réinvestit les techniques et les structures visuelles de la peinture bouddhique coréenne pour interroger l’identité, les normes de genre et les catégories binaires.</p>
+      <p>Sa série <em>Shimhodo</em> 尋虎圖 réinterprète les images de la quête du buffle, <em>Simudo</em> 尋牛圖, en substituant au bœuf la figure du tigre. La transformation d’un récit religieux traditionnel en un langage contemporain permet d’interroger simultanément marginalité, subjectivité et possibilité d’une iconographie queer au sein de formes héritées.</p>
+      <a class="queer-source" href="https://kiaf.org/en/highlight/54278" target="_blank" rel="noopener">Source des œuvres et présentation de l’artiste · Kiaf Seoul / THEO ↗</a>
+    </div>
+
+    <div class="queer-gallery">
+      <figure class="queer-image">
+        <img src="https://static-edge.kiaf.org/web/2025/07/29150411/%EC%8B%AC%ED%98%B8%EB%8F%84-%EA%B0%84%ED%83%9D-Shimhodo-Chosen-2018-Korean-traditional-painting-on-silk-70-%C3%97-92-cm.png" alt="Pak Kurim, Shimhodo – Chosen, 2018" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>Shimhodo – Chosen</em>, 2018 · peinture traditionnelle coréenne sur soie · image : Kiaf Seoul / THEO.</figcaption>
+      </figure>
+      <figure class="queer-image">
+        <img src="https://static-edge.kiaf.org/web/2025/07/29150412/%E6%88%91%E8%AC%8E-%EC%95%84%EB%AF%B8-Enigma-2024-Korean-Traditional-Paint-on-Silk-120x40cm.jpg" alt="Pak Kurim, Enigma, 2024" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>Enigma</em>, 2024 · image : Kiaf Seoul / THEO.</figcaption>
+      </figure>
+      <figure class="queer-image">
+        <img src="https://static-edge.kiaf.org/web/2025/07/29150413/%E6%98%A5%E7%9B%96-%EC%B6%98%EA%B0%9C-Spring-Umbrella-2024-Korean-Traditional-Paint-on-Silk-120x40cm.jpg" alt="Pak Kurim, Spring Umbrella, 2024" loading="lazy">
+        <figcaption>Pak Kurim 박그림 · <em>Spring Umbrella</em>, 2024 · image : Kiaf Seoul / THEO.</figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="projets">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">Travaux en cours</div>
+      <h2>Recherches actuellement développées</h2>
+    </div>
+    <p>Ces dossiers prolongent les axes précédents et servent de laboratoires pour de futurs articles, corpus comparatifs et visualisations scientifiques.</p>
+  </div>
+
+  <div class="projects-grid">
+    <article class="project-card">
+      <div class="status">Article en préparation</div>
+      <h3>Long Koryŏ et stoupas de pierre</h3>
+      <p>Réinterroger les découpages dynastiques à partir des continuités architecturales et de la longue durée des formes monumentales.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Article en préparation</div>
+      <h3>Origines iconographiques d’Avalokiteśvara à la lune d’eau</h3>
+      <p>Mettre en relation sources scripturaires, légendes, topographie sacrée, pratiques rituelles et construction de l’iconographie.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Recherche en cours</div>
+      <h3>Circulations Hangzhou — Dadu — Kaegyŏng</h3>
+      <p>Reconstituer les réseaux de personnes, objets et modèles artistiques reliant la Chine des Song et des Yuan au Koryŏ.</p>
+    </article>
+    <article class="project-card">
+      <div class="status">Recherche en cours</div>
+      <h3>Douce Rosée 甘露幀</h3>
+      <p>Analyser l’émergence des peintures de la Douce Rosée à partir des rituels, des usages des images et de leurs dispositifs performatifs.</p>
+    </article>
+  </div>
+</section>
+
+<section class="research-section" id="methode">
+  <div class="method-wrap">
+    <div class="method-copy">
+      <div class="research-section-kicker">Méthodes</div>
+      <h2>Étudier l’œuvre dans son réseau</h2>
+      <p>Mon approche associe histoire de l’art, étude des textes, épigraphie, analyse matérielle, histoire sociale, terrain et outils numériques. L’objet n’est pas seulement décrit : il est replacé dans l’ensemble des relations qui déterminent sa production, son activation rituelle, sa circulation et sa réception.</p>
+    </div>
+    <div class="method-diagram" aria-label="Matrice méthodologique">
+      <div class="method-item">Texte</div>
+      <div class="method-item">Inscription</div>
+      <div class="method-item">Commanditaire</div>
+      <div class="method-item">Rituel</div>
+      <div class="method-center">Œuvre</div>
+      <div class="method-item">Lieu</div>
+      <div class="method-item">Matérialité</div>
+      <div class="method-item">Circulation</div>
+      <div class="method-item">Provenance</div>
+    </div>
+  </div>
+</section>
+
+<section class="research-section" id="ressources">
+  <div class="research-section-head">
+    <div>
+      <div class="research-section-kicker">Corpus, terrain &amp; humanités numériques</div>
+      <h2>Explorer les recherches</h2>
+    </div>
+    <p>Le site donne accès aux corpus structurés, cartes, dossiers thématiques et travaux qui documentent progressivement ces axes.</p>
+  </div>
+
+  <div class="resources-strip">
+    <a class="resource-link" href="/fr/bases.html">
+      <small>Données</small>
+      <strong>Bases de données →</strong>
+      <p>Stoupas, monuments, iconographies, localisations et corpus structurés.</p>
+    </a>
+    <a class="resource-link" href="/fr/cartes.html">
+      <small>Études</small>
+      <strong>Dossiers thématiques →</strong>
+      <p>Yŏm Sŭngik, architecture bouddhique, cartes, chronologies et visualisations.</p>
+    </a>
+    <a class="resource-link" href="/fr/publications.html">
+      <small>Résultats</small>
+      <strong>Publications →</strong>
+      <p>Articles, chapitres, communications scientifiques et textes en ligne.</p>
+    </a>
+  </div>
+</section>
+
+</main>
