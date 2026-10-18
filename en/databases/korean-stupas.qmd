@@ -27,7 +27,7 @@ format:
 
     <section class="stupa-text-section">
       <h2>Scope</h2>
-      <p>The first layer of the corpus focuses on <strong>stone stupas (석탑, 石塔)</strong> and explicitly distinguishes <strong>Silla, Baekje, Goguryeo, Unified Silla, Goryeo and Joseon</strong>. <strong>Funerary stupas of masters (승탑, 僧塔 / 부도, 浮屠)</strong> and <strong>reliquary stupas (사리탑, 舎利塔)</strong> are kept separate so that monuments with different architectural functions are not conflated. For <strong>Goguryeo</strong>, no surviving stone pagoda is artificially added to this layer: the mainly wooden pagoda remains belong to a distinct archaeological corpus.</p>
+      <p>The first layer of the corpus focuses on <strong>stone stupas (석탑, 石塔)</strong> and explicitly distinguishes <strong>Silla, Baekje, Goguryeo, Unified Silla, Goryeo and Joseon</strong>. <strong>Funerary stupas of masters (승탑, 僧塔 / 부도, 浮屠)</strong> and <strong>reliquary stupas (사리탑, 舍利塔)</strong> are kept separate so that monuments with different architectural functions are not conflated. For <strong>Goguryeo</strong>, no surviving stone pagoda is artificially added to this layer: the mainly wooden pagoda remains belong to a distinct archaeological corpus.</p>
     </section>
 
     <section class="stupa-text-section">
