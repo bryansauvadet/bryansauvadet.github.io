@@ -679,7 +679,7 @@ html.site-intro-skip .site-intro{display:none!important}
 .site-intro{
   position:fixed;inset:0;z-index:10000;display:grid;place-items:center;
   background:#151310;overflow:hidden;opacity:1;cursor:pointer;
-  transition:opacity .58s ease;
+  transition:opacity .78s ease;
 }
 .site-intro.is-exiting{opacity:0;pointer-events:none}
 .site-intro-panels{
@@ -690,7 +690,7 @@ html.site-intro-skip .site-intro{display:none!important}
   position:relative;overflow:hidden;opacity:0;
   transform:scale(1.075) translateY(18px);
   background-position:center;background-size:cover;background-repeat:no-repeat;
-  animation:intro-panel-in .72s cubic-bezier(.2,.72,.25,1) forwards;
+  animation:intro-panel-in 1.05s cubic-bezier(.2,.72,.25,1) forwards;
 }
 .site-intro-panel:after{
   content:"";position:absolute;inset:0;
@@ -698,25 +698,25 @@ html.site-intro-skip .site-intro{display:none!important}
 }
 .site-intro-cn{
   background-image:url("https://rubinmuseum.org/wp-content/uploads/works/C2004/C2004.29.1/C2004.29.1_Recto-1600x1196.jpg");
-  background-position:39% 55%;animation-delay:.02s;
+  background-position:39% 55%;animation-delay:.05s;
 }
 .site-intro-ko{
   background-image:url("https://upload.wikimedia.org/wikipedia/commons/1/1a/%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg");
-  background-position:center 30%;animation-delay:.18s;
+  background-position:center 30%;animation-delay:.30s;
 }
 .site-intro-ja{
   background-image:url("https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image");
-  background-position:center 36%;animation-delay:.34s;
+  background-position:center 36%;animation-delay:.55s;
 }
 .site-intro-vi{
   background-image:url("https://upload.wikimedia.org/wikipedia/commons/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg");
-  background-position:center 46%;animation-delay:.50s;
+  background-position:center 46%;animation-delay:.80s;
 }
 .site-intro-place{
   position:absolute;z-index:2;left:18px;bottom:18px;color:#fff;
   text-shadow:0 1px 12px rgba(0,0,0,.58);
   opacity:0;transform:translateY(8px);
-  animation:intro-label-in .45s ease forwards;animation-delay:.88s;
+  animation:intro-label-in .62s ease forwards;animation-delay:1.42s;
 }
 .site-intro-place span{display:block;font:20px/1.05 Georgia,"Times New Roman",serif;letter-spacing:.02em}
 .site-intro-place small{display:block;margin-top:5px;font:9px/1.2 Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase}
@@ -724,7 +724,7 @@ html.site-intro-skip .site-intro{display:none!important}
   position:relative;z-index:5;text-align:center;color:#fff;padding:18px 24px;
   opacity:0;transform:translateY(10px);
   text-shadow:0 2px 18px rgba(0,0,0,.58);
-  animation:intro-title-in .62s ease forwards;animation-delay:1.34s;
+  animation:intro-title-in .82s ease forwards;animation-delay:2.08s;
 }
 .site-intro-name{font:43px/1.05 Georgia,"Times New Roman",serif;letter-spacing:.015em}
 .site-intro-subtitle{margin-top:10px;font:10px/1.4 Arial,sans-serif;letter-spacing:.15em;text-transform:uppercase}
@@ -743,6 +743,7 @@ html.site-intro-skip .site-intro{display:none!important}
   .site-intro-subtitle{font-size:8px;max-width:280px;margin-left:auto;margin-right:auto}
 }
 @media(prefers-reduced-motion:reduce){
-  html.site-intro-pending body{visibility:visible}
-  .site-intro{display:none!important}
+  html:not(.site-intro-skip) .site-intro-panel,
+  html:not(.site-intro-skip) .site-intro-place,
+  html:not(.site-intro-skip) .site-intro-title{animation:none!important;opacity:1;transform:none}
 }
