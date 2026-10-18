@@ -23,10 +23,6 @@ format:
       <figcaption>Tabot'ap · Pulguksa · Kyŏngju</figcaption>
     </figure>
 
-    <div class="stupa-objective">
-      <strong>Objectif :</strong> montrer le conservatisme architectural à l’œuvre au début du Chosŏn.
-    </div>
-
     <section class="stupa-text-section">
       <h2>Périmètre de travail</h2>
       <p>La première couche du corpus porte sur les <strong>stoupas de pierre (석탑, 石塔)</strong> et distingue désormais explicitement <strong>Silla, Paekche, Koguryŏ, Grand Silla, Koryŏ et Chosŏn</strong>. Les <strong>stoupas funéraires de maîtres (승탑, 僧塔 / 부도, 浮屠)</strong> et les <strong>stoupas-reliquaires (사리탑, 舍利塔)</strong> restent séparés afin d’éviter de mélanger des fonctions architecturales différentes. Pour <strong>Koguryŏ</strong>, aucune pagode de pierre conservée n’est artificiellement ajoutée à cette couche : les vestiges de pagodes principalement en bois relèvent d’un corpus archéologique distinct.</p>
