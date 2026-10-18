@@ -477,3 +477,79 @@ html,body{overflow-x:hidden}
     gap:1px 3px;
   }
 }
+
+/* Hard mobile overflow guard + compact layout 2026-10-18 */
+html,body{
+  max-width:100%;
+  overflow-x:clip;
+}
+.site-header,.header-inner,.home-shell,.hero,.hero-copy,.hero-media,
+.portal-grid,.portal-card,.updates,.updates-grid,.update-card,
+.site-footer,.footer-inner,.about-page,.about-profile,.cv-entry,
+.page-hero,.content-inner,main.content,#quarto-content,.page-columns,.page-full{
+  min-width:0;
+  max-width:100%;
+}
+img,svg,video,canvas,iframe{
+  max-width:100%;
+  height:auto;
+}
+a,span,p,h1,h2,h3,h4,div{
+  overflow-wrap:anywhere;
+}
+@media(max-width:600px){
+  .header-inner{
+    width:100%;
+    grid-template-columns:minmax(0,1fr) 112px;
+    padding-left:10px;
+    padding-right:10px;
+  }
+  .brand{max-width:100%}
+  .brand-name-line,.brand-asian,.brand-sub{max-width:100%}
+  .brand-asian{
+    flex-wrap:wrap;
+    white-space:normal;
+  }
+  .header-tools{
+    width:112px;
+    max-width:112px;
+  }
+  .languages{
+    justify-content:flex-end;
+    width:112px;
+    max-width:112px;
+    font-size:6.8px;
+    gap:1px 3px;
+  }
+  .menu-btn{width:34px;height:34px}
+  .hero-copy{padding:24px 14px 22px}
+  .hero-media{height:230px}
+  .portal-card{padding-left:12px;padding-right:12px}
+  .portal-image{height:180px}
+  .updates{padding-left:12px;padding-right:12px}
+  .footer-inner{padding-left:14px;padding-right:14px}
+  .about-page,.content-inner,.page-hero{
+    padding-left:14px;
+    padding-right:14px;
+  }
+  .cv-nav{
+    max-width:100%;
+    overflow-x:auto;
+  }
+  .cv-nav a{white-space:nowrap}
+}
+@media(max-width:390px){
+  .header-inner{
+    grid-template-columns:minmax(0,1fr) 98px;
+    padding-left:8px;
+    padding-right:8px;
+  }
+  .header-tools{width:98px;max-width:98px}
+  .languages{width:98px;max-width:98px;font-size:6.3px}
+  .brand-name{font-size:18px}
+  .brand-ko,.brand-ja{font-size:9.8px!important}
+  .brand-zh{font-size:10.2px!important}
+  .brand-sub{font-size:6.6px}
+  .hero-copy{padding-left:12px;padding-right:12px}
+  .portal-card{padding-left:10px;padding-right:10px}
+}
