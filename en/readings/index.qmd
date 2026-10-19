@@ -7,5 +7,20 @@ format:
     include-before-body: _includes/en-header.html
     include-after-body: _includes/en-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
 <section class="page-hero"><h1>My Readings</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">A selection of books worth reading to better understand Buddhist art history, Buddhism, Asian history, archaeology and architecture.</p><div class="card"><h3>Reading notes</h3><p>Each review begins with two questions: why is this book worth reading, and what does it genuinely contribute to understanding its field?</p></div></div></main>
+<main class="content"><div class="content-inner">
+<p class="lead">A selection of books worth reading to better understand Buddhist art history, Buddhism, Asian history, archaeology and architecture.</p>
+<div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/en/readings/the-dynamic-spread-of-buddhist-print-culture.html">
+<div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Cover of The Dynamic Spread of Buddhist Print Culture" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">Buddhist art history · Print culture · Asian history</div>
+<h2>The Dynamic Spread of Buddhist Print Culture</h2>
+<p class="reading-book-author">Shih-shan Susan Huang · Brill · 2024</p>
+<p>Why Buddhist prints should be studied as mobile objects moving along “Buddhist Book Roads” connecting China, Inner Asia and East Asia.</p>
+<span class="reading-book-link">Read the review →</span>
+</a>
+</div></div>
+</div></main>
+```
