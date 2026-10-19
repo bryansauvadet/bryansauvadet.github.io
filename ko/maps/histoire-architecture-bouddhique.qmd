@@ -8,7 +8,10 @@ format:
 ---
 
 ```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/assets/js/buddhist-architecture-map.js" defer></script>
 <script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 <main class="hab-page">
 <section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy">
@@ -28,7 +31,27 @@ format:
 <div class="hab-toc-group"><a class="hab-toc-part" href="#japan"><span>VI</span> 일본 — 일본 불교 건축의 형성</a><ol><li><a href="#vi-1">일본에 불교 건축이 들어오다</a></li><li><a href="#vi-2">아스카 飛鳥 — 초기 사찰</a></li><li><a href="#vi-3">호류지 法隆寺와 고대 불교 건축</a></li><li><a href="#vi-4">나라 奈良 — 국가 사찰</a></li><li><a href="#vi-5">도다이지 東大寺와 대불전 大仏殿</a></li><li><a href="#vi-6">수도에서 산으로</a></li><li><a href="#vi-7">밀교 건축과 만다라 공간</a></li><li><a href="#vi-8">정토 浄土와 뵤도인 平等院</a></li><li><a href="#vi-9">선종 禅宗 건축</a></li><li><a href="#vi-10">일본 전각과 정원</a></li><li><a href="#vi-11">삼층·오층탑과 다보탑 多宝塔</a></li><li><a href="#vi-12">일본 건축의 지속성과 특수성</a></li></ol></div>
 <div class="hab-toc-group hab-vietnam"><a class="hab-toc-part" href="#vietnam"><span>VII</span> 베트남 — 베트남 불교 건축의 형성과 변형</a><ol><li><a href="#vii-1">베트남 불교의 도입</a></li><li><a href="#vii-2">Luy Lâu 羸𨻻와 초기 불교 중심지</a></li><li><a href="#vii-3">Lý 李朝와 Trần 陳朝</a></li><li><a href="#vii-4">Chùa Một Cột 一柱寺</a></li><li><a href="#vii-5">베트남의 탑과 스투파</a></li><li><a href="#vii-6">베트남 사찰의 구성</a></li><li><a href="#vii-7">nội công ngoại quốc 內工外國</a></li><li><a href="#vii-8">목구조와 가구</a></li><li><a href="#vii-9">베트남 지붕</a></li><li><a href="#vii-10">건축과 경관</a></li><li><a href="#vii-11">Huế와 Thiên Mụ 天姥寺</a></li><li><a href="#vii-12">종교적 혼합과 다층적 제단</a></li></ol></div>
 <div class="hab-toc-group"><a class="hab-toc-part" href="#synthesis"><span>VIII</span> 종합 — 다섯 전통, 하나의 불교 건축인가?</a><ol><li><a href="#viii-1">스투파에서 탑으로</a></li><li><a href="#viii-2">사리에서 불상으로</a></li><li><a href="#viii-3">재료가 만든 지역적 전통</a></li><li><a href="#viii-4">사찰 배치 비교</a></li><li><a href="#viii-5">건축과 권력</a></li><li><a href="#viii-6">건축과 경관</a></li><li><a href="#viii-7">부처의 현존을 기념비화하는 다섯 방식</a></li></ol></div>
-</nav></div></section></main>
+</nav></div></section>  <section class="hab-map-section" id="sites-map" aria-labelledby="hab-sites-map-title">
+    <div class="hab-shell">
+      <div class="hab-map-head">
+        <div class="hab-section-head">
+          <div class="hab-kicker" data-hab-map-copy="kicker">자료의 지리</div>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">본문에 언급된 유적 인터랙티브 지도</h2>
+          <p data-hab-map-copy="intro">본문에 언급된 기념물·사찰·고고유적·석굴·성지 경관을 지도에서 살펴볼 수 있습니다. 같은 사찰 경내의 건축물은 하나의 지점으로 묶었습니다.</p>
+        </div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">46곳</div>
+      </div>
+      <div class="hab-map-filters" aria-label="지도 필터">
+        <label><span data-hab-map-copy="search">검색</span><input id="hab-map-search" type="search" placeholder="유적, 도시, 지역…"></label>
+        <label><span data-hab-map-copy="country">국가</span><select id="hab-map-country"><option value="">모든 국가</option></select></label>
+        <label><span data-hab-map-copy="type">유적 유형</span><select id="hab-map-type"><option value="">모든 유형</option></select></label>
+        <button id="hab-map-reset" type="button" data-hab-map-copy="reset">초기화</button>
+      </div>
+      <div id="buddhist-architecture-sites-map" class="hab-sites-map" aria-labelledby="hab-sites-map-title"></div>
+      <div id="buddhist-architecture-sites-legend" class="hab-map-legend" aria-label="표시 국가"></div>
+    </div>
+  </section>
+</main>
 ```
 {{< include histoire-architecture-bouddhique/part-i.qmd >}}
 {{< include histoire-architecture-bouddhique/part-ii.qmd >}}
