@@ -8,6 +8,7 @@ format:
     include-after-body: _includes/ko-footer.html
 ---
 
+```{=html}
 <link rel="stylesheet" href="/assets/css/yom-sungik.css">
 <script defer src="/assets/js/yom-sungik.js"></script>
 
@@ -26,7 +27,7 @@ format:
   <section class="yom-section" id="portrait"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">01 · 조정의 인물</div><h2>충렬왕 치세의 중심에 선 염승익</h2><p>『고려사』<span class="yom-hanja">高麗史</span>의 염승익 열전은 그를 국왕의 가까운 측근으로 전한다. 그의 경력에서 결정적인 전환점은 1277년이다. 충렬왕이 병환 중 천효사 <span class="yom-hanja">天孝寺</span>에 머물렀을 때 염승익은 왕을 수행하며 치료에 관여하였다. 그러나 그의 역할은 궁정에만 한정되지 않았다. 그는 왕권과 불교 제도 사이를 잇는 중개자가 되었다.</p></div>
     <div class="yom-intro-grid">
-      <div><p>염승익은 몽골어를 구사하며 대도에서 온 사신들을 위한 통역 역할도 수행했다. 그는 고려 왕국과 원 조정 사이의 관계를 중개한 고위 관료층에 속했다. 동시에 그의 불교 신앙은 시주, 의례 실천, 불교미술 발원으로 구체화되었다.</p><p>이러한 이중적 위치가 염승익의 중요성을 설명한다. 그는 단순한 ‘후원자’도, 단순한 관료도 아니었다. 그는 <strong>왕권, 행정 자원, 사원, 장인, 사경승과 서사자, 발원 의례</strong>를 서로 연결하였다.</p><p class="yom-source">주요 사료: 『<em>고려사</em>』 <span class="yom-hanja">高麗史</span>, 권 123, 8a–11a, 「폐행」 계열에 실린 염승익 전기; Bryan Sauvadet 박사학위논문 제1장 § 1.1.2.2.1.</p></div>
+      <div><p>염승익은 몽골어를 구사하며 대도에서 온 사신들을 위한 통역 역할도 수행했다. 그는 고려 왕국과 원 조정 사이의 관계를 중개한 고위 관료층에 속했다. 동시에 그의 불교 신앙은 시주, 의례 실천, 불교미술 발원으로 구체화되었다.</p><p>이러한 이중적 위치가 염승익의 중요성을 설명한다. 염승익은 단순한 개인 발원자로도, 행정 관료로서의 역할만으로도 환원될 수 없는 인물이었다. 그는 <strong>왕권, 행정 자원, 사원, 장인, 사경승과 서사자, 발원 의례</strong>를 서로 연결하였다.</p><p class="yom-source">주요 사료: 『<em>고려사</em>』 <span class="yom-hanja">高麗史</span>, 권 123, 8a–11a, 「폐행」 계열에 실린 염승익 전기; Bryan Sauvadet 박사학위논문 제1장 § 1.1.2.2.1.</p></div>
       <aside class="yom-profile-card" aria-label="염승익의 생애 개요"><div class="yom-profile-name">염승익</div><div class="yom-profile-hanja yom-hanja">廉承益</div><div class="yom-profile-facts">
         <div class="yom-profile-fact"><b>생몰년</b><span>?–1302</span></div><div class="yom-profile-fact"><b>시대</b><span>고려</span></div><div class="yom-profile-fact"><b>국왕</b><span>충렬왕 <span class="yom-hanja">忠烈王</span></span></div><div class="yom-profile-fact"><b>수도</b><span>개경 <span class="yom-hanja">開京</span></span></div><div class="yom-profile-fact"><b>역할</b><span>고위 관료, 통역관, 왕의 측근</span></div><div class="yom-profile-fact"><b>신앙</b><span>사원, 사경, 불화, 의례, 치유</span></div>
       </div></aside>
@@ -156,7 +157,7 @@ format:
   </div></section>
 
   <section class="yom-section" id="conclusion"><div class="yom-shell">
-    <div class="yom-section-head"><div class="yom-kicker">12 · 염승익의 사례가 보여주는 것</div><h2>단순한 후원자보다 ‘중개자’에 가까운 인물</h2><p>염승익의 사례는 고려 불교미술을 조정된 행위들의 결과로 이해하게 한다. 왕의 결정, 행정 임무, 사원, 사경소, 발원물, 의례 행위가 하나의 행위 사슬 속에 결합될 수 있었다.</p></div>
+    <div class="yom-section-head"><div class="yom-kicker">12 · 염승익의 사례가 보여주는 것</div><h2>단순한 발원자라기보다 ‘중개자’에 가까운 인물</h2><p>염승익의 사례는 고려 불교미술을 조정된 행위들의 결과로 이해하게 한다. 왕의 결정, 행정 임무, 사원, 사경소, 발원물, 의례 행위가 하나의 행위 사슬 속에 결합될 수 있었다.</p></div>
     <div class="yom-legacy"><article class="yom-legacy-card"><div class="mark yom-hanja">王</div><h3>권력의 인물</h3><p>충렬왕과의 밀접한 관계를 통해 조정의 자원과 주요 불교 시설에 접근했다.</p></article><article class="yom-legacy-card"><div class="mark yom-hanja">願</div><h3>불교 실천자</h3><p>발문과 명문에는 건강, 보호, 공덕, 정토 왕생이라는 개인적 관심이 드러난다.</p></article><article class="yom-legacy-card"><div class="mark yom-hanja">像</div><h3>중개자</h3><p>건축, 사경, 불화, 인쇄를 연결하지만 각 매체의 기능과 발원 지위는 동일하지 않다.</p></article></div>
   </div></section>
 
@@ -168,3 +169,4 @@ format:
     <a class="yom-back" href="/ko/maps.html">← 지도·인포그래픽으로 돌아가기</a>
   </div></section>
 </main>
+```
