@@ -7,5 +7,20 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
 <section class="page-hero"><h1>Mes lectures</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">Une sélection d’ouvrages à lire pour mieux comprendre l’histoire de l’art bouddhique, le bouddhisme, l’histoire de l’Asie, l’archéologie et l’architecture.</p><div class="card"><h3>Fiches de lecture</h3><p>Chaque compte rendu répond d’abord à deux questions : pourquoi lire ce livre, et qu’apporte-t-il réellement à la compréhension de son domaine ?</p></div></div></main>
+<main class="content"><div class="content-inner">
+<p class="lead">Une sélection d’ouvrages à lire pour mieux comprendre l’histoire de l’art bouddhique, le bouddhisme, l’histoire de l’Asie, l’archéologie et l’architecture.</p>
+<div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/fr/lectures/the-dynamic-spread-of-buddhist-print-culture.html">
+<div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Couverture de The Dynamic Spread of Buddhist Print Culture" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">Histoire de l’art bouddhique · Culture de l’imprimé · Histoire de l’Asie</div>
+<h2>The Dynamic Spread of Buddhist Print Culture</h2>
+<p class="reading-book-author">Shih-shan Susan Huang · Brill · 2024</p>
+<p>Pourquoi les imprimés bouddhiques doivent être étudiés comme des objets mobiles, circulant sur des « Buddhist Book Roads » reliant la Chine, l’Asie intérieure et l’Asie orientale.</p>
+<span class="reading-book-link">Lire la fiche →</span>
+</a>
+</div></div>
+</div></main>
+```
