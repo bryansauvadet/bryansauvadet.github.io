@@ -37,7 +37,7 @@ format:
     </div>
     <div class="yom-intro-grid">
       <div><p>Yŏm Sŭngik spoke Mongolian and served as an interpreter for envoys arriving from Dadu. He thus belonged to the group of high officials who mediated between the kingdom of Koryŏ and the Yuan court. At the same time, his Buddhist devotion took material form through donations, ritual practices, and artistic commissions.</p>
-      <p>This dual position explains his importance: Yŏm Sŭngik cannot be reduced either to a private commissioner or to his administrative office. He connected <strong>royal authority, administrative resources, monasteries, artisans, copyists, and votive practices</strong>.</p>
+      <p>This dual position explains his importance: Yŏm Sŭngik cannot be reduced either to a private commissioner or to his administrative role alone. He connected <strong>royal authority, administrative resources, monasteries, artisans, copyists, and votive practices</strong>.</p>
       <p class="yom-source">Principal source: <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, k. 123, 8a–11a, biography of Yŏm Sŭngik in the section on “favorites”; Bryan Sauvadet’s dissertation, chap. 1, § 1.1.2.2.1.</p></div>
       <aside class="yom-profile-card" aria-label="Biographical landmarks"><div class="yom-profile-name">Yŏm Sŭngik</div><div class="yom-profile-hanja yom-hanja">廉承益</div>
         <div class="yom-profile-facts">
