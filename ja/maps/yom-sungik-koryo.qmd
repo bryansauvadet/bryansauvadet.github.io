@@ -33,6 +33,11 @@ format:
     <div class="yom-constellation" aria-label="廉承益をめぐる機能的ネットワーク"><div class="yom-constellation-grid">
       <div class="yom-node king">忠烈王 <span class="yom-hanja">忠烈王</span><small>王権</small></div><div class="yom-node yuan">大都・元朝廷 <span class="yom-hanja">元</span><small>使節 · モンゴル語</small></div><div class="yom-node monasteries">開京の寺院<small>修復 · 法会</small></div><div class="yom-node core">廉承益 <span class="yom-hanja">廉承益</span><small>仲介者</small></div><div class="yom-node scriptorium">王室写経所 <span class="yom-hanja">金字大藏寫經所</span><small>金字写経</small></div><div class="yom-node ritual">仏教実践<small>発願 · 治療 · 功徳</small></div><div class="yom-node kong">孔愉 <span class="yom-hanja">孔愉</span><small>1283年の任務</small></div>
     </div></div>
+
+    <figure class="yom-figure yom-infographie-reduced">
+      <img src="/assets/img/yom-sungik/yom-sungik-infographie-1-ja.webp" alt="廉承益を中心に、忠烈王の宮廷、開京の寺院、仏教テクスト、元朝のネットワークを示す宗教ネットワークと儀礼流通のインフォグラフィック。" loading="lazy">
+      <figcaption><strong>宗教ネットワークと儀礼の流通。</strong> 廉承益、忠烈王の宮廷、開京の寺院、仏教テクスト、元朝圏を結ぶ関係を総合的に示す。</figcaption>
+    </figure>
   </div></section>
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
@@ -63,6 +68,11 @@ format:
     <div class="yom-section-head"><div class="yom-kicker">04 · 1283年7月</div><h2>石塔修復の任務</h2><p>モンゴルとの戦争による破壊と損傷の後、忠烈王は廉承益と孔愉に、都城の仏教施設を巡って修復を監督する任務を与えた。論文で確認できる行程は四地点を結んでいる。</p></div>
     <div class="yom-mission" aria-label="1283年の石塔修復任務"><div class="yom-mission-step"><div class="num">01</div><h3>玄化寺</h3><div class="hanja yom-hanja">玄化寺</div><p>1280年の王室建築命令によって、すでに廉承益と関係していた寺院。</p></div><div class="yom-mission-step"><div class="num">02</div><h3>王輪寺</h3><div class="hanja yom-hanja">王輪寺</div><p>修復対象に含まれた都城の主要寺院の一つ。</p></div><div class="yom-mission-step"><div class="num">03</div><h3>南溪院</h3><div class="hanja yom-hanja">南溪院</div><p>現存石塔を通じて、建築・修復・経典納入を直接結びつけられる重要例。</p></div><div class="yom-mission-step"><div class="num">04</div><h3>開國寺</h3><div class="hanja yom-hanja">開國寺</div><p>論文で用いた史料には開國寺の一属院も修復任務の対象として現れる。</p></div></div>
     <p class="yom-source"><strong>文献史料：</strong>『<em>高麗史</em>』巻29、45a。失われた建物の姿を恣意的に復元せず、現存建築と関連遺物が確認できる南溪院のみを物質文化の事例として詳述する。</p>
+
+    <figure class="yom-figure yom-infographie-reduced">
+      <img src="/assets/img/yom-sungik/yom-sungik-infographie-2-ja.webp" alt="1280–1281年の開京周辺における玄化寺、王輪寺、南溪院の仏塔修復と仏教事業を示す概略図。" loading="lazy">
+      <figcaption><strong>開京周辺の仏塔修復と仏教事業。</strong> 玄化寺、王輪寺、南溪院に関連する修復・造営活動を示す概略図。</figcaption>
+    </figure>
   </div></section>
 
   <section class="yom-section" id="namgyewon"><div class="yom-shell">
@@ -122,6 +132,11 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · 開京</div><h2>都城の仏教制度に刻まれた廉承益の軌跡</h2><p>廉承益の生涯は開京の複数の主要寺院と交差する。しかしこのページは、都城全体の仏教ネットワーク地図を重複して示すものではなく、廉承益自身の動線だけを抽出する。<strong>天孝寺 → 玄化寺 → 王室写経所 → 石塔修復任務 → 南溪院</strong>。</p></div>
     <div class="yom-practice-flow" aria-label="開京の仏教施設を結ぶ廉承益の軌跡"><div class="yom-practice-step"><b>天孝寺</b><small>1277</small></div><div class="yom-practice-step"><b>玄化寺</b><small>1280</small></div><div class="yom-practice-step"><b>写経所</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>王命</b><small>複数の石塔 · 1283</small></div><div class="yom-practice-step"><b>南溪院</b><small>経典納入</small></div></div>
+
+    <figure class="yom-figure yom-infographie-reduced">
+      <img src="/assets/img/yom-sungik/yom-sungik-infographie-3-ja.webp" alt="廉承益の開京から大都への移動と、元朝圏における宮廷・仏教・テクストのネットワークを示す概略図。" loading="lazy">
+      <figcaption><strong>開京から大都へ。</strong> 大都への移動と、滞在に関連する宮廷・仏教・テクストのネットワークを概略的に再構成する。</figcaption>
+    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">
