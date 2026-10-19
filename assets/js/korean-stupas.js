@@ -23,11 +23,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   const realmMaps = {
     fr:{'Silla':'Silla','Paekche':'Paekche','Grand Silla':'Grand Silla','Koryŏ':'Koryŏ','Transition Koryŏ–Chosŏn':'Transition Koryŏ–Chosŏn','Chosŏn':'Chosŏn'},
-    en:{'Silla':'Silla','Paekche':'Baekje','Grand Silla':'Unified Silla','Koryŏ':'Goryeo','Transition Koryŏ–Chosŏn':'Goryeo–Joseon transition','Chosŏn':'Joseon'},
-    ko:{'Silla':'신라','Paekche':'백제','Grand Silla':'통일신라','Koryŏ':'고려','Transition Koryŏ–Chosŏn':'고려–조선 전환기','Chosŏn':'조선'},
-    ja:{'Silla':'新羅','Paekche':'百済','Grand Silla':'統一新羅','Koryŏ':'高麗','Transition Koryŏ–Chosŏn':'高麗–朝鮮移行期','Chosŏn':'朝鮮'},
-    'zh-hant':{'Silla':'新羅','Paekche':'百濟','Grand Silla':'統一新羅','Koryŏ':'高麗','Transition Koryŏ–Chosŏn':'高麗–朝鮮過渡期','Chosŏn':'朝鮮'},
-    vi:{'Silla':'Silla','Paekche':'Baekje','Grand Silla':'Silla Thống nhất','Koryŏ':'Goryeo','Transition Koryŏ–Chosŏn':'Giai đoạn chuyển tiếp Goryeo–Joseon','Chosŏn':'Joseon'}
+    en:{'Silla':'Silla','Paekche':'Paekche','Grand Silla':'Grand Silla','Koryŏ':'Koryŏ','Transition Koryŏ–Chosŏn':'Koryŏ–Chosŏn transition','Chosŏn':'Chosŏn'},
+    ko:{'Silla':'신라','Paekche':'백제','Grand Silla':'대신라','Koryŏ':'고려','Transition Koryŏ–Chosŏn':'고려–조선 전환기','Chosŏn':'조선'},
+    ja:{'Silla':'新羅','Paekche':'百済','Grand Silla':'大新羅','Koryŏ':'高麗','Transition Koryŏ–Chosŏn':'高麗–朝鮮移行期','Chosŏn':'朝鮮'},
+    'zh-hant':{'Silla':'新羅','Paekche':'百濟','Grand Silla':'大新羅','Koryŏ':'高麗','Transition Koryŏ–Chosŏn':'高麗–朝鮮過渡期','Chosŏn':'朝鮮'},
+    vi:{'Silla':'Silla','Paekche':'Paekche','Grand Silla':'Đại Silla','Koryŏ':'Koryŏ','Transition Koryŏ–Chosŏn':'Giai đoạn chuyển tiếp Koryŏ–Chosŏn','Chosŏn':'Chosŏn'}
   };
   const typeMaps = {
     fr:{'석탑 — stoupa de pierre':'석탑 (石塔) — stoupa de pierre','승탑/부도 — stoupa funéraire':'승탑 (僧塔) / 부도 (浮屠) — stoupa funéraire','사리탑 — stoupa-reliquaire':'사리탑 (舍利塔) — stoupa-reliquaire'},
@@ -131,11 +131,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (item.annee) return String(item.annee);
     const d = String(item.datation || '');
     const maps = {
-      en:[['début du Grand Silla','early Unified Silla'],['Grand Silla','Unified Silla'],['VIIIe siècle','8th century'],['IXe siècle','9th century'],['début du Koryŏ','early Goryeo'],['fin du Koryŏ – début du Chosŏn','late Goryeo–early Joseon'],['fin du Koryŏ','late Goryeo'],['période du Koryŏ','Goryeo period'],['période du Chosŏn','Joseon period'],['Chosŏn tardif','late Joseon'],['fin du Chosŏn','late Joseon'],['Après le milieu du XVIIe siècle et avant 1759','after the mid-17th century and before 1759']],
-      ko:[['début du Grand Silla','통일신라 초기'],['Grand Silla','통일신라'],['VIIIe siècle','8세기'],['IXe siècle','9세기'],['début du Koryŏ','고려 초기'],['fin du Koryŏ – début du Chosŏn','고려 말–조선 초'],['fin du Koryŏ','고려 말'],['période du Koryŏ','고려시대'],['période du Chosŏn','조선시대'],['Chosŏn tardif','조선 후기'],['fin du Chosŏn','조선 말기'],['Après le milieu du XVIIe siècle et avant 1759','17세기 중엽 이후–1759년 이전']],
-      ja:[['début du Grand Silla','統一新羅初期'],['Grand Silla','統一新羅'],['VIIIe siècle','8世紀'],['IXe siècle','9世紀'],['début du Koryŏ','高麗初期'],['fin du Koryŏ – début du Chosŏn','高麗末–朝鮮初'],['fin du Koryŏ','高麗末'],['période du Koryŏ','高麗時代'],['période du Chosŏn','朝鮮時代'],['Chosŏn tardif','朝鮮後期'],['fin du Chosŏn','朝鮮末期'],['Après le milieu du XVIIe siècle et avant 1759','17世紀中葉以後・1759年以前']],
-      'zh-hant':[['début du Grand Silla','統一新羅初期'],['Grand Silla','統一新羅'],['VIIIe siècle','8世紀'],['IXe siècle','9世紀'],['début du Koryŏ','高麗初期'],['fin du Koryŏ – début du Chosŏn','高麗末至朝鮮初'],['fin du Koryŏ','高麗末期'],['période du Koryŏ','高麗時期'],['période du Chosŏn','朝鮮時期'],['Chosŏn tardif','朝鮮後期'],['fin du Chosŏn','朝鮮末期'],['Après le milieu du XVIIe siècle et avant 1759','17世紀中葉以後至1759年以前']],
-      vi:[['début du Grand Silla','đầu thời Silla Thống nhất'],['Grand Silla','Silla Thống nhất'],['VIIIe siècle','thế kỷ VIII'],['IXe siècle','thế kỷ IX'],['début du Koryŏ','đầu thời Goryeo'],['fin du Koryŏ – début du Chosŏn','cuối Goryeo–đầu Joseon'],['fin du Koryŏ','cuối thời Goryeo'],['période du Koryŏ','thời Goryeo'],['période du Chosŏn','thời Joseon'],['Chosŏn tardif','cuối thời Joseon'],['fin du Chosŏn','cuối thời Joseon'],['Après le milieu du XVIIe siècle et avant 1759','sau giữa thế kỷ XVII và trước 1759']]
+      en:[['début du Grand Silla','early Grand Silla'],['Grand Silla','Grand Silla'],['VIIIe siècle','8th century'],['IXe siècle','9th century'],['début du Koryŏ','early Koryŏ'],['fin du Koryŏ – début du Chosŏn','late Koryŏ–early Chosŏn'],['fin du Koryŏ','late Koryŏ'],['période du Koryŏ','Koryŏ period'],['période du Chosŏn','Chosŏn period'],['Chosŏn tardif','late Chosŏn'],['fin du Chosŏn','late Chosŏn'],['Après le milieu du XVIIe siècle et avant 1759','after the mid-17th century and before 1759']],
+      ko:[['début du Grand Silla','대신라 초기'],['Grand Silla','대신라'],['VIIIe siècle','8세기'],['IXe siècle','9세기'],['début du Koryŏ','고려 초기'],['fin du Koryŏ – début du Chosŏn','고려 말–조선 초'],['fin du Koryŏ','고려 말'],['période du Koryŏ','고려시대'],['période du Chosŏn','조선시대'],['Chosŏn tardif','조선 후기'],['fin du Chosŏn','조선 말기'],['Après le milieu du XVIIe siècle et avant 1759','17세기 중엽 이후–1759년 이전']],
+      ja:[['début du Grand Silla','大新羅初期'],['Grand Silla','大新羅'],['VIIIe siècle','8世紀'],['IXe siècle','9世紀'],['début du Koryŏ','高麗初期'],['fin du Koryŏ – début du Chosŏn','高麗末–朝鮮初'],['fin du Koryŏ','高麗末'],['période du Koryŏ','高麗時代'],['période du Chosŏn','朝鮮時代'],['Chosŏn tardif','朝鮮後期'],['fin du Chosŏn','朝鮮末期'],['Après le milieu du XVIIe siècle et avant 1759','17世紀中葉以後・1759年以前']],
+      'zh-hant':[['début du Grand Silla','大新羅初期'],['Grand Silla','大新羅'],['VIIIe siècle','8世紀'],['IXe siècle','9世紀'],['début du Koryŏ','高麗初期'],['fin du Koryŏ – début du Chosŏn','高麗末至朝鮮初'],['fin du Koryŏ','高麗末期'],['période du Koryŏ','高麗時期'],['période du Chosŏn','朝鮮時期'],['Chosŏn tardif','朝鮮後期'],['fin du Chosŏn','朝鮮末期'],['Après le milieu du XVIIe siècle et avant 1759','17世紀中葉以後至1759年以前']],
+      vi:[['début du Grand Silla','đầu thời Đại Silla'],['Grand Silla','Đại Silla'],['VIIIe siècle','thế kỷ VIII'],['IXe siècle','thế kỷ IX'],['début du Koryŏ','đầu thời Koryŏ'],['fin du Koryŏ – début du Chosŏn','cuối Koryŏ–đầu Chosŏn'],['fin du Koryŏ','cuối thời Koryŏ'],['période du Koryŏ','thời Koryŏ'],['période du Chosŏn','thời Chosŏn'],['Chosŏn tardif','cuối thời Chosŏn'],['fin du Chosŏn','cuối thời Chosŏn'],['Après le milieu du XVIIe siècle et avant 1759','sau giữa thế kỷ XVII và trước 1759']]
     };
     for (const [from,to] of (maps[lang] || [])) if (d.includes(from)) return to;
     return d.match(/\b\d{3,4}\b/)?.[0] || d;
@@ -161,11 +161,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (!s || lang === 'fr') return s || '';
     let x = String(s);
     const repl = {
-      en:[['Musée national de Corée','National Museum of Korea'],['Musée national de Kyŏngju','Gyeongju National Museum'],['Musée d’Ulsan','Ulsan Museum'],['Musée national de Taegu','Daegu National Museum'],['Kyŏngsang du Nord','North Gyeongsang'],['Chŏlla du Nord','North Jeolla'],['Chŏlla du Sud','South Jeolla'],["Ch'ungch'ŏng du Nord",'North Chungcheong'],["Ch'ungch'ŏng du Sud",'South Chungcheong'],['provenance :','provenance:']],
+      en:[['Musée national de Corée','National Museum of Korea'],['Musée national de Kyŏngju','Kyŏngju National Museum'],['Musée d’Ulsan','Ulsan Museum'],['Musée national de Taegu','Taegu National Museum'],['Kyŏngsang du Nord','North Kyŏngsang'],['Chŏlla du Nord','North Chŏlla'],['Chŏlla du Sud','South Chŏlla'],["Ch'ungch'ŏng du Nord",'North Ch'ungch'ŏng'],["Ch'ungch'ŏng du Sud",'South Ch'ungch'ŏng'],['provenance :','provenance:']],
       ko:[['Musée national de Corée','국립중앙박물관'],['Musée national de Kyŏngju','국립경주박물관'],['Musée d’Ulsan','울산박물관'],['Musée national de Taegu','국립대구박물관'],['Kyŏngsang du Nord','경상북도'],['Chŏlla du Nord','전북'],['Chŏlla du Sud','전남'],["Ch'ungch'ŏng du Nord",'충북'],["Ch'ungch'ŏng du Sud",'충남'],['provenance :','출토지:']],
       ja:[['Musée national de Corée','国立中央博物館'],['Musée national de Kyŏngju','国立慶州博物館'],['Musée d’Ulsan','蔚山博物館'],['Musée national de Taegu','国立大邱博物館'],['Kyŏngsang du Nord','慶尚北道'],['Chŏlla du Nord','全羅北道'],['Chŏlla du Sud','全羅南道'],["Ch'ungch'ŏng du Nord",'忠清北道'],["Ch'ungch'ŏng du Sud",'忠清南道'],['provenance :','旧所在地：']],
       'zh-hant':[['Musée national de Corée','韓國國立中央博物館'],['Musée national de Kyŏngju','國立慶州博物館'],['Musée d’Ulsan','蔚山博物館'],['Musée national de Taegu','國立大邱博物館'],['Kyŏngsang du Nord','慶尚北道'],['Chŏlla du Nord','全羅北道'],['Chŏlla du Sud','全羅南道'],["Ch'ungch'ŏng du Nord",'忠清北道'],["Ch'ungch'ŏng du Sud",'忠清南道'],['provenance :','原址：']],
-      vi:[['Musée national de Corée','Bảo tàng Quốc gia Hàn Quốc'],['Musée national de Kyŏngju','Bảo tàng Quốc gia Gyeongju'],['Musée d’Ulsan','Bảo tàng Ulsan'],['Musée national de Taegu','Bảo tàng Quốc gia Daegu'],['Kyŏngsang du Nord','Bắc Gyeongsang'],['Chŏlla du Nord','Bắc Jeolla'],['Chŏlla du Sud','Nam Jeolla'],["Ch'ungch'ŏng du Nord",'Bắc Chungcheong'],["Ch'ungch'ŏng du Sud",'Nam Chungcheong'],['provenance :','nguồn gốc:']]
+      vi:[['Musée national de Corée','Bảo tàng Quốc gia Hàn Quốc'],['Musée national de Kyŏngju','Bảo tàng Quốc gia Kyŏngju'],['Musée d’Ulsan','Bảo tàng Ulsan'],['Musée national de Taegu','Bảo tàng Quốc gia Taegu'],['Kyŏngsang du Nord','Bắc Kyŏngsang'],['Chŏlla du Nord','Bắc Chŏlla'],['Chŏlla du Sud','Nam Chŏlla'],["Ch'ungch'ŏng du Nord",'Bắc Ch'ungch'ŏng'],["Ch'ungch'ŏng du Sud",'Nam Ch'ungch'ŏng'],['provenance :','nguồn gốc:']]
     };
     for (const [a,b] of (repl[lang]||[])) x=x.replaceAll(a,b);
     return x;
