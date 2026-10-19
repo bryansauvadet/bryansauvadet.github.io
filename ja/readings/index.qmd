@@ -7,5 +7,20 @@ format:
     include-before-body: _includes/ja-header.html
     include-after-body: _includes/ja-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
 <section class="page-hero"><h1>私の読書</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">仏教美術史、仏教、アジア史、考古学、建築をより深く理解するために読む価値のある書籍を紹介します。</p><div class="card"><h3>読書ノート</h3><p>各書評では、まず二つの問いを重視します。なぜこの本を読むべきなのか、そしてその分野の理解に実際に何をもたらすのか。</p></div></div></main>
+<main class="content"><div class="content-inner">
+<p class="lead">仏教美術史、仏教、アジア史、考古学、建築をより深く理解するために読む価値のある書籍を紹介します。</p>
+<div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/ja/readings/the-dynamic-spread-of-buddhist-print-culture.html">
+<div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="The Dynamic Spread of Buddhist Print Culture 表紙" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">仏教美術史 · 印刷文化 · アジア史</div>
+<h2>The Dynamic Spread of Buddhist Print Culture</h2>
+<p class="reading-book-author">Shih-shan Susan Huang · Brill · 2024</p>
+<p>仏教印刷物を、中国・内陸アジア・東アジアを結ぶ「Buddhist Book Roads」を移動する物として捉えるべき理由を示す。</p>
+<span class="reading-book-link">書評を読む →</span>
+</a>
+</div></div>
+</div></main>
+```
