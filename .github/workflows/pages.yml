@@ -16,6 +16,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Check Korean romanization
+        run: python3 scripts/check_korean_romanization.py
       - name: Rebuild About image
         shell: bash
         run: |
