@@ -33,9 +33,9 @@
         title: "Corée — de la pagode de bois au monastère de montagne",
         intro: "La péninsule transforme les modèles continentaux par la pierre, le relief et une forte tradition de charpente.",
         events: [
-          ["IVe–VIe s.", "Trois Royaumes", "Le bouddhisme s’implante à Goguryeo, Baekje puis Silla ; les premiers monastères et pagodes accompagnent le patronage royal."],
-          ["VIe–VIIe s.", "Grandes pagodes de bois", "Des ensembles comme Hwangnyongsa placent la pagode monumentale au cœur d’une architecture d’État aujourd’hui en grande partie disparue."],
-          ["VIIe–IXe s.", "Silla unifié et pagode de pierre", "Le granite devient un médium majeur ; Bulguksa illustre l’équilibre entre pavillons, cours, escaliers et pagodes jumelles."],
+          ["IVe–VIe s.", "Trois Royaumes", "Le bouddhisme s’implante à Koguryŏ, Paekche puis Silla ; les premiers monastères et pagodes accompagnent le patronage royal."],
+          ["VIe–VIIe s.", "Grandes pagodes de bois", "Des ensembles comme Hwangnyŏngsa placent la pagode monumentale au cœur d’une architecture d’État aujourd’hui en grande partie disparue."],
+          ["VIIe–IXe s.", "Grand Silla et pagode de pierre", "Le granite devient un médium majeur ; Pulguksa illustre l’équilibre entre pavillons, cours, escaliers et pagodes jumelles."],
           ["IXe–Xe s.", "Essor du Sŏn", "Les stoupas funéraires de maîtres, pudo ou sŭngt’ap, matérialisent les lignées monastiques dans le paysage."],
           ["918–1392", "Koryŏ", "Le puissant patronage bouddhique favorise de grands monastères, la diversification des stoupas et une charpente de bois raffinée."],
           ["1392–1910", "Chosŏn", "Les restrictions imposées au bouddhisme renforcent le rôle des monastères de montagne, où se maintiennent et évoluent les traditions architecturales."]
@@ -98,9 +98,9 @@
         title: "Korea — from timber pagoda to mountain monastery",
         intro: "The peninsula transforms continental models through stone, topography, and a sophisticated timber-building tradition.",
         events: [
-          ["4th–6th c.", "Three Kingdoms", "Buddhism takes root in Goguryeo, Baekje and then Silla; early monasteries and pagodas grow through royal patronage."],
-          ["6th–7th c.", "Monumental timber pagodas", "Complexes such as Hwangnyongsa place an immense pagoda at the center of state-sponsored architecture."],
-          ["7th–9th c.", "Unified Silla and stone pagodas", "Granite becomes a major medium; Bulguksa balances halls, courts, stairways and paired pagodas."],
+          ["4th–6th c.", "Three Kingdoms", "Buddhism takes root in Koguryŏ, Paekche and then Silla; early monasteries and pagodas grow through royal patronage."],
+          ["6th–7th c.", "Monumental timber pagodas", "Complexes such as Hwangnyŏngsa place an immense pagoda at the center of state-sponsored architecture."],
+          ["7th–9th c.", "Grand Silla and stone pagodas", "Granite becomes a major medium; Pulguksa balances halls, courts, stairways and paired pagodas."],
           ["9th–10th c.", "Rise of Sŏn", "Monk reliquary stupas, pudo or sŭngt’ap, make lineage and memory visible in the landscape."],
           ["918–1392", "Koryŏ", "Strong Buddhist patronage supports major monasteries, diverse stupa types and refined timber construction."],
           ["1392–1910", "Chosŏn", "Restrictions on Buddhism strengthen the role of mountain monasteries, where architectural traditions survive and evolve."]
@@ -165,7 +165,7 @@
         events: [
           ["4～6世紀", "三国時代", "高句麗・百済・新羅へ仏教が定着し、王権の庇護のもとで初期寺院と塔が造営される。"],
           ["6～7世紀", "巨大木塔", "皇龍寺のような国家的寺院では、巨大な木塔が伽藍の中心を占める。"],
-          ["7～9世紀", "統一新羅と石塔", "花崗岩が主要素材となり、仏国寺では殿堂・中庭・階段・双塔が均衡ある構成をつくる。"],
+          ["7～9世紀", "大新羅と石塔", "花崗岩が主要素材となり、仏国寺では殿堂・中庭・階段・双塔が均衡ある構成をつくる。"],
           ["9～10世紀", "禅の興隆", "高僧の舎利塔である浮屠・僧塔が、法脈と記憶を山地景観に可視化する。"],
           ["918–1392", "高麗", "強力な仏教保護のもと、大寺院、多様な塔形式、洗練された木造架構が発展する。"],
           ["1392–1910", "朝鮮王朝", "仏教抑制政策により山地寺院の重要性が増し、そこで建築伝統が継承・変容する。"]
@@ -230,7 +230,7 @@
         events: [
           ["4–6세기", "삼국시대", "고구려·백제·신라에 불교가 정착하며 왕실 후원 아래 초기 사찰과 탑이 건립된다."],
           ["6–7세기", "대형 목탑", "황룡사 같은 국가 사찰에서는 거대한 목탑이 가람의 중심을 차지한다."],
-          ["7–9세기", "통일신라와 석탑", "화강암이 주요 재료가 되고, 불국사는 전각·마당·계단·쌍탑의 균형을 보여 준다."],
+          ["7–9세기", "대신라와 석탑", "화강암이 주요 재료가 되고, 불국사는 전각·마당·계단·쌍탑의 균형을 보여 준다."],
           ["9–10세기", "선의 확산", "고승의 사리탑인 부도·승탑이 산지 경관 속에 법맥과 기억을 시각화한다."],
           ["918–1392", "고려", "강력한 불교 후원으로 대형 사찰, 다양한 탑 형식, 세련된 목구조가 발전한다."],
           ["1392–1910", "조선", "억불 정책은 산지사찰의 비중을 높였고, 그곳에서 건축 전통이 보존되고 변형되었다."]
@@ -293,9 +293,9 @@
         title: "Triều Tiên — từ tháp gỗ đến tự viện miền núi",
         intro: "Bán đảo Triều Tiên biến đổi mô hình lục địa qua đá, địa hình và truyền thống kết cấu gỗ tinh tế.",
         events: [
-          ["TK IV–VI", "Thời Tam Quốc", "Phật giáo bén rễ ở Goguryeo, Baekje rồi Silla; các chùa và tháp đầu tiên phát triển nhờ bảo trợ vương quyền."],
-          ["TK VI–VII", "Đại tháp gỗ", "Những quần thể như Hwangnyongsa đặt tháp gỗ khổng lồ ở trung tâm kiến trúc nhà nước."],
-          ["TK VII–IX", "Silla Thống nhất và tháp đá", "Đá granite trở thành vật liệu chủ đạo; Bulguksa cân bằng điện, sân, bậc thang và cặp tháp."],
+          ["TK IV–VI", "Thời Tam Quốc", "Phật giáo bén rễ ở Koguryŏ, Paekche rồi Silla; các chùa và tháp đầu tiên phát triển nhờ bảo trợ vương quyền."],
+          ["TK VI–VII", "Đại tháp gỗ", "Những quần thể như Hwangnyŏngsa đặt tháp gỗ khổng lồ ở trung tâm kiến trúc nhà nước."],
+          ["TK VII–IX", "Đại Silla và tháp đá", "Đá granite trở thành vật liệu chủ đạo; Pulguksa cân bằng điện, sân, bậc thang và cặp tháp."],
           ["TK IX–X", "Sự phát triển của Sŏn", "Tháp xá lợi cao tăng — pudo hay sŭngt’ap — làm hiện rõ dòng truyền thừa và ký ức trong cảnh quan."],
           ["918–1392", "Koryŏ", "Sự bảo trợ mạnh mẽ của Phật giáo thúc đẩy đại tự viện, nhiều kiểu tháp và kết cấu gỗ tinh xảo."],
           ["1392–1910", "Chosŏn", "Các hạn chế đối với Phật giáo làm tăng vai trò của tự viện miền núi, nơi truyền thống kiến trúc tiếp tục được bảo tồn và biến đổi."]
@@ -360,7 +360,7 @@
         events: [
           ["4–6世紀", "三國時代", "佛教先後在高句麗、百濟與新羅扎根，早期寺院與佛塔在王權護持下發展。"],
           ["6–7世紀", "大型木塔", "皇龍寺等國家寺院以巨型木塔作為伽藍的核心。"],
-          ["7–9世紀", "統一新羅與石塔", "花崗岩成為重要材料；佛國寺以殿堂、院落、階梯與雙塔形成均衡構圖。"],
+          ["7–9世紀", "大新羅與石塔", "花崗岩成為重要材料；佛國寺以殿堂、院落、階梯與雙塔形成均衡構圖。"],
           ["9–10世紀", "禪宗興起", "高僧舍利塔——浮屠或僧塔——把法脈與記憶具體化於山地景觀。"],
           ["918–1392", "高麗", "強盛的佛教護持推動大型寺院、多樣塔式與精緻木構的發展。"],
           ["1392–1910", "朝鮮王朝", "抑佛政策提高山地寺院的重要性，建築傳統也在此延續並轉化。"]
