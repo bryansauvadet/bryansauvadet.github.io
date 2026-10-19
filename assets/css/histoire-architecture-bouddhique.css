@@ -86,7 +86,7 @@
 .hab-hero-visual {
   position: relative;
   width: 100%;
-  max-width: 520px;
+  max-width: 480px;
   min-height: 0 !important;
   aspect-ratio: 16 / 9;
   justify-self: end;
@@ -109,7 +109,7 @@
 }
 @media(max-width:900px){
   .hab-hero-visual{
-    max-width:520px;
+    max-width: 480px;
     justify-self:center;
   }
 }
