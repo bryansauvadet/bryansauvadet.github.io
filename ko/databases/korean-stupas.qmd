@@ -23,7 +23,6 @@ format:
       <figcaption>다보탑 · 불국사 · 경주</figcaption>
     </figure>
 
-    <div class="stupa-objective"><strong>목적:</strong> 조선 전기 불탑 건축에서 나타나는 건축적 보수성을 보여주는 것.</div>
 
     <section class="stupa-text-section">
       <h2>연구 범위</h2>
