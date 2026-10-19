@@ -8,6 +8,7 @@ format:
     include-after-body: _includes/ja-footer.html
 ---
 
+```{=html}
 <link rel="stylesheet" href="/assets/css/yom-sungik.css">
 <script defer src="/assets/js/yom-sungik.js"></script>
 
@@ -26,7 +27,7 @@ format:
   <section class="yom-section" id="portrait"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">01 · 宮廷人</div><h2>忠烈王治世の中心にいた廉承益</h2><p>『高麗史』の廉承益伝は、彼を王の近臣の一人として位置づけている。その経歴の大きな転機は1277年で、病に倒れた忠烈王に随行して天孝寺 <span class="yom-hanja">天孝寺</span> へ赴き、王の療養に関与した。廉承益の役割は宮廷だけに限られず、王権と仏教諸制度を媒介する存在でもあった。</p></div>
     <div class="yom-intro-grid">
-      <div><p>廉承益はモンゴル語を解し、大都から来た使節の通訳も務めた。したがって彼は、高麗王国と元朝廷のあいだを仲介した高級官僚層に属していた。同時に、その仏教信仰は布施、儀礼実践、仏教美術の発願として具体化された。</p><p>この二重の立場こそが廉承益の重要性を説明する。彼は単なる「パトロン」でも、単なる官僚でもない。<strong>王権、行政資源、寺院、工人、写経従事者、発願儀礼</strong>を結びつける存在であった。</p><p class="yom-source">主要史料：『<em>高麗史</em>』巻123、8a–11a、廉承益伝（「嬖幸」系統の列伝）；Bryan Sauvadet博士論文、第1章 § 1.1.2.2.1。</p></div>
+      <div><p>廉承益はモンゴル語を解し、大都から来た使節の通訳も務めた。したがって彼は、高麗王国と元朝廷のあいだを仲介した高級官僚層に属していた。同時に、その仏教信仰は布施、儀礼実践、仏教美術の発願として具体化された。</p><p>この二重の立場こそが廉承益の重要性を説明する。廉承益は、単なる私的な発願者にも、行政官としての職務だけにも還元できない。<strong>王権、行政資源、寺院、工人、写経従事者、発願儀礼</strong>を結びつける存在であった。</p><p class="yom-source">主要史料：『<em>高麗史</em>』巻123、8a–11a、廉承益伝（「嬖幸」系統の列伝）；Bryan Sauvadet博士論文、第1章 § 1.1.2.2.1。</p></div>
       <aside class="yom-profile-card" aria-label="略歴"><div class="yom-profile-name">廉承益</div><div class="yom-profile-hanja yom-hanja">廉承益</div><div class="yom-profile-facts"><div class="yom-profile-fact"><b>生没年</b><span>?–1302</span></div><div class="yom-profile-fact"><b>時代</b><span>高麗</span></div><div class="yom-profile-fact"><b>国王</b><span>忠烈王 <span class="yom-hanja">忠烈王</span></span></div><div class="yom-profile-fact"><b>都城</b><span>開京 <span class="yom-hanja">開京</span></span></div><div class="yom-profile-fact"><b>役割</b><span>高官、通訳、王の側近</span></div><div class="yom-profile-fact"><b>信仰</b><span>寺院、経典、仏画、儀礼、治療</span></div></div></aside>
     </div>
     <div class="yom-constellation" aria-label="廉承益をめぐる機能的ネットワーク"><div class="yom-constellation-grid">
@@ -152,3 +153,4 @@ format:
     <a class="yom-back" href="/ja/maps.html">← 地図・インフォグラフィックへ戻る</a>
   </div></section>
 </main>
+```
