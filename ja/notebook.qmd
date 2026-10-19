@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/ja-footer.html
 ---
 <section class="page-hero"><h1>研究ノート</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">研究ノート、読書記録、進行中の仕事。</p><div class="database-grid"><a class="database-card readings-card" href="/ja/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette.jpg" alt="仏教美術とアジアに関する書籍と研究" loading="lazy"></div><h2>私の読書</h2><p>読書ノートと書評。なぜその本を読むべきなのか、そして何を理解する助けになるのかを紹介します。</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
+<main class="content"><div class="content-inner"><p class="lead">研究ノート、読書記録、進行中の仕事。</p><div class="database-grid"><a class="database-card readings-card" href="/ja/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette-inline.svg" alt="仏教美術とアジアに関する書籍と研究" loading="lazy"></div><h2>私の読書</h2><p>読書ノートと書評。なぜその本を読むべきなのか、そして何を理解する助けになるのかを紹介します。</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
