@@ -36,7 +36,7 @@ format:
   </div></section>
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
-    <div class="yom-section-head"><div class="yom-kicker">02 · 互動年表</div><h2>穿梭於朝廷、寺院與佛教藝術發願之間的仕途</h2><p>可依事件類型篩選，分別觀察廉承益生涯中的不同面向。</p></div>
+    <div class="yom-section-head"><div class="yom-kicker">02 · 互動年表</div><h2>穿梭於朝廷、寺院與佛教藝術發願之間的仕途</h2></div>
     <figure class="yom-map-insert yom-map-insert--compact">
       <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277至1283年間廉承益在開京的宗教與行政活動路線圖" loading="lazy">
       <figcaption><strong>廉承益的宗教與行政行程，1277–1283。</strong> 地圖集中呈現其仕途前期的主要移動：天孝寺、玄化寺、王室寫經所，以及1283年的石塔修復巡行。</figcaption>
