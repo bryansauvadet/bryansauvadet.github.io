@@ -24,7 +24,7 @@
 /* Give the opening section a little more breathing room below the hero. */
 .yom-section#portrait{padding-top:108px}
 .yom-section-head{max-width:840px;margin:0 0 38px}
-.yom-section h2{font-size:40px;line-height:1.1;font-weight:400;margin:8px 0 16px}
+.yom-section h2{font-size:40px;line-height:1.1;font-weight:400;margin:16px 0 16px}
 .yom-section h3{font-size:23px;line-height:1.25;font-weight:400;margin:0 0 10px}
 .yom-section p{font-size:16px;line-height:1.72;margin:0 0 16px}
 .yom-muted{color:var(--yom-muted)}
