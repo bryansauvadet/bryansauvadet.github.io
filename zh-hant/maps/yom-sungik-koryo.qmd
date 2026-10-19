@@ -37,10 +37,6 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · 互動年表</div><h2>穿梭於朝廷、寺院與佛教藝術發願之間的仕途</h2></div>
-    <figure class="yom-map-insert yom-map-insert--compact">
-      <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277至1283年間廉承益在開京的宗教與行政活動路線圖" loading="lazy">
-      <figcaption><strong>廉承益的宗教與行政行程，1277–1283。</strong> 地圖集中呈現其仕途前期的主要移動：天孝寺、玄化寺、王室寫經所，以及1283年的石塔修復巡行。</figcaption>
-    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="年表篩選"><button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">全部</button><button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">朝廷</button><button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">寺院</button><button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">發願與製作</button><button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">儀式與療癒</button></div>
     <div class="yom-timeline">
       <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1277</div><div class="yom-event-body"><h3>侍奉患病的國王</h3><p>廉承益陪同忠烈王前往天孝寺 <span class="yom-hanja">天孝寺</span>，並參與國王的照料與治療。此事進一步鞏固了他與國王的親近關係。</p><p class="yom-source">《<em>高麗史</em>》卷123，8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">朝廷</span><span class="yom-tag">療癒</span></div></div></article>
@@ -65,10 +61,6 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · 1283年第七月</div><h2>石塔修復任務</h2><p>在蒙古戰爭造成破壞與損傷之後，忠烈王命廉承益與孔愉巡視首都佛教設施並監督修復。論文所確認的行程連結四處地點。</p></div>
-    <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="1283年廉承益巡行開京各地修復石塔的地圖" loading="lazy">
-      <figcaption><strong>石塔修復巡行，1283。</strong> 地圖呈現交付廉承益與孔愉 <span class="yom-hanja">孔愉</span> 的任務：玄化寺、王輪寺、南溪院以及開國寺別院。這是由廉承益監督的<strong>王命任務</strong>，並非四項個人發願。</figcaption>
-    </figure>
     <div class="yom-mission" aria-label="1283年石塔修復任務"><div class="yom-mission-step"><div class="num">01</div><h3>玄化寺</h3><div class="hanja yom-hanja">玄化寺</div><p>早在1280年的王室建築命令中，即已與廉承益發生關聯的寺院。</p></div><div class="yom-mission-step"><div class="num">02</div><h3>王輪寺</h3><div class="hanja yom-hanja">王輪寺</div><p>首都重要佛教設施之一，也是此次修復對象。</p></div><div class="yom-mission-step"><div class="num">03</div><h3>南溪院</h3><div class="hanja yom-hanja">南溪院</div><p>關鍵案例：現存石塔使建築、修復與佛經納入得以直接連結。</p></div><div class="yom-mission-step"><div class="num">04</div><h3>開國寺</h3><div class="hanja yom-hanja">開國寺</div><p>論文使用的史料亦記錄開國寺一處別院列入此次任務。</p></div></div>
     <p class="yom-source"><strong>文獻史料：</strong>《<em>高麗史</em>》卷29，45a。本頁不任意重建已消失建築的外觀；只有南溪院在建築與相關遺物均有材料可據時，才作為物質文化案例深入討論。</p>
   </div></section>
@@ -130,10 +122,6 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · 開京</div><h2>嵌入首都佛教制度中的廉承益行跡</h2><p>廉承益的生涯與開京多座重要寺院交會。然而，本頁不重複首都佛教網絡的總體地圖，只抽取廉承益本人的行跡：<strong>天孝寺 → 玄化寺 → 王室寫經所 → 石塔修復任務 → 南溪院</strong>。</p></div>
     <div class="yom-practice-flow" aria-label="廉承益在開京佛教設施間的行跡"><div class="yom-practice-step"><b>天孝寺</b><small>1277</small></div><div class="yom-practice-step"><b>玄化寺</b><small>1280</small></div><div class="yom-practice-step"><b>寫經所</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>王命</b><small>多座石塔 · 1283</small></div><div class="yom-practice-step"><b>南溪院</b><small>佛經納入</small></div></div>
-  <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="廉承益由開京前往大都的行程圖，包括1289年與1293年的宮廷旅行" loading="lazy">
-      <figcaption><strong>從開京到大都。</strong> 1289年與1293年的旅行把廉承益置於更廣闊的政治空間中：他在開京佛教機構中的活動，與其作為高麗朝廷和元朝世界之間中介者的角色相互交織。</figcaption>
-    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">

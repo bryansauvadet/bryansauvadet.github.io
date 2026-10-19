@@ -39,10 +39,6 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · 인터랙티브 연표</div><h2>조정, 사원, 불교미술 발원을 오간 경력</h2></div>
-    <figure class="yom-map-insert yom-map-insert--compact">
-      <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277년부터 1283년까지 개경에서 이루어진 염승익의 종교적·행정적 이동 경로 지도" loading="lazy">
-      <figcaption><strong>염승익의 종교적·행정적 이동, 1277–1283년.</strong> 천효사, 현화사, 왕실 사경소, 그리고 1283년 석탑 복원 순행 등 그의 경력 전반부를 구성하는 주요 이동을 한눈에 보여준다.</figcaption>
-    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="연표 필터"><button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">전체</button><button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">조정</button><button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">사원</button><button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">발원·제작</button><button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">의례·치유</button></div>
     <div class="yom-timeline">
       <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1277</div><div class="yom-event-body"><h3>병든 국왕 곁에서</h3><p>염승익은 충렬왕을 따라 천효사 <span class="yom-hanja">天孝寺</span>로 가서 왕의 치료에 관여하였다. 이 사건은 국왕과의 밀접한 관계를 더욱 강화했다.</p><p class="yom-source">『<em>고려사</em>』 <span class="yom-hanja">高麗史</span>, 권 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">조정</span><span class="yom-tag">치유</span></div></div></article>
@@ -70,10 +66,6 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · 1283년 7월</div><h2>석탑 복원 임무</h2><p>몽골과의 전쟁으로 인한 파괴와 훼손 이후 충렬왕은 염승익과 공유에게 수도의 불교 시설을 순회하며 복원을 감독하는 임무를 맡긴다. 논문에서 확인한 동선은 네 곳을 연결한다.</p></div>
-    <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="1283년 개경 석탑 복원을 위한 염승익의 순행 지도" loading="lazy">
-      <figcaption><strong>석탑 복원 순행, 1283년.</strong> 현화사, 왕륜사, 남계원, 개국사 별원을 대상으로 염승익과 공유 <span class="yom-hanja">孔愉</span>에게 맡겨진 임무를 시각화한다. 이는 염승익이 감독한 <strong>왕명에 따른 임무</strong>이지, 네 건의 개인 발원이 아니다.</figcaption>
-    </figure>
     <div class="yom-mission" aria-label="1283년 석탑 복원 임무">
       <div class="yom-mission-step"><div class="num">01</div><h3>현화사</h3><div class="hanja yom-hanja">玄化寺</div><p>1280년 왕실 건축 명령을 통해 이미 염승익과 관계된 사원.</p></div>
       <div class="yom-mission-step"><div class="num">02</div><h3>왕륜사</h3><div class="hanja yom-hanja">王輪寺</div><p>복원 대상에 포함된 수도의 주요 불교 시설 중 하나.</p></div>
@@ -145,10 +137,6 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · 개경 開京</div><h2>수도의 불교 제도 속에 놓인 염승익의 동선</h2><p>염승익의 생애는 개경의 여러 주요 사원과 교차한다. 그러나 이 페이지는 수도의 전체 불교 네트워크 지도를 반복하지 않고 염승익의 동선만을 추려 보여준다. <strong>천효사 → 현화사 → 왕실 사경소 → 석탑 복원 임무 → 남계원</strong>.</p></div>
     <div class="yom-practice-flow" aria-label="개경 불교 시설을 잇는 염승익의 동선"><div class="yom-practice-step"><b>천효사</b><small><span class="yom-hanja">天孝寺</span> · 1277</small></div><div class="yom-practice-step"><b>현화사</b><small><span class="yom-hanja">玄化寺</span> · 1280</small></div><div class="yom-practice-step"><b>사경소</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>왕명</b><small>여러 석탑 · 1283</small></div><div class="yom-practice-step"><b>남계원</b><small><span class="yom-hanja">南溪院</span> · 경전 봉안</small></div></div>
-  <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="1289년과 1293년의 궁정 여행을 포함한 개경과 대도 사이 염승익의 이동 경로 지도" loading="lazy">
-      <figcaption><strong>개경에서 대도로.</strong> 1289년과 1293년의 여행은 염승익을 더 넓은 정치 공간 속에 위치시킨다. 개경의 불교 제도에서 수행한 활동은 고려 조정과 원 세계를 잇는 중개자로서의 역할과 결합되어 있었다.</figcaption>
-    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">

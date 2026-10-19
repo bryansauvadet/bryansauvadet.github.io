@@ -37,10 +37,6 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · Niên biểu tương tác</div><h2>Một sự nghiệp giữa triều đình, tu viện và các đơn đặt làm Phật giáo</h2></div>
-    <figure class="yom-map-insert yom-map-insert--compact">
-      <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="Bản đồ các hành trình tôn giáo và hành chính của Yŏm Sŭngik tại Kaegyŏng từ năm 1277 đến 1283." loading="lazy">
-      <figcaption><strong>Các hành trình tôn giáo và hành chính của Yŏm Sŭngik, 1277–1283.</strong> Bản đồ tập hợp những di chuyển chính định hình giai đoạn đầu sự nghiệp của ông: Ch’ŏnhyo, Hyŏnhwa, phòng chép kinh hoàng gia và chuyến thị sát tu bổ năm 1283.</figcaption>
-    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="Bộ lọc niên biểu"><button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">Tất cả</button><button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">Triều đình</button><button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">Tu viện</button><button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">Đặt làm</button><button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">Nghi lễ & chữa bệnh</button></div>
     <div class="yom-timeline">
       <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1277</div><div class="yom-event-body"><h3>Bên cạnh vị vua lâm bệnh</h3><p>Yŏm Sŭngik theo Ch’ungnyŏl đến tu viện Ch’ŏnhyo <span class="yom-hanja">天孝寺</span> và tham gia chăm sóc nhà vua. Sự kiện này củng cố quan hệ gần gũi của ông với quân chủ.</p><p class="yom-source"><em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, quyển 123, 8a–11a.</p><div class="yom-event-tags"><span class="yom-tag">triều đình</span><span class="yom-tag">chữa bệnh</span></div></div></article>
@@ -65,10 +61,6 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · Tháng bảy âm lịch năm 1283</div><h2>Sứ vụ tu bổ các bảo tháp</h2><p>Sau những tàn phá và hư hại do chiến tranh với Mông Cổ, Ch’ungnyŏl giao cho Yŏm Sŭngik và Kong Yu một sứ vụ tại các cơ sở Phật giáo của kinh đô. Lộ trình được xác lập trong luận án nối bốn địa điểm.</p></div>
-    <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="Bản đồ chuyến đi của Yŏm Sŭngik để tu bổ các bảo tháp ở Kaegyŏng năm 1283." loading="lazy">
-      <figcaption><strong>Chuyến thị sát tu bổ các bảo tháp, 1283.</strong> Bản đồ thể hiện nhiệm vụ giao cho Yŏm Sŭngik và Kong Yu <span class="yom-hanja">孔愉</span> tại Hyŏnhwasa, Wangnyunsa, Namgyewŏn và một cơ sở phụ thuộc Kaeguksa. Đây là một <strong>sứ vụ theo lệnh hoàng gia</strong> do Yŏm Sŭngik giám sát, không phải bốn đơn đặt làm cá nhân.</figcaption>
-    </figure>
     <div class="yom-mission" aria-label="Sứ vụ tu bổ năm 1283"><div class="yom-mission-step"><div class="num">01</div><h3>Hyŏnhwa</h3><div class="hanja yom-hanja">玄化寺</div><p>Tu viện đã liên hệ với Yŏm Sŭngik từ công trình hoàng gia năm 1280.</p></div><div class="yom-mission-step"><div class="num">02</div><h3>Wangnyun</h3><div class="hanja yom-hanja">王輪寺</div><p>Một trong những cơ sở Phật giáo lớn của kinh đô nằm trong chương trình tu bổ.</p></div><div class="yom-mission-step"><div class="num">03</div><h3>Namgyewŏn</h3><div class="hanja yom-hanja">南溪院</div><p>Trường hợp then chốt: bảo tháp còn tồn tại cho phép nối kiến trúc, tu bổ và việc an trí kinh điển.</p></div><div class="yom-mission-step"><div class="num">04</div><h3>Kaeguk</h3><div class="hanja yom-hanja">開國寺</div><p>Một cơ sở phụ thuộc của tu viện cũng xuất hiện trong sứ vụ được các nguồn dùng trong luận án ghi lại.</p></div></div>
     <p class="yom-source"><strong>Nguồn văn bản:</strong> <em>Koryŏsa</em> <span class="yom-hanja">高麗史</span>, quyển 29, 45a. Trang này không tự ý tái dựng hình dáng các công trình đã mất; chỉ Namgyewŏn được trình bày sâu như một trường hợp vật chất khi cả kiến trúc và hiện vật liên quan đều được tư liệu hóa.</p>
   </div></section>
@@ -130,10 +122,6 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · Kaegyŏng 開京</div><h2>Một hành trình nằm trong hệ thống Phật giáo của kinh đô</h2><p>Hành trình của Yŏm Sŭngik giao cắt với nhiều tu viện lớn của Kaegyŏng, nhưng trang này không lặp lại bản đồ tổng thể về các mạng lưới Phật giáo của kinh đô. Nó chỉ tách riêng lộ trình của Yŏm Sŭngik: <strong>Ch’ŏnhyo → Hyŏnhwa → sở sao kinh hoàng gia → sứ vụ các bảo tháp → Namgyewŏn</strong>.</p></div>
     <div class="yom-practice-flow" aria-label="Lộ trình của Yŏm Sŭngik qua các cơ sở Phật giáo Kaegyŏng"><div class="yom-practice-step"><b>Ch’ŏnhyo</b><small><span class="yom-hanja">天孝寺</span> · 1277</small></div><div class="yom-practice-step"><b>Hyŏnhwa</b><small><span class="yom-hanja">玄化寺</span> · 1280</small></div><div class="yom-practice-step"><b>Sở sao kinh</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>Sứ vụ hoàng gia</b><small>nhiều bảo tháp · 1283</small></div><div class="yom-practice-step"><b>Namgyewŏn</b><small><span class="yom-hanja">南溪院</span> · an trí kinh</small></div></div>
-  <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="Bản đồ các hành trình của Yŏm Sŭngik giữa Kaegyŏng và Dadu, gồm các chuyến đi cùng triều đình năm 1289 và 1293." loading="lazy">
-      <figcaption><strong>Từ Kaegyŏng đến Dadu.</strong> Các chuyến đi năm 1289 và 1293 đặt Yŏm Sŭngik vào một không gian chính trị rộng hơn: hoạt động của ông trong các thiết chế Phật giáo ở Kaegyŏng gắn với vai trò trung gian giữa triều đình Koryŏ và thế giới nhà Nguyên.</figcaption>
-    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">

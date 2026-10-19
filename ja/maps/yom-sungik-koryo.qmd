@@ -37,10 +37,6 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · インタラクティブ年表</div><h2>宮廷・寺院・仏教美術発願を横断する経歴</h2></div>
-    <figure class="yom-map-insert yom-map-insert--compact">
-      <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277年から1283年にかけての開京における廉承益の宗教的・行政的移動を示す地図" loading="lazy">
-      <figcaption><strong>廉承益の宗教的・行政的移動、1277–1283年。</strong> 天孝寺、玄化寺、王室写経所、そして1283年の石塔修復巡回という、前半生を形づくる主要な移動を一枚の地図にまとめている。</figcaption>
-    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="年表フィルター"><button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">すべて</button><button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">宮廷</button><button class="yom-filter" type="button" data-filter="monastere" aria-pressed="false">寺院</button><button class="yom-filter" type="button" data-filter="commande" aria-pressed="false">発願・制作</button><button class="yom-filter" type="button" data-filter="rituel" aria-pressed="false">儀礼・治療</button></div>
     <div class="yom-timeline">
       <article class="yom-event" data-kind="cour rituel"><div class="yom-event-year">1277</div><div class="yom-event-body"><h3>病に伏す王の側で</h3><p>廉承益は忠烈王に随行して天孝寺 <span class="yom-hanja">天孝寺</span> に赴き、王の療養に関わった。この出来事によって王との近さはさらに強まった。</p><p class="yom-source">『<em>高麗史</em>』巻123、8a–11a。</p><div class="yom-event-tags"><span class="yom-tag">宮廷</span><span class="yom-tag">治療</span></div></div></article>
@@ -65,10 +61,6 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · 1283年7月</div><h2>石塔修復の任務</h2><p>モンゴルとの戦争による破壊と損傷の後、忠烈王は廉承益と孔愉に、都城の仏教施設を巡って修復を監督する任務を与えた。論文で確認できる行程は四地点を結んでいる。</p></div>
-    <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-tournee-1283.webp" alt="1283年に開京の石塔修復のため廉承益が巡回した経路を示す地図" loading="lazy">
-      <figcaption><strong>石塔修復の巡回、1283年。</strong> 玄化寺、王輪寺、南溪院、開國寺別院を対象として廉承益と孔愉に託された任務を可視化した地図である。これは廉承益が監督した<strong>王命による任務</strong>であり、四件の個人発願ではない。</figcaption>
-    </figure>
     <div class="yom-mission" aria-label="1283年の石塔修復任務"><div class="yom-mission-step"><div class="num">01</div><h3>玄化寺</h3><div class="hanja yom-hanja">玄化寺</div><p>1280年の王室建築命令によって、すでに廉承益と関係していた寺院。</p></div><div class="yom-mission-step"><div class="num">02</div><h3>王輪寺</h3><div class="hanja yom-hanja">王輪寺</div><p>修復対象に含まれた都城の主要寺院の一つ。</p></div><div class="yom-mission-step"><div class="num">03</div><h3>南溪院</h3><div class="hanja yom-hanja">南溪院</div><p>現存石塔を通じて、建築・修復・経典納入を直接結びつけられる重要例。</p></div><div class="yom-mission-step"><div class="num">04</div><h3>開國寺</h3><div class="hanja yom-hanja">開國寺</div><p>論文で用いた史料には開國寺の一属院も修復任務の対象として現れる。</p></div></div>
     <p class="yom-source"><strong>文献史料：</strong>『<em>高麗史</em>』巻29、45a。失われた建物の姿を恣意的に復元せず、現存建築と関連遺物が確認できる南溪院のみを物質文化の事例として詳述する。</p>
   </div></section>
@@ -130,10 +122,6 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · 開京</div><h2>都城の仏教制度に刻まれた廉承益の軌跡</h2><p>廉承益の生涯は開京の複数の主要寺院と交差する。しかしこのページは、都城全体の仏教ネットワーク地図を重複して示すものではなく、廉承益自身の動線だけを抽出する。<strong>天孝寺 → 玄化寺 → 王室写経所 → 石塔修復任務 → 南溪院</strong>。</p></div>
     <div class="yom-practice-flow" aria-label="開京の仏教施設を結ぶ廉承益の軌跡"><div class="yom-practice-step"><b>天孝寺</b><small>1277</small></div><div class="yom-practice-step"><b>玄化寺</b><small>1280</small></div><div class="yom-practice-step"><b>写経所</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>王命</b><small>複数の石塔 · 1283</small></div><div class="yom-practice-step"><b>南溪院</b><small>経典納入</small></div></div>
-  <figure class="yom-map-insert">
-      <img src="/assets/img/yom-sungik/map-kaegyong-dadu.webp" alt="1289年と1293年の宮廷旅行を含む、開京から大都までの廉承益の移動を示す地図" loading="lazy">
-      <figcaption><strong>開京から大都へ。</strong> 1289年と1293年の旅は、廉承益をより広い政治空間の中に位置づける。開京の仏教施設における活動は、高麗宮廷と元朝世界を結ぶ仲介者としての役割と重なっていた。</figcaption>
-    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">
