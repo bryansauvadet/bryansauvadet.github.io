@@ -89,18 +89,42 @@ document.addEventListener('DOMContentLoaded', async () => {
       enryakuji:'Mount Hiei — Enryaku-ji', 'danjo-garan':'Mount Kōya — Danjō Garan'
     },
     ko:{
+      grdhrakuta:'그리드라쿠타산', venuvana:'죽림정사 / Veṇuvana', lumbini:'룸비니 — 마야데비 사원',
+      'white-horse':'백마사', yungang:'윈강 석굴', longmen:'룽먼 석굴', mogao:'모가오 석굴',
+      songyue:'숭악사탑', famen:'법문사', nanchan:'남선사', foguang:'불광사',
+      'great-wild-goose':'대안탑', 'small-wild-goose':'소안탑', fogongsi:'불궁사 석가탑',
+      'iron-pagoda':'철탑', kaiyuan:'개원사와 쌍탑',
       mireuksa:'미륵사', jeongnimsa:'정림사', bunhwangsa:'분황사', bulguksa:'불국사',
-      woljeongsa:'월정사', bongjeongsa:'봉정사', sudeoksa:'수덕사', geojoam:'거조암 / 거조사', buseoksa:'부석사'
+      woljeongsa:'월정사', bongjeongsa:'봉정사', sudeoksa:'수덕사', geojoam:'거조암 / 거조사', buseoksa:'부석사',
+      enryakuji:'히에이산 — 엔랴쿠지', 'danjo-garan':'고야산 — 단조 가란'
     },
     ja:{
+      grdhrakuta:'霊鷲山（Gṛdhrakūṭa）', venuvana:'竹林精舎（Veṇuvana）', lumbini:'ルンビニー — マーヤーデーヴィー寺院',
+      'white-horse':'白馬寺', yungang:'雲岡石窟', longmen:'龍門石窟', mogao:'莫高窟',
+      songyue:'嵩岳寺塔', famen:'法門寺', nanchan:'南禅寺', foguang:'仏光寺',
+      'great-wild-goose':'大雁塔', 'small-wild-goose':'小雁塔', fogongsi:'仏宮寺釈迦塔',
+      'iron-pagoda':'鉄塔', kaiyuan:'開元寺と双塔',
       asukadera:'飛鳥寺', horyuji:'法隆寺', yakushiji:'薬師寺', kofukuji:'興福寺',
       todaiji:'東大寺', enryakuji:'比叡山 — 延暦寺', 'danjo-garan':'高野山 — 壇上伽藍', byodoin:'平等院'
     },
     'zh-hant':{
+      grdhrakuta:'靈鷲山', venuvana:'竹林精舍', jetavana:'祇園精舍', vaisali:'毘舍離',
+      nalanda:'那爛陀', kushinagar:'拘尸那揭羅', bodhgaya:'菩提伽耶 — 摩訶菩提寺',
+      sarnath:'鹿野苑', sanchi:'桑奇', bharhut:'巴爾胡特', lumbini:'藍毘尼 — 摩耶夫人寺',
       'white-horse':'白馬寺', yungang:'雲岡石窟', longmen:'龍門石窟', mogao:'莫高窟',
       songyue:'嵩岳寺塔', famen:'法門寺', nanchan:'南禪寺', foguang:'佛光寺',
       'great-wild-goose':'大雁塔', 'small-wild-goose':'小雁塔', fogongsi:'佛宮寺釋迦塔',
-      'iron-pagoda':'鐵塔', kaiyuan:'開元寺與雙塔'
+      'iron-pagoda':'鐵塔', kaiyuan:'開元寺與雙塔',
+      asukadera:'飛鳥寺', horyuji:'法隆寺', yakushiji:'藥師寺', kofukuji:'興福寺',
+      todaiji:'東大寺', enryakuji:'比叡山 — 延曆寺', 'danjo-garan':'高野山 — 壇上伽藍', byodoin:'平等院'
+    },
+    vi:{
+      grdhrakuta:'Núi Gṛdhrakūṭa', venuvana:'Trúc Lâm / Veṇuvana', lumbini:'Lumbinī — đền Māyā Devī',
+      'white-horse':'Chùa Bạch Mã', yungang:'Hang đá Vân Cương', longmen:'Hang đá Long Môn', mogao:'Hang Mạc Cao',
+      songyue:'Tháp chùa Tung Nhạc', famen:'Chùa Pháp Môn', nanchan:'Chùa Nam Thiền', foguang:'Chùa Phật Quang',
+      'great-wild-goose':'Đại Nhạn tháp', 'small-wild-goose':'Tiểu Nhạn tháp', fogongsi:'Tháp gỗ Phật Cung tự',
+      'iron-pagoda':'Thiết tháp', kaiyuan:'Chùa Khai Nguyên và đôi tháp',
+      enryakuji:'Núi Hiei — Enryaku-ji', 'danjo-garan':'Núi Kōya — Danjō Garan'
     }
   };
   const siteName = item => (nameMaps[lang] || {})[item.id] || item.name;
@@ -140,6 +164,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
   const items = Array.isArray(payload.items) ? payload.items : [];
 
+  mapEl.innerHTML = '';
   const map = L.map(mapEl, {scrollWheelZoom:true, minZoom:3, worldCopyJump:true}).setView([30,105],4);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom:18, attribution:'&copy; OpenStreetMap contributors'
@@ -160,7 +185,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const popupHtml = item => {
     const name = siteName(item);
     const native = item.native && item.native !== name ? '<div class="hab-map-popup-native">'+esc(item.native)+'</div>' : '';
-    const related = Array.isArray(item.related) && item.related.length
+    const related = lang === 'fr' && Array.isArray(item.related) && item.related.length
       ? '<div class="hab-map-popup-related"><span>'+esc(T.related)+'</span>'+item.related.map(esc).join(' · ')+'</div>' : '';
     return '<div class="hab-map-popup">'
       +'<strong>'+esc(name)+'</strong>'+native
