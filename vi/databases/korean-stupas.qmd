@@ -23,7 +23,6 @@ format:
       <figcaption>Tháp Dabo · Bulguksa · Gyeongju</figcaption>
     </figure>
 
-    <div class="stupa-objective"><strong>Mục tiêu:</strong> làm rõ tính bảo thủ kiến trúc thể hiện trong kiến trúc bảo tháp vào đầu thời Joseon.</div>
 
     <section class="stupa-text-section">
       <h2>Phạm vi nghiên cứu</h2>
