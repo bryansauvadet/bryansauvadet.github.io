@@ -1,0 +1,97 @@
+---
+title: "The Dynamic Spread of Buddhist Print Culture"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
+
+<main class="book-report" id="haut">
+  <header class="book-report__hero">
+    <div class="book-report__shell book-report__hero-grid">
+      <figure class="book-report__cover">
+        <img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Couverture de The Dynamic Spread of Buddhist Print Culture, de Shih-shan Susan Huang" loading="eager" decoding="async" referrerpolicy="no-referrer">
+      </figure>
+      <div>
+        <div class="book-report__eyebrow">Compte rendu d’ouvrage · Histoire de l’art bouddhique · Culture de l’imprimé · Histoire de l’Asie</div>
+        <h1>The Dynamic Spread of Buddhist Print Culture</h1>
+        <p class="book-report__author">Shih-shan Susan Huang</p>
+        <dl class="book-report__meta" aria-label="Référence bibliographique">
+          <div><dt>Date</dt><dd>2024</dd></div>
+          <div><dt>Éditeur</dt><dd>Brill · Leiden / Boston</dd></div>
+          <div><dt>Langue</dt><dd>Anglais</dd></div>
+          <div><dt>Domaine</dt><dd>Histoire de l’art bouddhique · culture de l’imprimé · réseaux transasiatiques</dd></div>
+          <div><dt>Type</dt><dd>Monographie scientifique</dd></div>
+          <div><dt>Référence</dt><dd>ISBN 978-90-04-70001-7 · DOI 10.1163/9789004700017</dd></div>
+        </dl>
+        <div class="book-report__domain"><strong>Question centrale :</strong> Comment les images et textes bouddhiques imprimés ont-ils été produits, reproduits, transportés et transformés entre la Chine et ses voisins, principalement entre 850 et 1450 ?</div>
+      </div>
+    </div>
+  </header>
+
+  <div class="book-report__nav-wrap">
+    <nav class="book-report__shell book-report__nav" aria-label="Sommaire de la fiche">
+      <a href="#pourquoi-lire">Pourquoi le lire ?</a>
+      <a href="#comprendre">Ce qu’il permet de comprendre</a>
+      <a href="#apports">Apports au domaine</a>
+      <a href="#reperes">Repères à retenir</a>
+      <a href="#these">Thèse de l’auteur</a>
+      <a href="#changement">Ce que cela change</a>
+      <a href="#limites">Limites</a>
+      <a href="#public">Pour qui ?</a>
+      <a href="#verdict">Verdict</a>
+    </nav>
+  </div>
+
+  <section class="book-report__section" id="pourquoi-lire"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">01 · Essentiel</div><h2>Pourquoi lire ce livre ?</h2></div>
+    <div class="book-report__content"><p>C’est un ouvrage majeur pour comprendre le bouddhisme non seulement à travers les doctrines et les monuments, mais à travers la circulation matérielle des images et des livres. Huang traite les imprimés comme des « objets en mouvement » : fabriqués dans un lieu, financés par des cours, des monastères ou des laïcs, transportés par des réseaux commerciaux, religieux et politiques, puis copiés, adaptés et parfois réemployés très loin de leur point d’origine.</p><p>Pour l’histoire de l’art bouddhique, son intérêt est décisif : le livre déplace l’attention des chefs-d’œuvre uniques vers les images anonymes et reproductibles. Ces gravures permettent de suivre des motifs visuels que les peintures conservées ne suffisent plus à documenter. Pour l’histoire de l’Asie, il montre une Chine médiévale et mongole profondément connectée aux Khitan, Jurchen, Tangut, Tibétains, Ouïghours, Coréens et Japonais, et même, dans certains cas, à des milieux artistiques islamiques.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="comprendre"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">02 · Connaissances</div><h2>Ce que le livre permet de comprendre</h2></div>
+    <div class="book-report__content"><ul class="book-report__keypoints"><li><strong>L’impression bouddhique n’est pas seulement une industrie du livre.</strong>Produire de nombreuses copies pouvait être un acte de mérite. Certains textes étaient déposés dans des pagodes ou des statues comme reliques textuelles et n’étaient pas destinés à une lecture ordinaire.</li><li><strong>Les « Buddhist Book Roads » relient les objets, les personnes et les institutions.</strong>Hangzhou et Beijing apparaissent comme de grands nœuds reliés aux monastères, marchés, routes terrestres et maritimes, réseaux de cour et, sous les Yuan, au système de relais postal mongol.</li><li><strong>Les images peuvent circuler autrement que les textes.</strong>Parce qu’un motif visuel ne dépend pas d’une langue déterminée, des compositions et modules iconographiques peuvent être copiés, réassemblés et transformés entre médias, régions et traditions religieuses.</li><li><strong>Le bouddhisme imprimé révèle une Asie multicentrique.</strong>Les Khitan Liao, Jurchen Jin, Tangut Xi Xia, Mongols, Tibétains et Ouïghours ne sont pas périphériques : ils sont producteurs, commanditaires, utilisateurs et transmetteurs essentiels de la culture imprimée bouddhique.</li></ul></div>
+  </div></section>
+
+  <section class="book-report__section" id="apports"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">03 · Mise en perspective</div><h2>Apports pour l’histoire de l’art, le bouddhisme et l’histoire de l’Asie</h2></div>
+    <div class="book-report__content"><p><strong>Pour l’histoire de l’art</strong>, Huang propose de prendre au sérieux la copie, la standardisation et la modularité. Au lieu de demander uniquement ce qui est « original », elle invite à regarder ce qui a été le plus copié et comment les formes changent en circulant. Cela transforme l’imprimé en source majeure pour reconstruire des traditions visuelles perdues et pour étudier les relations entre gravure, peinture, textile, sculpture, estampage et autres médias.</p><p><strong>Pour l’histoire du bouddhisme</strong>, le livre replace le livre imprimé dans la pratique religieuse : production de mérite, dons, protection, guérison, commémoration familiale, dépôt rituel, récitation et patronage. Il brouille ainsi les oppositions trop simples entre canonique et populaire, clercs et laïcs, religion savante et croyances ordinaires.</p><p><strong>Pour l’histoire de l’Asie</strong>, l’ouvrage oblige à dépasser un récit strictement dynastique et sinocentré. Les continuités Liao–Jin–Yuan et Xi Xia–Yuan, les circulations vers le Tibet, Turfan, la Corée et le Japon, et le rôle des infrastructures mongoles montrent que les frontières politiques n’arrêtaient ni les personnes ni les objets.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="reperes"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">04 · Repères</div><h2>Sites, monuments, œuvres et personnages à retenir</h2></div>
+    <div class="book-report__content"><ul class="book-report__entities"><li><strong>Hangzhou</strong><span>Grand centre de production sous les Song du Sud et les Yuan ; ses frontispices du Sūtra du Lotus et ses canons illustrés deviennent des modèles diffusés à grande distance.</span></li><li><strong>Yanjing / Dadu (Beijing)</strong><span>Centre majeur sous les Liao puis les Yuan, associé aux temples de cour, à l’impression bouddhique et au vaste système de relais impérial mongol.</span></li><li><strong>Khara Khoto</strong><span>Site essentiel pour les imprimés des Xi Xia ; les découvertes montrent à la fois la production tangoute et l’arrivée de modèles ou de livres venus de Chine intérieure.</span></li><li><strong>Turfan / Qocho</strong><span>Les fragments ouïghours découverts dans la région prouvent que des livres et images produits à Beijing ou Hangzhou pouvaient atteindre l’Asie centrale orientale.</span></li><li><strong>Pagode de Fogong, Yingxian</strong><span>Monument-clé pour l’étude des imprimés Liao : des textes, frontispices et sceaux de temples déposés dans la pagode documentent production, usage et conservation.</span></li><li><strong>Sūtra du Lotus</strong><span>Corpus visuel central du livre. Ses frontispices fournissent certains des exemples les plus convaincants de motifs circulant vers les Xi Xia, la Corée, le Japon et au-delà.</span></li><li><strong>Canon de Puning et Canon de Qisha</strong><span>Deux grandes entreprises d’impression des Yuan à Hangzhou, dont les frontispices montrent la rencontre de modèles chinois, tangoutes et himalayens.</span></li><li><strong>Empereur Renzong des Xi Xia et impératrice Luo</strong><span>Leur patronage massif à la fin du XIIe siècle illustre le rôle de la cour, des ateliers et des communautés multilingues dans l’essor de l’impression bouddhique.</span></li></ul></div>
+  </div></section>
+
+  <section class="book-report__section" id="these"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">05 · Argument</div><h2>Thèse ou idée directrice de l’auteur</h2></div>
+    <div class="book-report__content"><p class="book-report__thesis">La diffusion de la culture imprimée bouddhique ne peut être expliquée ni par la seule invention technique de l’imprimerie, ni par la seule croissance du marché du livre. Les textes et images bouddhiques doivent être étudiés comme des objets mobiles, reproductibles et transmédiatiques qui circulent dans des réseaux superposés — les « Buddhist Book Roads » — où interviennent temples, donateurs, artisans, cours impériales, communautés diasporiques, routes commerciales et infrastructures politiques. Leur reproduction transforme autant les images que les sociétés qui les reçoivent.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="changement"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">06 · Portée</div><h2>Ce que ce livre change dans notre compréhension du sujet</h2></div>
+    <div class="book-report__content"><p>Après cette lecture, l’histoire de l’imprimé bouddhique ne ressemble plus à une simple histoire du progrès technique. Une forte production ne signifie pas automatiquement un lectorat plus large : imprimer pouvait servir à accumuler du mérite, à consacrer une pagode, à remplir une statue ou à soutenir rituellement un défunt. Le livre change aussi le statut de la copie. La répétition d’un motif n’est plus un manque d’invention ; elle devient la trace visible d’un réseau de transmission.</p><p>Enfin, l’ouvrage change l’échelle d’observation. Liao, Jin, Xi Xia et Yuan ne sont plus des compartiments successifs, et Chine, Tibet, Asie centrale, Corée et Japon ne sont plus des espaces indépendants. Les mêmes livres, artisans, mécaniques de patronage et motifs visuels permettent de suivre des continuités qui traversent les frontières dynastiques, linguistiques et religieuses.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="limites"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">07 · Lecture critique</div><h2>Limites du livre</h2></div>
+    <div class="book-report__content"><div class="book-report__limits">La principale limite est aussi reconnue par l’autrice : il est souvent possible de localiser un lieu de production et un lieu de découverte sans pouvoir reconstituer l’itinéraire exact entre les deux. Certaines « routes » sont donc des hypothèses de réseau fondées sur la distribution matérielle et la comparaison visuelle. La conservation archéologique crée aussi un biais en faveur des régions sèches du Nord et du Nord-Ouest. Enfin, l’usage du vocabulaire des « memes » et des modules visuels est très productif pour penser la répétition, mais il faut distinguer une ressemblance formelle convaincante d’une preuve documentaire de transmission directe. Ces limites n’affaiblissent pas le projet ; elles indiquent précisément où ses cartes et rapprochements doivent être lus comme des modèles historiques à tester.</div></div>
+  </div></section>
+
+  <section class="book-report__section" id="public"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">08 · Public</div><h2>Pour qui est ce livre ?</h2></div>
+    <div class="book-report__content"><div class="book-report__audience"><div><strong>Débutant</strong><span>Pas un manuel d’introduction. À lire par sections après avoir acquis quelques repères sur le bouddhisme et l’histoire de la Chine médiévale.</span></div><div><strong>Étudiant</strong><span>Excellent pour apprendre à construire une problématique transrégionale, utiliser les images comme sources et articuler histoire de l’art, religion et histoire du livre.</span></div><div><strong>Chercheur</strong><span>Ouvrage de référence par l’ampleur du corpus, les cartes, la documentation visuelle et les pistes sur les réseaux de circulation.</span></div><div><strong>Amateur éclairé</strong><span>Très riche si l’on s’intéresse aux routes de la soie, à l’art bouddhique ou à l’histoire du livre ; la densité et la longueur exigent une lecture sélective.</span></div></div></div>
+  </div></section>
+
+  <section class="book-report__section" id="verdict"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">09 · Conclusion</div><h2>Verdict</h2></div>
+    <div class="book-report__content"><div class="book-report__verdict"><div class="book-report__verdict-label">Niveau de recommandation</div><strong>À lire absolument — pour l’histoire de l’art bouddhique et les circulations en Asie</strong><p>Un livre qui modifie réellement la manière d’aborder l’image bouddhique imprimée : non comme une reproduction secondaire, mais comme un moteur de circulation culturelle. Sa force est de réunir histoire de l’art, pratiques religieuses, histoire du livre et géographie des réseaux dans un même cadre analytique. Pour travailler sur le bouddhisme en Asie orientale entre les Tang tardifs et les Yuan, c’est une référence structurante.</p></div></div>
+  </div></section>
+
+  <div class="book-report__shell book-report__backtop"><a href="#haut">↑ Retour en haut</a></div>
+</main>
+```
