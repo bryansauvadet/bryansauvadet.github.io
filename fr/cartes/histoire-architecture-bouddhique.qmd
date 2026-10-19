@@ -8,7 +8,10 @@ format:
 ---
 
 ```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/assets/js/buddhist-architecture-map.js" defer></script>
 <script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 
 <main class="hab-page">
@@ -167,6 +170,26 @@ format:
           </ol>
         </div>
       </nav>
+    </div>
+  </section>
+  <section class="hab-map-section" id="carte-sites" aria-labelledby="hab-sites-map-title">
+    <div class="hab-shell">
+      <div class="hab-map-head">
+        <div class="hab-section-head">
+          <div class="hab-kicker" data-hab-map-copy="kicker">Géographie du dossier</div>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Carte interactive des sites cités</h2>
+          <p data-hab-map-copy="intro">Explorez les monuments, monastères, sites archéologiques, grottes et paysages sacrés mentionnés dans le dossier. Les monuments appartenant à une même enceinte sont regroupés sous un même point.</p>
+        </div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">46 sites</div>
+      </div>
+      <div class="hab-map-filters" aria-label="Filtres de la carte">
+        <label><span data-hab-map-copy="search">Recherche</span><input id="hab-map-search" type="search" placeholder="Monument, ville, région…"></label>
+        <label><span data-hab-map-copy="country">Pays</span><select id="hab-map-country"><option value="">Tous les pays</option></select></label>
+        <label><span data-hab-map-copy="type">Type de site</span><select id="hab-map-type"><option value="">Tous les types</option></select></label>
+        <button id="hab-map-reset" type="button" data-hab-map-copy="reset">Réinitialiser</button>
+      </div>
+      <div id="buddhist-architecture-sites-map" class="hab-sites-map" aria-labelledby="hab-sites-map-title"></div>
+      <div id="buddhist-architecture-sites-legend" class="hab-map-legend" aria-label="Pays représentés"></div>
     </div>
   </section>
 </main>
