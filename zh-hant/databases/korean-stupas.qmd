@@ -26,7 +26,7 @@ format:
 
     <section class="stupa-text-section">
       <h2>研究範圍</h2>
-      <p>資料的第一層以<strong>石塔（석탑）</strong>為核心，明確區分<strong>新羅、百濟、高句麗、統一新羅、高麗與朝鮮</strong>。為避免混淆功能不同的建築類型，<strong>僧塔／浮屠（승탑 / 부도）</strong>與<strong>舍利塔（사리탑）</strong>分列處理。至於<strong>高句麗</strong>，不會為了補足類型而將不存在的現存石塔加入此層；主要屬於木塔的遺構則歸入另一個考古資料群。</p>
+      <p>資料的第一層以<strong>石塔（석탑）</strong>為核心，明確區分<strong>新羅、百濟、高句麗、大新羅、高麗與朝鮮</strong>。為避免混淆功能不同的建築類型，<strong>僧塔／浮屠（승탑 / 부도）</strong>與<strong>舍利塔（사리탑）</strong>分列處理。至於<strong>高句麗</strong>，不會為了補足類型而將不存在的現存石塔加入此層；主要屬於木塔的遺構則歸入另一個考古資料群。</p>
     </section>
 
     <section class="stupa-text-section">
