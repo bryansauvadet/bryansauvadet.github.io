@@ -3,8 +3,8 @@ title: "Sách tôi đọc"
 lang: vi
 format:
   html:
-    include-before-body: ../_includes/vi-header.html
-    include-after-body: ../_includes/vi-footer.html
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
 ---
 <section class="page-hero"><h1>Sách tôi đọc</h1></section>
 <main class="content"><div class="content-inner"><p class="lead">Một tuyển chọn những cuốn sách đáng đọc để hiểu sâu hơn về lịch sử mỹ thuật Phật giáo, Phật giáo, lịch sử châu Á, khảo cổ học và kiến trúc.</p><div class="card"><h3>Ghi chép đọc sách</h3><p>Mỗi bài điểm sách trước hết trả lời hai câu hỏi: vì sao nên đọc cuốn sách này, và nó thực sự đóng góp gì cho việc hiểu lĩnh vực của mình?</p></div></div></main>
