@@ -23,7 +23,6 @@ format:
       <figcaption>多寶塔 · 佛國寺 · 慶州</figcaption>
     </figure>
 
-    <div class="stupa-objective"><strong>目的：</strong>呈現朝鮮初期佛塔建築中的建築保守性。</div>
 
     <section class="stupa-text-section">
       <h2>研究範圍</h2>
