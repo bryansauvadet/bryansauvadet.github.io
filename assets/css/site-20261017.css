@@ -609,6 +609,12 @@ a,span,p,h1,h2,h3,h4,div{
 .database-card-image{height:190px;margin:-26px -28px 22px;overflow:hidden;background:#ddd4c7}
 .database-card-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 48%;transition:transform .35s ease}
 .database-card:hover .database-card-image img{transform:scale(1.025)}
+/* Mes lectures — preserve the full 16:9 thumbnail on every screen */
+.readings-card .database-card-image{height:auto;aspect-ratio:16/9}
+.readings-card .database-card-image img{width:100%;height:100%;object-fit:contain;object-position:center;transform:none}
+.readings-card:hover .database-card-image img{transform:none}
+@media(max-width:600px){.readings-card .database-card-image{height:auto;aspect-ratio:16/9}}
+
 .database-detail-visual{margin:0 0 34px;padding:0}
 .database-detail-visual img{display:block;width:100%;max-height:520px;object-fit:cover;object-position:center 48%;border:1px solid var(--line)}
 .database-detail-visual figcaption{margin-top:8px;font:10px/1.4 Arial,sans-serif;letter-spacing:.06em;color:#71695f}
