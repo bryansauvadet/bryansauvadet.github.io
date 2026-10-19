@@ -3,8 +3,8 @@ title: "私の読書"
 lang: ja
 format:
   html:
-    include-before-body: ../_includes/ja-header.html
-    include-after-body: ../_includes/ja-footer.html
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
 ---
 <section class="page-hero"><h1>私の読書</h1></section>
 <main class="content"><div class="content-inner"><p class="lead">仏教美術史、仏教、アジア史、考古学、建築をより深く理解するために読む価値のある書籍を紹介します。</p><div class="card"><h3>読書ノート</h3><p>各書評では、まず二つの問いを重視します。なぜこの本を読むべきなのか、そしてその分野の理解に実際に何をもたらすのか。</p></div></div></main>
