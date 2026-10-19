@@ -23,7 +23,6 @@ format:
       <figcaption>多宝塔 · 仏国寺 · 慶州</figcaption>
     </figure>
 
-    <div class="stupa-objective"><strong>目的：</strong>朝鮮前期の仏塔建築にみられる建築的保守性を示すこと。</div>
 
     <section class="stupa-text-section">
       <h2>研究範囲</h2>
