@@ -71,8 +71,8 @@ format:
       <div class="axis-copy">
         <div class="axis-number">THEME 02</div>
         <h3>Images, rituals, and performativity</h3>
-        <p>The Buddhist image is studied as an object activated through ritual practices and dispositifs. Sweet Dew paintings 甘露幀 provide a particularly rich field for analyzing the emergence, function, and performativity of images.</p>
-        <div class="axis-tags"><span>甘露幀</span><span>Rituals</span><span>Performativity</span></div>
+        <p>The Buddhist image is studied as an object activated through ritual practices and dispositifs. Sweet Dew paintings 甘露圖 provide a particularly rich field for analyzing the emergence, function, and performativity of images.</p>
+        <div class="axis-tags"><span>甘露圖</span><span>Rituals</span><span>Performativity</span></div>
         <small class="image-credit-line">Detail of a gamnodo, replica of an eighteenth-century work · Daderot / Wikimedia Commons · CC0.</small>
       </div>
     </article>
@@ -185,7 +185,7 @@ format:
     </article>
     <article class="project-card">
       <div class="status">Research in progress</div>
-      <h3>Sweet Dew 甘露幀</h3>
+      <h3>Sweet Dew 甘露圖</h3>
       <p>Analyzing the emergence of Sweet Dew paintings through rituals, image use, and their performative dispositifs.</p>
     </article>
   </div>
