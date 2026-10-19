@@ -66,14 +66,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="甘露幀の細部" loading="lazy">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="甘露圖の細部" loading="lazy">
       </div>
       <div class="axis-copy">
         <div class="axis-number">研究軸 02</div>
         <h3>イメージ、儀礼、パフォーマティヴィティ</h3>
-        <p>仏教イメージを、儀礼実践や装置によって作動する対象として研究する。甘露幀は、イメージの出現、機能、パフォーマティヴィティを分析するうえで重要な研究対象である。</p>
-        <div class="axis-tags"><span>甘露幀</span><span>儀礼</span><span>パフォーマティヴィティ</span></div>
-        <small class="image-credit-line">甘露幀の細部、18世紀作品の複製 · Daderot / Wikimedia Commons · CC0.</small>
+        <p>仏教イメージを、儀礼実践や装置によって作動する対象として研究する。甘露圖は、イメージの出現、機能、パフォーマティヴィティを分析するうえで重要な研究対象である。</p>
+        <div class="axis-tags"><span>甘露圖</span><span>儀礼</span><span>パフォーマティヴィティ</span></div>
+        <small class="image-credit-line">甘露圖の細部、18世紀作品の複製 · Daderot / Wikimedia Commons · CC0.</small>
       </div>
     </article>
 
@@ -185,8 +185,8 @@ format:
     </article>
     <article class="project-card">
       <div class="status">研究進行中</div>
-      <h3>甘露幀</h3>
-      <p>儀礼、イメージの使用、パフォーマティブな装置から甘露幀の成立を分析する。</p>
+      <h3>甘露圖</h3>
+      <p>儀礼、イメージの使用、パフォーマティブな装置から甘露圖の成立を分析する。</p>
     </article>
   </div>
 </section>
