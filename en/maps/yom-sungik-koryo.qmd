@@ -60,6 +60,10 @@ format:
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">02 · Interactive chronology</div><h2>A career between court, monasteries, and Buddhist commissions</h2></div>
+    <figure class="yom-figure yom-infographie-reduced">
+      <img src="/assets/img/yom-sungik/yom-sungik-infographie-1-en.webp" alt="Yŏm Sŭngik: religious networks and ritual circulation between the court of Ch’ungnyŏl, the monasteries of Kaegyŏng, Buddhist texts, and Dadu." loading="lazy">
+      <figcaption><strong>Religious networks and ritual circulation.</strong> A synthetic view of the links between Yŏm Sŭngik, the court of Ch’ungnyŏl, the monasteries of Kaegyŏng, Buddhist texts, and the Yuan sphere.</figcaption>
+    </figure>
     <div class="yom-timeline-tools" role="group" aria-label="Chronology filters">
       <button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">All</button>
       <button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">Court</button>
@@ -93,6 +97,10 @@ format:
 
   <section class="yom-section" id="mission-1283"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">04 · Seventh lunar month of 1283</div><h2>The stupa-restoration mission</h2><p>After the destruction and damage connected with the Mongol wars, Ch’ungnyŏl entrusts Yŏm Sŭngik and Kong Yu with a mission among the Buddhist institutions of the capital. The itinerary documented in the dissertation links four sites.</p></div>
+    <figure class="yom-figure yom-infographie-reduced">
+      <img src="/assets/img/yom-sungik/yom-sungik-infographie-2-en.webp" alt="Schematic map of stoupa restorations and religious works around Kaegyŏng in 1280–1281." loading="lazy">
+      <figcaption><strong>Stoupa restorations and religious works around Kaegyŏng.</strong> Schematic view of interventions associated with Hyŏnhwasa, Wangnyŭnsa, and Namgyewŏn monasteries.</figcaption>
+    </figure>
     <div class="yom-mission" aria-label="1283 restoration mission">
       <div class="yom-mission-step"><div class="num">01</div><h3>Hyŏnhwa</h3><div class="hanja yom-hanja">玄化寺</div><p>A monastery already linked to Yŏm Sŭngik through the royal architectural commission of 1280.</p></div>
       <div class="yom-mission-step"><div class="num">02</div><h3>Wangnyun</h3><div class="hanja yom-hanja">王輪寺</div><p>One of the capital’s major institutions included in the restoration program.</p></div>
@@ -175,6 +183,10 @@ format:
   <section class="yom-section" id="kaegyong"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">10 · Kaegyŏng 開京</div><h2>A trajectory embedded in the capital’s Buddhist institutions</h2><p>Yŏm Sŭngik’s trajectory intersects with several major monasteries of Kaegyŏng, but this page does not duplicate the general map of the capital’s Buddhist networks. It isolates only Yŏm Sŭngik’s own path: <strong>Ch’ŏnhyo → Hyŏnhwa → royal scriptorium → stupa mission → Namgyewŏn</strong>.</p></div>
     <div class="yom-practice-flow" aria-label="Yŏm Sŭngik’s path through Kaegyŏng’s Buddhist institutions"><div class="yom-practice-step"><b>Ch’ŏnhyo</b><small><span class="yom-hanja">天孝寺</span> · 1277</small></div><div class="yom-practice-step"><b>Hyŏnhwa</b><small><span class="yom-hanja">玄化寺</span> · 1280</small></div><div class="yom-practice-step"><b>Scriptorium</b><small><span class="yom-hanja">金字大藏寫經所</span> · 1281</small></div><div class="yom-practice-step"><b>Royal mission</b><small>several stupas · 1283</small></div><div class="yom-practice-step"><b>Namgyewŏn</b><small><span class="yom-hanja">南溪院</span> · sūtra deposit</small></div></div>
+    <figure class="yom-figure yom-infographie-reduced">
+      <img src="/assets/img/yom-sungik/yom-sungik-infographie-3-en.webp" alt="Schematic map of Yŏm Sŭngik’s movement from Kaegyŏng to Dadu and of court and Buddhist networks in the Yuan sphere." loading="lazy">
+      <figcaption><strong>From Kaegyŏng to Dadu.</strong> Schematic reconstruction of the journey to Dadu and the court, Buddhist, and textual networks associated with the stay in the Yuan sphere.</figcaption>
+    </figure>
   </div></section>
 
   <section class="yom-section" id="dernieres-annees"><div class="yom-shell">
