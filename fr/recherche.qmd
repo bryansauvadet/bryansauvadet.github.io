@@ -71,8 +71,8 @@ format:
       <div class="axis-copy">
         <div class="axis-number">AXE 02</div>
         <h3>Images, rituels et performativité</h3>
-        <p>L’image bouddhique est étudiée comme un objet activé par des pratiques et des dispositifs rituels. Les peintures de la Douce Rosée 甘露幀 constituent un terrain privilégié pour analyser apparition, fonction et performativité des images.</p>
-        <div class="axis-tags"><span>甘露幀</span><span>Rituels</span><span>Performativité</span></div>
+        <p>L’image bouddhique est étudiée comme un objet activé par des pratiques et des dispositifs rituels. Les peintures de la Douce Rosée 甘露圖 constituent un terrain privilégié pour analyser apparition, fonction et performativité des images.</p>
+        <div class="axis-tags"><span>甘露圖</span><span>Rituels</span><span>Performativité</span></div>
         <small class="image-credit-line">Détail d’un kamnodo, réplique d’une œuvre du XVIIIe siècle · Daderot / Wikimedia Commons · CC0.</small>
       </div>
     </article>
@@ -185,7 +185,7 @@ format:
     </article>
     <article class="project-card">
       <div class="status">Recherche en cours</div>
-      <h3>Douce Rosée 甘露幀</h3>
+      <h3>Douce Rosée 甘露圖</h3>
       <p>Analyser l’émergence des peintures de la Douce Rosée à partir des rituels, des usages des images et de leurs dispositifs performatifs.</p>
     </article>
   </div>
