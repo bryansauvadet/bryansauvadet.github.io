@@ -1,0 +1,198 @@
+---
+title: "[[TITRE DU LIVRE]]"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+<!--
+GABARIT CANONIQUE — FICHE DE LECTURE / COMPTE RENDU D'OUVRAGE
+
+Règle éditoriale :
+Cette page ne résume pas simplement un livre. Elle explique pourquoi l'ouvrage mérite
+d'être lu pour comprendre un champ de recherche : histoire de l'art bouddhique,
+bouddhisme, histoire de l'Asie, archéologie, architecture, histoire religieuse, etc.
+
+Toutes les sections ci-dessous sont obligatoires et restent dans cet ordre.
+Dupliquer ce fichier pour chaque nouvel ouvrage puis remplacer les champs [[...]].
+-->
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
+
+<main class="book-report" id="haut">
+  <header class="book-report__hero">
+    <div class="book-report__shell book-report__hero-grid">
+      <figure class="book-report__cover">
+        <img src="[[URL_COUVERTURE]]" alt="Couverture de [[TITRE DU LIVRE]]" loading="eager" decoding="async">
+      </figure>
+
+      <div>
+        <div class="book-report__eyebrow">Compte rendu d’ouvrage · [[DOMAINE PRINCIPAL]]</div>
+        <h1>[[TITRE DU LIVRE]]</h1>
+        <p class="book-report__author">[[AUTEUR]]</p>
+
+        <dl class="book-report__meta" aria-label="Référence bibliographique">
+          <div><dt>Date</dt><dd>[[ANNÉE]]</dd></div>
+          <div><dt>Éditeur</dt><dd>[[ÉDITEUR]]</dd></div>
+          <div><dt>Langue</dt><dd>[[LANGUE]]</dd></div>
+          <div><dt>Domaine</dt><dd>[[DOMAINE PRINCIPAL]]</dd></div>
+          <div><dt>Type</dt><dd>[[MONOGRAPHIE / ESSAI / CATALOGUE / AUTRE]]</dd></div>
+          <div><dt>Référence</dt><dd>[[RÉFÉRENCE BIBLIOGRAPHIQUE COURTE]]</dd></div>
+        </dl>
+
+        <div class="book-report__domain">
+          <strong>Question centrale :</strong> [[QUESTION À LAQUELLE CE LIVRE AIDE À RÉPONDRE]]
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="book-report__nav-wrap">
+    <nav class="book-report__shell book-report__nav" aria-label="Sommaire de la fiche">
+      <a href="#pourquoi-lire">Pourquoi le lire ?</a>
+      <a href="#comprendre">Ce qu’il permet de comprendre</a>
+      <a href="#apports">Apports au domaine</a>
+      <a href="#reperes">Repères à retenir</a>
+      <a href="#these">Thèse de l’auteur</a>
+      <a href="#changement">Ce que cela change</a>
+      <a href="#limites">Limites</a>
+      <a href="#public">Pour qui ?</a>
+      <a href="#verdict">Verdict</a>
+    </nav>
+  </div>
+
+  <section class="book-report__section" id="pourquoi-lire">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">01 · Essentiel</div>
+        <h2>Pourquoi lire ce livre ?</h2>
+      </div>
+      <div class="book-report__content">
+        <p>[[5 À 10 LIGNES. EXPLIQUER LA VALEUR RÉELLE DU LIVRE, CE QUI LE DISTINGUE ET POURQUOI IL COMPTE DANS LE DOMAINE. NE PAS RÉSUMER LA TABLE DES MATIÈRES.]]</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="comprendre">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">02 · Connaissances</div>
+        <h2>Ce que le livre permet de comprendre</h2>
+      </div>
+      <div class="book-report__content">
+        <ul class="book-report__keypoints">
+          <li><strong>[[IDÉE FORTE 1]]</strong>[[EXPLICATION CONCISE]]</li>
+          <li><strong>[[IDÉE FORTE 2]]</strong>[[EXPLICATION CONCISE]]</li>
+          <li><strong>[[IDÉE FORTE 3]]</strong>[[EXPLICATION CONCISE]]</li>
+          <li><strong>[[IDÉE FORTE 4]]</strong>[[EXPLICATION CONCISE]]</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="apports">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">03 · Mise en perspective</div>
+        <h2>Apports pour l’histoire de l’art, le bouddhisme et l’histoire de l’Asie</h2>
+      </div>
+      <div class="book-report__content">
+        <p>[[RELIER EXPLICITEMENT LE LIVRE AUX PROBLÉMATIQUES PLUS LARGES : FORMES ET TECHNIQUES, ICONOGRAPHIE, HISTOIRE RELIGIEUSE, ÉCHANGES CULTURELS, POUVOIR, SOCIÉTÉ, ESPACES ET CIRCULATIONS.]]</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="reperes">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">04 · Repères</div>
+        <h2>Sites, monuments, œuvres et personnages à retenir</h2>
+      </div>
+      <div class="book-report__content">
+        <ul class="book-report__entities">
+          <li><strong>[[NOM 1]]</strong><span>[[POURQUOI CE REPÈRE COMPTE DANS LE LIVRE]]</span></li>
+          <li><strong>[[NOM 2]]</strong><span>[[POURQUOI CE REPÈRE COMPTE DANS LE LIVRE]]</span></li>
+          <li><strong>[[NOM 3]]</strong><span>[[POURQUOI CE REPÈRE COMPTE DANS LE LIVRE]]</span></li>
+          <li><strong>[[NOM 4]]</strong><span>[[POURQUOI CE REPÈRE COMPTE DANS LE LIVRE]]</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="these">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">05 · Argument</div>
+        <h2>Thèse ou idée directrice de l’auteur</h2>
+      </div>
+      <div class="book-report__content">
+        <p class="book-report__thesis">[[FORMULER EN TERMES CLAIRS CE QUE L’AUTEUR CHERCHE À DÉMONTRER, ET NON SIMPLEMENT LE SUJET DU LIVRE.]]</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="changement">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">06 · Portée</div>
+        <h2>Ce que ce livre change dans notre compréhension du sujet</h2>
+      </div>
+      <div class="book-report__content">
+        <p>[[RÉPONDRE DIRECTEMENT : « APRÈS AVOIR LU CE LIVRE, QU’EST-CE QUE JE COMPRENDS QUE JE NE COMPRENAIS PAS AVANT ? » DISTINGUER LE VRAI APPORT DU LIVRE DES INFORMATIONS SIMPLEMENT UTILES.]]</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="limites">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">07 · Lecture critique</div>
+        <h2>Limites du livre</h2>
+      </div>
+      <div class="book-report__content">
+        <div class="book-report__limits">
+          [[IDENTIFIER LES LIMITES RÉELLES : DATATION DE L’OUVRAGE, CORPUS, APPROCHE NATIONALE, SOURCES, TERMINOLOGIE, MÉTHODE, DÉCOUVERTES POSTÉRIEURES OU ANGLES MORTS. ÉVITER LES CRITIQUES GÉNÉRIQUES.]]
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="public">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">08 · Public</div>
+        <h2>Pour qui est ce livre ?</h2>
+      </div>
+      <div class="book-report__content">
+        <div class="book-report__audience">
+          <div><strong>Débutant</strong><span>[[PERTINENCE ET PRÉREQUIS]]</span></div>
+          <div><strong>Étudiant</strong><span>[[PERTINENCE ET USAGE]]</span></div>
+          <div><strong>Chercheur</strong><span>[[PERTINENCE ET USAGE]]</span></div>
+          <div><strong>Amateur éclairé</strong><span>[[PERTINENCE ET PRÉREQUIS]]</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="book-report__section" id="verdict">
+    <div class="book-report__shell">
+      <div class="book-report__section-head">
+        <div class="book-report__number">09 · Conclusion</div>
+        <h2>Verdict</h2>
+      </div>
+      <div class="book-report__content">
+        <div class="book-report__verdict">
+          <div class="book-report__verdict-label">Niveau de recommandation</div>
+          <strong>[[À LIRE ABSOLUMENT / TRÈS UTILE / SPÉCIALISÉ / À CONSULTER PONCTUELLEMENT]]</strong>
+          <p>[[3 À 5 LIGNES MAXIMUM. JUSTIFIER LE VERDICT PAR L’APPORT INTELLECTUEL DU LIVRE, PAS PAR LE PLAISIR DE LECTURE.]]</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="book-report__shell book-report__backtop"><a href="#haut">↑ Retour en haut</a></div>
+</main>
+```
