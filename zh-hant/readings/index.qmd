@@ -3,8 +3,8 @@ title: "我的閱讀"
 lang: zh-Hant
 format:
   html:
-    include-before-body: ../_includes/zh-hant-header.html
-    include-after-body: ../_includes/zh-hant-footer.html
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
 ---
 <section class="page-hero"><h1>我的閱讀</h1></section>
 <main class="content"><div class="content-inner"><p class="lead">精選值得閱讀的書籍，以更深入理解佛教藝術史、佛教、亞洲史、考古學與建築。</p><div class="card"><h3>閱讀札記</h3><p>每篇書評首先回答兩個問題：為什麼值得讀這本書，以及它對理解其所屬領域真正帶來了什麼？</p></div></div></main>
