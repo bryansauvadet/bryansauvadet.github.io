@@ -59,7 +59,7 @@ format:
   </div></section>
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
-    <div class="yom-section-head"><div class="yom-kicker">02 · Interactive chronology</div><h2>A career between court, monasteries, and Buddhist commissions</h2><p>Filter the events to isolate the different dimensions of Yŏm Sŭngik’s trajectory.</p></div>
+    <div class="yom-section-head"><div class="yom-kicker">02 · Interactive chronology</div><h2>A career between court, monasteries, and Buddhist commissions</h2></div>
     <figure class="yom-map-insert yom-map-insert--compact">
       <img src="/assets/img/yom-sungik/map-parcours-1277-1283-en.jpg" alt="Map of Yŏm Sŭngik’s religious and administrative movements in Kaegyŏng between 1277 and 1283." loading="lazy">
       <figcaption><strong>Yŏm Sŭngik’s religious and administrative routes, 1277–1283.</strong> The map brings together the principal movements that structure the first part of his career: Ch’ŏnhyo, Hyŏnhwa, the royal scriptorium, and the 1283 restoration circuit.</figcaption>
