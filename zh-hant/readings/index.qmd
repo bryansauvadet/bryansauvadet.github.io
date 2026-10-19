@@ -1,7 +1,7 @@
 ---
 title: "我的閱讀"
 lang: zh-Hant
-image: /assets/images/mes-lectures-vignette.webp
+image: /assets/images/mes-lectures-vignette.jpg
 format:
   html:
     include-before-body: _includes/zh-hant-header.html
