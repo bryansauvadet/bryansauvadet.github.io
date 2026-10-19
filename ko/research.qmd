@@ -71,8 +71,8 @@ format:
       <div class="axis-copy">
         <div class="axis-number">연구축 02</div>
         <h3>이미지, 의례와 수행성</h3>
-        <p>불교 이미지를 의례 실천과 장치를 통해 활성화되는 대상으로 연구한다. 감로도 甘露幀는 이미지의 출현, 기능, 수행성을 분석하기 위한 핵심 연구 대상이다.</p>
-        <div class="axis-tags"><span>甘露幀</span><span>의례</span><span>수행성</span></div>
+        <p>불교 이미지를 의례 실천과 장치를 통해 활성화되는 대상으로 연구한다. 감로도 甘露圖는 이미지의 출현, 기능, 수행성을 분석하기 위한 핵심 연구 대상이다.</p>
+        <div class="axis-tags"><span>甘露圖</span><span>의례</span><span>수행성</span></div>
         <small class="image-credit-line">감로도 세부, 18세기 작품의 복제본 · Daderot / Wikimedia Commons · CC0.</small>
       </div>
     </article>
@@ -185,7 +185,7 @@ format:
     </article>
     <article class="project-card">
       <div class="status">연구 진행 중</div>
-      <h3>감로도 甘露幀</h3>
+      <h3>감로도 甘露圖</h3>
       <p>의례, 이미지의 사용, 수행적 장치를 통해 감로도의 출현을 분석한다.</p>
     </article>
   </div>
