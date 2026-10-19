@@ -36,7 +36,7 @@ format:
   </div></section>
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
-    <div class="yom-section-head"><div class="yom-kicker">02 · インタラクティブ年表</div><h2>宮廷・寺院・仏教美術発願を横断する経歴</h2><p>出来事を絞り込み、廉承益の生涯における各側面を個別に確認できる。</p></div>
+    <div class="yom-section-head"><div class="yom-kicker">02 · インタラクティブ年表</div><h2>宮廷・寺院・仏教美術発願を横断する経歴</h2></div>
     <figure class="yom-map-insert yom-map-insert--compact">
       <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277年から1283年にかけての開京における廉承益の宗教的・行政的移動を示す地図" loading="lazy">
       <figcaption><strong>廉承益の宗教的・行政的移動、1277–1283年。</strong> 天孝寺、玄化寺、王室写経所、そして1283年の石塔修復巡回という、前半生を形づくる主要な移動を一枚の地図にまとめている。</figcaption>
