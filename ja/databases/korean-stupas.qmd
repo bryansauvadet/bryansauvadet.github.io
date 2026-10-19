@@ -26,7 +26,7 @@ format:
 
     <section class="stupa-text-section">
       <h2>研究範囲</h2>
-      <p>資料の第一層は<strong>石塔（석탑）</strong>を中心とし、<strong>新羅・百済・高句麗・統一新羅・高麗・朝鮮</strong>を明確に区別する。建築的機能の異なる遺構を混同しないため、<strong>僧塔・浮屠（승탑 / 부도）</strong>と<strong>舎利塔（사리탑）</strong>は別カテゴリーとして扱う。<strong>高句麗</strong>については、現存しない石塔をこの層に便宜的に加えず、主として木塔に関わる遺構を別個の考古学的資料群として扱う。</p>
+      <p>資料の第一層は<strong>石塔（석탑）</strong>を中心とし、<strong>新羅・百済・高句麗・大新羅・高麗・朝鮮</strong>を明確に区別する。建築的機能の異なる遺構を混同しないため、<strong>僧塔・浮屠（승탑 / 부도）</strong>と<strong>舎利塔（사리탑）</strong>は別カテゴリーとして扱う。<strong>高句麗</strong>については、現存しない石塔をこの層に便宜的に加えず、主として木塔に関わる遺構を別個の考古学的資料群として扱う。</p>
     </section>
 
     <section class="stupa-text-section">
