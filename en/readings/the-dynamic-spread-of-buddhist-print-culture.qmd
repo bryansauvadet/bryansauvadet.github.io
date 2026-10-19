@@ -1,0 +1,97 @@
+---
+title: "The Dynamic Spread of Buddhist Print Culture"
+lang: en
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
+
+<main class="book-report" id="haut">
+  <header class="book-report__hero">
+    <div class="book-report__shell book-report__hero-grid">
+      <figure class="book-report__cover">
+        <img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Cover of The Dynamic Spread of Buddhist Print Culture by Shih-shan Susan Huang" loading="eager" decoding="async" referrerpolicy="no-referrer">
+      </figure>
+      <div>
+        <div class="book-report__eyebrow">Book review · Buddhist art history · Print culture · Asian history</div>
+        <h1>The Dynamic Spread of Buddhist Print Culture</h1>
+        <p class="book-report__author">Shih-shan Susan Huang</p>
+        <dl class="book-report__meta" aria-label="Bibliographic reference">
+          <div><dt>Date</dt><dd>2024</dd></div>
+          <div><dt>Publisher</dt><dd>Brill · Leiden / Boston</dd></div>
+          <div><dt>Language</dt><dd>English</dd></div>
+          <div><dt>Field</dt><dd>Buddhist art history · print culture · trans-Asian networks</dd></div>
+          <div><dt>Type</dt><dd>Scholarly monograph</dd></div>
+          <div><dt>Reference</dt><dd>ISBN 978-90-04-70001-7 · DOI 10.1163/9789004700017</dd></div>
+        </dl>
+        <div class="book-report__domain"><strong>Central question:</strong> How were Buddhist printed images and texts produced, reproduced, transported and transformed between China and its neighbors, chiefly between 850 and 1450?</div>
+      </div>
+    </div>
+  </header>
+
+  <div class="book-report__nav-wrap">
+    <nav class="book-report__shell book-report__nav" aria-label="Review contents">
+      <a href="#pourquoi-lire">Why read it?</a>
+      <a href="#comprendre">What it helps us understand</a>
+      <a href="#apports">Contributions</a>
+      <a href="#reperes">Key references</a>
+      <a href="#these">Author’s thesis</a>
+      <a href="#changement">What it changes</a>
+      <a href="#limites">Limits</a>
+      <a href="#public">Who is it for?</a>
+      <a href="#verdict">Verdict</a>
+    </nav>
+  </div>
+
+  <section class="book-report__section" id="pourquoi-lire"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">01 · Essential</div><h2>Why read this book?</h2></div>
+    <div class="book-report__content"><p>This is a major study for understanding Buddhism not only through doctrine and monuments, but through the material circulation of images and books. Huang treats prints as “objects on the move”: made in one place, funded by courts, monasteries or lay donors, carried through commercial, religious and political networks, then copied, adapted and sometimes repurposed far from their point of origin.</p><p>For Buddhist art history, the shift is fundamental: attention moves from unique masterpieces to anonymous reproducible images. Prints can preserve visual patterns that surviving paintings can no longer document adequately. For Asian history, the book presents medieval and Mongol-period China as deeply connected with Khitans, Jurchens, Tanguts, Tibetans, Uighurs, Koreans and Japanese, and in some cases with Islamic artistic environments farther west.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="comprendre"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">02 · Knowledge</div><h2>What the book helps us understand</h2></div>
+    <div class="book-report__content"><ul class="book-report__keypoints"><li><strong>Buddhist printing was not simply a book industry.</strong>Producing many copies could itself generate religious merit. Some printed texts were sealed inside pagodas or statues as “text-relics” and were never intended for ordinary reading.</li><li><strong>“Buddhist Book Roads” connect objects, people and institutions.</strong>Hangzhou and Beijing emerge as major hubs linked to monasteries, markets, overland and maritime routes, court networks and, under the Yuan, the Mongol postal-relay system.</li><li><strong>Images can travel differently from texts.</strong>Because a visual motif is not bound to one language, compositions and modular designs can be copied, reassembled and transformed across media, regions and religious settings.</li><li><strong>Printed Buddhism reveals a multi-centered Asia.</strong>Khitan Liao, Jurchen Jin, Tangut Xi Xia, Mongol, Tibetan and Uighur actors are not peripheral: they are crucial producers, patrons, users and transmitters of Buddhist print culture.</li></ul></div>
+  </div></section>
+
+  <section class="book-report__section" id="apports"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">03 · Perspective</div><h2>Contributions to art history, Buddhism and Asian history</h2></div>
+    <div class="book-report__content"><p><strong>For art history</strong>, Huang makes copying, standardization and modularity analytically productive. Instead of asking only what is “original,” she asks what was copied most often and how forms changed as they circulated. Print thereby becomes a major source for reconstructing lost visual traditions and for studying connections among woodblock printing, painting, textiles, sculpture, rubbings and other media.</p><p><strong>For Buddhist studies</strong>, the book restores print to religious practice: merit-making, donation, protection, healing, family commemoration, ritual deposition, recitation and patronage. This complicates easy oppositions between canonical and popular, clergy and laity, elite religion and everyday belief.</p><p><strong>For Asian history</strong>, the study pushes beyond a narrowly dynastic or Sinocentric narrative. Liao–Jin–Yuan and Xi Xia–Yuan continuities, circulation toward Tibet, Turfan, Korea and Japan, and the role of Mongol infrastructures show how people and objects routinely crossed political borders.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="reperes"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">04 · Key references</div><h2>Sites, monuments, works and people to remember</h2></div>
+    <div class="book-report__content"><ul class="book-report__entities"><li><strong>Hangzhou</strong><span>A major Southern Song and Yuan production center; its Lotus Sutra frontispieces and illustrated canons became models transmitted over great distances.</span></li><li><strong>Yanjing / Dadu (Beijing)</strong><span>A major Liao and Yuan hub linked to court temples, Buddhist publishing and the extensive Mongol imperial relay system.</span></li><li><strong>Khara Khoto</strong><span>A crucial site for Xi Xia printed culture; finds document both Tangut production and the arrival of books or visual models from inner China.</span></li><li><strong>Turfan / Qocho</strong><span>Uighur fragments found there show that books and images produced in Beijing or Hangzhou could reach eastern Central Asia.</span></li><li><strong>Fogong Pagoda, Yingxian</strong><span>A key monument for Liao printing: deposited texts, frontispieces and temple seals document production, use and preservation.</span></li><li><strong>Lotus Sutra</strong><span>The book’s central visual corpus. Its frontispieces provide some of the strongest examples of motifs spreading to Xi Xia, Korea, Japan and beyond.</span></li><li><strong>Puning and Qisha Canons</strong><span>Two major Yuan printing projects in Hangzhou whose frontispieces reveal the interaction of Chinese, Tangut and Himalayan visual models.</span></li><li><strong>Xi Xia Emperor Renzong and Empress Luo</strong><span>Their large-scale late-twelfth-century patronage demonstrates the combined role of court sponsorship, workshops and multilingual Buddhist communities.</span></li></ul></div>
+  </div></section>
+
+  <section class="book-report__section" id="these"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">05 · Argument</div><h2>The author’s thesis</h2></div>
+    <div class="book-report__content"><p class="book-report__thesis">The spread of Buddhist print culture cannot be explained by printing technology alone or by the growth of a book market. Buddhist texts and images must be studied as mobile, reproducible and transmedial objects moving through overlapping networks — “Buddhist Book Roads” — involving temples, donors, artisans, imperial courts, diasporic communities, trade routes and political infrastructures. Reproduction did not merely carry images; it transformed them and the cultural settings in which they were received.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="changement"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">06 · Significance</div><h2>What this book changes in our understanding</h2></div>
+    <div class="book-report__content"><p>After reading Huang, the history of Buddhist printing no longer looks like a straightforward story of technological progress. High output does not necessarily mean a larger readership: printing might serve to produce merit, consecrate a pagoda, fill a statue or ritually benefit the dead. The book also changes the status of copying. Repetition is not simply evidence of weak invention; it becomes visible evidence of transmission.</p><p>The study also changes the geographical scale. Liao, Jin, Xi Xia and Yuan are not isolated chronological boxes, and China, Tibet, Central Asia, Korea and Japan are not independent cultural containers. Books, patrons, artisans, institutions and visual motifs reveal continuities that cross dynastic, linguistic and religious boundaries.</p></div>
+  </div></section>
+
+  <section class="book-report__section" id="limites"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">07 · Critical reading</div><h2>Limits of the book</h2></div>
+    <div class="book-report__content"><div class="book-report__limits">The central limitation is one the author repeatedly acknowledges: it is often possible to identify a place of production and a place of discovery without reconstructing the exact itinerary between them. Some “roads” are therefore network hypotheses built from material distribution and visual comparison. Archaeological survival also favors the dry northern and northwestern regions. Finally, the language of visual “memes” and modular designs is a powerful heuristic for repetition, but formal similarity should not automatically be treated as documentary proof of direct transmission. These limits do not undermine the project; they mark where its maps and comparisons function as historical models to be tested.</div></div>
+  </div></section>
+
+  <section class="book-report__section" id="public"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">08 · Audience</div><h2>Who is this book for?</h2></div>
+    <div class="book-report__content"><div class="book-report__audience"><div><strong>Beginner</strong><span>Not an introductory textbook. Best read selectively after acquiring basic knowledge of Buddhism and medieval Chinese history.</span></div><div><strong>Student</strong><span>Excellent for learning how to frame transregional questions, use images as historical sources and combine art history, religion and book history.</span></div><div><strong>Researcher</strong><span>A reference work because of the scale of its corpus, maps, visual documentation and hypotheses about networks of circulation.</span></div><div><strong>Informed reader</strong><span>Highly rewarding for readers interested in Silk Roads, Buddhist art or book history, but its length and density favor selective reading.</span></div></div></div>
+  </div></section>
+
+  <section class="book-report__section" id="verdict"><div class="book-report__shell">
+    <div class="book-report__section-head"><div class="book-report__number">09 · Conclusion</div><h2>Verdict</h2></div>
+    <div class="book-report__content"><div class="book-report__verdict"><div class="book-report__verdict-label">Recommendation</div><strong>Essential reading — for Buddhist art history and Asian circulations</strong><p>This book genuinely changes how Buddhist printed images can be studied: not as secondary reproductions, but as engines of cultural circulation. Its strength lies in bringing art history, religious practice, book history and network geography into one analytical framework. For research on Buddhism in East Asia from the late Tang through the Yuan, it is a foundational reference.</p></div></div>
+  </div></section>
+
+  <div class="book-report__shell book-report__backtop"><a href="#haut">↑ Back to top</a></div>
+</main>
+```
