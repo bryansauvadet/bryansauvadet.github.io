@@ -8,7 +8,10 @@ format:
 ---
 
 ```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/assets/js/buddhist-architecture-map.js" defer></script>
 <script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 
 <main class="hab-page">
@@ -74,6 +77,26 @@ format:
           <li><a href="#viii-1">From stupa to pagoda</a></li><li><a href="#viii-2">From relic to image: the shifting centre of the monastery</a></li><li><a href="#viii-3">Materials shape regional traditions</a></li><li><a href="#viii-4">Comparing monastic plans</a></li><li><a href="#viii-5">Architecture and power</a></li><li><a href="#viii-6">Architecture and landscape</a></li><li><a href="#viii-7">Five ways of monumentalising the Buddha’s presence</a></li>
         </ol></div>
       </nav>
+    </div>
+  </section>
+  <section class="hab-map-section" id="sites-map" aria-labelledby="hab-sites-map-title">
+    <div class="hab-shell">
+      <div class="hab-map-head">
+        <div class="hab-section-head">
+          <div class="hab-kicker" data-hab-map-copy="kicker">Dossier geography</div>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Interactive map of cited sites</h2>
+          <p data-hab-map-copy="intro">Explore the monuments, monasteries, archaeological sites, caves, and sacred landscapes mentioned in the dossier. Monuments within the same precinct are grouped under a single point.</p>
+        </div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">46 sites</div>
+      </div>
+      <div class="hab-map-filters" aria-label="Map filters">
+        <label><span data-hab-map-copy="search">Search</span><input id="hab-map-search" type="search" placeholder="Monument, city, region…"></label>
+        <label><span data-hab-map-copy="country">Country</span><select id="hab-map-country"><option value="">All countries</option></select></label>
+        <label><span data-hab-map-copy="type">Site type</span><select id="hab-map-type"><option value="">All site types</option></select></label>
+        <button id="hab-map-reset" type="button" data-hab-map-copy="reset">Reset</button>
+      </div>
+      <div id="buddhist-architecture-sites-map" class="hab-sites-map" aria-labelledby="hab-sites-map-title"></div>
+      <div id="buddhist-architecture-sites-legend" class="hab-map-legend" aria-label="Countries shown"></div>
     </div>
   </section>
 </main>
