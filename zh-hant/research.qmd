@@ -66,14 +66,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="甘露幀局部" loading="lazy">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="甘露圖局部" loading="lazy">
       </div>
       <div class="axis-copy">
         <div class="axis-number">研究軸 02</div>
         <h3>圖像、儀式與施為性</h3>
-        <p>將佛教圖像視為透過儀式實踐與裝置而被啟動的對象。甘露幀是分析圖像的出現、功能與施為性的核心研究材料。</p>
-        <div class="axis-tags"><span>甘露幀</span><span>儀式</span><span>施為性</span></div>
-        <small class="image-credit-line">甘露幀局部，18世紀作品複製品 · Daderot / Wikimedia Commons · CC0.</small>
+        <p>將佛教圖像視為透過儀式實踐與裝置而被啟動的對象。甘露圖是分析圖像的出現、功能與施為性的核心研究材料。</p>
+        <div class="axis-tags"><span>甘露圖</span><span>儀式</span><span>施為性</span></div>
+        <small class="image-credit-line">甘露圖局部，18世紀作品複製品 · Daderot / Wikimedia Commons · CC0.</small>
       </div>
     </article>
 
@@ -185,8 +185,8 @@ format:
     </article>
     <article class="project-card">
       <div class="status">研究進行中</div>
-      <h3>甘露幀</h3>
-      <p>從儀式、圖像使用方式與施為性裝置分析甘露幀的形成。</p>
+      <h3>甘露圖</h3>
+      <p>從儀式、圖像使用方式與施為性裝置分析甘露圖的形成。</p>
     </article>
   </div>
 </section>
