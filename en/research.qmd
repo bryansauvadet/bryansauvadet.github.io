@@ -53,14 +53,14 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-3" alt="Bhaisajyaguru Buddha Triad, Joseon royal-court Buddhist painting, 1565" loading="eager" fetchpriority="high" style="object-position:center 34%;">
+        <img src="/assets/images/koryo-choson-court-buddhist-art-20261019.jpg?v=20261019-3" alt="Bhaisajyaguru Buddha Triad, Chosŏn royal-court Buddhist painting, 1565" loading="eager" fetchpriority="high" style="object-position:center 34%;">
       </div>
       <div class="axis-copy">
         <div class="axis-number">THEME 01</div>
-        <h3>Court Buddhist art and the Goryeo–Joseon transition</h3>
-        <p>Artistic continuities beyond dynastic rupture, royal patrons, the role of court women, inscriptions, religious policies, and image production from late Goryeo to early Joseon.</p>
+        <h3>Court Buddhist art and the Koryŏ–Chosŏn transition</h3>
+        <p>Artistic continuities beyond dynastic rupture, royal patrons, the role of court women, inscriptions, religious policies, and image production from late Koryŏ to early Chosŏn.</p>
         <div class="axis-tags"><span>Royal court</span><span>Patrons</span><span>Inscriptions</span></div>
-        <small class="image-credit-line">Bhaisajyaguru Buddha Triad · Joseon, 1565 · National Museum of Korea · KOGL Type 1 (attribution).</small>
+        <small class="image-credit-line">Bhaisajyaguru Buddha Triad · Chosŏn, 1565 · National Museum of Korea · KOGL Type 1 (attribution).</small>
 </div>
     </article>
 
@@ -95,12 +95,12 @@ format:
 
     <article class="axis-card">
       <div class="axis-visual axis-stupa">
-        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Dabotap at Bulguksa Monastery, Gyeongju" loading="lazy">
+        <img src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap at Pulguksa Monastery, Kyŏngju" loading="lazy">
       </div>
       <div class="axis-copy">
         <div class="axis-number">THEME 04</div>
         <h3>Architecture, monasteries, and stupas</h3>
-        <p>The evolution and persistence of architectural forms, the siting of monasteries, and the history of stupas. The corpora distinguish Silla, Baekje, Goguryeo, Unified Silla, Goryeo, and Joseon, as well as the different functions of monuments.</p>
+        <p>The evolution and persistence of architectural forms, the siting of monasteries, and the history of stupas. The corpora distinguish Silla, Paekche, Koguryŏ, Grand Silla, Koryŏ, and Chosŏn, as well as the different functions of monuments.</p>
         <div class="axis-tags"><span>Stupas</span><span>Monasteries</span><span>Longue durée</span></div>
       </div>
     </article>
@@ -114,20 +114,20 @@ format:
         <h3>Iconography, death, and salvation</h3>
         <p>Study of the Ten Kings 十王, the Buddhist afterlife, Avalokiteśvara, and processes of local adaptation of iconographic models. This research notably connects Korean and Vietnamese traditions.</p>
         <div class="axis-tags"><span>十王</span><span>Afterlife</span><span>Korea–Vietnam</span></div>
-        <small class="image-credit-line">Six of the Ten Kings of Hell · Joseon, 1798 · LACMA / Wikimedia Commons · public domain.</small>
+        <small class="image-credit-line">Six of the Ten Kings of Hell · Chosŏn, 1798 · LACMA / Wikimedia Commons · public domain.</small>
       </div>
     </article>
 
     <article class="axis-card">
       <div class="axis-visual">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Water-Moon Avalokiteśvara, Goryeo painting in the Freer Gallery of Art" loading="lazy">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Water-Moon Avalokiteśvara, Koryŏ painting in the Freer Gallery of Art" loading="lazy">
       </div>
       <div class="axis-copy">
         <div class="axis-number">THEME 06</div>
         <h3>Sources, materiality, and collecting history</h3>
         <p>Joint analysis of works, inscriptions, ritual texts, and material data; study of the rediscovery, reattribution, and provenance of Korean works preserved in Korea, Japan, Europe, and the United States.</p>
         <div class="axis-tags"><span>Materiality</span><span>Museums</span><span>Attributions</span></div>
-        <small class="image-credit-line">Water-Moon Avalokiteśvara · Goryeo, fourteenth century · Freer Gallery of Art / Wikimedia Commons · public domain.</small>
+        <small class="image-credit-line">Water-Moon Avalokiteśvara · Koryŏ, fourteenth century · Freer Gallery of Art / Wikimedia Commons · public domain.</small>
       </div>
     </article>
 
@@ -170,7 +170,7 @@ format:
   <div class="projects-grid">
     <article class="project-card">
       <div class="status">Article in preparation</div>
-      <h3>Long Goryeo and stone stupas</h3>
+      <h3>Long Koryŏ and stone stupas</h3>
       <p>Reconsidering dynastic periodization through architectural continuities and the longue durée of monumental forms.</p>
     </article>
     <article class="project-card">
@@ -181,7 +181,7 @@ format:
     <article class="project-card">
       <div class="status">Research in progress</div>
       <h3>Circulation between Hangzhou — Dadu — Gaegyeong</h3>
-      <p>Reconstructing networks of people, objects, and artistic models linking Song and Yuan China with Goryeo.</p>
+      <p>Reconstructing networks of people, objects, and artistic models linking Song and Yuan China with Koryŏ.</p>
     </article>
     <article class="project-card">
       <div class="status">Research in progress</div>
