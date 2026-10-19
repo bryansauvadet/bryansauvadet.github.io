@@ -84,7 +84,7 @@ format:
       <div class="yom-section-head">
         <div class="yom-kicker">02 · Chronologie interactive</div>
         <h2>Une carrière entre cour, monastères et commandes bouddhiques</h2>
-        <p>Filtrez les événements pour isoler les différentes dimensions de la trajectoire de Yŏm Sŭngik.</p>
+        
       </div>
 
       <figure class="yom-map-insert yom-map-insert--compact">
