@@ -8,7 +8,7 @@ format:
 ---
 
 ```{=html}
-<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">\n<script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 <main class="hab-page">
 <section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy">
 <div class="hab-kicker">시각 자료 · 인도 · 중국 · 한국 · 일본 · 베트남</div>
