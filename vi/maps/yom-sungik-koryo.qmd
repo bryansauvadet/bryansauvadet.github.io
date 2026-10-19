@@ -36,7 +36,7 @@ format:
   </div></section>
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
-    <div class="yom-section-head"><div class="yom-kicker">02 · Niên biểu tương tác</div><h2>Một sự nghiệp giữa triều đình, tu viện và các đơn đặt làm Phật giáo</h2><p>Lọc sự kiện để quan sát riêng từng chiều cạnh trong hành trình của Yŏm Sŭngik.</p></div>
+    <div class="yom-section-head"><div class="yom-kicker">02 · Niên biểu tương tác</div><h2>Một sự nghiệp giữa triều đình, tu viện và các đơn đặt làm Phật giáo</h2></div>
     <figure class="yom-map-insert yom-map-insert--compact">
       <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="Bản đồ các hành trình tôn giáo và hành chính của Yŏm Sŭngik tại Kaegyŏng từ năm 1277 đến 1283." loading="lazy">
       <figcaption><strong>Các hành trình tôn giáo và hành chính của Yŏm Sŭngik, 1277–1283.</strong> Bản đồ tập hợp những di chuyển chính định hình giai đoạn đầu sự nghiệp của ông: Ch’ŏnhyo, Hyŏnhwa, phòng chép kinh hoàng gia và chuyến thị sát tu bổ năm 1283.</figcaption>
