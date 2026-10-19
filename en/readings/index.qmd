@@ -3,8 +3,8 @@ title: "My Readings"
 lang: en
 format:
   html:
-    include-before-body: ../_includes/en-header.html
-    include-after-body: ../_includes/en-footer.html
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
 ---
 <section class="page-hero"><h1>My Readings</h1></section>
 <main class="content"><div class="content-inner"><p class="lead">A selection of books worth reading to better understand Buddhist art history, Buddhism, Asian history, archaeology and architecture.</p><div class="card"><h3>Reading notes</h3><p>Each review begins with two questions: why is this book worth reading, and what does it genuinely contribute to understanding its field?</p></div></div></main>
