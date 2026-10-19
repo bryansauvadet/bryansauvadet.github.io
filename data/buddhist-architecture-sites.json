@@ -1,0 +1,860 @@
+{
+  "version": 1,
+  "generated": "2026-10-19",
+  "count": 46,
+  "items": [
+    {
+      "id": "grdhrakuta",
+      "country": "IN",
+      "type": "sacred_landscape",
+      "lat": 25.00167,
+      "lng": 85.44639,
+      "name": "Mont Gṛdhrakūṭa",
+      "native": "गृध्रकूट",
+      "place": "Rājagṛha / Rajgir · Bihar",
+      "related": [
+        "Rājagṛha",
+        "Pic des Vautours"
+      ],
+      "aliases": [
+        "Gridhrakuta",
+        "Gijjhakuta",
+        "Vulture Peak",
+        "Rajgir"
+      ],
+      "anchor": "i-1"
+    },
+    {
+      "id": "venuvana",
+      "country": "IN",
+      "type": "monastery",
+      "lat": 25.016646,
+      "lng": 85.418012,
+      "name": "Bambouseraie / Veṇuvana",
+      "native": "वेणुवन",
+      "place": "Rājagṛha / Rajgir · Bihar",
+      "related": [
+        "Bambouseraie",
+        "Veṇuvana"
+      ],
+      "aliases": [
+        "Venuvana",
+        "Bamboo Grove",
+        "Rajgir"
+      ],
+      "anchor": "i-3"
+    },
+    {
+      "id": "jetavana",
+      "country": "IN",
+      "type": "monastery",
+      "lat": 27.50722,
+      "lng": 82.04389,
+      "name": "Jetavana",
+      "native": "जेतवन",
+      "place": "Śrāvastī · Uttar Pradesh",
+      "related": [
+        "Śrāvastī",
+        "parc du prince Jeta"
+      ],
+      "aliases": [
+        "Jetavana Monastery",
+        "Shravasti",
+        "Sravasti"
+      ],
+      "anchor": "i-3"
+    },
+    {
+      "id": "vaisali",
+      "country": "IN",
+      "type": "archaeological",
+      "lat": 25.9866,
+      "lng": 85.1256,
+      "name": "Vaiśālī",
+      "native": "वैशाली",
+      "place": "Bihar",
+      "related": [
+        "Grand Bois / Mahāvana",
+        "parc d’Ambapālī"
+      ],
+      "aliases": [
+        "Vaisali",
+        "Vaishali",
+        "Mahavana",
+        "Ambapali"
+      ],
+      "anchor": "i-3"
+    },
+    {
+      "id": "nalanda",
+      "country": "IN",
+      "type": "archaeological",
+      "lat": 25.13667,
+      "lng": 85.44389,
+      "name": "Nālandā Mahāvihāra",
+      "native": "नालन्दा",
+      "place": "Bihar",
+      "related": [
+        "Nālandā"
+      ],
+      "aliases": [
+        "Nalanda",
+        "Nalanda Mahavihara"
+      ],
+      "anchor": "i-4"
+    },
+    {
+      "id": "kushinagar",
+      "country": "IN",
+      "type": "archaeological",
+      "lat": 26.73916,
+      "lng": 83.89052,
+      "name": "Kuśinagara / Kushinagar",
+      "native": "कुशीनगर",
+      "place": "Uttar Pradesh",
+      "related": [
+        "lieu du parinirvāṇa",
+        "Mahāparinirvāṇa"
+      ],
+      "aliases": [
+        "Kusinagara",
+        "Kushinagar"
+      ],
+      "anchor": "ii-3"
+    },
+    {
+      "id": "bodhgaya",
+      "country": "IN",
+      "type": "monastery",
+      "lat": 24.69528,
+      "lng": 84.99389,
+      "name": "Bodhgayā — Mahābodhi",
+      "native": "बोधगया",
+      "place": "Bihar",
+      "related": [
+        "Bodhgayā",
+        "temple de la Mahābodhi"
+      ],
+      "aliases": [
+        "Bodh Gaya",
+        "Mahabodhi Temple"
+      ],
+      "anchor": "ii-3"
+    },
+    {
+      "id": "sarnath",
+      "country": "IN",
+      "type": "archaeological",
+      "lat": 25.3808,
+      "lng": 83.0245,
+      "name": "Sārnāth",
+      "native": "सारनाथ",
+      "place": "Uttar Pradesh",
+      "related": [
+        "Dhāmek Stūpa",
+        "lieu du premier sermon"
+      ],
+      "aliases": [
+        "Sarnath",
+        "Dhamek",
+        "Dhamekh"
+      ],
+      "anchor": "ii-3"
+    },
+    {
+      "id": "sanchi",
+      "country": "IN",
+      "type": "pagoda",
+      "lat": 23.480656,
+      "lng": 77.7363,
+      "name": "Sāñcī",
+      "native": "साँची",
+      "place": "Madhya Pradesh",
+      "related": [
+        "Grand Stoupa de Sāñcī"
+      ],
+      "aliases": [
+        "Sanchi",
+        "Great Stupa"
+      ],
+      "anchor": "ii-5"
+    },
+    {
+      "id": "bharhut",
+      "country": "IN",
+      "type": "archaeological",
+      "lat": 24.44222,
+      "lng": 80.84069,
+      "name": "Bhārhut",
+      "native": "भरहुत",
+      "place": "Madhya Pradesh",
+      "related": [
+        "stoupa de Bhārhut"
+      ],
+      "aliases": [
+        "Bharhut",
+        "Bharhat"
+      ],
+      "anchor": "ii-5"
+    },
+    {
+      "id": "lumbini",
+      "country": "NP",
+      "type": "archaeological",
+      "lat": 27.46961,
+      "lng": 83.27583,
+      "name": "Lumbinī — temple Māyā Devī",
+      "native": "लुम्बिनी",
+      "place": "Lumbini Province",
+      "related": [
+        "Lumbinī",
+        "lieu de naissance du Bouddha"
+      ],
+      "aliases": [
+        "Lumbini",
+        "Maya Devi Temple",
+        "Mayadevi"
+      ],
+      "anchor": "ii-3"
+    },
+    {
+      "id": "white-horse",
+      "country": "CN",
+      "type": "monastery",
+      "lat": 34.72388,
+      "lng": 112.59811,
+      "name": "Monastère du Cheval blanc",
+      "native": "白馬寺",
+      "place": "Luoyang · Henan",
+      "related": [
+        "Báimǎ Sì"
+      ],
+      "aliases": [
+        "White Horse Temple",
+        "Baimasi",
+        "Baima Si"
+      ],
+      "anchor": "iii-3"
+    },
+    {
+      "id": "yungang",
+      "country": "CN",
+      "type": "caves",
+      "lat": 40.10972,
+      "lng": 113.12222,
+      "name": "Grottes de Yungang",
+      "native": "雲岡石窟",
+      "place": "Datong · Shanxi",
+      "related": [
+        "Yungang"
+      ],
+      "aliases": [
+        "Yungang Grottoes"
+      ],
+      "anchor": "iii-3"
+    },
+    {
+      "id": "longmen",
+      "country": "CN",
+      "type": "caves",
+      "lat": 34.55709,
+      "lng": 112.47077,
+      "name": "Grottes de Longmen",
+      "native": "龍門石窟",
+      "place": "Luoyang · Henan",
+      "related": [
+        "Longmen"
+      ],
+      "aliases": [
+        "Longmen Grottoes",
+        "Longmen Caves"
+      ],
+      "anchor": "iii-3"
+    },
+    {
+      "id": "mogao",
+      "country": "CN",
+      "type": "caves",
+      "lat": 40.13333,
+      "lng": 94.81667,
+      "name": "Grottes de Mogao",
+      "native": "莫高窟",
+      "place": "Dunhuang · Gansu",
+      "related": [
+        "Mogao"
+      ],
+      "aliases": [
+        "Mogao Caves",
+        "Dunhuang Caves"
+      ],
+      "anchor": "iii-3"
+    },
+    {
+      "id": "songyue",
+      "country": "CN",
+      "type": "pagoda",
+      "lat": 34.50161,
+      "lng": 113.01592,
+      "name": "Pagode de Songyue",
+      "native": "嵩岳寺塔",
+      "place": "Dengfeng · Henan",
+      "related": [
+        "Songyue"
+      ],
+      "aliases": [
+        "Songyue Pagoda"
+      ],
+      "anchor": "iii-4"
+    },
+    {
+      "id": "famen",
+      "country": "CN",
+      "type": "monastery",
+      "lat": 34.44167,
+      "lng": 107.89972,
+      "name": "Temple Famen",
+      "native": "法門寺",
+      "place": "Fufeng · Shaanxi",
+      "related": [
+        "crypte reliquaire de Famen"
+      ],
+      "aliases": [
+        "Famen Temple",
+        "Famensi"
+      ],
+      "anchor": "iii-5"
+    },
+    {
+      "id": "nanchan",
+      "country": "CN",
+      "type": "monastery",
+      "lat": 38.70126,
+      "lng": 113.11383,
+      "name": "Temple Nanchan",
+      "native": "南禪寺",
+      "place": "Wutai · Shanxi",
+      "related": [
+        "Grand pavillon du Bouddha",
+        "782"
+      ],
+      "aliases": [
+        "Nanchan Temple",
+        "Nanchansi"
+      ],
+      "anchor": "iii-6"
+    },
+    {
+      "id": "foguang",
+      "country": "CN",
+      "type": "monastery",
+      "lat": 38.86917,
+      "lng": 113.38778,
+      "name": "Temple Foguang",
+      "native": "佛光寺",
+      "place": "Mont Wutai · Shanxi",
+      "related": [
+        "Grand pavillon oriental",
+        "857"
+      ],
+      "aliases": [
+        "Foguang Temple",
+        "Foguangsi"
+      ],
+      "anchor": "iii-6"
+    },
+    {
+      "id": "great-wild-goose",
+      "country": "CN",
+      "type": "pagoda",
+      "lat": 34.219842,
+      "lng": 108.959354,
+      "name": "Grande Pagode de l’Oie sauvage",
+      "native": "大雁塔",
+      "place": "Xi’an / Chang’an · Shaanxi",
+      "related": [
+        "Da Ci’en Si"
+      ],
+      "aliases": [
+        "Great Wild Goose Pagoda",
+        "Giant Wild Goose Pagoda",
+        "Dayanta"
+      ],
+      "anchor": "iii-7"
+    },
+    {
+      "id": "small-wild-goose",
+      "country": "CN",
+      "type": "pagoda",
+      "lat": 34.24081,
+      "lng": 108.93735,
+      "name": "Petite Pagode de l’Oie sauvage",
+      "native": "小雁塔",
+      "place": "Xi’an / Chang’an · Shaanxi",
+      "related": [
+        "Xiaoyanta"
+      ],
+      "aliases": [
+        "Small Wild Goose Pagoda",
+        "Lesser Wild Goose Pagoda"
+      ],
+      "anchor": "iii-7"
+    },
+    {
+      "id": "fogongsi",
+      "country": "CN",
+      "type": "pagoda",
+      "lat": 39.56528,
+      "lng": 113.18194,
+      "name": "Pagode du Fogongsi",
+      "native": "佛宮寺釋迦塔",
+      "place": "Yingxian · Shanxi",
+      "related": [
+        "pagode en bois de Yingxian",
+        "1056"
+      ],
+      "aliases": [
+        "Fogong Temple Pagoda",
+        "Yingxian Wooden Pagoda"
+      ],
+      "anchor": "iii-6"
+    },
+    {
+      "id": "iron-pagoda",
+      "country": "CN",
+      "type": "pagoda",
+      "lat": 34.81663,
+      "lng": 114.36487,
+      "name": "Pagode de Fer",
+      "native": "鐵塔 / 祐國寺塔",
+      "place": "Kaifeng · Henan",
+      "related": [
+        "Youguo-si",
+        "1049"
+      ],
+      "aliases": [
+        "Iron Pagoda",
+        "Youguo Temple Pagoda"
+      ],
+      "anchor": "iii-7"
+    },
+    {
+      "id": "kaiyuan",
+      "country": "CN",
+      "type": "pagoda",
+      "lat": 24.91738,
+      "lng": 118.58106,
+      "name": "Temple Kaiyuan et ses deux pagodes",
+      "native": "開元寺",
+      "place": "Quanzhou · Fujian",
+      "related": [
+        "pagode Zhenguo",
+        "pagode Renshou"
+      ],
+      "aliases": [
+        "Kaiyuan Temple",
+        "Quanzhou Twin Pagodas"
+      ],
+      "anchor": "iii-7"
+    },
+    {
+      "id": "mireuksa",
+      "country": "KR",
+      "type": "archaeological",
+      "lat": 36.012083,
+      "lng": 127.031028,
+      "name": "Mirŭk-sa",
+      "native": "미륵사 · 彌勒寺",
+      "place": "Iksan · Chŏlla du Nord",
+      "related": [
+        "stoupa de Mirŭk-sa"
+      ],
+      "aliases": [
+        "Mireuksa",
+        "Mireuksaji"
+      ],
+      "anchor": "iv-4"
+    },
+    {
+      "id": "jeongnimsa",
+      "country": "KR",
+      "type": "archaeological",
+      "lat": 36.279325,
+      "lng": 126.913285,
+      "name": "Chŏngnim-sa",
+      "native": "정림사 · 定林寺",
+      "place": "Puyŏ · Ch’ungch’ŏng du Sud",
+      "related": [
+        "stoupa de Chŏngnim-sa"
+      ],
+      "aliases": [
+        "Jeongnimsa",
+        "Jeongnimsa Temple Site"
+      ],
+      "anchor": "iv-4"
+    },
+    {
+      "id": "bunhwangsa",
+      "country": "KR",
+      "type": "pagoda",
+      "lat": 35.84089,
+      "lng": 129.23368,
+      "name": "Punhwang-sa",
+      "native": "분황사 · 芬皇寺",
+      "place": "Kyŏngju · Kyŏngsang du Nord",
+      "related": [
+        "stoupa imitant la brique"
+      ],
+      "aliases": [
+        "Bunhwangsa"
+      ],
+      "anchor": "iv-4"
+    },
+    {
+      "id": "bulguksa",
+      "country": "KR",
+      "type": "monastery",
+      "lat": 35.79,
+      "lng": 129.33222,
+      "name": "Pulguk-sa",
+      "native": "불국사 · 佛國寺",
+      "place": "Kyŏngju · Kyŏngsang du Nord",
+      "related": [
+        "Sŏkkat’ap 釋迦塔",
+        "Tabot’ap 多寶塔"
+      ],
+      "aliases": [
+        "Bulguksa",
+        "Seokgatap",
+        "Dabotap"
+      ],
+      "anchor": "iv-5"
+    },
+    {
+      "id": "woljeongsa",
+      "country": "KR",
+      "type": "monastery",
+      "lat": 37.73125,
+      "lng": 128.59265,
+      "name": "Wŏlchŏng-sa",
+      "native": "월정사 · 月精寺",
+      "place": "P’yŏngch’ang · Kangwŏn",
+      "related": [
+        "stoupa octogonal à neuf étages"
+      ],
+      "aliases": [
+        "Woljeongsa"
+      ],
+      "anchor": "iv-7"
+    },
+    {
+      "id": "bongjeongsa",
+      "country": "KR",
+      "type": "monastery",
+      "lat": 36.65322,
+      "lng": 128.66277,
+      "name": "Pongjŏng-sa",
+      "native": "봉정사 · 鳳停寺",
+      "place": "Andong · Kyŏngsang du Nord",
+      "related": [
+        "Kŭngnakjŏn 極樂殿"
+      ],
+      "aliases": [
+        "Bongjeongsa"
+      ],
+      "anchor": "v-3"
+    },
+    {
+      "id": "sudeoksa",
+      "country": "KR",
+      "type": "monastery",
+      "lat": 36.66181,
+      "lng": 126.62151,
+      "name": "Sudŏk-sa",
+      "native": "수덕사 · 修德寺",
+      "place": "Yesan · Ch’ungch’ŏng du Sud",
+      "related": [
+        "Taeungjŏn 大雄殿"
+      ],
+      "aliases": [
+        "Sudeoksa"
+      ],
+      "anchor": "v-3"
+    },
+    {
+      "id": "geojoam",
+      "country": "KR",
+      "type": "monastery",
+      "lat": 36.020239,
+      "lng": 128.764497,
+      "name": "Kŏjo-am / Kŏjo-sa",
+      "native": "거조암 / 거조사 · 居祖庵 / 居祖寺",
+      "place": "Yŏngch’ŏn · Kyŏngsang du Nord",
+      "related": [
+        "Yŏngsanjŏn 靈山殿"
+      ],
+      "aliases": [
+        "Geojoam",
+        "Geojosa",
+        "Geojo-sa"
+      ],
+      "anchor": "v-3"
+    },
+    {
+      "id": "buseoksa",
+      "country": "KR",
+      "type": "monastery",
+      "lat": 36.99784,
+      "lng": 128.6875,
+      "name": "Pusŏk-sa",
+      "native": "부석사 · 浮石寺",
+      "place": "Yŏngju · Kyŏngsang du Nord",
+      "related": [
+        "Muryangsujŏn 無量壽殿"
+      ],
+      "aliases": [
+        "Buseoksa"
+      ],
+      "anchor": "v-3"
+    },
+    {
+      "id": "asukadera",
+      "country": "JP",
+      "type": "monastery",
+      "lat": 34.47865,
+      "lng": 135.82018,
+      "name": "Asuka-dera",
+      "native": "飛鳥寺",
+      "place": "Asuka · Nara",
+      "related": [
+        "premiers monastères d’Asuka"
+      ],
+      "aliases": [
+        "Asukadera",
+        "Hokoji"
+      ],
+      "anchor": "vi-2"
+    },
+    {
+      "id": "horyuji",
+      "country": "JP",
+      "type": "monastery",
+      "lat": 34.614,
+      "lng": 135.736,
+      "name": "Hōryū-ji",
+      "native": "法隆寺",
+      "place": "Ikaruga · Nara",
+      "related": [
+        "kondō 金堂",
+        "pagode à cinq étages 五重塔"
+      ],
+      "aliases": [
+        "Horyuji"
+      ],
+      "anchor": "vi-3"
+    },
+    {
+      "id": "yakushiji",
+      "country": "JP",
+      "type": "monastery",
+      "lat": 34.66873,
+      "lng": 135.78452,
+      "name": "Yakushi-ji",
+      "native": "薬師寺",
+      "place": "Nara",
+      "related": [
+        "Pagode de l’Est 東塔"
+      ],
+      "aliases": [
+        "Yakushiji"
+      ],
+      "anchor": "vi-4"
+    },
+    {
+      "id": "kofukuji",
+      "country": "JP",
+      "type": "monastery",
+      "lat": 34.68318,
+      "lng": 135.8319,
+      "name": "Kōfuku-ji",
+      "native": "興福寺",
+      "place": "Nara",
+      "related": [
+        "grand monastère d’État"
+      ],
+      "aliases": [
+        "Kofukuji"
+      ],
+      "anchor": "vi-4"
+    },
+    {
+      "id": "todaiji",
+      "country": "JP",
+      "type": "monastery",
+      "lat": 34.68917,
+      "lng": 135.83972,
+      "name": "Tōdai-ji",
+      "native": "東大寺",
+      "place": "Nara",
+      "related": [
+        "Daibutsuden 大仏殿"
+      ],
+      "aliases": [
+        "Todaiji",
+        "Great Buddha Hall"
+      ],
+      "anchor": "vi-5"
+    },
+    {
+      "id": "enryakuji",
+      "country": "JP",
+      "type": "sacred_landscape",
+      "lat": 35.070556,
+      "lng": 135.841111,
+      "name": "Mont Hiei — Enryaku-ji",
+      "native": "比叡山 · 延暦寺",
+      "place": "Ōtsu / Kyoto",
+      "related": [
+        "mont Hiei",
+        "Enryaku-ji"
+      ],
+      "aliases": [
+        "Mount Hiei",
+        "Enryakuji"
+      ],
+      "anchor": "vi-6"
+    },
+    {
+      "id": "danjo-garan",
+      "country": "JP",
+      "type": "sacred_landscape",
+      "lat": 34.2126,
+      "lng": 135.5779,
+      "name": "Mont Kōya — Danjō Garan",
+      "native": "高野山 · 壇上伽藍",
+      "place": "Kōyasan · Wakayama",
+      "related": [
+        "Konpon Daitō 根本大塔",
+        "monts Kii"
+      ],
+      "aliases": [
+        "Mount Koya",
+        "Koyasan",
+        "Danjo Garan",
+        "Konpon Daito"
+      ],
+      "anchor": "vi-7"
+    },
+    {
+      "id": "byodoin",
+      "country": "JP",
+      "type": "monastery",
+      "lat": 34.8895,
+      "lng": 135.80754,
+      "name": "Byōdō-in",
+      "native": "平等院",
+      "place": "Uji · Kyoto",
+      "related": [
+        "Hōōdō 鳳凰堂 / Pavillon du Phénix"
+      ],
+      "aliases": [
+        "Byodoin",
+        "Phoenix Hall"
+      ],
+      "anchor": "vi-8"
+    },
+    {
+      "id": "luy-lau",
+      "country": "VN",
+      "type": "archaeological",
+      "lat": 21.03833,
+      "lng": 106.04972,
+      "name": "Luy Lâu",
+      "native": "Luy Lâu · 羸𨻻",
+      "place": "Bắc Ninh",
+      "related": [
+        "ancien centre bouddhique de Luy Lâu"
+      ],
+      "aliases": [
+        "Luy Lau"
+      ],
+      "anchor": "vii-2"
+    },
+    {
+      "id": "one-pillar",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 21.03586,
+      "lng": 105.83361,
+      "name": "Chùa Một Cột",
+      "native": "Chùa Một Cột · 一柱寺",
+      "place": "Hà Nội / Thăng Long",
+      "related": [
+        "Diên Hựu 延祐寺",
+        "pagode au Pilier unique"
+      ],
+      "aliases": [
+        "One Pillar Pagoda",
+        "Pagode au Pilier unique",
+        "Mot Cot"
+      ],
+      "anchor": "vii-4"
+    },
+    {
+      "id": "yen-tu",
+      "country": "VN",
+      "type": "sacred_landscape",
+      "lat": 21.16078,
+      "lng": 106.71493,
+      "name": "Yên Tử",
+      "native": "Yên Tử · 安子",
+      "place": "Quảng Ninh",
+      "related": [
+        "Trúc Lâm Yên Tử 竹林安子",
+        "paysage de pèlerinage"
+      ],
+      "aliases": [
+        "Yen Tu",
+        "Mount Yen Tu"
+      ],
+      "anchor": "vii-3"
+    },
+    {
+      "id": "ngu-dai",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 21.164083,
+      "lng": 106.482167,
+      "name": "Chùa Ngũ Đài",
+      "native": "Chùa Ngũ Đài · 五臺",
+      "place": "Chí Linh · Hải Phòng",
+      "related": [
+        "plan nội công ngoại quốc"
+      ],
+      "aliases": [
+        "Ngu Dai",
+        "Ngu Dai Son"
+      ],
+      "anchor": "vii-7"
+    },
+    {
+      "id": "thien-mu",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 16.4536,
+      "lng": 107.54466,
+      "name": "Chùa Thiên Mụ",
+      "native": "Thiên Mụ · 天姥寺",
+      "place": "Huế · Hương Giang",
+      "related": [
+        "tour Phước Duyên 福緣塔",
+        "rivière des Parfums"
+      ],
+      "aliases": [
+        "Thien Mu Pagoda",
+        "Pagode de la Dame céleste",
+        "Phuoc Duyen"
+      ],
+      "anchor": "vii-11"
+    }
+  ]
+}
