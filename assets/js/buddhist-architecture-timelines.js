@@ -34,7 +34,7 @@
         intro: "La péninsule transforme les modèles continentaux par la pierre, le relief et une forte tradition de charpente.",
         events: [
           ["IVe–VIe s.", "Trois Royaumes", "Le bouddhisme s’implante à Koguryŏ, Paekche puis Silla ; les premiers monastères et pagodes accompagnent le patronage royal."],
-          ["VIe–VIIe s.", "Grandes pagodes de bois", "Des ensembles comme Hwangnyŏngsa placent la pagode monumentale au cœur d’une architecture d’État aujourd’hui en grande partie disparue."],
+          ["VIe–VIIe s.", "Grandes pagodes de bois", "Des ensembles comme Hwangnyongsa placent la pagode monumentale au cœur d’une architecture d’État aujourd’hui en grande partie disparue."],
           ["VIIe–IXe s.", "Grand Silla et pagode de pierre", "Le granite devient un médium majeur ; Pulguksa illustre l’équilibre entre pavillons, cours, escaliers et pagodes jumelles."],
           ["IXe–Xe s.", "Essor du Sŏn", "Les stoupas funéraires de maîtres, pudo ou sŭngt’ap, matérialisent les lignées monastiques dans le paysage."],
           ["918–1392", "Koryŏ", "Le puissant patronage bouddhique favorise de grands monastères, la diversification des stoupas et une charpente de bois raffinée."],
@@ -99,7 +99,7 @@
         intro: "The peninsula transforms continental models through stone, topography, and a sophisticated timber-building tradition.",
         events: [
           ["4th–6th c.", "Three Kingdoms", "Buddhism takes root in Koguryŏ, Paekche and then Silla; early monasteries and pagodas grow through royal patronage."],
-          ["6th–7th c.", "Monumental timber pagodas", "Complexes such as Hwangnyŏngsa place an immense pagoda at the center of state-sponsored architecture."],
+          ["6th–7th c.", "Monumental timber pagodas", "Complexes such as Hwangnyongsa place an immense pagoda at the center of state-sponsored architecture."],
           ["7th–9th c.", "Grand Silla and stone pagodas", "Granite becomes a major medium; Pulguksa balances halls, courts, stairways and paired pagodas."],
           ["9th–10th c.", "Rise of Sŏn", "Monk reliquary stupas, pudo or sŭngt’ap, make lineage and memory visible in the landscape."],
           ["918–1392", "Koryŏ", "Strong Buddhist patronage supports major monasteries, diverse stupa types and refined timber construction."],
@@ -294,7 +294,7 @@
         intro: "Bán đảo Triều Tiên biến đổi mô hình lục địa qua đá, địa hình và truyền thống kết cấu gỗ tinh tế.",
         events: [
           ["TK IV–VI", "Thời Tam Quốc", "Phật giáo bén rễ ở Koguryŏ, Paekche rồi Silla; các chùa và tháp đầu tiên phát triển nhờ bảo trợ vương quyền."],
-          ["TK VI–VII", "Đại tháp gỗ", "Những quần thể như Hwangnyŏngsa đặt tháp gỗ khổng lồ ở trung tâm kiến trúc nhà nước."],
+          ["TK VI–VII", "Đại tháp gỗ", "Những quần thể như Hwangnyongsa đặt tháp gỗ khổng lồ ở trung tâm kiến trúc nhà nước."],
           ["TK VII–IX", "Đại Silla và tháp đá", "Đá granite trở thành vật liệu chủ đạo; Pulguksa cân bằng điện, sân, bậc thang và cặp tháp."],
           ["TK IX–X", "Sự phát triển của Sŏn", "Tháp xá lợi cao tăng — pudo hay sŭngt’ap — làm hiện rõ dòng truyền thừa và ký ức trong cảnh quan."],
           ["918–1392", "Koryŏ", "Sự bảo trợ mạnh mẽ của Phật giáo thúc đẩy đại tự viện, nhiều kiểu tháp và kết cấu gỗ tinh xảo."],
