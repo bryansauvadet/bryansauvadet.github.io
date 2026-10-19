@@ -7,5 +7,20 @@ format:
     include-before-body: _includes/ko-header.html
     include-after-body: _includes/ko-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
 <section class="page-hero"><h1>나의 독서</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">불교미술사, 불교, 아시아사, 고고학, 건축을 더 깊이 이해하기 위해 읽을 가치가 있는 책들을 소개합니다.</p><div class="card"><h3>독서 노트</h3><p>각 서평은 두 가지 질문에서 출발합니다. 왜 이 책을 읽어야 하는가, 그리고 이 책은 해당 분야를 이해하는 데 실제로 무엇을 더해 주는가?</p></div></div></main>
+<main class="content"><div class="content-inner">
+<p class="lead">불교미술사, 불교, 아시아사, 고고학, 건축을 더 깊이 이해하기 위해 읽을 가치가 있는 책들을 소개합니다.</p>
+<div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/ko/readings/the-dynamic-spread-of-buddhist-print-culture.html">
+<div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="The Dynamic Spread of Buddhist Print Culture 표지" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">불교미술사 · 인쇄문화 · 아시아사</div>
+<h2>The Dynamic Spread of Buddhist Print Culture</h2>
+<p class="reading-book-author">Shih-shan Susan Huang · Brill · 2024</p>
+<p>불교 인쇄물을 중국·내륙아시아·동아시아를 잇는 ‘Buddhist Book Roads’를 이동하는 사물로 보아야 하는 이유를 설명한다.</p>
+<span class="reading-book-link">서평 읽기 →</span>
+</a>
+</div></div>
+</div></main>
+```
