@@ -84,15 +84,30 @@
 
 /* Shared Buddhist architecture hero image */
 .hab-hero-visual {
-  min-height: 0 !important;
+  position: relative;
+  min-height: 500px !important;
   aspect-ratio: 16 / 9;
-  background: url("/assets/images/buddhist-architecture-five-monuments-20261019.avif") center center / cover no-repeat !important;
+  border: 1px solid #d7cdbf;
+  overflow: hidden;
+  background: #eee5d8 url("/assets/images/buddhist-architecture-five-monuments-20261019.jpg") center center / cover no-repeat !important;
 }
-.hab-hero-visual > * { display: none !important; }
+.hab-hero-visual > * {
+  display: block !important;
+}
+.hab-hero-image img {
+  position: absolute;
+  inset: 0;
+  display: block !important;
+  width: 100%;
+  height: 100%;
+  min-height: 0 !important;
+  object-fit: cover;
+  object-position: center;
+}
+@media(max-width:900px){
+  .hab-hero-visual{min-height:430px !important}
+}
+@media(max-width:620px){
+  .hab-hero-visual{min-height:360px !important}
+}
 /* End shared Buddhist architecture hero image */
-
-/* Hero thumbnail shared by all language editions */
-.hab-hero-image{background:#eee5d8}
-.hab-hero-image img{display:block;width:100%;height:100%;min-height:500px;object-fit:cover;object-position:center}
-@media(max-width:900px){.hab-hero-image img{min-height:430px}}
-@media(max-width:620px){.hab-hero-image img{min-height:360px}}
