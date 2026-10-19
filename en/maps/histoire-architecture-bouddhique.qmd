@@ -24,7 +24,7 @@ format:
           <div><strong>5</strong><span>regional traditions</span></div>
         </div>
       </div>
-      <div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.avif" alt="" loading="eager" decoding="async"></div>
+      <div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="" loading="eager" decoding="async"></div>
       </div>
     </div>
   </section>
