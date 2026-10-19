@@ -756,16 +756,3 @@ html.site-intro-skip .site-intro{display:none!important}
   html:not(.site-intro-skip) .site-intro-title{animation:none!important;opacity:1;transform:none}
 }
 
-/* MES-LECTURES-EMBEDDED-IMAGE START */
-.readings-card .database-card-image{
-  aspect-ratio:16/9;
-  height:auto;
-  background-image:url("data:image/jpeg;base64,__B64__");
-  background-size:cover;
-  background-position:center;
-  background-repeat:no-repeat;
-}
-.readings-card .database-card-image img{
-  display:none !important;
-}
-/* MES-LECTURES-EMBEDDED-IMAGE END */
