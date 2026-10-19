@@ -8,7 +8,10 @@ format:
 ---
 
 ```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/assets/js/buddhist-architecture-map.js" defer></script>
 <script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 <main class="hab-page">
 <section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy"><div class="hab-kicker">視覺專題 · 印度 · 中國 · 韓國 · 日本 · 越南</div><h1>佛教建築史</h1><p class="hab-lead">從印度僧院與窣堵波，到中國佛塔的轉化，以及韓國、日本、越南各自的發展：比較佛教建築的形制、功能、材料與神聖景觀。</p><div class="hab-stats"><div><strong>8</strong><span>大部分</span></div><div><strong>69</strong><span>小節</span></div><div><strong>5</strong><span>地域傳統</span></div></div></div><div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="" loading="eager" decoding="async"></div></div></div></section>
@@ -22,7 +25,27 @@ format:
 <div class="hab-toc-group"><a class="hab-toc-part" href="#japan"><span>VI</span> 日本 — 日本佛教建築的形成</a><ol><li><a href="#vi-1">佛教建築傳入日本</a></li><li><a href="#vi-2">飛鳥 — 最早期寺院</a></li><li><a href="#vi-3">法隆寺與古代佛教建築</a></li><li><a href="#vi-4">奈良 — 國家大寺院</a></li><li><a href="#vi-5">東大寺與大佛殿</a></li><li><a href="#vi-6">從都城到山岳</a></li><li><a href="#vi-7">密教建築與曼荼羅空間</a></li><li><a href="#vi-8">淨土與平等院</a></li><li><a href="#vi-9">禪宗建築</a></li><li><a href="#vi-10">日本佛堂與庭園</a></li><li><a href="#vi-11">三重塔、五重塔與多寶塔</a></li><li><a href="#vi-12">日本建築的延續與特性</a></li></ol></div>
 <div class="hab-toc-group hab-vietnam"><a class="hab-toc-part" href="#vietnam"><span>VII</span> 越南 — 越南佛教建築的形成與轉型</a><ol><li><a href="#vii-1">佛教傳入越南</a></li><li><a href="#vii-2">Luy Lâu 羸𨻻與早期佛教中心</a></li><li><a href="#vii-3">Lý 李朝與 Trần 陳朝</a></li><li><a href="#vii-4">Chùa Một Cột 一柱寺</a></li><li><a href="#vii-5">越南的塔與窣堵波</a></li><li><a href="#vii-6">越南寺院的組織</a></li><li><a href="#vii-7">nội công ngoại quốc 內工外國</a></li><li><a href="#vii-8">木構架</a></li><li><a href="#vii-9">越南屋頂</a></li><li><a href="#vii-10">建築與景觀</a></li><li><a href="#vii-11">Huế 與 Thiên Mụ 天姥寺</a></li><li><a href="#vii-12">宗教融合與多重祭壇</a></li></ol></div>
 <div class="hab-toc-group"><a class="hab-toc-part" href="#synthesis"><span>VIII</span> 綜合 — 五種傳統，一種佛教建築？</a><ol><li><a href="#viii-1">從窣堵波到佛塔</a></li><li><a href="#viii-2">從舍利到佛像</a></li><li><a href="#viii-3">材料塑造地域傳統</a></li><li><a href="#viii-4">比較寺院平面</a></li><li><a href="#viii-5">建築與權力</a></li><li><a href="#viii-6">建築與景觀</a></li><li><a href="#viii-7">使佛陀現前的五種建築方式</a></li></ol></div>
-</nav></div></section></main>
+</nav></div></section>  <section class="hab-map-section" id="sites-map" aria-labelledby="hab-sites-map-title">
+    <div class="hab-shell">
+      <div class="hab-map-head">
+        <div class="hab-section-head">
+          <div class="hab-kicker" data-hab-map-copy="kicker">專題地理</div>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">文中所述遺址互動地圖</h2>
+          <p data-hab-map-copy="intro">在地圖上探索本文提到的建築、寺院、考古遺址、石窟與神聖景觀。同一寺院範圍內的多座建築合併為同一地點。</p>
+        </div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">46處</div>
+      </div>
+      <div class="hab-map-filters" aria-label="地圖篩選">
+        <label><span data-hab-map-copy="search">搜尋</span><input id="hab-map-search" type="search" placeholder="建築、城市、地區…"></label>
+        <label><span data-hab-map-copy="country">國家</span><select id="hab-map-country"><option value="">所有國家</option></select></label>
+        <label><span data-hab-map-copy="type">遺址類型</span><select id="hab-map-type"><option value="">所有類型</option></select></label>
+        <button id="hab-map-reset" type="button" data-hab-map-copy="reset">重設</button>
+      </div>
+      <div id="buddhist-architecture-sites-map" class="hab-sites-map" aria-labelledby="hab-sites-map-title"></div>
+      <div id="buddhist-architecture-sites-legend" class="hab-map-legend" aria-label="顯示國家"></div>
+    </div>
+  </section>
+</main>
 ```
 {{< include histoire-architecture-bouddhique/part-i.qmd >}}
 {{< include histoire-architecture-bouddhique/part-ii.qmd >}}
