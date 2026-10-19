@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/zh-hant-footer.html
 ---
 <section class="page-hero"><h1>研究札記</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">研究筆記、閱讀記錄與進行中的工作。</p><div class="database-grid"><a class="database-card readings-card" href="/zh-hant/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette.webp" alt="關於佛教藝術與亞洲的書籍與研究" loading="lazy"></div><h2>我的閱讀</h2><p>閱讀札記與書評：為什麼值得讀這些書，以及它們能幫助我們理解什麼。</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
+<main class="content"><div class="content-inner"><p class="lead">研究筆記、閱讀記錄與進行中的工作。</p><div class="database-grid"><a class="database-card readings-card" href="/zh-hant/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette.jpg" alt="關於佛教藝術與亞洲的書籍與研究" loading="lazy"></div><h2>我的閱讀</h2><p>閱讀札記與書評：為什麼值得讀這些書，以及它們能幫助我們理解什麼。</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
