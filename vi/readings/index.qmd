@@ -7,5 +7,20 @@ format:
     include-before-body: _includes/vi-header.html
     include-after-body: _includes/vi-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
 <section class="page-hero"><h1>Sách tôi đọc</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">Một tuyển chọn những cuốn sách đáng đọc để hiểu sâu hơn về lịch sử mỹ thuật Phật giáo, Phật giáo, lịch sử châu Á, khảo cổ học và kiến trúc.</p><div class="card"><h3>Ghi chép đọc sách</h3><p>Mỗi bài điểm sách trước hết trả lời hai câu hỏi: vì sao nên đọc cuốn sách này, và nó thực sự đóng góp gì cho việc hiểu lĩnh vực của mình?</p></div></div></main>
+<main class="content"><div class="content-inner">
+<p class="lead">Một tuyển chọn những cuốn sách đáng đọc để hiểu sâu hơn về lịch sử mỹ thuật Phật giáo, Phật giáo, lịch sử châu Á, khảo cổ học và kiến trúc.</p>
+<div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/vi/readings/the-dynamic-spread-of-buddhist-print-culture.html">
+<div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Bìa The Dynamic Spread of Buddhist Print Culture" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">Lịch sử mỹ thuật Phật giáo · Văn hóa in ấn · Lịch sử châu Á</div>
+<h2>The Dynamic Spread of Buddhist Print Culture</h2>
+<p class="reading-book-author">Shih-shan Susan Huang · Brill · 2024</p>
+<p>Vì sao cần nghiên cứu bản in Phật giáo như những vật thể di động trên các “Buddhist Book Roads” nối Trung Quốc, Nội Á và Đông Á.</p>
+<span class="reading-book-link">Đọc bài điểm sách →</span>
+</a>
+</div></div>
+</div></main>
+```
