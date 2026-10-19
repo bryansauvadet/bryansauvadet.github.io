@@ -1,7 +1,7 @@
 ---
 title: "나의 독서"
 lang: ko
-image: /assets/images/mes-lectures-vignette.jpg
+image: /assets/images/mes-lectures-vignette-inline.svg
 format:
   html:
     include-before-body: _includes/ko-header.html
