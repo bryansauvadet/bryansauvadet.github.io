@@ -24,12 +24,7 @@ format:
           <div><strong>5</strong><span>traditions régionales</span></div>
         </div>
       </div>
-      <div class="hab-hero-visual" aria-hidden="true">
-        <div class="hab-cosmos"></div>
-        <div class="hab-stupa"><span class="hab-stupa-finial"></span><span class="hab-stupa-dome"></span><span class="hab-stupa-base"></span></div>
-        <div class="hab-pagoda"><span></span><span></span><span></span><span></span></div>
-        <div class="hab-hall"><span class="hab-hall-roof"></span><span class="hab-hall-body"></span></div>
-        <div class="hab-route"></div>
+      <div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.avif" alt="" loading="eager" decoding="async"></div>
       </div>
     </div>
   </section>
