@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/ja-footer.html
 ---
 <section class="page-hero"><h1>研究ノート</h1></section>
-<main class="content"><p class="lead">Research notes, readings and work in progress.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+<main class="content"><div class="content-inner"><p class="lead">研究ノート、読書記録、進行中の仕事。</p><div class="database-grid"><a class="database-card" href="/ja/readings/"><h2>私の読書</h2><p>読書ノートと書評。なぜその本を読むべきなのか、そして何を理解する助けになるのかを紹介します。</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
