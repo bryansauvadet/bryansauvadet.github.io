@@ -71,8 +71,8 @@ format:
       <div class="axis-copy">
         <div class="axis-number">TRỤC 02</div>
         <h3>Hình ảnh, nghi lễ và tính tác hành</h3>
-        <p>Hình ảnh Phật giáo được nghiên cứu như một đối tượng được kích hoạt qua thực hành và thiết chế nghi lễ. Tranh Cam Lộ 甘露幀 là một corpus đặc biệt quan trọng để phân tích sự xuất hiện, chức năng và tính tác hành của hình ảnh.</p>
-        <div class="axis-tags"><span>甘露幀</span><span>Nghi lễ</span><span>Tính tác hành</span></div>
+        <p>Hình ảnh Phật giáo được nghiên cứu như một đối tượng được kích hoạt qua thực hành và thiết chế nghi lễ. Tranh Cam Lộ 甘露圖 là một corpus đặc biệt quan trọng để phân tích sự xuất hiện, chức năng và tính tác hành của hình ảnh.</p>
+        <div class="axis-tags"><span>甘露圖</span><span>Nghi lễ</span><span>Tính tác hành</span></div>
         <small class="image-credit-line">Chi tiết tranh Cam Lộ, bản sao một tác phẩm thế kỷ XVIII · Daderot / Wikimedia Commons · CC0.</small>
       </div>
     </article>
@@ -185,7 +185,7 @@ format:
     </article>
     <article class="project-card">
       <div class="status">Nghiên cứu đang tiến hành</div>
-      <h3>Cam Lộ 甘露幀</h3>
+      <h3>Cam Lộ 甘露圖</h3>
       <p>Phân tích sự hình thành của tranh Cam Lộ từ nghi lễ, cách sử dụng hình ảnh và các thiết chế mang tính tác hành.</p>
     </article>
   </div>
