@@ -7,4 +7,4 @@ format:
     include-after-body: _includes/ko-footer.html
 ---
 <section class="page-hero"><h1>연구 노트</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">연구 노트, 독서 기록, 진행 중인 작업.</p><div class="database-grid"><a class="database-card" href="/ko/readings/"><h2>나의 독서</h2><p>독서 노트와 서평: 왜 이 책을 읽어야 하는지, 그리고 무엇을 이해하는 데 도움이 되는지를 소개합니다.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
+<main class="content"><div class="content-inner"><p class="lead">연구 노트, 독서 기록, 진행 중인 작업.</p><div class="database-grid"><a class="database-card" href="/ko/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette.webp" alt="불교미술과 아시아에 관한 책과 연구" loading="lazy"></div><h2>나의 독서</h2><p>독서 노트와 서평: 왜 이 책을 읽어야 하는지, 그리고 무엇을 이해하는 데 도움이 되는지를 소개합니다.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
