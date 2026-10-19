@@ -8,7 +8,7 @@ format:
 ---
 
 ```{=html}
-<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">\n<script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 
 <main class="hab-page">
   <section class="hab-hero" id="top">
