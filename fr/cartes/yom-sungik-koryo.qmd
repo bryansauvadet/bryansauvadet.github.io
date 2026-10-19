@@ -88,6 +88,11 @@ format:
       </div>
 
 
+      <figure class="yom-figure">
+        <img src="/assets/img/yom-sungik/yom-sungik-infographie-1-fr.webp" alt="Yŏm Sŭngik : réseaux religieux et circulation rituelle entre la cour de Ch’ungnyŏl, les monastères de Kaegyŏng, les textes bouddhiques et Dadu." loading="lazy">
+        <figcaption><strong>Réseaux religieux et circulation rituelle.</strong> Vue synthétique des liens entre Yŏm Sŭngik, la cour de Ch’ungnyŏl, les monastères de Kaegyŏng, les textes bouddhiques et l’espace Yuan.</figcaption>
+      </figure>
+
       <div class="yom-timeline-tools" role="group" aria-label="Filtres de la chronologie">
         <button class="yom-filter active" type="button" data-filter="all" aria-pressed="true">Tout</button>
         <button class="yom-filter" type="button" data-filter="cour" aria-pressed="false">Cour</button>
@@ -187,6 +192,11 @@ format:
         <p>Après les destructions et dégradations liées aux guerres mongoles, Ch’ungnyŏl confie à Yŏm Sŭngik et à Kong Yu une mission auprès des établissements bouddhiques de la capitale. Le parcours documenté dans la thèse relie quatre sites.</p>
       </div>
 
+
+      <figure class="yom-figure">
+        <img src="/assets/img/yom-sungik/yom-sungik-infographie-2-fr.webp" alt="Carte schématique des restaurations de stoupas et chantiers religieux autour de Kaegyŏng en 1280–1281." loading="lazy">
+        <figcaption><strong>Restaurations et chantiers religieux autour de Kaegyŏng.</strong> Schéma des interventions associées aux monastères de Hyŏnhwasa, Wangnyŭnsa et Namgyewŏn.</figcaption>
+      </figure>
 
       <div class="yom-mission" aria-label="Mission de restauration de 1283">
         <div class="yom-mission-step"><div class="num">01</div><h3>Hyŏnhwa</h3><div class="hanja yom-hanja">玄化寺</div><p>Monastère déjà lié à Yŏm Sŭngik par la commande architecturale royale de 1280.</p></div>
@@ -417,6 +427,11 @@ format:
         <div class="yom-practice-step"><b>Mission royale</b><small>plusieurs stoupas · 1283</small></div>
         <div class="yom-practice-step"><b>Namgyewŏn</b><small><span class="yom-hanja">南溪院</span> · dépôt du soutra</small></div>
       </div>
+
+      <figure class="yom-figure">
+        <img src="/assets/img/yom-sungik/yom-sungik-infographie-3-fr.webp" alt="Carte schématique du déplacement de Yŏm Sŭngik de Kaegyŏng à Dadu et des réseaux de cour et bouddhiques dans l’espace Yuan." loading="lazy">
+        <figcaption><strong>De Kaegyŏng à Dadu.</strong> Reconstitution schématique du déplacement vers Dadu et des réseaux de cour, bouddhiques et textuels associés au séjour dans l’espace Yuan.</figcaption>
+      </figure>
 
     </div>
   </section>
