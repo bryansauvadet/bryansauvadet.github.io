@@ -22,7 +22,7 @@
 .yom-section{padding:88px 0;border-top:1px solid var(--yom-line)}
 .yom-section:first-of-type{border-top:0}
 /* Give the opening section a little more breathing room below the hero. */
-.yom-section#portrait{padding-top:108px}
+.yom-page > .yom-section#portrait{padding-top:48px!important}
 .yom-section-head{max-width:840px;margin:0 0 38px}
 .yom-section h2{font-size:40px;line-height:1.1;font-weight:400;margin:16px 0 16px}
 .yom-section h3{font-size:23px;line-height:1.25;font-weight:400;margin:0 0 10px}
