@@ -8,6 +8,7 @@ format:
     include-after-body: _includes/zh-hant-footer.html
 ---
 
+```{=html}
 <link rel="stylesheet" href="/assets/css/yom-sungik.css">
 <script defer src="/assets/js/yom-sungik.js"></script>
 
@@ -26,7 +27,7 @@ format:
   <section class="yom-section" id="portrait"><div class="yom-shell">
     <div class="yom-section-head"><div class="yom-kicker">01 · 朝廷人物</div><h2>忠烈王統治核心中的廉承益</h2><p>《高麗史》中的廉承益傳將他置於國王近臣之列。1277年是其仕途的重要轉折點：忠烈王患病期間，廉承益隨王前往天孝寺 <span class="yom-hanja">天孝寺</span>，並參與照料與治療。其角色並不局限於朝廷，他同時成為王權與佛教制度之間的重要中介。</p></div>
     <div class="yom-intro-grid">
-      <div><p>廉承益通曉蒙古語，並為來自大都的使臣擔任翻譯。因此，他屬於在高麗王國與元朝廷之間發揮中介作用的高級官員群體。同時，他的佛教信仰透過施捨、儀式實踐與藝術發願具體呈現。</p><p>這種雙重位置正是廉承益的重要性所在：他既不只是「贊助者」，也不只是官員，而是將<strong>王權、行政資源、寺院、工匠、寫經者與發願儀式</strong>連結起來的人物。</p><p class="yom-source">主要史料：《<em>高麗史</em>》卷123，8a–11a，廉承益傳；Bryan Sauvadet 博士論文，第1章 § 1.1.2.2.1。</p></div>
+      <div><p>廉承益通曉蒙古語，並為來自大都的使臣擔任翻譯。因此，他屬於在高麗王國與元朝廷之間發揮中介作用的高級官員群體。同時，他的佛教信仰透過施捨、儀式實踐與藝術發願具體呈現。</p><p>這種雙重位置正是廉承益的重要性所在：廉承益既不能被簡化為私人發願者，也不能只以其行政官職來理解，而是將<strong>王權、行政資源、寺院、工匠、寫經者與發願儀式</strong>連結起來的人物。</p><p class="yom-source">主要史料：《<em>高麗史</em>》卷123，8a–11a，廉承益傳；Bryan Sauvadet 博士論文，第1章 § 1.1.2.2.1。</p></div>
       <aside class="yom-profile-card" aria-label="生平概要"><div class="yom-profile-name">廉承益</div><div class="yom-profile-hanja yom-hanja">廉承益</div><div class="yom-profile-facts"><div class="yom-profile-fact"><b>生卒年</b><span>?–1302</span></div><div class="yom-profile-fact"><b>時代</b><span>高麗</span></div><div class="yom-profile-fact"><b>君主</b><span>忠烈王 <span class="yom-hanja">忠烈王</span></span></div><div class="yom-profile-fact"><b>首都</b><span>開京 <span class="yom-hanja">開京</span></span></div><div class="yom-profile-fact"><b>身分</b><span>高級官員、譯員、國王近臣</span></div><div class="yom-profile-fact"><b>信仰活動</b><span>寺院、佛經、圖像、儀式與療癒</span></div></div></aside>
     </div>
     <div class="yom-constellation" aria-label="廉承益的功能性網絡"><div class="yom-constellation-grid">
@@ -141,7 +142,7 @@ format:
   </div></section>
 
   <section class="yom-section" id="conclusion"><div class="yom-shell">
-    <div class="yom-section-head"><div class="yom-kicker">12 · 廉承益案例所揭示的問題</div><h2>與其說是單純贊助者，不如說是中介者</h2><p>廉承益使我們得以把高麗佛教藝術理解為一連串協同行動的產物：王室決策、行政任務、寺院、寫經所、發願物與儀式行為，可以共同構成同一條行動鏈。</p></div>
+    <div class="yom-section-head"><div class="yom-kicker">12 · 廉承益案例所揭示的問題</div><h2>與其說是單純發願者，不如說是中介者</h2><p>廉承益使我們得以把高麗佛教藝術理解為一連串協同行動的產物：王室決策、行政任務、寺院、寫經所、發願物與儀式行為，可以共同構成同一條行動鏈。</p></div>
     <div class="yom-legacy"><article class="yom-legacy-card"><div class="mark yom-hanja">王</div><h3>權力人物</h3><p>與忠烈王的親近關係，使他能夠動用朝廷資源並進入重要佛教機構。</p></article><article class="yom-legacy-card"><div class="mark yom-hanja">願</div><h3>佛教實踐者</h3><p>題記與銘文呈現其個人關懷：健康、護佑、功德與淨土往生。</p></article><article class="yom-legacy-card"><div class="mark yom-hanja">像</div><h3>中介者</h3><p>他連結建築、寫經、佛畫與印刷，但這些媒材的功能與發願地位並不相同。</p></article></div>
   </div></section>
 
@@ -152,3 +153,4 @@ format:
     <a class="yom-back" href="/zh-hant/maps.html">← 返回地圖與資訊圖表</a>
   </div></section>
 </main>
+```
