@@ -1,5 +1,5 @@
 ---
-title: "Bryan Sauvadet"
+title: "Image credits"
 lang: en
 format:
   html:
