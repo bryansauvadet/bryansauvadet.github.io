@@ -23,7 +23,6 @@ format:
       <figcaption>Tabot'ap · Bulguksa · Gyeongju</figcaption>
     </figure>
 
-    <div class="stupa-objective"><strong>Objective:</strong> to show the architectural conservatism at work in the early Joseon period.</div>
 
     <section class="stupa-text-section">
       <h2>Scope</h2>
