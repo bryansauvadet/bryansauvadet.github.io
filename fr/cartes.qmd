@@ -40,7 +40,7 @@ format:
 </style>
 
 <section class="page-hero">
-  <div class="eyebrow">Bryan Sauvadet</div>
+  
   <h1>Dossiers thématiques</h1>
 </section>
 
