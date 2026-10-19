@@ -277,6 +277,28 @@
 }
 
 
+/* French Yŏm Sŭngik infographics: reduced by one third and spaced from adjacent text. */
+.yom-infographie-reduced{
+  width:66.6667%;
+  max-width:66.6667%;
+  margin:52px auto!important;
+}
+.yom-infographie-reduced img{
+  display:block;
+  width:100%;
+  height:auto!important;
+  min-height:0!important;
+  object-fit:contain;
+}
+@media(max-width:920px){
+  .yom-infographie-reduced{
+    width:100%;
+    max-width:100%;
+    margin:36px auto!important;
+  }
+}
+
+
 /* Namgyewŏn Lotus Sutra image analysis */
 .yom-lotus-analysis{
   max-width:920px;
