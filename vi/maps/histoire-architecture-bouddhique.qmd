@@ -8,7 +8,10 @@ format:
 ---
 
 ```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="/assets/css/histoire-architecture-bouddhique.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/assets/js/buddhist-architecture-map.js" defer></script>
 <script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 <main class="hab-page">
 <section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy">
@@ -28,7 +31,27 @@ format:
 <div class="hab-toc-group"><a class="hab-toc-part" href="#japan"><span>VI</span> Nhật Bản — Sự hình thành kiến trúc Phật giáo Nhật Bản</a><ol><li><a href="#vi-1">Kiến trúc Phật giáo truyền vào Nhật Bản</a></li><li><a href="#vi-2">Phi Điểu 飛鳥 — Những tu viện đầu tiên</a></li><li><a href="#vi-3">Pháp Long tự 法隆寺 và kiến trúc Phật giáo cổ</a></li><li><a href="#vi-4">Nại Lương 奈良 — Những đại tự viện quốc gia</a></li><li><a href="#vi-5">Đông Đại tự 東大寺 và Đại Phật điện 大仏殿</a></li><li><a href="#vi-6">Từ kinh đô lên núi</a></li><li><a href="#vi-7">Kiến trúc Mật giáo và không gian mandala</a></li><li><a href="#vi-8">Tịnh độ 浄土 và Bình Đẳng viện 平等院</a></li><li><a href="#vi-9">Kiến trúc Thiền tông 禅宗</a></li><li><a href="#vi-10">Điện Phật Nhật Bản và khu vườn</a></li><li><a href="#vi-11">Tháp ba tầng, năm tầng và đa bảo tháp 多宝塔</a></li><li><a href="#vi-12">Tính liên tục và đặc thù Nhật Bản</a></li></ol></div>
 <div class="hab-toc-group hab-vietnam"><a class="hab-toc-part" href="#vietnam"><span>VII</span> Việt Nam — Sự hình thành và biến đổi của kiến trúc Phật giáo Việt Nam</a><ol><li><a href="#vii-1">Phật giáo du nhập vào Việt Nam</a></li><li><a href="#vii-2">Luy Lâu 羸𨻻 và các trung tâm Phật giáo sớm</a></li><li><a href="#vii-3">Các triều Lý 李朝 và Trần 陳朝</a></li><li><a href="#vii-4">Chùa Một Cột 一柱寺</a></li><li><a href="#vii-5">Tháp và stūpa ở Việt Nam</a></li><li><a href="#vii-6">Tổ chức không gian chùa Việt</a></li><li><a href="#vii-7">Nguyên tắc nội công ngoại quốc 內工外國</a></li><li><a href="#vii-8">Khung gỗ và kết cấu</a></li><li><a href="#vii-9">Mái chùa Việt Nam</a></li><li><a href="#vii-10">Kiến trúc và cảnh quan</a></li><li><a href="#vii-11">Huế và chùa Thiên Mụ 天姥寺</a></li><li><a href="#vii-12">Dung hợp tôn giáo và hệ thống bàn thờ đa tầng</a></li></ol></div>
 <div class="hab-toc-group"><a class="hab-toc-part" href="#synthesis"><span>VIII</span> Tổng hợp — Năm truyền thống, một kiến trúc Phật giáo?</a><ol><li><a href="#viii-1">Từ stūpa đến tháp</a></li><li><a href="#viii-2">Từ xá-lợi đến hình tượng</a></li><li><a href="#viii-3">Vật liệu định hình truyền thống khu vực</a></li><li><a href="#viii-4">So sánh mặt bằng tu viện</a></li><li><a href="#viii-5">Kiến trúc và quyền lực</a></li><li><a href="#viii-6">Kiến trúc và cảnh quan</a></li><li><a href="#viii-7">Năm cách làm hiện diện Đức Phật bằng kiến trúc</a></li></ol></div>
-</nav></div></section></main>
+</nav></div></section>  <section class="hab-map-section" id="sites-map" aria-labelledby="hab-sites-map-title">
+    <div class="hab-shell">
+      <div class="hab-map-head">
+        <div class="hab-section-head">
+          <div class="hab-kicker" data-hab-map-copy="kicker">Địa lý của chuyên đề</div>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Bản đồ tương tác các địa điểm được nhắc đến</h2>
+          <p data-hab-map-copy="intro">Khám phá các di tích, tự viện, địa điểm khảo cổ, hang động và cảnh quan thiêng được nhắc trong chuyên đề. Các công trình nằm trong cùng một khuôn viên được gộp vào một điểm.</p>
+        </div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">46 địa điểm</div>
+      </div>
+      <div class="hab-map-filters" aria-label="Bộ lọc bản đồ">
+        <label><span data-hab-map-copy="search">Tìm kiếm</span><input id="hab-map-search" type="search" placeholder="Di tích, thành phố, vùng…"></label>
+        <label><span data-hab-map-copy="country">Quốc gia</span><select id="hab-map-country"><option value="">Tất cả quốc gia</option></select></label>
+        <label><span data-hab-map-copy="type">Loại địa điểm</span><select id="hab-map-type"><option value="">Tất cả loại</option></select></label>
+        <button id="hab-map-reset" type="button" data-hab-map-copy="reset">Đặt lại</button>
+      </div>
+      <div id="buddhist-architecture-sites-map" class="hab-sites-map" aria-labelledby="hab-sites-map-title"></div>
+      <div id="buddhist-architecture-sites-legend" class="hab-map-legend" aria-label="Các quốc gia hiển thị"></div>
+    </div>
+  </section>
+</main>
 ```
 {{< include histoire-architecture-bouddhique/part-i.qmd >}}
 {{< include histoire-architecture-bouddhique/part-ii.qmd >}}
