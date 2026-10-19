@@ -38,7 +38,7 @@ format:
   </div></section>
 
   <section class="yom-section" id="chronologie"><div class="yom-shell">
-    <div class="yom-section-head"><div class="yom-kicker">02 · 인터랙티브 연표</div><h2>조정, 사원, 불교미술 발원을 오간 경력</h2><p>사건을 필터링하여 염승익의 생애에서 각 영역이 어떻게 전개되는지 살펴볼 수 있다.</p></div>
+    <div class="yom-section-head"><div class="yom-kicker">02 · 인터랙티브 연표</div><h2>조정, 사원, 불교미술 발원을 오간 경력</h2></div>
     <figure class="yom-map-insert yom-map-insert--compact">
       <img src="/assets/img/yom-sungik/map-parcours-1277-1283.webp" alt="1277년부터 1283년까지 개경에서 이루어진 염승익의 종교적·행정적 이동 경로 지도" loading="lazy">
       <figcaption><strong>염승익의 종교적·행정적 이동, 1277–1283년.</strong> 천효사, 현화사, 왕실 사경소, 그리고 1283년 석탑 복원 순행 등 그의 경력 전반부를 구성하는 주요 이동을 한눈에 보여준다.</figcaption>
