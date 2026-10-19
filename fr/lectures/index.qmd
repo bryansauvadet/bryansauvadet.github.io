@@ -3,8 +3,8 @@ title: "Mes lectures"
 lang: fr
 format:
   html:
-    include-before-body: ../_includes/fr-header.html
-    include-after-body: ../_includes/fr-footer.html
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
 ---
 <section class="page-hero"><h1>Mes lectures</h1></section>
 <main class="content"><div class="content-inner"><p class="lead">Une sélection d’ouvrages à lire pour mieux comprendre l’histoire de l’art bouddhique, le bouddhisme, l’histoire de l’Asie, l’archéologie et l’architecture.</p><div class="card"><h3>Fiches de lecture</h3><p>Chaque compte rendu répond d’abord à deux questions : pourquoi lire ce livre, et qu’apporte-t-il réellement à la compréhension de son domaine ?</p></div></div></main>
