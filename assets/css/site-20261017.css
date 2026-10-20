@@ -780,25 +780,66 @@ html.site-intro-skip .site-intro{display:none!important}
 }
 
 
-/* Fieldwork / pilgrimages — reading layout */
-.fieldwork-story p,
-.fieldwork-index > p,
-.fieldwork-index-section > p{
+
+/* Fieldwork / pilgrimages — editorial photo layout */
+.fieldwork-story{
+  --fw-figure:min(52%,520px);
+  --fw-wide:min(76%,860px);
+  --fw-hero:min(82%,980px);
+  --fw-gap:3rem;
+}
+.fieldwork-story p{
   text-align:justify;
   text-justify:auto;
   hyphens:auto;
 }
 .fieldwork-story figure{
-  margin-top:3rem;
-  margin-bottom:3rem;
+  width:var(--fw-figure);
+  margin-top:var(--fw-gap);
+  margin-bottom:var(--fw-gap);
+}
+.fieldwork-story figure img{
+  display:block;
+  width:100%;
+  height:auto;
+  border-radius:10px;
+  box-shadow:0 10px 26px rgba(0,0,0,.08);
 }
 .fieldwork-story figure figcaption{
-  margin-top:.75rem;
-  line-height:1.5;
+  margin-top:.8rem;
+  font-size:.92rem;
+  line-height:1.55;
+  color:#6f675d;
 }
-@media (max-width:720px){
-  .fieldwork-story figure{
-    margin-top:2.25rem;
-    margin-bottom:2.25rem;
+.fieldwork-story figure.fieldwork-hero{
+  width:var(--fw-hero);
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:1.25rem;
+  margin-bottom:3.25rem;
+}
+.fieldwork-story figure:not(.fieldwork-hero):not(.figure-wide):nth-of-type(even){
+  margin-left:0;
+  margin-right:auto;
+}
+.fieldwork-story figure:not(.fieldwork-hero):not(.figure-wide):nth-of-type(odd){
+  margin-left:auto;
+  margin-right:0;
+}
+.fieldwork-story figure.figure-wide{
+  width:var(--fw-wide);
+  margin-left:auto;
+  margin-right:auto;
+}
+.fieldwork-story figure + p{margin-top:1.5rem;}
+.fieldwork-story p + figure{margin-top:2.5rem;}
+@media(max-width:900px){
+  .fieldwork-story figure,
+  .fieldwork-story figure.fieldwork-hero,
+  .fieldwork-story figure.figure-wide{
+    width:min(100%,42rem);
+    margin-left:auto;
+    margin-right:auto;
   }
 }
+
