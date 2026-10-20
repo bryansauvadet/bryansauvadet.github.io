@@ -1,0 +1,13 @@
+---
+title: "Expositions"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+<section class="page-hero"><h1>Expositions</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">Notes, comptes rendus et parcours d’expositions visitées dans les musées, en lien avec l’art bouddhique, l’Asie et l’histoire de l’art.</p>
+<div class="database-empty-state"><h2>Expositions visitées</h2><p>Cette section rassemblera progressivement mes notes et comptes rendus d’expositions muséales.</p></div>
+</div></main>
