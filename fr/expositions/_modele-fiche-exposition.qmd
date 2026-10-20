@@ -43,7 +43,6 @@ Mode d’emploi :
 
         <dl class="exhibit-report__meta" aria-label="Informations sur l’exposition">
           <div><dt>Dates de l’exposition</dt><dd>[[DATE DÉBUT]] — [[DATE FIN]]</dd></div>
-          <div><dt>Date de visite</dt><dd>[[DATE DE VISITE]]</dd></div>
           <div><dt>Musée</dt><dd>[[MUSÉE]]</dd></div>
           <div><dt>Ville</dt><dd>[[VILLE · PAYS]]</dd></div>
           <div><dt>Commissariat</dt><dd>[[COMMISSAIRE(S)]]</dd></div>
