@@ -6,6 +6,27 @@ format:
     include-before-body: _includes/zh-header.html
     include-after-body: _includes/zh-footer.html
 ---
+<style>
+.fieldwork-story figure{
+  width:50%;
+  margin:2rem auto;
+}
+.fieldwork-story figure img{
+  display:block;
+  width:100%;
+  height:auto;
+  margin:0 auto;
+}
+.fieldwork-story figure figcaption{
+  margin-top:.6rem;
+}
+@media (max-width: 720px){
+  .fieldwork-story figure{
+    width:90%;
+  }
+}
+</style>
+
 <section class="page-hero"><h1>萨迦寺</h1><p class="lead">ས་སྐྱ་དགོན་པ་ · 西藏后藏萨迦</p></section>
 <main class="content"><div class="content-inner fieldwork-story">
 <figure class="fieldwork-hero"><img src="/assets/images/sakya-02.jpg" alt="萨迦寺前" loading="eager"><figcaption>抵达后藏后，我在萨迦寺前。</figcaption></figure>
