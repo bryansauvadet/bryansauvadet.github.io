@@ -7,7 +7,7 @@ format:
     include-after-body: _includes/fr-footer.html
 ---
 <section class="page-hero"><h1>Travaux de terrain et pèlerinages</h1></section>
-<main class="content"><div class="content-inner">
+<main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">Notes de terrain, visites de monastères, monuments et sites archéologiques, itinéraires de recherche et pèlerinages.</p>
 <section class="fieldwork-index-section"><h2>Lieux visités</h2><ul class="fieldwork-place-list"><li><a href="/fr/terrain-pelerinages/sakya/"><strong>Monastère de Sakya</strong></a> <span>— Tibet · Tsang</span></li></ul></section>
 <section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
