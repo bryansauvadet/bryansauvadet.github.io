@@ -7,4 +7,8 @@ format:
     include-after-body: _includes/vi-footer.html
 ---
 <section class="page-hero"><h1>Sổ tay</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">Ghi chép nghiên cứu, đọc sách và các công việc đang thực hiện.</p><div class="database-grid"><a class="database-card readings-card" href="/vi/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette-inline.svg" alt="Sách và nghiên cứu về nghệ thuật Phật giáo và châu Á" loading="lazy"></div><h2>Sách tôi đọc</h2><p>Ghi chép và điểm sách: vì sao nên đọc những cuốn sách này và chúng giúp ta hiểu điều gì.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
+<main class="content"><div class="content-inner"><p class="lead">Ghi chép nghiên cứu, đọc sách và các công việc đang thực hiện.</p><div class="database-grid">
+<a class="database-card readings-card" href="/vi/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette-inline.svg" alt="Sách và nghiên cứu về nghệ thuật Phật giáo và châu Á" loading="lazy"></div><h2>Sách tôi đọc</h2><p>Ghi chép và điểm sách: vì sao nên đọc những cuốn sách này và chúng giúp ta hiểu điều gì.</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card" href="/vi/exhibitions/"><div class="database-card-kicker">Bảo tàng</div><h2>Triển lãm</h2><p>Ghi chép, nhận xét và lộ trình tham quan các triển lãm trong bảo tàng, liên quan đến nghệ thuật Phật giáo, châu Á và lịch sử nghệ thuật.</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card" href="/vi/fieldwork-pilgrimages/"><div class="database-card-kicker">Thực địa</div><h2>Khảo sát thực địa và hành hương</h2><p>Ghi chép thực địa, khảo sát chùa, công trình kiến trúc và di chỉ khảo cổ, các hành trình nghiên cứu và hành hương.</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+</div></div></main>
