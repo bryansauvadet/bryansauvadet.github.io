@@ -1,0 +1,136 @@
+---
+title: "인각사와 삼국유사 — 역사의 향기를 따라 천년의 숨결을 만나다"
+lang: fr
+image: https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--ingaksa" id="haut">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image">
+<img src="https://cdn.ibulgyo.com/news/photo/202102/210391_221952_3931.jpg" alt="Ensemble d’objets rituels bouddhiques mis au jour à Ingaksa" loading="eager" decoding="async" referrerpolicy="no-referrer">
+<figcaption>Ensemble d’objets rituels bouddhiques provenant des fouilles d’Ingaksa. Ces pièces métalliques, datées autour du IXe siècle, furent présentées ensemble après restauration.</figcaption>
+</figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">Compte rendu d’exposition · Archéologie bouddhique · Koryŏ · Iryŏn · <em>Samguk yusa</em></div>
+<h1>인각사와 삼국유사</h1>
+<p class="exhibit-report__venue"><em>Ingaksa et le Samguk yusa — suivre le parfum de l’histoire, rencontrer le souffle d’un millénaire</em><br>Musée central bouddhique · 불교중앙박물관 · Séoul</p>
+<dl class="exhibit-report__meta" aria-label="Informations sur l’exposition">
+<div><dt>Dates</dt><dd>13 novembre 2013 — 12 janvier 2014</dd></div>
+<div><dt>Musée</dt><dd>Musée central bouddhique<br><span lang="ko">불교중앙박물관</span></dd></div>
+<div><dt>Ville</dt><dd>Séoul · Corée du Sud</dd></div>
+<div><dt>Ensemble présenté</dt><dd>77 ensembles · 195 pièces · 5 Trésors</dd></div>
+<div><dt>Thème</dt><dd>Ingaksa · Iryŏn · archéologie · transmission du <em>Samguk yusa</em></dd></div>
+<div><dt>Catalogue</dt><dd>271 pages · publié le 12 novembre 2013</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>Fil directeur :</strong> comprendre comment l’histoire matérielle d’un monastère, la trajectoire d’un moine et la transmission d’un texte peuvent être étudiées ensemble comme un seul patrimoine bouddhique.</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav" aria-label="Sommaire">
+<a href="#pourquoi">Pourquoi la voir ?</a><a href="#proposition">Proposition</a><a href="#parcours">Parcours</a><a href="#oeuvres">Objets à retenir</a><a href="#comprendre">Ce qu’elle permet de comprendre</a><a href="#ressources">Pour aller plus loin</a><a href="#bilan">Bilan</a>
+</nav></div>
+
+<section class="exhibit-report__section" id="pourquoi"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · Essentiel</div><h2>Pourquoi voir cette exposition ?</h2></div>
+<div class="exhibit-report__content">
+<p>Cette exposition est particulièrement importante parce qu’elle ne traite pas le <em>Samguk yusa</em> comme un livre abstrait, séparé du lieu où il fut achevé. Elle replace le texte dans Ingaksa, le monastère où Iryŏn passa les dernières années de sa vie, et relie l’histoire intellectuelle à l’archéologie du site, aux objets liturgiques, aux inscriptions et aux éditions anciennes.</p>
+<p>Le rassemblement de 77 ensembles, soit 195 pièces, permettait en outre de montrer pour la première fois après conservation un groupe exceptionnel de métal bouddhique découvert lors des fouilles de 2008–2009. Ces objets donnent une profondeur chronologique au monastère bien antérieure à Iryŏn : l’histoire d’Ingaksa ne commence pas avec l’auteur du <em>Samguk yusa</em>, mais celui-ci transforme durablement la mémoire du lieu.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide">
+<img src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="Samguk yusa, volumes 4 et 5, exemplaire conservé à Pŏmŏsa" loading="lazy" referrerpolicy="no-referrer">
+<figcaption><em>Samguk yusa</em>, volumes 4–5, exemplaire ancien conservé à Pŏmŏsa. L’exposition confrontait différentes éditions afin de rendre visible la transmission matérielle du texte.</figcaption>
+</figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposition"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · Curatorial</div><h2>Quelle est la proposition de l’exposition ?</h2></div>
+<div class="exhibit-report__content">
+<p class="exhibit-report__thesis">L’exposition construit une histoire à trois dimensions : un site archéologique, une biographie monastique et un texte fondateur. Aucun de ces trois éléments ne suffit seul à expliquer Ingaksa.</p>
+<ul class="exhibit-report__keypoints">
+<li><strong>Partir du sol.</strong> Les fouilles menées entre 1992 et 2009 révèlent plusieurs états du monastère et des objets liturgiques du IXe siècle.</li>
+<li><strong>Replacer Iryŏn dans une institution.</strong> Ingaksa fut son <em>haan-so</em>, mais aussi un centre important du bouddhisme Sŏn de Koryŏ, notamment lors des assemblées des Neuf Montagnes.</li>
+<li><strong>Montrer le <em>Samguk yusa</em> comme objet transmis.</strong> Les différentes éditions, dont l’exemplaire ancien de Pŏmŏsa, rappellent que le texte a une histoire matérielle propre.</li>
+<li><strong>Relier récits et images.</strong> Tan'gun, Ch'ŏyong, la Guanyin aux Mille Mains et la reine Sŏndŏk deviennent des portes d’entrée vers les religions, les légendes et les arts évoqués dans le livre.</li>
+</ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="parcours"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · Visite</div><h2>Un parcours en quatre temps</h2></div>
+<div class="exhibit-report__content">
+<ol class="exhibit-report__route">
+<li><strong>La fondation d’Ingaksa.</strong><span>Le premier ensemble présente le site, son paysage, ses traditions de fondation et surtout les résultats des fouilles. Les objets métalliques du IXe siècle permettent d’aborder la pratique rituelle dans le monastère à une époque ancienne.</span></li>
+<li><strong>Iryŏn et l’essor d’Ingaksa.</strong><span>Le deuxième temps suit le moine au XIIIe siècle. Sa présence transforme Ingaksa en centre majeur ; la stèle funéraire de Pokak kuksa et ses estampages documentent cette phase.</span></li>
+<li><strong>Ingaksa, lieu d’achèvement du <em>Samguk yusa</em>.</strong><span>Le livre est montré dans sa pluralité : chronique, recueil de traditions, mémoire du bouddhisme et archive de récits que les histoires officielles avaient souvent laissés de côté.</span></li>
+<li><strong>Déclin, destruction et reconstruction.</strong><span>La dernière partie suit les restrictions de Chosŏn, l’incendie de 1597, les changements administratifs et les campagnes modernes de restauration et de fouilles.</span></li>
+</ol>
+<figure class="exhibit-report__figure">
+<img src="https://www.heritage.go.kr/unisearch/images/treasure/thumb/1620913.jpg" alt="Stūpa et stèle du précepteur national Pokak à Ingaksa" loading="lazy" referrerpolicy="no-referrer">
+<figcaption>Stūpa et stèle de Pokak kuksa Iryŏn à Ingaksa. La stèle, aujourd’hui très fragmentaire, constitue une source essentielle sur la dernière période de la vie du moine.</figcaption>
+</figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="oeuvres"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · Sélection</div><h2>Objets et documents à retenir</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work">
+<img src="https://cdn.ibulgyo.com/news/photo/202102/210391_221952_3931.jpg" alt="Dépôt rituel d’Ingaksa" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>인각사 출토 공양구 일괄 — Ensemble d’objets rituels mis au jour à Ingaksa</h3>
+<p class="exhibit-report__work-meta">vers le IXe siècle · métal bouddhique · fouilles de 2008–2009</p>
+<p>Brûle-parfum à manche, boîte à encens, kundikā et autres objets forment un ensemble cohérent exceptionnel. Leur découverte groupée permet d’étudier non seulement la typologie des objets, mais aussi leur usage conjoint et les échanges techniques avec la Chine des Tang.</p></div>
+</article>
+<article class="exhibit-report__work">
+<img src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="Samguk yusa, volumes 4 et 5" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>삼국유사 권4–5 — <em>Samguk yusa</em>, volumes 4–5</h3>
+<p class="exhibit-report__work-meta">fin de Koryŏ / début de Chosŏn · impression xylographique · Pŏmŏsa</p>
+<p>Présenter le livre comme objet est essentiel. Les caractères, le papier, la mise en page et les traces de transmission rappellent que la survie du <em>Samguk yusa</em> dépend d’une chaîne d’éditions, de copies et de conservation, et non d’un texte désincarné.</p></div>
+</article>
+<article class="exhibit-report__work">
+<img src="https://www.heritage.go.kr/unisearch/images/treasure/thumb/1620913.jpg" alt="Stèle du précepteur national Pokak" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>인각사 보각국존 정조탑비 — Stèle funéraire de Pokak kuksa</h3>
+<p class="exhibit-report__work-meta">Koryŏ · inscription biographique d’Iryŏn · Ingaksa</p>
+<p>Composée par Min Chi et réalisée à partir de caractères de Wang Xizhi, la stèle documente Iryŏn, sa présence à Ingaksa et les assemblées des Neuf Montagnes. Sa destruction partielle rend les estampages anciens particulièrement précieux pour reconstituer le monument et son texte.</p></div>
+</article>
+<article class="exhibit-report__work">
+<img src="https://www.koya-culture.com/data/photos/20190103/art_15476216647463_797d39.jpg" alt="Portrait moderne d’Iryŏn à Ingaksa" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>일연 — Iryŏn comme figure de mémoire</h3>
+<p class="exhibit-report__work-meta">1206–1289 · moine de Koryŏ · auteur du <em>Samguk yusa</em></p>
+<p>L’exposition ne réduit pas Iryŏn à un auteur. Elle le replace dans sa carrière religieuse, ses réseaux Sŏn, son titre de précepteur national et sa relation concrète à Ingaksa. Cette approche permet de comprendre le <em>Samguk yusa</em> comme le produit d’une vie monastique et d’une culture documentaire.</p></div>
+</article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="comprendre"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · Connaissances</div><h2>Ce que l’exposition permet de comprendre</h2></div>
+<div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints">
+<li><strong>Le <em>Samguk yusa</em> est profondément bouddhique.</strong> Son intérêt historique ne doit pas faire oublier que sa collecte, sa structure et une grande partie de ses récits appartiennent à une culture monastique.</li>
+<li><strong>Ingaksa est plus ancien que la mémoire d’Iryŏn.</strong> Les fouilles restituent une histoire du site remontant à la période ancienne de Silla et montrent une activité rituelle importante bien avant le XIIIe siècle.</li>
+<li><strong>L’archéologie modifie l’histoire de l’art.</strong> Un dépôt trouvé en contexte permet de reconstruire des usages que l’étude isolée d’un objet de musée ne peut pas toujours restituer.</li>
+<li><strong>La transmission est elle-même un objet d’histoire.</strong> Stèles brisées, estampages, éditions anciennes et restaurations modernes montrent que le patrimoine survit par transformations successives.</li>
+</ul>
+<div class="exhibit-report__research"><strong>Intérêt pour l’histoire de l’art bouddhique</strong>
+<p>La force de cette exposition est de faire dialoguer culture matérielle et culture textuelle. Elle montre qu’un monastère n’est pas seulement un ensemble architectural : il produit, conserve et transmet des objets, des biographies, des inscriptions et des récits. Ingaksa devient ainsi un observatoire privilégié de la façon dont le bouddhisme coréen fabrique sa propre mémoire.</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="ressources"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · Documentation</div><h2>Pour aller plus loin</h2></div>
+<div class="exhibit-report__content"><ul class="exhibit-report__resources">
+<li><strong>Page officielle :</strong> <a href="https://museum.buddhism.or.kr/?c=2/14&p=18&uid=91" target="_blank" rel="noopener">Musée central bouddhique — 인각사와 삼국유사</a>.</li>
+<li><strong>Catalogue :</strong> 불교중앙박물관, <em>인각사와 삼국유사 — 역사의 향기를 따라 천년의 숨결을 만나다</em>, Séoul, 2013, 271 p.</li>
+<li><strong>Essais du catalogue :</strong> histoire d’Ingaksa ; Iryŏn et le <em>Samguk yusa</em> ; objets métalliques bouddhiques découverts à Ingaksa ; transcription et traduction de la stèle de Pokak kuksa.</li>
+<li><strong>Pour le texte :</strong> comparer les traditions du <em>Samguk yusa</em> avec les récits plus institutionnels du <em>Samguk sagi</em> permet de mesurer ce que la mémoire monastique conserve de différent.</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="bilan"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · Conclusion</div><h2>Bilan</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__verdict">
+<div class="exhibit-report__verdict-label">Appréciation</div>
+<strong>Une exposition essentielle pour penser ensemble le lieu, le texte et l’objet</strong>
+<p><em>Ingaksa et le Samguk yusa</em> réussit à dépasser la célébration d’un grand classique. Son apport le plus fort consiste à rendre au texte son environnement matériel : un monastère, des pratiques, des objets, une stèle, des réseaux religieux et une histoire de destructions puis de restaurations. C’est précisément cette articulation qui en fait une exposition particulièrement riche pour l’histoire de l’art bouddhique.</p>
+</div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#haut">↑ Retour en haut</a></div>
+</main>
+```
