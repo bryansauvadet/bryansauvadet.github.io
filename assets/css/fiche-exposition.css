@@ -189,3 +189,39 @@
   .exhibit-report--pure-land .exhibit-report__hero-image img,
   .exhibit-report--pure-land .exhibit-report__work img{max-height:none;min-height:0}
 }
+
+/* 인각사와 삼국유사 — préserver les objets et manuscrits */
+.exhibit-report--ingaksa .exhibit-report__hero-image img{
+  width:100%;
+  height:auto;
+  max-height:650px;
+  object-fit:contain;
+  object-position:center;
+  background:var(--er-paper);
+}
+.exhibit-report--ingaksa .exhibit-report__figure img{
+  width:100%;
+  height:auto;
+  max-height:680px;
+  object-fit:contain;
+  object-position:center;
+  margin:0 auto;
+  background:var(--er-paper);
+}
+.exhibit-report--ingaksa .exhibit-report__work img{
+  width:100%;
+  height:auto;
+  max-height:390px;
+  aspect-ratio:auto;
+  object-fit:contain;
+  object-position:center;
+  margin:0 auto;
+  background:var(--er-paper);
+}
+.exhibition-card-image img.exhibition-card-image--ingaksa{
+  object-position:center 28%;
+}
+@media(max-width:600px){
+  .exhibit-report--ingaksa .exhibit-report__hero-image img,
+  .exhibit-report--ingaksa .exhibit-report__work img{max-height:none;min-height:0}
+}
