@@ -1,0 +1,63 @@
+---
+title: "꿈꾸는 즐거움, 극락極樂"
+lang: vi
+image: https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg
+format:
+  html:
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--pure-land" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="Tượng Amitābha ngồi bằng gỗ thếp vàng của Hŭksŏksa, 1458" loading="eager" decoding="async" referrerpolicy="no-referrer"><figcaption><em>영주 흑석사 목조아미타여래좌상</em> — tượng Amitābha ngồi của Hŭksŏksa, năm 1458, một tác phẩm trung tâm của triển lãm.</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">Bài viết triển lãm · Nghệ thuật Phật giáo Hàn Quốc · Amitābha · Tịnh độ</div>
+<h1>꿈꾸는 즐거움, 극락極樂</h1>
+<p class="exhibit-report__venue"><em>Niềm vui mơ về Cực Lạc — Sukhāvatī của Amitābha</em><br>Bảo tàng Phật giáo Trung ương · 불교중앙박물관 · Seoul</p>
+<dl class="exhibit-report__meta" aria-label="Thông tin triển lãm">
+<div><dt>Thời gian</dt><dd>19/10 — 18/12/2016</dd></div>
+<div><dt>Bảo tàng</dt><dd>Bảo tàng Phật giáo Trung ương</dd></div>
+<div><dt>Thành phố</dt><dd>Seoul · Hàn Quốc</dd></div>
+<div><dt>Trưng bày</dt><dd>97 hiện vật · 1 Quốc bảo · 8 Bảo vật</dd></div>
+<div><dt>Chủ đề</dt><dd>Amitābha · Sukhāvatī · vãng sinh</dd></div>
+<div><dt>Loại hình</dt><dd>Triển lãm đặc biệt · nghệ thuật Phật giáo</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>Câu hỏi trung tâm:</strong> nghệ thuật Phật giáo Hàn Quốc đã biến khát vọng vãng sinh Tịnh độ của Amitābha thành hình ảnh, không gian và thực hành nghi lễ như thế nào?</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav"><a href="#why">Ý nghĩa</a><a href="#proposal">Đề xuất giám tuyển</a><a href="#route">Lộ trình</a><a href="#works">Tác phẩm chính</a><a href="#understand">Điều có thể hiểu</a><a href="#resources">Tư liệu</a><a href="#verdict">Đánh giá</a></nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · Cốt lõi</div><h2>Vì sao triển lãm này quan trọng?</h2></div><div class="exhibit-report__content">
+<p><em>꿈꾸는 즐거움, 극락極樂</em> không xem Tịnh độ như một chủ đề biểu tượng biệt lập. Triển lãm tái dựng cả một hệ thống tín ngưỡng: Amitābha, cảnh giới Sukhāvatī, phương pháp vãng sinh, lời phát nguyện và những hình ảnh dẫn người chết sang thế giới bên kia.</p>
+<p>Hội họa, điêu khắc, kinh điển, chuông và đồ cúng được đặt lại trong chuỗi hành động gồm niệm Phật, tạo công đức, quán tưởng và chuẩn bị cho cái chết.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a4416341551993f740daa8b2f50ecf87101437.jpg" alt="Không gian trưng bày 꿈꾸는 즐거움, 극락" loading="lazy" referrerpolicy="no-referrer"><figcaption>Không gian triển lãm, nơi tượng và tranh Phật giáo khổ lớn được đặt trong cùng một môi trường nghi lễ.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · Giám tuyển</div><h2>Đề xuất của triển lãm</h2></div><div class="exhibit-report__content">
+<p class="exhibit-report__thesis">Cực Lạc không chỉ là một thiên đường được mô tả bằng hình ảnh; đó là một kiến trúc tinh thần của sự cứu độ, tổ chức kinh điển, hình tượng, nghi lễ và không gian chùa.</p>
+<ul class="exhibit-report__keypoints"><li><strong>Bắt đầu từ kinh điển.</strong> Ba kinh Tịnh độ tạo nền tảng cho ngôn ngữ biểu tượng.</li><li><strong>Biến Sukhāvatī thành không gian.</strong> Ao sen, lầu các, thánh chúng và hóa sinh trong hoa sen biến giáo lý thành phong cảnh.</li><li><strong>Xem cứu độ như thực hành.</strong> Niệm Phật, phát nguyện và bố thí đặt nghệ thuật trong kinh tế công đức.</li><li><strong>Nối nghệ thuật với cái chết.</strong> Các cảnh tiếp dẫn và thuyền đưa người chết về phương Tây làm cho hành trình sau cái chết trở nên hữu hình.</li></ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · Tham quan</div><h2>Năm phần của lộ trình</h2></div><div class="exhibit-report__content">
+<ol class="exhibit-report__route"><li><strong>Amitābha, chủ của Tịnh độ.</strong><span>Kinh điển, thủ ấn và hai vị bồ tát Avalokiteśvara và Mahāsthāmaprāpta.</span></li><li><strong>Thế giới chỉ có an lạc.</strong><span>Tranh và không gian điện Cực Lạc làm Sukhāvatī hiện ra như một nơi chốn cụ thể.</span></li><li><strong>Chín phẩm vãng sinh.</strong><span>Tranh Cực Lạc cửu phẩm diễn giải hệ thống vãng sinh của Kinh Quán Vô Lượng Thọ.</span></li><li><strong>Khát vọng Cực Lạc.</strong><span>Văn phát nguyện, cúng dường và niệm Phật ghi lại mong ước cụ thể của tín đồ.</span></li><li><strong>Được dẫn tới Sukhāvatī.</strong><span>Tiếp dẫn, bồ tát dẫn đường và thuyền Bát Nhã biến cứu độ thành một hành trình bằng hình ảnh.</span></li></ol>
+<figure class="exhibit-report__figure"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a231dff37897f9b13a7467f1d548e275101437.jpg" alt="Các tượng Phật kim loại nhỏ trong triển lãm" loading="lazy" referrerpolicy="no-referrer"><figcaption>Các tượng Phật kim loại nhỏ, cho thấy một quy mô sùng kính thân mật khác với tranh thờ khổ lớn.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · Tác phẩm</div><h2>Những tác phẩm cần nhớ</h2></div><div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="Tượng Amitābha Hŭksŏksa" loading="lazy" referrerpolicy="no-referrer"><div><h3>영주 흑석사 목조아미타여래좌상 — Amitābha ngồi của Hŭksŏksa</h3><p class="exhibit-report__work-meta">1458 · đầu Chosŏn · gỗ thếp vàng · Quốc bảo</p><p>Một tác phẩm tiêu biểu của điêu khắc Phật giáo thế kỷ XV có liên hệ với bảo trợ hoàng gia. Các vật chứa trong tượng giúp hiểu quá trình tạo tượng, người cúng dường và nghi thức an vị.</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.icpn.co.kr/news/photo/202005/10753_22314_1158.jpg" alt="Ŭnhaesa Yeombulwangsaengcheopgyeongdo" loading="lazy" referrerpolicy="no-referrer"><div><h3>영천 은해사 염불왕생첩경도 — Con đường nhanh tới vãng sinh qua niệm Phật</h3><p class="exhibit-report__work-meta">Cuối Chosŏn · Ŭnhaesa · Bảo vật</p><p>Bức tranh kết hợp việc niệm danh Amitābha, phong cảnh Tịnh độ và sự vãng sinh của hành giả thành một hành trình thị giác thống nhất.</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202206/218339_239358_951.jpg" alt="Nhóm bảy tượng Amitābha bằng đồng mạ vàng ở Simgoksa" loading="lazy" referrerpolicy="no-referrer"><div><h3>익산 심곡사 금동아미타여래칠존좌상 — Bảy tượng Amitābha của Simgoksa</h3><p class="exhibit-report__work-meta">Đồng mạ vàng · phát hiện trong tháp · Bảo vật</p><p>Những tượng nhỏ từng được đặt trong tháp cho thấy hình tượng Phật giáo cũng có thể đóng vai trò vật thiêng ẩn bên trong kiến trúc.</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/201910/202591_205230_4551.jpg" alt="Tranh Cực Lạc cửu phẩm" loading="lazy" referrerpolicy="no-referrer"><div><h3>극락구품도 — Cửu phẩm vãng sinh</h3><p class="exhibit-report__work-meta">Cuối Chosŏn · truyền thống hội họa Tịnh độ</p><p>Ao sen trở thành bản đồ đạo đức và cứu độ học, diễn giải chín cấp độ vãng sinh của Kinh Quán Vô Lượng Thọ bằng hình ảnh.</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · Hiểu biết</div><h2>Triển lãm giúp hiểu điều gì?</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__keypoints"><li><strong>Tịnh độ là một cấu trúc thị giác.</strong> Văn bản được lựa chọn và tái tổ chức thành phong cảnh dễ hiểu.</li><li><strong>Hình tượng Phật giáo có tính hành động.</strong> Nó hỗ trợ niệm Phật, quán tưởng, tạo công đức và chuẩn bị cho cái chết.</li><li><strong>Tín ngưỡng Amitābha vượt qua ranh giới xã hội.</strong> Hoàng gia, tăng sĩ và cư sĩ cùng tham gia.</li><li><strong>Kiến trúc là một phần của ý nghĩa.</strong> Điện Cực Lạc giúp hiểu vị trí và chức năng của tranh, tượng.</li></ul><div class="exhibit-report__research"><strong>Ý nghĩa đối với lịch sử nghệ thuật Phật giáo</strong><p>Triển lãm cho phép đọc hoa sen, thủ ấn, tiếp dẫn, thuyền cứu độ và văn phát nguyện như những công cụ thị giác để tư duy và thực hành sự cứu độ, chứ không phải như chi tiết trang trí.</p></div></div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · Tư liệu</div><h2>Đọc thêm</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__resources"><li><strong>Trang chính thức:</strong> <a href="https://museum.buddhism.or.kr/?c=2/14&p=14&uid=181" target="_blank" rel="noopener">Bảo tàng Phật giáo Trung ương</a>.</li><li><strong>Danh mục:</strong> 불교중앙박물관, <em>꿈꾸는 즐거움, 극락極樂</em>, Seoul, 2016, 223 tr.</li><li><strong>Kinh nền tảng:</strong> Kinh Vô Lượng Thọ, Kinh Quán Vô Lượng Thọ và Kinh A-di-đà.</li></ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · Kết luận</div><h2>Đánh giá</h2></div><div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">Nhận định</div><strong>Một triển lãm tham chiếu để hiểu cách sự cứu độ trở thành hình ảnh</strong><p><em>꿈꾸는 즐거움, 극락極樂</em> tái dựng một thế giới tôn giáo trong đó kinh điển, hình tượng, kiến trúc, niệm Phật và tưởng tượng về cái chết nâng đỡ lẫn nhau. Giá trị lớn nhất là cho thấy Tịnh độ như một hệ thống thị giác và nghi lễ hoàn chỉnh.</p></div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ Lên đầu trang</a></div>
+</main>
+```
