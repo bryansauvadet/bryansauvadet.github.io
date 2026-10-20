@@ -7,9 +7,29 @@ format:
     include-after-body: _includes/ja-footer.html
 ---
 <section class="page-hero"><h1>比叡山</h1><p class="lead">比叡山 · 京都 / 大津、日本</p></section>
-<main class="content"><div class="content-inner fieldwork-story">
+<main class="content"><div class="content-inner fieldwork-story hiei-story">
 
-<figure class="fieldwork-hero"><img src="/assets/images/mount-hiei-02.webp" alt="延暦寺の堂宇を背景にした比叡山での訪問" loading="eager"><figcaption>延暦寺の堂宇の前で。フィールドワーク、巡礼、そして友情が重なった一日だった。</figcaption></figure>
+<p>比叡山を離れるとき、「山岳寺院」という言葉を以前より具体的に理解できた気がした。ここでは建築だけが独立して存在しているのではない。道、森、距離、眺望、気候、そして反復される宗教実践が一体となって空間をつくっている。景観ゆえに美しい場所もあれば、そこに蓄積された物語ゆえに美しい場所もある。比叡山はその両方だった。</p>
+
+<div class="fieldwork-notes"><h2>基本情報</h2><p><strong>場所：</strong>比叡山、京都・大津間。<br><strong>中心寺院：</strong>延暦寺。<br><strong>開創：</strong>788年、最澄。<br><strong>宗派：</strong>天台宗。<br><strong>主要区域：</strong>東塔・西塔・横川。<br><strong>文化遺産：</strong>延暦寺はユネスコ世界遺産「古都京都の文化財」の構成資産。</p>
+
+<div class="fieldwork-strip fieldwork-strip-3"><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="延暦寺の堂宇を背景にした比叡山での訪問" loading="eager"><figcaption>延暦寺の堂宇の前で。フィールドワーク、巡礼、そして友情が重なった一日だった。</figcaption></figure>
+
+<p class="lead">日本での旅のなかでも、比叡山を訪れたこの日は特に印象深い一日となった。日本仏教を専門とする旧友で、大学時代の同級生でもある <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a> とともに山を歩いた。比叡山は以前から文献や日本仏教史を通じてよく知っていたが、実際に歩くことで、その名は斜面、森、距離、そして境界からなる具体的な地形へと変わった。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="比叡山の仏堂" loading="lazy"><figcaption>延暦寺の建築は、孤立した一棟の建物というより、山岳寺院の景観を構成する要素として現れる。</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="延暦寺の堂宇を背景にした比叡山での訪問" loading="eager"><figcaption>延暦寺の堂宇の前で。フィールドワーク、巡礼、そして友情が重なった一日だった。</figcaption></figure>
+
+<p class="lead">日本での旅のなかでも、比叡山を訪れたこの日は特に印象深い一日となった。日本仏教を専門とする旧友で、大学時代の同級生でもある <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a> とともに山を歩いた。比叡山は以前から文献や日本仏教史を通じてよく知っていたが、実際に歩くことで、その名は斜面、森、距離、そして境界からなる具体的な地形へと変わった。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="比叡山の仏堂" loading="lazy"><figcaption>延暦寺の建築は、孤立した一棟の建物というより、山岳寺院の景観を構成する要素として現れる。</figcaption></figure>
+
+<p>京都を見下ろし、琵琶湖にも向き合う比叡山は、日本を代表する聖山の一つである。788年、最澄（さいちょう）はここに修行の場を開き、それが延暦寺（えんりゃくじ）の核となり、日本天台宗（てんだいしゅう）が展開する中心となった。現地では、この歴史が空間として理解できる。延暦寺は一つの伽藍だけではなく、東塔（とうどう）、西塔（さいとう）、横川（よかわ）などの区域が森と道によって結ばれた、山全体に広がる宗教施設である。</p>
+
+<div class="fieldwork-strip fieldwork-strip-2"><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="延暦寺の堂宇を背景にした比叡山での訪問" loading="eager"><figcaption>延暦寺の堂宇の前で。フィールドワーク、巡礼、そして友情が重なった一日だった。</figcaption></figure>
+
+<p class="lead">日本での旅のなかでも、比叡山を訪れたこの日は特に印象深い一日となった。日本仏教を専門とする旧友で、大学時代の同級生でもある <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a> とともに山を歩いた。比叡山は以前から文献や日本仏教史を通じてよく知っていたが、実際に歩くことで、その名は斜面、森、距離、そして境界からなる具体的な地形へと変わった。</p>
+
+<figure class="figure-small"><img src="/assets/images/mount-hiei-02.webp" alt="延暦寺の堂宇を背景にした比叡山での訪問" loading="eager"><figcaption>延暦寺の堂宇の前で。フィールドワーク、巡礼、そして友情が重なった一日だった。</figcaption></figure>
 
 <p class="lead">日本での旅のなかでも、比叡山を訪れたこの日は特に印象深い一日となった。日本仏教を専門とする旧友で、大学時代の同級生でもある <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a> とともに山を歩いた。比叡山は以前から文献や日本仏教史を通じてよく知っていたが、実際に歩くことで、その名は斜面、森、距離、そして境界からなる具体的な地形へと変わった。</p>
 
@@ -37,8 +57,62 @@ format:
 
 <figure class="figure-left"><img src="/assets/images/mount-hiei-01.webp" alt="比叡山訪問の個人的な記念写真" loading="lazy"><figcaption>研究の記録だけではなく、この一日の人間的な記憶も残しておきたい。</figcaption></figure>
 
-<p>比叡山を離れるとき、「山岳寺院」という言葉を以前より具体的に理解できた気がした。ここでは建築だけが独立して存在しているのではない。道、森、距離、眺望、気候、そして反復される宗教実践が一体となって空間をつくっている。景観ゆえに美しい場所もあれば、そこに蓄積された物語ゆえに美しい場所もある。比叡山はその両方だった。</p>
+<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="比叡山の仏堂" loading="lazy"><figcaption>延暦寺の建築は、孤立した一棟の建物というより、山岳寺院の景観を構成する要素として現れる。</figcaption></figure>
 
-<div class="fieldwork-notes"><h2>基本情報</h2><p><strong>場所：</strong>比叡山、京都・大津間。<br><strong>中心寺院：</strong>延暦寺。<br><strong>開創：</strong>788年、最澄。<br><strong>宗派：</strong>天台宗。<br><strong>主要区域：</strong>東塔・西塔・横川。<br><strong>文化遺産：</strong>延暦寺はユネスコ世界遺産「古都京都の文化財」の構成資産。</p></div>
+<p>京都を見下ろし、琵琶湖にも向き合う比叡山は、日本を代表する聖山の一つである。788年、最澄（さいちょう）はここに修行の場を開き、それが延暦寺（えんりゃくじ）の核となり、日本天台宗（てんだいしゅう）が展開する中心となった。現地では、この歴史が空間として理解できる。延暦寺は一つの伽藍だけではなく、東塔（とうどう）、西塔（さいとう）、横川（よかわ）などの区域が森と道によって結ばれた、山全体に広がる宗教施設である。</p>
+
+<p>私がとりわけ関心をもったのは、宗教制度、建築、景観の結びつきだった。比叡山は日本中世仏教の形成に決定的な役割を果たした。法然（ほうねん）、親鸞（しんらん）、道元（どうげん）、栄西（えいさい）、日蓮（にちれん）らは、それぞれ異なる形ではあるが、この山で学び、修行した経験をもつ。その後、彼らの歩みは別の教えと実践へ向かうことになる。したがって比叡山は天台宗の中心であるだけでなく、日本仏教の多様化を考えるための重要な出発点でもある。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="比叡山の仏堂と塔" loading="lazy"><figcaption>堂宇、塔、広場、樹木が一体となり、建築が地形から切り離せないことを実感させる。</figcaption></figure>
+
+<p>山を進むにつれて、私はこの場所が要求する「歩く速度」に強く意識を向けるようになった。建物から建物へ単純に移動するのではない。登り、下り、森がほとんどすべてを覆う区間を抜けていく。その連続が視線を変える。大きな堂宇はもちろん重要だが、その間にある空間も同じくらい重要であり、山全体が修行空間となる仕組みを理解させてくれる。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="石灯籠が並ぶ比叡山の石段" loading="lazy"><figcaption>森の中の石段と石灯籠。移動そのものが場所を経験する一部になる。</figcaption></figure>
+
+<p>古い石段と石灯籠は、この日のなかでも特に強く記憶に残った。それは単に風情があるからではない。そこには僧侶、巡礼者、参詣者が長い時間をかけて繰り返してきた移動が刻まれている。建築や仏像だけを切り取って研究すると見失いやすい、宗教空間の「つながり」を身体で理解できる場所だった。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-06.webp" alt="比叡山の森を上る石段" loading="lazy"><figcaption>樹木の間を縫うように続く道の先には、より静かな建物が現れる。</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="延暦寺の堂宇を背景にした比叡山での訪問" loading="eager"><figcaption>延暦寺の堂宇の前で。フィールドワーク、巡礼、そして友情が重なった一日だった。</figcaption></figure>
+
+<p class="lead">日本での旅のなかでも、比叡山を訪れたこの日は特に印象深い一日となった。日本仏教を専門とする旧友で、大学時代の同級生でもある <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a> とともに山を歩いた。比叡山は以前から文献や日本仏教史を通じてよく知っていたが、実際に歩くことで、その名は斜面、森、距離、そして境界からなる具体的な地形へと変わった。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="比叡山の仏堂" loading="lazy"><figcaption>延暦寺の建築は、孤立した一棟の建物というより、山岳寺院の景観を構成する要素として現れる。</figcaption></figure>
+
+<p>京都を見下ろし、琵琶湖にも向き合う比叡山は、日本を代表する聖山の一つである。788年、最澄（さいちょう）はここに修行の場を開き、それが延暦寺（えんりゃくじ）の核となり、日本天台宗（てんだいしゅう）が展開する中心となった。現地では、この歴史が空間として理解できる。延暦寺は一つの伽藍だけではなく、東塔（とうどう）、西塔（さいとう）、横川（よかわ）などの区域が森と道によって結ばれた、山全体に広がる宗教施設である。</p>
+
+<p>私がとりわけ関心をもったのは、宗教制度、建築、景観の結びつきだった。比叡山は日本中世仏教の形成に決定的な役割を果たした。法然（ほうねん）、親鸞（しんらん）、道元（どうげん）、栄西（えいさい）、日蓮（にちれん）らは、それぞれ異なる形ではあるが、この山で学び、修行した経験をもつ。その後、彼らの歩みは別の教えと実践へ向かうことになる。したがって比叡山は天台宗の中心であるだけでなく、日本仏教の多様化を考えるための重要な出発点でもある。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="比叡山の仏堂と塔" loading="lazy"><figcaption>堂宇、塔、広場、樹木が一体となり、建築が地形から切り離せないことを実感させる。</figcaption></figure>
+
+<p>山を進むにつれて、私はこの場所が要求する「歩く速度」に強く意識を向けるようになった。建物から建物へ単純に移動するのではない。登り、下り、森がほとんどすべてを覆う区間を抜けていく。その連続が視線を変える。大きな堂宇はもちろん重要だが、その間にある空間も同じくらい重要であり、山全体が修行空間となる仕組みを理解させてくれる。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="石灯籠が並ぶ比叡山の石段" loading="lazy"><figcaption>森の中の石段と石灯籠。移動そのものが場所を経験する一部になる。</figcaption></figure>
+
+<p>古い石段と石灯籠は、この日のなかでも特に強く記憶に残った。それは単に風情があるからではない。そこには僧侶、巡礼者、参詣者が長い時間をかけて繰り返してきた移動が刻まれている。建築や仏像だけを切り取って研究すると見失いやすい、宗教空間の「つながり」を身体で理解できる場所だった。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-06.webp" alt="比叡山の森を上る石段" loading="lazy"><figcaption>樹木の間を縫うように続く道の先には、より静かな建物が現れる。</figcaption></figure>
+
+<p>そしてこの体験は、Guilhem と共有したことでさらに意味深いものになった。天台の歴史、僧侶の系譜、修行、空間構成について話しながら歩くことで、建築の細部、方位、堂名、道の曲がり方までもが、より大きな日本仏教史へとつながっていった。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-05.webp" alt="比叡山から琵琶湖を望む景観" loading="lazy"><figcaption>比叡山の高所から琵琶湖と大津方面を望む。</figcaption></figure></div>
+
+<p>私がとりわけ関心をもったのは、宗教制度、建築、景観の結びつきだった。比叡山は日本中世仏教の形成に決定的な役割を果たした。法然（ほうねん）、親鸞（しんらん）、道元（どうげん）、栄西（えいさい）、日蓮（にちれん）らは、それぞれ異なる形ではあるが、この山で学び、修行した経験をもつ。その後、彼らの歩みは別の教えと実践へ向かうことになる。したがって比叡山は天台宗の中心であるだけでなく、日本仏教の多様化を考えるための重要な出発点でもある。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="比叡山の仏堂と塔" loading="lazy"><figcaption>堂宇、塔、広場、樹木が一体となり、建築が地形から切り離せないことを実感させる。</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="延暦寺の堂宇を背景にした比叡山での訪問" loading="eager"><figcaption>延暦寺の堂宇の前で。フィールドワーク、巡礼、そして友情が重なった一日だった。</figcaption></figure>
+
+<p class="lead">日本での旅のなかでも、比叡山を訪れたこの日は特に印象深い一日となった。日本仏教を専門とする旧友で、大学時代の同級生でもある <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a> とともに山を歩いた。比叡山は以前から文献や日本仏教史を通じてよく知っていたが、実際に歩くことで、その名は斜面、森、距離、そして境界からなる具体的な地形へと変わった。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="比叡山の仏堂" loading="lazy"><figcaption>延暦寺の建築は、孤立した一棟の建物というより、山岳寺院の景観を構成する要素として現れる。</figcaption></figure>
+
+<p>京都を見下ろし、琵琶湖にも向き合う比叡山は、日本を代表する聖山の一つである。788年、最澄（さいちょう）はここに修行の場を開き、それが延暦寺（えんりゃくじ）の核となり、日本天台宗（てんだいしゅう）が展開する中心となった。現地では、この歴史が空間として理解できる。延暦寺は一つの伽藍だけではなく、東塔（とうどう）、西塔（さいとう）、横川（よかわ）などの区域が森と道によって結ばれた、山全体に広がる宗教施設である。</p>
+
+<p>私がとりわけ関心をもったのは、宗教制度、建築、景観の結びつきだった。比叡山は日本中世仏教の形成に決定的な役割を果たした。法然（ほうねん）、親鸞（しんらん）、道元（どうげん）、栄西（えいさい）、日蓮（にちれん）らは、それぞれ異なる形ではあるが、この山で学び、修行した経験をもつ。その後、彼らの歩みは別の教えと実践へ向かうことになる。したがって比叡山は天台宗の中心であるだけでなく、日本仏教の多様化を考えるための重要な出発点でもある。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="比叡山の仏堂と塔" loading="lazy"><figcaption>堂宇、塔、広場、樹木が一体となり、建築が地形から切り離せないことを実感させる。</figcaption></figure>
+
+<p>山を進むにつれて、私はこの場所が要求する「歩く速度」に強く意識を向けるようになった。建物から建物へ単純に移動するのではない。登り、下り、森がほとんどすべてを覆う区間を抜けていく。その連続が視線を変える。大きな堂宇はもちろん重要だが、その間にある空間も同じくらい重要であり、山全体が修行空間となる仕組みを理解させてくれる。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="石灯籠が並ぶ比叡山の石段" loading="lazy"><figcaption>森の中の石段と石灯籠。移動そのものが場所を経験する一部になる。</figcaption></figure></div>
+
+</div>
 
 </div></main>
