@@ -1,0 +1,30 @@
+---
+title: "Từ điển đa ngữ về nghệ thuật Phật giáo"
+lang: vi
+format:
+  html:
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/buddhist-art-dictionary.css">
+<script defer src="/assets/js/buddhist-art-dictionary.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/vi/databases.html">Cơ sở dữ liệu</a></div>
+  <h1>Từ điển đa ngữ về nghệ thuật Phật giáo</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail buddhist-dictionary-page">
+    <section class="dictionary-intro">
+      <p>Bảng đối chiếu này tập hợp 150 thuật ngữ cốt lõi của nghệ thuật Phật giáo bằng tiếng Pháp, Anh, Phạn, Tạng, Hàn, Nhật, Trung và Việt, kèm các hệ chữ và cách chuyển tự chính.</p>
+      <p class="dictionary-method">Có thể tìm kiếm toàn bộ bảng hoặc giới hạn theo từng ngôn ngữ hay hệ chữ. Những ô chưa có tương đương chuẩn hóa được xác nhận ở giai đoạn này được để trống thay vì bổ sung bằng suy đoán.</p>
+    </section>
+
+    <section class="dictionary-interface" aria-label="Từ điển đa ngữ về nghệ thuật Phật giáo">
+      <div id="multilingual-dictionary" data-locale="vi"></div>
+    </section>
+  </div>
+</main>
+```
