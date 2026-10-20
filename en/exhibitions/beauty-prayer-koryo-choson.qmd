@@ -1,0 +1,100 @@
+---
+title: "うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術"
+lang: en
+image: https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="Poster for The Beauty of Prayer at the Kyushu National Museum" loading="eager"><figcaption>Poster for <em>うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術</em>, Kyushu National Museum, 2023.</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">Exhibition review · Korean Buddhist art · Koryŏ and Chosŏn · 11th–16th centuries</div>
+<h1>うるわしき祈りの美</h1>
+<p class="exhibit-report__venue"><em>The Beauty of Prayer — Buddhist Art of the Koryŏ and Chosŏn Periods</em><br>Kyushu National Museum · Dazaifu</p>
+<dl class="exhibit-report__meta" aria-label="Exhibition information">
+<div><dt>Dates</dt><dd>5 September — 15 October 2023</dd></div>
+<div><dt>Museum</dt><dd>Kyushu National Museum<br><span lang="ja">九州国立博物館</span></dd></div>
+<div><dt>City</dt><dd>Dazaifu · Fukuoka · Japan</dd></div>
+<div><dt>Venue</dt><dd>Rooms 9 and 11 · Cultural Exchange Gallery</dd></div>
+<div><dt>Period covered</dt><dd>11th — 16th century</dd></div>
+<div><dt>Type</dt><dd>Focused exhibition · Korean Buddhist art</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>Central thread:</strong> showing how, despite radically different religious policies under Koryŏ and Chosŏn, Buddhist images and ritual objects continued to give visible form to prayer, salvation and sacred presence.</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav" aria-label="Contents">
+<a href="#why">Why see it?</a><a href="#proposal">Curatorial proposal</a><a href="#route">Route & display</a><a href="#works">Works to remember</a><a href="#understand">What it explains</a><a href="#resources">Further reading</a><a href="#verdict">Verdict</a>
+</nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · Essential</div><h2>Why see this exhibition?</h2></div>
+<div class="exhibit-report__content">
+<p>The exhibition’s greatest strength is the concentration, in Japan, of Korean Buddhist works now dispersed among museums, temples and shrines. Its forty-eight catalogue entries range across paintings, sculpture, illuminated scriptures, bronzes, celadon and lacquer. Seen together, they reveal both the material breadth of Buddhist art on the peninsula and the importance of Japan as a major site of preservation for Korean cultural heritage.</p>
+<p>The exhibition compares Koryŏ and Chosŏn without reducing them to a simple opposition between a Buddhist kingdom and a Confucian one. Koryŏ court patronage clearly supported Buddhism, while the Chosŏn state restricted its institutional power. Yet the production of images, scriptures and ritual objects continued. Prayer therefore provides a useful thread for tracing Buddhist continuity across political rupture.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="Willow-Branch Avalokitesvara, Koryŏ, dated 1310" loading="lazy"><figcaption><em>楊柳観音像</em> — Willow-Branch Avalokiteśvara, Koryŏ, 1310, Kagami-jinja, Saga. Its monumental scale and pictorial refinement epitomize Koryŏ court Buddhist painting.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · Curatorial</div><h2>What is the exhibition’s argument?</h2></div>
+<div class="exhibit-report__content">
+<p class="exhibit-report__thesis">Rather than telling a purely dynastic history, the exhibition places belief at the center. The uses of works, their devotional efficacy and the continuity of religious practices connect Koryŏ and Chosŏn more effectively than chronology alone.</p>
+<ul class="exhibit-report__keypoints">
+<li><strong>Compare two religious regimes.</strong>Koryŏ and Chosŏn adopted very different policies toward Buddhism, but Buddhist artistic production did not vanish with dynastic change.</li>
+<li><strong>Move beyond painting.</strong>Famous Koryŏ paintings are set among sculpture, scriptures, ritual bronzes, celadon and lacquer.</li>
+<li><strong>Study circulation.</strong>The present location of so many works in Japan foregrounds transfer, donation, collecting, temples and maritime networks.</li>
+<li><strong>Return objects to prayer.</strong>An image is not only a composition to admire; it is a support for contemplation, intercession, ritual and salvation.</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · Visit</div><h2>Route and exhibition design</h2></div>
+<div class="exhibit-report__content">
+<p>Installed in two rooms of the Cultural Exchange Gallery, the show operates as a concentrated study display rather than a large retrospective. This scale encourages close comparison between media. Painting remains central, but it is repeatedly brought into dialogue with sculpture, liturgical objects and sacred texts.</p>
+<figure class="exhibit-report__figure"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="Kṣitigarbha in a relaxed seated pose, Koryŏ, 11th century" loading="lazy"><figcaption><em>地蔵菩薩遊戯坐像</em>, Koryŏ, 11th century, cast and gilded bronze, Kyushu National Museum.</figcaption></figure>
+<ol class="exhibit-report__route">
+<li><strong>Images of salvation.</strong><span>Amitābha, Avalokiteśvara, Kṣitigarbha and Buddhist assemblies show the visual forms taken by hopes for salvation in medieval Korean painting.</span></li>
+<li><strong>Scripture and merit.</strong><span>Copied and printed sūtras, sometimes written in gold, show that producing sacred text was itself a devotional and merit-making act.</span></li>
+<li><strong>Sculpted presence.</strong><span>Koryŏ bronzes create a more tactile and volumetric relation to sacred images.</span></li>
+<li><strong>Objects for ritual.</strong><span>Incense burners, water vessels, celadon and lacquer reveal the material environment within which Buddhist images functioned.</span></li>
+</ol></div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · Selection</div><h2>Works and objects to remember</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="楊柳観音像 from Kagami-jinja" loading="lazy"><div><h3>楊柳観音像 — Willow-Branch Avalokiteśvara</h3><p class="exhibit-report__work-meta">1310 · Koryŏ · painting on silk · Kagami-jinja, Saga · Important Cultural Property</p><p>At more than four meters high, this is one of the monuments of Koryŏ Buddhist painting. The museum emphasizes its collective production by court painters on a single enormous silk support. Transparent veils, jewelry and textile patterns combine material splendor with Avalokiteśvara’s compassionate presence.</p></div></article>
+<article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像 — Kṣitigarbha in a relaxed seated pose</h3><p class="exhibit-report__work-meta">11th century · Koryŏ · cast and gilded bronze · Kyushu National Museum · total height 49.2 cm</p><p>This sculpture condenses another quality of Koryŏ art: a calm, approachable sacred presence created through relaxed posture and a gentle expression. Its small scale encourages close viewing, in marked contrast with monumental hanging paintings.</p></div></article>
+<article class="exhibit-report__work"><img src="https://imagedb.narahaku.go.jp/artize-data/sr-thum/l/H063546L.jpg" alt="Koryŏ bronze incense burner with silver inlay" loading="lazy"><div><h3>梵字宝相華草文銀象嵌香炉 — Incense burner with Sanskrit characters and floral scrolls</h3><p class="exhibit-report__work-meta">14th century · Koryŏ · bronze with silver inlay · Nara National Museum</p><p>The object demonstrates how metalworking virtuosity served ritual. Sanskrit characters and silver floral scrolls animate the dark bronze surface as light changes. It also reminds us that Buddhist experience involved scent, gesture and spatial atmosphere as well as images.</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · Knowledge</div><h2>What the exhibition helps us understand</h2></div>
+<div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints">
+<li><strong>Koryŏ is more than painting.</strong>Bronzes, celadon, manuscripts and lacquer reveal a complete material system supporting Buddhist practice.</li>
+<li><strong>Chosŏn was not a Buddhist void.</strong>Despite restrictive policies, paintings and ritual objects continued to be produced in the fifteenth and sixteenth centuries.</li>
+<li><strong>Japan is a major site of preservation.</strong>The present dispersion of works is essential to any history of Korean Buddhist art and its circulation.</li>
+<li><strong>Prayer shapes form.</strong>Monumental scale, repeated Buddhas, gold, incense and the tactile presence of bronze all contribute to religious efficacy.</li>
+</ul>
+<div class="exhibit-report__research"><strong>Importance for Buddhist art history</strong><p>The exhibition places Korean works within a concrete East Asian geography. Political history, collecting, ritual materiality and maritime circulation become inseparable. For Koryŏ and early Chosŏn, this approach is especially productive because it shows that the history of forms is also a history of uses and movements.</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · Documentation</div><h2>Further reading</h2></div>
+<div class="exhibit-report__content"><ul class="exhibit-report__resources">
+<li><strong>Catalogue:</strong> 九州国立博物館, <em>うるわしき祈りの美 : 高麗・朝鮮時代の仏教美術</em>, Dazaifu, Kyushu National Museum, 2023, 128 pp.</li>
+<li><strong>Official page:</strong> <a href="https://www.kyuhaku.jp/exhibition/exhibition_pre186.html" target="_blank" rel="noopener">Kyushu National Museum — exhibition presentation</a>.</li>
+<li><strong>Object list:</strong> forty-eight entries spanning painting, sculpture, sūtras, bronze, celadon and lacquer, with rotations during the exhibition.</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · Conclusion</div><h2>Verdict</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">Assessment</div><strong>Highly recommended for understanding Koryŏ and continuities into Chosŏn</strong><p><em>うるわしき祈りの美</em> successfully places famous masterpieces beside less spectacular ritual objects without reducing Korean Buddhist art to a history of style. Its most important contribution is the relationship it establishes between beauty, materiality and devotional use.</p></div></div>
+</div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ Back to top</a></div>
+</main>
+```
