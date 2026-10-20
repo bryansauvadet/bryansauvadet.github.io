@@ -1,0 +1,30 @@
+---
+title: "佛教藝術多語辭典"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/buddhist-art-dictionary.css">
+<script defer src="/assets/js/buddhist-art-dictionary.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/zh-hant/databases.html">資料庫</a></div>
+  <h1>佛教藝術多語辭典</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail buddhist-dictionary-page">
+    <section class="dictionary-intro">
+      <p>本辭典對照150個佛教藝術核心術語，涵蓋法語、英語、梵語、藏語、韓語、日語、中文與越南語，並並列主要文字與羅馬字轉寫。</p>
+      <p class="dictionary-method">可搜尋整個表格，也可限定特定語言或文字系統。現階段未能確認標準對應詞的欄位維持空白，不以推測補入。</p>
+    </section>
+
+    <section class="dictionary-interface" aria-label="佛教藝術多語辭典">
+      <div id="multilingual-dictionary" data-locale="zh-hant"></div>
+    </section>
+  </div>
+</main>
+```
