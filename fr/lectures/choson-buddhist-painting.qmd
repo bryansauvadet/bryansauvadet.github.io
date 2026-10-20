@@ -12,7 +12,7 @@ format:
 <main class="book-report" id="haut">
 <header class="book-report__hero"><div class="book-report__shell book-report__hero-grid">
 <figure class="book-report__cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="Couverture de 조선의 불교회화 de Chŏng Myŏnghŭi" loading="eager" decoding="async" referrerpolicy="no-referrer"></figure>
-<div><div class="book-report__eyebrow">Compte rendu d’ouvrage · Peinture bouddhique coréenne · dynastie Chosŏn · rituel et espace</div><h1>조선의 불교회화</h1><p class="book-report__author">Peinture bouddhique de la dynastie Chosŏn<br>Chŏng Myŏnghŭi (정명희)</p>
+<div><div class="book-report__eyebrow">Compte rendu d’ouvrage · Peinture bouddhique coréenne · dynastie Chosŏn · rituel et espace</div><h1>조선의 불교회화</h1><p class="book-report__author">Peintures bouddhiques du Chosŏn<br>Chŏng Myŏnghŭi (정명희)</p>
 <dl class="book-report__meta" aria-label="Référence bibliographique">
 <div><dt>Date</dt><dd>2024</dd></div>
 <div><dt>Éditeur</dt><dd>사회평론아카데미</dd></div>
