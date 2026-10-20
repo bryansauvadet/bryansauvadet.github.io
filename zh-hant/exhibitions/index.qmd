@@ -28,7 +28,7 @@ format:
 
     <a class="exhibition-card" href="/zh-hant/exhibitions/beauty-prayer-koryo-choson.html">
       <div class="exhibition-card-image">
-        <img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術" loading="lazy">
+        <img src="https://www.kyuhaku.jp/visit/img/book/book124.jpg" alt="うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術" loading="lazy">
       </div>
       <div class="exhibition-card-domain">韓國佛教藝術 · 高麗與朝鮮 · 11–16世紀</div>
       <h2>うるわしき祈りの美</h2>
