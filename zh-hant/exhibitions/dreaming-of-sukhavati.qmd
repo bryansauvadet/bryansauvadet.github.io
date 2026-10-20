@@ -1,0 +1,63 @@
+---
+title: "꿈꾸는 즐거움, 극락極樂"
+lang: zh-Hant
+image: https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--pure-land" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="榮州黑石寺木造阿彌陀如來坐像，1458年" loading="eager" decoding="async" referrerpolicy="no-referrer"><figcaption><em>영주 흑석사 목조아미타여래좌상</em>——榮州黑石寺木造阿彌陀如來坐像，1458年，展覽的核心作品之一。</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">展覽評論 · 韓國佛教藝術 · 阿彌陀如來 · 極樂淨土</div>
+<h1>꿈꾸는 즐거움, 극락極樂</h1>
+<p class="exhibit-report__venue"><em>夢想極樂的喜悅——阿彌陀佛的西方淨土</em><br>佛教中央博物館 · 불교중앙박물관 · 首爾</p>
+<dl class="exhibit-report__meta" aria-label="展覽資訊">
+<div><dt>展期</dt><dd>2016年10月19日 — 12月18日</dd></div>
+<div><dt>博物館</dt><dd>佛教中央博物館</dd></div>
+<div><dt>城市</dt><dd>首爾 · 韓國</dd></div>
+<div><dt>展品</dt><dd>97件 · 國寶1件 · 寶物8件</dd></div>
+<div><dt>主題</dt><dd>阿彌陀信仰 · 極樂淨土 · 往生</dd></div>
+<div><dt>類型</dt><dd>特別展 · 佛教藝術</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>核心問題：</strong>韓國佛教藝術如何把往生阿彌陀佛極樂淨土的願望轉化為可見的圖像、空間與儀式？</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav"><a href="#why">展覽意義</a><a href="#proposal">策展主張</a><a href="#route">展覽路線</a><a href="#works">重要作品</a><a href="#understand">可理解之處</a><a href="#resources">延伸資料</a><a href="#verdict">總評</a></nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · 核心</div><h2>為什麼這個展覽重要</h2></div><div class="exhibit-report__content">
+<p><em>꿈꾸는 즐거움, 극락極樂</em>沒有把淨土當作孤立的圖像題材，而是把阿彌陀佛、極樂世界、往生方法、發願，以及引導亡者前往西方的圖像連成一個完整的信仰系統。</p>
+<p>繪畫、雕塑、經典、鐘與供養物不再依材質分開，而被重新放回念佛、功德、觀想與死亡準備的實踐鏈條之中。</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a4416341551993f740daa8b2f50ecf87101437.jpg" alt="夢想極樂展覽現場" loading="lazy" referrerpolicy="no-referrer"><figcaption>展場一景。雕塑與大型佛畫並置，使阿彌陀信仰重新回到完整的儀式環境。</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · 策展</div><h2>展覽提出什麼觀點</h2></div><div class="exhibit-report__content">
+<p class="exhibit-report__thesis">極樂不只是藝術家描繪的天堂，而是一套組織經典、圖像、建築、念佛與發願的救度視覺結構。</p>
+<ul class="exhibit-report__keypoints"><li><strong>從經典出發。</strong>《無量壽經》《觀無量壽經》《阿彌陀經》提供圖像理解的教義基礎。</li><li><strong>把淨土看成空間。</strong>蓮池、樓閣、聖眾與蓮華化生把教義轉化為可見景觀。</li><li><strong>把救度看成實踐。</strong>念佛、發願與布施把藝術品放進功德體系。</li><li><strong>連結藝術與死亡。</strong>來迎與般若龍船把死後的移動轉化為視覺旅程。</li></ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · 路線</div><h2>五個階段的極樂</h2></div><div class="exhibit-report__content">
+<ol class="exhibit-report__route"><li><strong>極樂之主阿彌陀佛。</strong><span>由淨土三部經、手印與觀音、大勢至兩脅侍建立基礎。</span></li><li><strong>只有安樂的世界。</strong><span>佛畫與極樂殿空間再現，使淨土成為具體場域。</span></li><li><strong>極樂九品。</strong><span>以《觀無量壽經》九品往生為基礎，觀察朝鮮後期圖像的新發展。</span></li><li><strong>發願往生。</strong><span>發願文、施主與念佛實踐保存信徒的具體願望。</span></li><li><strong>被引導前往極樂。</strong><span>來迎、引路王菩薩與般若龍船把救度轉化為可見的移動。</span></li></ol>
+<figure class="exhibit-report__figure"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a231dff37897f9b13a7467f1d548e275101437.jpg" alt="展覽中的小型金銅佛像" loading="lazy" referrerpolicy="no-referrer"><figcaption>展覽中的小型金銅佛像，呈現與大型佛畫不同的親密禮拜尺度。</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 作品</div><h2>重要作品</h2></div><div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="榮州黑石寺木造阿彌陀如來坐像" loading="lazy" referrerpolicy="no-referrer"><div><h3>영주 흑석사 목조아미타여래좌상——榮州黑石寺木造阿彌陀如來坐像</h3><p class="exhibit-report__work-meta">1458年 · 朝鮮前期 · 木造金漆 · 國寶</p><p>朝鮮十五世紀王室發願佛教雕塑的重要標誌。腹藏資料使我們能理解造像背景、施主與安奉過程中的文字文化。</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.icpn.co.kr/news/photo/202005/10753_22314_1158.jpg" alt="永川銀海寺念佛往生捷徑圖" loading="lazy" referrerpolicy="no-referrer"><div><h3>영천 은해사 염불왕생첩경도——永川銀海寺念佛往生捷徑圖</h3><p class="exhibit-report__work-meta">朝鮮後期 · 銀海寺 · 寶物</p><p>把稱念阿彌陀佛、極樂景觀與修行者往生整合在同一畫面中，將聲音的修行轉化為救度的地理。</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202206/218339_239358_951.jpg" alt="益山深谷寺金銅阿彌陀如來七尊坐像" loading="lazy" referrerpolicy="no-referrer"><div><h3>익산 심곡사 금동아미타여래칠존좌상——益山深谷寺金銅阿彌陀七尊像</h3><p class="exhibit-report__work-meta">金銅 · 石塔出土 · 寶物</p><p>塔內安置的小型佛像群提醒我們，佛像並不總是為正面觀看而造；它們也能在建築內部凝聚神聖存在。</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/201910/202591_205230_4551.jpg" alt="極樂九品圖" loading="lazy" referrerpolicy="no-referrer"><div><h3>극락구품도——極樂九品圖</h3><p class="exhibit-report__work-meta">朝鮮後期 · 淨土佛畫</p><p>蓮池與蓮華化生把九品往生分類為可見秩序，使極樂成為一張道德與救度論地圖。</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · 理解</div><h2>這個展覽讓我們理解什麼</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__keypoints"><li><strong>淨土是視覺建構。</strong>經典描述經由選擇與重組，被轉化為容易理解的景觀。</li><li><strong>佛教圖像具有實踐性。</strong>它協助念佛、觀想、累積功德並準備死亡。</li><li><strong>阿彌陀信仰跨越社會階層。</strong>王室、僧侶與在家信徒共同參與。</li><li><strong>建築也是圖像意義的一部分。</strong>極樂殿內部秩序使佛畫與佛像的關係更加清楚。</li></ul><div class="exhibit-report__research"><strong>對佛教藝術史的意義</strong><p>九品往生、蓮華化生、阿彌陀手印、來迎、龍船與發願文都應被理解為使救度思想運作的視覺裝置，而不是裝飾性細節。</p></div></div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · 資料</div><h2>延伸閱讀</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__resources"><li><strong>官方頁面：</strong><a href="https://museum.buddhism.or.kr/?c=2/14&p=14&uid=181" target="_blank" rel="noopener">佛教中央博物館</a>。</li><li><strong>圖錄：</strong>불교중앙박물관，《꿈꾸는 즐거움, 극락極樂》，首爾，2016，223頁。</li><li><strong>核心經典：</strong>《無量壽經》《觀無量壽經》《阿彌陀經》。</li></ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · 結論</div><h2>總評</h2></div><div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">評價</div><strong>理解救度如何成為圖像的參考性展覽</strong><p><em>꿈꾸는 즐거움, 극락極樂</em>重建了經典、圖像、建築、念佛與死亡儀式互相支撐的宗教世界。它最重要的價值，在於把極樂淨土呈現為完整的視覺與儀式系統，而非單一圖像題材。</p></div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ 回到頁首</a></div>
+</main>
+```
