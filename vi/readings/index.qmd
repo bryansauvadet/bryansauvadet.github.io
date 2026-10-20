@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">Một tuyển chọn những cuốn sách đáng đọc để hiểu sâu hơn về lịch sử mỹ thuật Phật giáo, Phật giáo, lịch sử châu Á, khảo cổ học và kiến trúc.</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/vi/readings/domesticating-the-dharma.html">
+<div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Bìa Domesticating the Dharma" loading="lazy"></div>
+<div class="reading-book-domain">Phật giáo Triều Tiên · Silla · Hwaŏm · Tín ngưỡng và nghi lễ</div>
+<h2>Domesticating the Dharma</h2>
+<p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
+<p>Vì sao tín ngưỡng, hình ảnh, nghi lễ và địa lý linh thiêng giải thích sự bén rễ của Phật giáo ở Silla tốt hơn câu chuyện quen thuộc về các “tông phái”.</p>
+<span class="reading-book-link">Đọc bài điểm sách →</span>
+</a>
 <a class="reading-book-card" href="/vi/readings/the-dynamic-spread-of-buddhist-print-culture.html">
 <div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Bìa The Dynamic Spread of Buddhist Print Culture" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">Lịch sử mỹ thuật Phật giáo · Văn hóa in ấn · Lịch sử châu Á</div>
