@@ -6,27 +6,6 @@ format:
     include-before-body: _includes/ko-header.html
     include-after-body: _includes/ko-footer.html
 ---
-<style>
-.fieldwork-story figure{
-  width:50%;
-  margin:3rem auto;
-}
-.fieldwork-story figure img{
-  display:block;
-  width:100%;
-  height:auto;
-  margin:0 auto;
-}
-.fieldwork-story figure figcaption{
-  margin-top:.6rem;
-}
-@media (max-width: 720px){
-  .fieldwork-story figure{
-    width:90%;
-  }
-}
-</style>
-
 <section class="page-hero"><h1>사캬 사원</h1><p class="lead">ས་སྐྱ་དགོན་པ་ · 티베트 짱 지역 사캬</p></section>
 <main class="content"><div class="content-inner fieldwork-story">
 <figure class="fieldwork-hero"><img src="/assets/images/sakya-02.jpg" alt="사캬 사원 앞에서" loading="eager"><figcaption>짱 지역에 도착한 뒤 사캬 사원 앞에서.</figcaption></figure>
@@ -39,10 +18,10 @@ format:
 <p>안뜰에서 실내로 들어가는 순간은 이번 방문에서 가장 강하게 기억에 남았다. 바깥에서는 돌과 벽의 거대함이 지배적이지만, 안에서는 빛이 급격히 줄어들고 색이 짙어지며 불상들이 어둠 속에서 조금씩 모습을 드러낸다. 나는 조각 자체뿐 아니라 그것이 직물, 공양물, 등명, 작은 상들과 함께 어떻게 배치되어 있는지를 오래 바라보았다. 박물관에서는 작품을 홀로 떼어내어 보는 경우가 많다. 이곳에서 성상은 결코 혼자가 아니다.</p>
 <figure><img src="/assets/images/sakya-04.jpg" alt="사캬 사원의 불상" loading="lazy"><figcaption>현재의 의례 공간 속에서 기능하고 있는 불상.</figcaption></figure>
 <p>이 차이는 불교미술사를 위해 중요하다. 금동상, 소조상, 회화, 제단은 양식·도상·연대에 따라 분석할 수 있지만, 사캬에서는 계속 그 기능을 의식하게 된다. 직물, 공양물, 예배의 흔적과 공간의 변화는 이 대상들이 지금도 종교적 실천을 통해 활성화되고 있음을 보여준다. 내가 촬영한 것은 단순한 문화유산이 아니라 살아 있는 종교 공간이었다.</p>
-<figure><img src="/assets/images/sakya-05.jpg" alt="칭기스 칸과 쿠빌라이 칸 사이의 ’Phags-pa" loading="lazy"><figcaption>가운데의 ’Phags-pa, 그리고 좌우의 칭기스 칸과 쿠빌라이 칸. 나에게 이 조상군은 사캬파의 종교 권위와 몽골 제국 권력이 결합된 구조를 가장 직접적으로 보여주는 이미지였다.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-05.jpg" alt="칭기스 칸과 쿠빌라이 칸 사이의 ’Phags-pa" loading="lazy"><figcaption>가운데의 ’Phags-pa, 그리고 좌우의 칭기스 칸과 쿠빌라이 칸. 나에게 이 조상군은 사캬파의 종교 권위와 몽골 제국 권력이 결합된 구조를 가장 직접적으로 보여주는 이미지였다.</figcaption></figure>
 <p>나는 이 조상군 앞에서 오래 머물렀다. ’Phags-pa가 칭기스 칸과 쿠빌라이 칸 사이에 놓여 있다는 사실 자체가 종교적 스승과 제국 군주의 관계를 시각적으로 드러낸다. 이것은 고려 연구에서도 핵심적이다. 고려가 받아들인 것은 막연한 ‘몽골 불교’가 아니라 티베트 종교 지도자와 제국 권력이 상호 작용하며 형성한 종교문화였다. 이 상들은 사캬와 고려 후기 왕실 불교의 변화를 내 연구 속에서 직접 연결해 주었다.</p>
 <p>지적으로 가장 압도된 곳은 장서 공간이었다. 높은 목제 서가에는 포갑에 싸인 문헌들이 벽 전체를 채울 정도로 쌓여 있었다. 사캬는 티베트의 대표적인 문헌 컬렉션 가운데 하나를 보존하며, 대장경 계통 문헌과 고사본들이 포함된다. 여행기나 대중적 소개에서는 때때로 이곳을 “제2의 둔황”이라고 부른다. 과장될 수 있는 표현이므로 조심해서 써야 하지만, 실제 공간이 주는 규모감을 어느 정도 전달하는 말이기도 하다.</p>
-<figure><img src="/assets/images/sakya-06.jpg" alt="사캬 사원의 장서 공간" loading="lazy"><figcaption>사캬의 서가. 문헌 그 자체가 건축처럼 공간을 만든다.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-06.jpg" alt="사캬 사원의 장서 공간" loading="lazy"><figcaption>사캬의 서가. 문헌 그 자체가 건축처럼 공간을 만든다.</figcaption></figure>
 <p>이 서가 앞에서 내가 떠올린 것은 가르침이 전달되기 위해 필요한 물질적 연쇄였다. 불교 문헌은 추상적인 ‘사상’이 아니다. 베껴 쓰고, 번역하고, 교정하고, 인쇄하고, 운반하고, 보존하고, 읽어야 한다. 티베트·중국·고려를 잇는 종교 교류를 이해하려면 이러한 물질적 기반은 교리만큼 중요하다.</p>
 <figure><img src="/assets/images/sakya-07.jpg" alt="사캬 사원 내부의 불탑과 제단" loading="lazy"><figcaption>불탑, 성상, 의례구가 하나의 공간을 구성한다.</figcaption></figure>
 <p>또 하나 흥미로웠던 것은 제도 불교와 지역 전승이 공존한다는 점이다. 지붕 위에는 현지 이야기에서 “마녀의 예배당”이라고 불리는 작은 공간이 있다고 전해지며, 해로운 여성 영이나 주술적 존재를 조복하기 위한 곳이었다는 전승도 있다. 나는 이것을 역사적 사실로 단정하지 않고 전승 자체로 남겨두는 편이 옳다고 생각한다. 그럼에도 이는 티베트의 성스러운 경관이 지역의 힘을 제압하고 보호의 힘으로 전환하는 이야기를 포괄한다는 점을 보여준다.</p>
