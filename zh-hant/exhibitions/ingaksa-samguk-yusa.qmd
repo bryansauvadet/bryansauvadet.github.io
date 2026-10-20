@@ -1,0 +1,55 @@
+---
+title: "인각사와 삼국유사 — 역사의 향기를 따라 천년의 숨결을 만나다"
+lang: zh-Hant
+image: https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--ingaksa" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://cdn.ibulgyo.com/news/photo/202102/210391_221952_3931.jpg" alt="麟角寺出土佛教供養具組" loading="eager" decoding="async" referrerpolicy="no-referrer"><figcaption>麟角寺考古發掘出土的佛教金屬器，約可追溯至九世紀，經保存處理後於本展首次集中公開。</figcaption></figure>
+<div class="exhibit-report__hero-copy"><div class="exhibit-report__eyebrow">展覽評論 · 佛教考古 · 高麗 · 一然 · 《三國遺事》</div>
+<h1>인각사와 삼국유사</h1>
+<p class="exhibit-report__venue"><em>麟角寺與《三國遺事》——循歷史之香，遇見千年氣息</em><br>佛教中央博物館 · 首爾</p>
+<dl class="exhibit-report__meta"><div><dt>展期</dt><dd>2013年11月13日 — 2014年1月12日</dd></div><div><dt>博物館</dt><dd>佛教中央博物館</dd></div><div><dt>城市</dt><dd>首爾 · 韓國</dd></div><div><dt>展品</dt><dd>77組 · 195件 · 寶物5項</dd></div><div><dt>主題</dt><dd>麟角寺 · 一然 · 考古 · 《三國遺事》傳承</dd></div><div><dt>圖錄</dt><dd>271頁 · 2013年</dd></div></dl>
+<div class="exhibit-report__question"><strong>核心問題：</strong>如何把一座寺院的物質史、一位僧侶的生命史，以及一部經典的傳承史視為同一個佛教文化史問題？</div>
+</div></div></header>
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav"><a href="#why">展覽意義</a><a href="#proposal">策展主張</a><a href="#route">展覽路線</a><a href="#works">重要文物</a><a href="#understand">可理解之處</a><a href="#resources">延伸資料</a><a href="#verdict">總評</a></nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · 核心</div><h2>為什麼這個展覽重要</h2></div><div class="exhibit-report__content">
+<p>本展沒有把《三國遺事》當作脫離場所的抽象古典，而是把文本重新放回一然晚年居住的麟角寺，並將文獻史與考古層位、儀式器、碑文及古版本連結起來。</p>
+<p>77組195件展品中，2008至2009年發掘出土的佛教金屬工藝品尤其重要。它們證明在一然以前數百年，麟角寺已存在重要的宗教儀式活動。</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="梵魚寺藏三國遺事卷四至卷五" loading="lazy" referrerpolicy="no-referrer"><figcaption>梵魚寺藏《三國遺事》卷4–5。不同版本的並置，使文本作為實體書籍的傳承歷史變得可見。</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · 策展</div><h2>展覽提出什麼觀點</h2></div><div class="exhibit-report__content">
+<p class="exhibit-report__thesis">麟角寺的歷史必須同時從遺址、一然的生涯與《三國遺事》三條軸線來理解。</p>
+<ul class="exhibit-report__keypoints"><li><strong>從土地開始。</strong>1992至2009年的發掘揭露不同時期的寺域與九世紀前後的佛教儀式金屬器。</li><li><strong>把一然放回寺院制度。</strong>麟角寺既是一然晚年的居所，也是高麗禪宗的重要中心。</li><li><strong>把《三國遺事》視為被傳承的物件。</strong>梵魚寺本等古版本提醒我們，經典也有紙張、木版與保存的歷史。</li><li><strong>連結故事與圖像。</strong>檀君、處容、千手千眼觀音與善德女王等故事，把宗教、傳說與美術連接起來。</li></ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · 路線</div><h2>四個部分的展覽結構</h2></div><div class="exhibit-report__content">
+<ol class="exhibit-report__route"><li><strong>麟角寺的創建。</strong><span>從地理環境、創建傳說與發掘成果理解寺院的早期儀式史。</span></li><li><strong>一然住錫與麟角寺的興盛。</strong><span>一然、九山門徒會與普覺國尊靜照塔碑呈現高麗時代的寺院地位。</span></li><li><strong>《三國遺事》的誕生地。</strong><span>以不同版本與相關文物，理解其作為歷史書、佛教記憶與傳說庫的多重性。</span></li><li><strong>千年古剎的衰落與未來。</strong><span>追蹤朝鮮時代抑佛、1597年焚毀、後續重建與現代考古復原。</span></li></ol>
+<figure class="exhibit-report__figure"><img src="https://www.heritage.go.kr/unisearch/images/treasure/thumb/1620913.jpg" alt="麟角寺普覺國師塔及碑" loading="lazy" referrerpolicy="no-referrer"><figcaption>麟角寺普覺國師塔與碑。雖然碑身嚴重殘損，仍是一然晚年與寺院地位的重要史料。</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 文物</div><h2>重要文物與資料</h2></div><div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202102/210391_221952_3931.jpg" alt="麟角寺出土供養具" loading="lazy" referrerpolicy="no-referrer"><div><h3>인각사 출토 공양구 일괄——麟角寺出土供養具一括</h3><p class="exhibit-report__work-meta">約9世紀 · 佛教金屬工藝 · 2008–2009年發掘</p><p>柄香爐、香盒、淨瓶等在同一考古脈絡中出土，使我們得以研究實際儀式組合與唐代中國之間的技術交流。</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="三國遺事卷四至卷五" loading="lazy" referrerpolicy="no-referrer"><div><h3>삼국유사 권4–5——《三國遺事》卷4–5</h3><p class="exhibit-report__work-meta">高麗末至朝鮮初 · 木版本 · 梵魚寺</p><p>紙張、版式、印刷與流傳痕跡證明，《三國遺事》的保存依賴持續刊刻、收藏與修護，而不只是一段抽象文本。</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.heritage.go.kr/unisearch/images/treasure/thumb/1620913.jpg" alt="麟角寺普覺國尊靜照塔碑" loading="lazy" referrerpolicy="no-referrer"><div><h3>인각사 보각국존 정조탑비——麟角寺普覺國尊靜照塔碑</h3><p class="exhibit-report__work-meta">高麗 · 一然行跡碑文 · 麟角寺</p><p>碑文記錄一然生涯、住錫麟角寺及九山門徒會。由於原碑嚴重毀損，舊拓本成為重建文字與碑貌的核心資料。</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.koya-culture.com/data/photos/20190103/art_15476216647463_797d39.jpg" alt="麟角寺國師殿一然像" loading="lazy" referrerpolicy="no-referrer"><div><h3>일연——作為記憶人物的一然</h3><p class="exhibit-report__work-meta">1206–1289 · 高麗僧 · 《三國遺事》編纂者</p><p>把一然放回禪宗網絡、國師冊封與麟角寺生活之中，《三國遺事》便不再只是作者作品，而成為僧院實踐與文獻文化的成果。</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · 理解</div><h2>這個展覽讓我們理解什麼</h2></div><div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints"><li><strong>《三國遺事》是一部深具佛教性的古典。</strong>它的史料價值不能與僧院文化和佛教記憶結構分開。</li><li><strong>麟角寺的歷史遠早於一然。</strong>考古學復原了更早期的重要儀式活動。</li><li><strong>考古學改變藝術史。</strong>保留出土脈絡的成組文物，比孤立收藏品更能說明實際使用方式。</li><li><strong>傳承本身就是歷史。</strong>殘碑、拓本、古版本與現代復原都顯示文化遺產如何在變化中存續。</li></ul>
+<div class="exhibit-report__research"><strong>對佛教藝術史的意義</strong><p>本展最重要的價值在於不分割物質文化與文獻文化。寺院不只是建築群，而是一套生產、保存與傳遞文物、碑文、僧傳和故事的記憶機制。</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · 資料</div><h2>延伸閱讀</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__resources"><li><strong>官方頁面：</strong><a href="https://museum.buddhism.or.kr/?c=2/14&p=18&uid=91" target="_blank" rel="noopener">佛教中央博物館</a>。</li><li><strong>圖錄：</strong>불교중앙박물관，《인각사와 삼국유사 — 역사의 향기를 따라 천년의 숨결을 만나다》，2013，271頁。</li><li><strong>論文：</strong>麟角寺歷史發展、一然與《三國遺事》、麟角寺出土佛教金屬工藝、普覺國師碑原文與解讀。</li></ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · 結論</div><h2>總評</h2></div><div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">評價</div><strong>把場所、文本與物件放在一起思考的重要展覽</strong><p>本展不只紀念一部經典，更重建其誕生與傳承的物質環境：寺院、儀式器、碑文、僧侶網絡、破壞與復原。這正是它對韓國佛教藝術史最有價值之處。</p></div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ 回到頁首</a></div></main>
+```
