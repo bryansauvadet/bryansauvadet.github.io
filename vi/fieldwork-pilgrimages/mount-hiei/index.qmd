@@ -9,110 +9,30 @@ format:
 <section class="page-hero"><h1>Núi Hiei</h1><p class="lead">比叡山 · Kyoto / Ōtsu, Nhật Bản</p></section>
 <main class="content"><div class="content-inner fieldwork-story hiei-story">
 
-<p>Khi rời Hiei, tôi cảm thấy mình hiểu cụ thể hơn thế nào là một “ngọn núi tu viện”. Kiến trúc ở đây không tồn tại một mình; nó phụ thuộc vào đường đi, rừng, khoảng cách, tầm nhìn, khí hậu và sự lặp lại của thực hành. Có nơi đẹp vì phong cảnh; có nơi đẹp vì những câu chuyện được lưu giữ. Núi Hiei là cả hai.</p>
-
-<div class="fieldwork-notes"><h2>Thông tin cơ bản</h2><p><strong>Địa điểm:</strong> Núi Hiei (比叡山), giữa Kyoto và Ōtsu.<br><strong>Trung tâm tu viện:</strong> Enryaku-ji (延暦寺).<br><strong>Thành lập:</strong> 788, bởi Saichō (最澄).<br><strong>Truyền thống:</strong> Tendai (天台宗).<br><strong>Các khu chính:</strong> Tōdō (東塔), Saitō (西塔), Yokawa (横川).<br><strong>Di sản:</strong> Enryaku-ji thuộc quần thể Di tích lịch sử cố đô Kyoto của UNESCO.</p>
-
-<div class="fieldwork-strip fieldwork-strip-3"><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="Thăm núi Hiei trước một điện của Enryaku-ji" loading="eager"><figcaption>Tại núi Hiei, trước một điện của Enryaku-ji: một ngày mà khảo sát thực địa, hành hương và tình bạn thực sự hòa vào nhau.</figcaption></figure>
+<figure class="fieldwork-hero"><img src="/assets/images/mount-hiei-02.webp" alt="Thăm núi Hiei trước một điện của Enryaku-ji" loading="eager"><figcaption>Tại núi Hiei, trước một điện của Enryaku-ji: một ngày mà khảo sát thực địa, hành hương và tình bạn thực sự hòa vào nhau.</figcaption></figure>
 
 <p class="lead">Đây là một trong những ngày đáng nhớ nhất trong chuyến đi Nhật Bản của tôi: hành hương lên núi Hiei (比叡山) cùng một người bạn thân, chuyên gia về Phật giáo Nhật Bản và cũng là bạn học cũ thời đại học, <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a>. Tôi đã biết Hiei từ lâu qua sách vở và lịch sử Phật giáo Nhật Bản; nhưng khi thực sự đi bộ trên núi, địa danh ấy trở thành một không gian cụ thể của sườn dốc, rừng cây, khoảng cách và những ngưỡng chuyển tiếp.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="Một điện Phật giáo trên núi Hiei" loading="lazy"><figcaption>Các kiến trúc của Enryaku-ji hiện ra không như những di tích tách biệt mà như những thành phần của một cảnh quan tu viện.</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="Thăm núi Hiei trước một điện của Enryaku-ji" loading="eager"><figcaption>Tại núi Hiei, trước một điện của Enryaku-ji: một ngày mà khảo sát thực địa, hành hương và tình bạn thực sự hòa vào nhau.</figcaption></figure>
-
-<p class="lead">Đây là một trong những ngày đáng nhớ nhất trong chuyến đi Nhật Bản của tôi: hành hương lên núi Hiei (比叡山) cùng một người bạn thân, chuyên gia về Phật giáo Nhật Bản và cũng là bạn học cũ thời đại học, <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a>. Tôi đã biết Hiei từ lâu qua sách vở và lịch sử Phật giáo Nhật Bản; nhưng khi thực sự đi bộ trên núi, địa danh ấy trở thành một không gian cụ thể của sườn dốc, rừng cây, khoảng cách và những ngưỡng chuyển tiếp.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="Một điện Phật giáo trên núi Hiei" loading="lazy"><figcaption>Các kiến trúc của Enryaku-ji hiện ra không như những di tích tách biệt mà như những thành phần của một cảnh quan tu viện.</figcaption></figure>
 
 <p>Nằm cao phía trên Kyoto và hướng về hồ Biwa, núi Hiei là một trong những thánh sơn quan trọng của Nhật Bản. Năm 788, Saichō (最澄) lập một nơi tu hành tại đây; cơ sở ấy trở thành hạt nhân của Enryaku-ji (延暦寺) và trung tâm phát triển của Tendai Nhật Bản (天台宗). Khi có mặt tại chỗ, lịch sử này trở thành một cấu trúc không gian: Enryaku-ji không phải chỉ là một ngôi chùa đơn lẻ mà là một hệ thống trải rộng trên núi, với các khu Tōdō (東塔), Saitō (西塔) và Yokawa (横川) nối với nhau bằng đường mòn và rừng.</p>
 
-<div class="fieldwork-strip fieldwork-strip-2"><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="Thăm núi Hiei trước một điện của Enryaku-ji" loading="eager"><figcaption>Tại núi Hiei, trước một điện của Enryaku-ji: một ngày mà khảo sát thực địa, hành hương và tình bạn thực sự hòa vào nhau.</figcaption></figure>
-
-<p class="lead">Đây là một trong những ngày đáng nhớ nhất trong chuyến đi Nhật Bản của tôi: hành hương lên núi Hiei (比叡山) cùng một người bạn thân, chuyên gia về Phật giáo Nhật Bản và cũng là bạn học cũ thời đại học, <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a>. Tôi đã biết Hiei từ lâu qua sách vở và lịch sử Phật giáo Nhật Bản; nhưng khi thực sự đi bộ trên núi, địa danh ấy trở thành một không gian cụ thể của sườn dốc, rừng cây, khoảng cách và những ngưỡng chuyển tiếp.</p>
-
-<figure class="figure-small"><img src="/assets/images/mount-hiei-02.webp" alt="Thăm núi Hiei trước một điện của Enryaku-ji" loading="eager"><figcaption>Tại núi Hiei, trước một điện của Enryaku-ji: một ngày mà khảo sát thực địa, hành hương và tình bạn thực sự hòa vào nhau.</figcaption></figure>
-
-<p class="lead">Đây là một trong những ngày đáng nhớ nhất trong chuyến đi Nhật Bản của tôi: hành hương lên núi Hiei (比叡山) cùng một người bạn thân, chuyên gia về Phật giáo Nhật Bản và cũng là bạn học cũ thời đại học, <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a>. Tôi đã biết Hiei từ lâu qua sách vở và lịch sử Phật giáo Nhật Bản; nhưng khi thực sự đi bộ trên núi, địa danh ấy trở thành một không gian cụ thể của sườn dốc, rừng cây, khoảng cách và những ngưỡng chuyển tiếp.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="Một điện Phật giáo trên núi Hiei" loading="lazy"><figcaption>Các kiến trúc của Enryaku-ji hiện ra không như những di tích tách biệt mà như những thành phần của một cảnh quan tu viện.</figcaption></figure>
-
-<p>Nằm cao phía trên Kyoto và hướng về hồ Biwa, núi Hiei là một trong những thánh sơn quan trọng của Nhật Bản. Năm 788, Saichō (最澄) lập một nơi tu hành tại đây; cơ sở ấy trở thành hạt nhân của Enryaku-ji (延暦寺) và trung tâm phát triển của Tendai Nhật Bản (天台宗). Khi có mặt tại chỗ, lịch sử này trở thành một cấu trúc không gian: Enryaku-ji không phải chỉ là một ngôi chùa đơn lẻ mà là một hệ thống trải rộng trên núi, với các khu Tōdō (東塔), Saitō (西塔) và Yokawa (横川) nối với nhau bằng đường mòn và rừng.</p>
+<div class="fieldwork-strip fieldwork-strip-3"><figure class="figure-item"><img src="/assets/images/mount-hiei-03.webp" alt="Một điện Phật giáo trên núi Hiei" loading="lazy"><figcaption>Các kiến trúc của Enryaku-ji hiện ra không như những di tích tách biệt mà như những thành phần của một cảnh quan tu viện.</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-04.webp" alt="Kiến trúc Phật giáo và tháp trên núi Hiei" loading="lazy"><figcaption>Điện, tháp, sân rộng và cây cối tạo thành một tổng thể trong đó kiến trúc không thể tách khỏi địa hình.</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-07.webp" alt="Bậc đá và đèn đá trong rừng núi Hiei" loading="lazy"><figcaption>Trong rừng, bậc đá và đèn đá biến chính sự di chuyển thành một phần của trải nghiệm nơi chốn.</figcaption></figure></div>
 
 <p>Điều khiến tôi quan tâm nhất chính là mối quan hệ giữa thiết chế tôn giáo, kiến trúc và cảnh quan. Hiei giữ vai trò đặc biệt trong sự hình thành Phật giáo Nhật Bản thời trung đại. Hōnen (法然), Shinran (親鸞), Dōgen (道元), Eisai (栄西) và Nichiren (日蓮), theo những cách khác nhau, đều từng được đào luyện trong môi trường này trước khi con đường của họ dẫn tới các hình thức giáo pháp và thực hành khác. Vì thế Hiei không chỉ là trung tâm của Tendai mà còn là một điểm xuất phát để hiểu sự đa dạng hóa của Phật giáo Nhật Bản.</p>
 
-<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="Kiến trúc Phật giáo và tháp trên núi Hiei" loading="lazy"><figcaption>Điện, tháp, sân rộng và cây cối tạo thành một tổng thể trong đó kiến trúc không thể tách khỏi địa hình.</figcaption></figure>
-
 <p>Càng đi sâu vào núi, tôi càng chú ý tới nhịp điệu mà địa điểm này áp đặt lên cơ thể. Không thể đơn giản đi từ tòa nhà này sang tòa nhà khác: phải leo, xuống, và vượt qua những đoạn mà rừng gần như chiếm toàn bộ tầm nhìn. Chính chuỗi chuyển động ấy thay đổi cách nhìn. Các điện lớn quan trọng, nhưng khoảng trống và con đường giữa chúng cũng quan trọng không kém.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="Bậc đá và đèn đá trong rừng núi Hiei" loading="lazy"><figcaption>Trong rừng, bậc đá và đèn đá biến chính sự di chuyển thành một phần của trải nghiệm nơi chốn.</figcaption></figure>
 
 <p>Những bậc đá cũ và hàng đèn đá là một trong những hình ảnh mạnh nhất của ngày hôm đó. Ý nghĩa của chúng không chỉ nằm ở vẻ đẹp. Chúng vật chất hóa những chuyển động đã lặp lại qua nhiều thế kỷ: tăng sĩ, người hành hương, người lễ bái và những sinh hoạt thường ngày nối các khu tu viện với nhau.</p>
 
-<figure class="figure-left"><img src="/assets/images/mount-hiei-06.webp" alt="Bậc đá trong rừng núi Hiei" loading="lazy"><figcaption>Một số con đường thu hẹp giữa cây rừng rồi dẫn tới những công trình yên tĩnh hơn.</figcaption></figure>
+<div class="fieldwork-strip fieldwork-strip-2"><figure class="figure-item"><img src="/assets/images/mount-hiei-06.webp" alt="Bậc đá trong rừng núi Hiei" loading="lazy"><figcaption>Một số con đường thu hẹp giữa cây rừng rồi dẫn tới những công trình yên tĩnh hơn.</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-05.webp" alt="Nhìn từ núi Hiei về hồ Biwa" loading="lazy"><figcaption>Từ độ cao của Hiei, tầm nhìn mở ra hồ Biwa và khu vực Ōtsu.</figcaption></figure></div>
 
 <p>Trải nghiệm này càng có ý nghĩa vì tôi chia sẻ nó với Guilhem. Những cuộc trò chuyện về lịch sử Tendai, dòng truyền thừa, thực hành và tổ chức không gian đi cùng từng bước chân. Khi đi với một người hiểu sâu Phật giáo Nhật Bản, một chi tiết kiến trúc, một hướng nhìn, tên một điện hay một khúc quanh của đường đều có thể mở ra một lịch sử rộng lớn hơn.</p>
 
-<figure class="figure-right"><img src="/assets/images/mount-hiei-05.webp" alt="Nhìn từ núi Hiei về hồ Biwa" loading="lazy"><figcaption>Từ độ cao của Hiei, tầm nhìn mở ra hồ Biwa và khu vực Ōtsu.</figcaption></figure>
+<figure class="figure-small"><img src="/assets/images/mount-hiei-01.webp" alt="Kỷ niệm cá nhân của chuyến thăm núi Hiei" loading="lazy"><figcaption>Một hình ảnh riêng tư hơn để giữ lại cả ký ức con người của ngày khảo sát này.</figcaption></figure>
 
 <p>Quang cảnh hướng về hồ Biwa cũng nhắc tôi rằng Hiei không phải một thế giới khép kín. Vị trí giữa Kyoto và Ōtsu tạo cho ngọn núi một thế đứng đặc biệt: sự ẩn tu trong núi rừng cùng tồn tại với khả năng quan sát và kết nối những cảnh quan xung quanh.</p>
 
-<figure class="figure-left"><img src="/assets/images/mount-hiei-01.webp" alt="Kỷ niệm cá nhân của chuyến thăm núi Hiei" loading="lazy"><figcaption>Một hình ảnh riêng tư hơn để giữ lại cả ký ức con người của ngày khảo sát này.</figcaption></figure>
+<p>Khi rời Hiei, tôi cảm thấy mình hiểu cụ thể hơn thế nào là một “ngọn núi tu viện”. Kiến trúc ở đây không tồn tại một mình; nó phụ thuộc vào đường đi, rừng, khoảng cách, tầm nhìn, khí hậu và sự lặp lại của thực hành. Có nơi đẹp vì phong cảnh; có nơi đẹp vì những câu chuyện được lưu giữ. Núi Hiei là cả hai.</p>
 
-<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="Một điện Phật giáo trên núi Hiei" loading="lazy"><figcaption>Các kiến trúc của Enryaku-ji hiện ra không như những di tích tách biệt mà như những thành phần của một cảnh quan tu viện.</figcaption></figure>
-
-<p>Nằm cao phía trên Kyoto và hướng về hồ Biwa, núi Hiei là một trong những thánh sơn quan trọng của Nhật Bản. Năm 788, Saichō (最澄) lập một nơi tu hành tại đây; cơ sở ấy trở thành hạt nhân của Enryaku-ji (延暦寺) và trung tâm phát triển của Tendai Nhật Bản (天台宗). Khi có mặt tại chỗ, lịch sử này trở thành một cấu trúc không gian: Enryaku-ji không phải chỉ là một ngôi chùa đơn lẻ mà là một hệ thống trải rộng trên núi, với các khu Tōdō (東塔), Saitō (西塔) và Yokawa (横川) nối với nhau bằng đường mòn và rừng.</p>
-
-<p>Điều khiến tôi quan tâm nhất chính là mối quan hệ giữa thiết chế tôn giáo, kiến trúc và cảnh quan. Hiei giữ vai trò đặc biệt trong sự hình thành Phật giáo Nhật Bản thời trung đại. Hōnen (法然), Shinran (親鸞), Dōgen (道元), Eisai (栄西) và Nichiren (日蓮), theo những cách khác nhau, đều từng được đào luyện trong môi trường này trước khi con đường của họ dẫn tới các hình thức giáo pháp và thực hành khác. Vì thế Hiei không chỉ là trung tâm của Tendai mà còn là một điểm xuất phát để hiểu sự đa dạng hóa của Phật giáo Nhật Bản.</p>
-
-<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="Kiến trúc Phật giáo và tháp trên núi Hiei" loading="lazy"><figcaption>Điện, tháp, sân rộng và cây cối tạo thành một tổng thể trong đó kiến trúc không thể tách khỏi địa hình.</figcaption></figure>
-
-<p>Càng đi sâu vào núi, tôi càng chú ý tới nhịp điệu mà địa điểm này áp đặt lên cơ thể. Không thể đơn giản đi từ tòa nhà này sang tòa nhà khác: phải leo, xuống, và vượt qua những đoạn mà rừng gần như chiếm toàn bộ tầm nhìn. Chính chuỗi chuyển động ấy thay đổi cách nhìn. Các điện lớn quan trọng, nhưng khoảng trống và con đường giữa chúng cũng quan trọng không kém.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="Bậc đá và đèn đá trong rừng núi Hiei" loading="lazy"><figcaption>Trong rừng, bậc đá và đèn đá biến chính sự di chuyển thành một phần của trải nghiệm nơi chốn.</figcaption></figure>
-
-<p>Những bậc đá cũ và hàng đèn đá là một trong những hình ảnh mạnh nhất của ngày hôm đó. Ý nghĩa của chúng không chỉ nằm ở vẻ đẹp. Chúng vật chất hóa những chuyển động đã lặp lại qua nhiều thế kỷ: tăng sĩ, người hành hương, người lễ bái và những sinh hoạt thường ngày nối các khu tu viện với nhau.</p>
-
-<figure class="figure-left"><img src="/assets/images/mount-hiei-06.webp" alt="Bậc đá trong rừng núi Hiei" loading="lazy"><figcaption>Một số con đường thu hẹp giữa cây rừng rồi dẫn tới những công trình yên tĩnh hơn.</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="Thăm núi Hiei trước một điện của Enryaku-ji" loading="eager"><figcaption>Tại núi Hiei, trước một điện của Enryaku-ji: một ngày mà khảo sát thực địa, hành hương và tình bạn thực sự hòa vào nhau.</figcaption></figure>
-
-<p class="lead">Đây là một trong những ngày đáng nhớ nhất trong chuyến đi Nhật Bản của tôi: hành hương lên núi Hiei (比叡山) cùng một người bạn thân, chuyên gia về Phật giáo Nhật Bản và cũng là bạn học cũ thời đại học, <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a>. Tôi đã biết Hiei từ lâu qua sách vở và lịch sử Phật giáo Nhật Bản; nhưng khi thực sự đi bộ trên núi, địa danh ấy trở thành một không gian cụ thể của sườn dốc, rừng cây, khoảng cách và những ngưỡng chuyển tiếp.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="Một điện Phật giáo trên núi Hiei" loading="lazy"><figcaption>Các kiến trúc của Enryaku-ji hiện ra không như những di tích tách biệt mà như những thành phần của một cảnh quan tu viện.</figcaption></figure>
-
-<p>Nằm cao phía trên Kyoto và hướng về hồ Biwa, núi Hiei là một trong những thánh sơn quan trọng của Nhật Bản. Năm 788, Saichō (最澄) lập một nơi tu hành tại đây; cơ sở ấy trở thành hạt nhân của Enryaku-ji (延暦寺) và trung tâm phát triển của Tendai Nhật Bản (天台宗). Khi có mặt tại chỗ, lịch sử này trở thành một cấu trúc không gian: Enryaku-ji không phải chỉ là một ngôi chùa đơn lẻ mà là một hệ thống trải rộng trên núi, với các khu Tōdō (東塔), Saitō (西塔) và Yokawa (横川) nối với nhau bằng đường mòn và rừng.</p>
-
-<p>Điều khiến tôi quan tâm nhất chính là mối quan hệ giữa thiết chế tôn giáo, kiến trúc và cảnh quan. Hiei giữ vai trò đặc biệt trong sự hình thành Phật giáo Nhật Bản thời trung đại. Hōnen (法然), Shinran (親鸞), Dōgen (道元), Eisai (栄西) và Nichiren (日蓮), theo những cách khác nhau, đều từng được đào luyện trong môi trường này trước khi con đường của họ dẫn tới các hình thức giáo pháp và thực hành khác. Vì thế Hiei không chỉ là trung tâm của Tendai mà còn là một điểm xuất phát để hiểu sự đa dạng hóa của Phật giáo Nhật Bản.</p>
-
-<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="Kiến trúc Phật giáo và tháp trên núi Hiei" loading="lazy"><figcaption>Điện, tháp, sân rộng và cây cối tạo thành một tổng thể trong đó kiến trúc không thể tách khỏi địa hình.</figcaption></figure>
-
-<p>Càng đi sâu vào núi, tôi càng chú ý tới nhịp điệu mà địa điểm này áp đặt lên cơ thể. Không thể đơn giản đi từ tòa nhà này sang tòa nhà khác: phải leo, xuống, và vượt qua những đoạn mà rừng gần như chiếm toàn bộ tầm nhìn. Chính chuỗi chuyển động ấy thay đổi cách nhìn. Các điện lớn quan trọng, nhưng khoảng trống và con đường giữa chúng cũng quan trọng không kém.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="Bậc đá và đèn đá trong rừng núi Hiei" loading="lazy"><figcaption>Trong rừng, bậc đá và đèn đá biến chính sự di chuyển thành một phần của trải nghiệm nơi chốn.</figcaption></figure>
-
-<p>Những bậc đá cũ và hàng đèn đá là một trong những hình ảnh mạnh nhất của ngày hôm đó. Ý nghĩa của chúng không chỉ nằm ở vẻ đẹp. Chúng vật chất hóa những chuyển động đã lặp lại qua nhiều thế kỷ: tăng sĩ, người hành hương, người lễ bái và những sinh hoạt thường ngày nối các khu tu viện với nhau.</p>
-
-<figure class="figure-left"><img src="/assets/images/mount-hiei-06.webp" alt="Bậc đá trong rừng núi Hiei" loading="lazy"><figcaption>Một số con đường thu hẹp giữa cây rừng rồi dẫn tới những công trình yên tĩnh hơn.</figcaption></figure>
-
-<p>Trải nghiệm này càng có ý nghĩa vì tôi chia sẻ nó với Guilhem. Những cuộc trò chuyện về lịch sử Tendai, dòng truyền thừa, thực hành và tổ chức không gian đi cùng từng bước chân. Khi đi với một người hiểu sâu Phật giáo Nhật Bản, một chi tiết kiến trúc, một hướng nhìn, tên một điện hay một khúc quanh của đường đều có thể mở ra một lịch sử rộng lớn hơn.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-05.webp" alt="Nhìn từ núi Hiei về hồ Biwa" loading="lazy"><figcaption>Từ độ cao của Hiei, tầm nhìn mở ra hồ Biwa và khu vực Ōtsu.</figcaption></figure></div>
-
-<p>Điều khiến tôi quan tâm nhất chính là mối quan hệ giữa thiết chế tôn giáo, kiến trúc và cảnh quan. Hiei giữ vai trò đặc biệt trong sự hình thành Phật giáo Nhật Bản thời trung đại. Hōnen (法然), Shinran (親鸞), Dōgen (道元), Eisai (栄西) và Nichiren (日蓮), theo những cách khác nhau, đều từng được đào luyện trong môi trường này trước khi con đường của họ dẫn tới các hình thức giáo pháp và thực hành khác. Vì thế Hiei không chỉ là trung tâm của Tendai mà còn là một điểm xuất phát để hiểu sự đa dạng hóa của Phật giáo Nhật Bản.</p>
-
-<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="Kiến trúc Phật giáo và tháp trên núi Hiei" loading="lazy"><figcaption>Điện, tháp, sân rộng và cây cối tạo thành một tổng thể trong đó kiến trúc không thể tách khỏi địa hình.</figcaption></figure><figure class="figure-item"><img src="/assets/images/mount-hiei-02.webp" alt="Thăm núi Hiei trước một điện của Enryaku-ji" loading="eager"><figcaption>Tại núi Hiei, trước một điện của Enryaku-ji: một ngày mà khảo sát thực địa, hành hương và tình bạn thực sự hòa vào nhau.</figcaption></figure>
-
-<p class="lead">Đây là một trong những ngày đáng nhớ nhất trong chuyến đi Nhật Bản của tôi: hành hương lên núi Hiei (比叡山) cùng một người bạn thân, chuyên gia về Phật giáo Nhật Bản và cũng là bạn học cũ thời đại học, <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a>. Tôi đã biết Hiei từ lâu qua sách vở và lịch sử Phật giáo Nhật Bản; nhưng khi thực sự đi bộ trên núi, địa danh ấy trở thành một không gian cụ thể của sườn dốc, rừng cây, khoảng cách và những ngưỡng chuyển tiếp.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="Một điện Phật giáo trên núi Hiei" loading="lazy"><figcaption>Các kiến trúc của Enryaku-ji hiện ra không như những di tích tách biệt mà như những thành phần của một cảnh quan tu viện.</figcaption></figure>
-
-<p>Nằm cao phía trên Kyoto và hướng về hồ Biwa, núi Hiei là một trong những thánh sơn quan trọng của Nhật Bản. Năm 788, Saichō (最澄) lập một nơi tu hành tại đây; cơ sở ấy trở thành hạt nhân của Enryaku-ji (延暦寺) và trung tâm phát triển của Tendai Nhật Bản (天台宗). Khi có mặt tại chỗ, lịch sử này trở thành một cấu trúc không gian: Enryaku-ji không phải chỉ là một ngôi chùa đơn lẻ mà là một hệ thống trải rộng trên núi, với các khu Tōdō (東塔), Saitō (西塔) và Yokawa (横川) nối với nhau bằng đường mòn và rừng.</p>
-
-<p>Điều khiến tôi quan tâm nhất chính là mối quan hệ giữa thiết chế tôn giáo, kiến trúc và cảnh quan. Hiei giữ vai trò đặc biệt trong sự hình thành Phật giáo Nhật Bản thời trung đại. Hōnen (法然), Shinran (親鸞), Dōgen (道元), Eisai (栄西) và Nichiren (日蓮), theo những cách khác nhau, đều từng được đào luyện trong môi trường này trước khi con đường của họ dẫn tới các hình thức giáo pháp và thực hành khác. Vì thế Hiei không chỉ là trung tâm của Tendai mà còn là một điểm xuất phát để hiểu sự đa dạng hóa của Phật giáo Nhật Bản.</p>
-
-<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="Kiến trúc Phật giáo và tháp trên núi Hiei" loading="lazy"><figcaption>Điện, tháp, sân rộng và cây cối tạo thành một tổng thể trong đó kiến trúc không thể tách khỏi địa hình.</figcaption></figure>
-
-<p>Càng đi sâu vào núi, tôi càng chú ý tới nhịp điệu mà địa điểm này áp đặt lên cơ thể. Không thể đơn giản đi từ tòa nhà này sang tòa nhà khác: phải leo, xuống, và vượt qua những đoạn mà rừng gần như chiếm toàn bộ tầm nhìn. Chính chuỗi chuyển động ấy thay đổi cách nhìn. Các điện lớn quan trọng, nhưng khoảng trống và con đường giữa chúng cũng quan trọng không kém.</p>
-
-<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="Bậc đá và đèn đá trong rừng núi Hiei" loading="lazy"><figcaption>Trong rừng, bậc đá và đèn đá biến chính sự di chuyển thành một phần của trải nghiệm nơi chốn.</figcaption></figure></div>
-
-</div>
+<div class="fieldwork-notes"><h2>Thông tin cơ bản</h2><p><strong>Địa điểm:</strong> Núi Hiei (比叡山), giữa Kyoto và Ōtsu.<br><strong>Trung tâm tu viện:</strong> Enryaku-ji (延暦寺).<br><strong>Thành lập:</strong> 788, bởi Saichō (最澄).<br><strong>Truyền thống:</strong> Tendai (天台宗).<br><strong>Các khu chính:</strong> Tōdō (東塔), Saitō (西塔), Yokawa (横川).<br><strong>Di sản:</strong> Enryaku-ji thuộc quần thể Di tích lịch sử cố đô Kyoto của UNESCO.</p></div>
 
 </div></main>
