@@ -37,6 +37,18 @@ format:
       <p>불화, 조각, 경전과 의례구를 통해 고려에서 조선으로 이어지는 불교 기도와 물질문화의 연속성을 살펴본 전시.</p>
       <span class="exhibition-card-link">전시 리뷰 읽기 →</span>
     </a>
+
+    <a class="exhibition-card" href="/ko/exhibitions/dreaming-of-sukhavati.html">
+      <div class="exhibition-card-image">
+        <img src="https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg" alt="꿈꾸는 즐거움, 극락極樂" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">한국 불교미술 · 아미타여래 · 극락정토 · 조선</div>
+      <h2>꿈꾸는 즐거움, 극락極樂</h2>
+      <p class="exhibition-card-subtitle">아미타여래의 극락정토를 이미지로 읽다</p>
+      <p class="exhibition-card-meta">불교중앙박물관 · 서울 · 2016년 10월 19일 — 12월 18일</p>
+      <p>아미타신앙, 구품왕생, 염불수행과 극락정토의 시각화를 성보 97점으로 조명한 중요한 특별전.</p>
+      <span class="exhibition-card-link">전시 리뷰 읽기 →</span>
+    </a>
   </div>
 </div>
 
