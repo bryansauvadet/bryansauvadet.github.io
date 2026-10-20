@@ -64,7 +64,7 @@ format:
         <p>Le parcours met en regard Koryŏ et Chosŏn sans les réduire à une opposition simpliste entre un royaume bouddhique et un royaume confucéen. Certes, la cour de Koryŏ soutient activement le bouddhisme tandis que l’État Chosŏn limite son influence institutionnelle. Pourtant, la commande d’images, la copie de sūtras et la production d’objets rituels continuent. La prière sert ainsi de fil conducteur pour comprendre la persistance d’une culture bouddhique au-delà des changements politiques.</p>
 
         <figure class="exhibit-report__figure exhibit-report__figure--wide">
-          <img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="Yangnyu Gwanŭm, peinture bouddhique de Koryŏ datée de 1310" loading="lazy">
+          <img src="https://www.kyuhaku.jp/exhibition/img/tokuten/186/01.jpg" referrerpolicy="no-referrer" alt="Yangnyu Gwanŭm, peinture bouddhique de Koryŏ datée de 1310" loading="lazy">
           <figcaption><em>楊柳観音像</em> — Avalokiteśvara au rameau de saule, Koryŏ, 1310, Kagami-jinja, Saga. La monumentalité et la richesse picturale de cette œuvre résument à elles seules l’ambition de la peinture bouddhique de cour de Koryŏ.</figcaption>
         </figure>
       </div>
@@ -124,7 +124,7 @@ format:
         <div class="exhibit-report__works">
 
           <article class="exhibit-report__work">
-            <img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="楊柳観音像 de Kagami-jinja" loading="lazy">
+            <img src="https://www.kyuhaku.jp/exhibition/img/tokuten/186/01.jpg" referrerpolicy="no-referrer" alt="楊柳観音像 de Kagami-jinja" loading="lazy">
             <div>
               <h3>楊柳観音像 — Avalokiteśvara au rameau de saule</h3>
               <p class="exhibit-report__work-meta">1310 · Koryŏ · peinture sur soie · Kagami-jinja, Saga · Bien culturel important</p>
