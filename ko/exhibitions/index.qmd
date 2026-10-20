@@ -49,6 +49,18 @@ format:
       <p>아미타신앙, 구품왕생, 염불수행과 극락정토의 시각화를 성보 97점으로 조명한 중요한 특별전.</p>
       <span class="exhibition-card-link">전시 리뷰 읽기 →</span>
     </a>
+
+    <a class="exhibition-card" href="/ko/exhibitions/ingaksa-samguk-yusa.html">
+      <div class="exhibition-card-image">
+        <img class="exhibition-card-image--ingaksa" src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="인각사와 삼국유사" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">한국 불교미술 · 인각사 · 일연 · 삼국유사 · 불교고고학</div>
+      <h2>인각사와 삼국유사</h2>
+      <p class="exhibition-card-subtitle">역사의 향기를 따라 천년의 숨결을 만나다</p>
+      <p class="exhibition-card-meta">불교중앙박물관 · 서울 · 2013년 11월 13일 — 2014년 1월 12일</p>
+      <p>인각사 발굴, 일연의 생애, 불교 공양구와 『삼국유사』의 물질적 전승을 하나의 역사로 연결한 특별전.</p>
+      <span class="exhibition-card-link">전시 리뷰 읽기 →</span>
+    </a>
   </div>
 </div>
 
