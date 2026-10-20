@@ -52,7 +52,7 @@ format:
       <a class="maps-project-card" href="/fr/cartes/yom-sungik-koryo.html">
         <div class="maps-project-image"><img src="/assets/img/yom-sungik/yom-sungik-thumbnail.webp" alt="Détail du frontispice du Soutra du Lotus de Namgyewŏn" loading="lazy" decoding="async" style="object-position:center 44%"><div class="maps-project-credit">Soutra du Lotus de Namgyewŏn · détail du frontispice</div></div>
         <div class="maps-project-copy">
-          <div class="maps-project-type">Étude thématique · Koryŏ</div>
+          <div class="maps-project-type">Étude thématique · le Koryŏ</div>
           <h2>Yŏm Sŭngik et l’art bouddhique au Koryŏ</h2>
           <div class="maps-project-hanja" lang="zh-Hant">廉承益</div>
           <p>Une étude de Yŏm Sŭngik (?–1302) à travers sa carrière auprès de Ch’ungnyŏl, les restaurations de stoupas de 1283, le Soutra du Lotus de Namgyewŏn, la peinture d’Amitābha et la dhāraṇī de 1292.</p>
