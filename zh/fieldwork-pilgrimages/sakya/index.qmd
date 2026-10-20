@@ -21,9 +21,12 @@ format:
 <figure class="figure-right"><img src="/assets/images/sakya-05.jpg" alt="八思巴与成吉思汗、忽必烈汗造像" loading="lazy"><figcaption>中央为八思巴（’Phags-pa），两侧为成吉思汗与忽必烈汗。对我而言，这组造像把萨迦宗教权威与蒙古帝国权力之间的关系直接视觉化了。</figcaption></figure>
 <p>我在这组造像前停留了很久。八思巴被置于成吉思汗与忽必烈汗之间，这一构图本身就把宗教导师与帝国君主之间的关系具体呈现出来。这一点对我的高丽研究尤其重要。高丽所接受的并不是一种笼统的“蒙古佛教”，而是在藏传佛教领袖与帝国权力互动中形成的宗教文化。这组造像因此成为我理解萨迦与高丽后期王廷佛教变化之间联系的一个非常直接的视觉节点。</p>
 <p>在学术上最令我震撼的，是藏书空间。高大的木架上堆满包裹好的经卷，整面墙几乎由文本构成。萨迦保存着西藏最重要的文献收藏之一，其中包括大藏经系统与大量古代写本。旅行文学和大众介绍有时称之为“第二敦煌”。这个说法很吸引人，也容易夸张，因此需要谨慎使用；但它确实传达了现住所感受到的规模。</p>
-<figure class="figure-left"><img src="/assets/images/sakya-06.jpg" alt="萨迦寺藏书" loading="lazy"><figcaption>萨迦书架：文本本身仿佛成为建筑。</figcaption></figure>
+<div class="figure-pair">
+<figure ><img src="/assets/images/sakya-06.jpg" alt="萨迦寺藏书" loading="lazy"><figcaption>萨迦书架：文本本身仿佛成为建筑。</figcaption></figure>
+<figure ><img src="/assets/images/sakya-07.jpg" alt="萨迦寺内佛塔与祭坛" loading="lazy"><figcaption>佛塔、造像与仪式器物共同构成不可分割的宗教空间。</figcaption></figure>
+</div>
 <p>站在这些书架前，我想到的是知识传承所需的物质链条。佛教文本并不是抽象概念：它需要抄写、翻译、校勘、印刷、运输、保存与阅读。理解西藏、中国与高丽之间的宗教网络时，这些具体的物件与其承载的教义同样重要。</p>
-<figure class="figure-right"><img src="/assets/images/sakya-07.jpg" alt="萨迦寺内佛塔与祭坛" loading="lazy"><figcaption>佛塔、造像与仪式器物共同构成不可分割的宗教空间。</figcaption></figure>
+
 <p>另一个令我感兴趣的面向，是制度佛教与地方传承的并存。寺院屋顶有一处小殿，在地方叙事中有时被称为“女巫殿”，并流传着它用来降伏有害女性精灵或巫者的故事。我更愿意把它保留在“传说”的层次，而不将之包装成确定的历史事实。即便如此，它仍说明西藏圣地如何吸纳关于降伏、护佑与地方力量转化的叙事。</p>
 <p>离开萨迦时，我脑中留下的不再是一座孤立的名寺，而是一个节点：研究与信仰、建筑与政治权力、物质文化与文献传承、西藏历史与更广阔的欧亚网络在此交会。对我而言，这正是实地考察不可取代之处——它重新给予那些在文字中容易抽象化的历史过程以尺度、光线与材质。</p>
 <div class="fieldwork-notes"><h2>基本资料</h2><p><strong>创建：</strong>1073年，传统上归于昆・贡却杰波。<br><strong>位置：</strong>后藏萨迦，日喀则地区。<br><strong>坐标：</strong>约北纬28.905°、东经88.018°。<br><strong>传承：</strong>藏传佛教萨迦派。</p></div>
