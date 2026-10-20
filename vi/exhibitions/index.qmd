@@ -37,6 +37,18 @@ format:
       <p>Hội họa, điêu khắc, kinh điển và pháp khí cho thấy tính liên tục của cầu nguyện Phật giáo từ Koryŏ sang Chosŏn.</p>
       <span class="exhibition-card-link">Đọc bài viết →</span>
     </a>
+
+    <a class="exhibition-card" href="/vi/exhibitions/dreaming-of-sukhavati.html">
+      <div class="exhibition-card-image">
+        <img src="https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg" alt="꿈꾸는 즐거움, 극락極樂" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Nghệ thuật Phật giáo Hàn Quốc · Amitābha · Tịnh độ · Chosŏn</div>
+      <h2>꿈꾸는 즐거움, 극락極樂</h2>
+      <p class="exhibition-card-subtitle">Niềm vui mơ về Cực Lạc — Sukhāvatī của Amitābha</p>
+      <p class="exhibition-card-meta">Bảo tàng Phật giáo Trung ương · Seoul · 19/10 — 18/12/2016</p>
+      <p>Một triển lãm quan trọng về Amitābha, chín phẩm vãng sinh, niệm Phật và cách nghệ thuật Hàn Quốc hình dung Sukhāvatī.</p>
+      <span class="exhibition-card-link">Đọc bài viết →</span>
+    </a>
   </div>
 </div>
 
