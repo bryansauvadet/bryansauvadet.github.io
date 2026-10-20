@@ -1,0 +1,13 @@
+---
+title: "Fieldwork and Pilgrimages"
+lang: en
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+<section class="page-hero"><h1>Fieldwork and Pilgrimages</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">Field notes, visits to temples, monuments and archaeological sites, research itineraries and pilgrimages.</p>
+<div class="database-empty-state"><h2>Fieldwork and itineraries</h2><p>This section will progressively bring together my fieldwork, site observations and pilgrimage routes.</p></div>
+</div></main>
