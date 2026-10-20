@@ -12,7 +12,7 @@ format:
 <main class="book-report" id="haut">
 <header class="book-report__hero"><div class="book-report__shell book-report__hero-grid">
 <figure class="book-report__cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Bìa sách The Dynamic Spread of Buddhist Print Culture của Shih-shan Susan Huang" loading="eager" decoding="async" referrerpolicy="no-referrer"></figure>
-<div><div class="book-report__eyebrow">Điểm sách · Lịch sử mỹ thuật Phật giáo · Văn hóa in ấn · Lịch sử châu Á</div><h1>The Dynamic Spread of Buddhist Print Culture</h1><p class="book-report__author">Shih-shan Susan Huang</p>
+<div><div class="book-report__eyebrow">Điểm sách · Lịch sử mỹ thuật Phật giáo · Văn hóa in ấn · Lịch sử châu Á</div><h1>The Dynamic Spread of Buddhist Print Culture</h1><p class="book-report__author">Shih-shan Susan Huang 黃士珊</p>
 <dl class="book-report__meta" aria-label="Thông tin thư mục"><div><dt>Năm</dt><dd>2024</dd></div><div><dt>Nhà xuất bản</dt><dd>Brill · Leiden / Boston</dd></div><div><dt>Ngôn ngữ</dt><dd>Tiếng Anh</dd></div><div><dt>Lĩnh vực</dt><dd>Lịch sử mỹ thuật Phật giáo · văn hóa in ấn · mạng lưới xuyên Á</dd></div><div><dt>Loại</dt><dd>Chuyên khảo nghiên cứu</dd></div><div><dt>Tham chiếu</dt><dd>ISBN 978-90-04-70001-7 · DOI 10.1163/9789004700017</dd></div></dl>
 <div class="book-report__domain"><strong>Câu hỏi trung tâm:</strong> Từ khoảng năm 850 đến 1450, hình ảnh và văn bản Phật giáo in ấn được sản xuất, sao chép, vận chuyển và biến đổi như thế nào giữa Trung Quốc và các khu vực lân cận?</div></div>
 </div></header>
