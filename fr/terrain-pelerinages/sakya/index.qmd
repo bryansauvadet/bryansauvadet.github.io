@@ -6,27 +6,6 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
-<style>
-.fieldwork-story figure{
-  width:50%;
-  margin:3rem auto;
-}
-.fieldwork-story figure img{
-  display:block;
-  width:100%;
-  height:auto;
-  margin:0 auto;
-}
-.fieldwork-story figure figcaption{
-  margin-top:.6rem;
-}
-@media (max-width: 720px){
-  .fieldwork-story figure{
-    width:90%;
-  }
-}
-</style>
-
 <section class="page-hero"><h1>Monastère de Sakya</h1><p class="lead">ས་སྐྱ་དགོན་པ་ · Sakya, Tsang, Tibet</p></section>
 
 <main class="content"><div class="content-inner fieldwork-story">
@@ -51,12 +30,12 @@ format:
 
 <p>Cette différence est importante pour l'histoire de l'art. Les bronzes dorés, les sculptures d'argile, les thangkas et les ensembles d'autels peuvent être étudiés par style, iconographie et datation ; mais, à Sakya, je suis constamment ramené à leur fonction. Les traces de dévotion, les étoffes, les offrandes et les transformations successives de l'espace montrent que ces objets continuent d'être activés par les pratiques religieuses. Ce que je photographie n'est donc pas seulement un patrimoine : c'est un lieu vivant.</p>
 
-<figure><img src="/assets/images/sakya-05.jpg" alt="’Phags-pa entre Činggis Qan et Qubilai Qan au monastère de Sakya" loading="lazy"><figcaption>’Phags-pa au centre, entouré de Činggis Qan et de Qubilai Qan. Pour moi, cette image rend immédiatement visible l'articulation entre autorité religieuse sakyapa et pouvoir impérial mongol.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-05.jpg" alt="’Phags-pa entre Činggis Qan et Qubilai Qan au monastère de Sakya" loading="lazy"><figcaption>’Phags-pa au centre, entouré de Činggis Qan et de Qubilai Qan. Pour moi, cette image rend immédiatement visible l'articulation entre autorité religieuse sakyapa et pouvoir impérial mongol.</figcaption></figure>
 <p>Je me suis arrêté longtemps devant cet ensemble. Voir ’Phags-pa placé entre Činggis Qan et Qubilai Qan rend sensible, d'une manière qu'aucun schéma politique ne peut vraiment remplacer, la construction d'une relation entre maître religieux et souverain. C'est précisément cette configuration qui m'intéresse pour Koryŏ : la péninsule n'a pas reçu un « bouddhisme mongol » indifférencié, mais des formes religieuses qui avaient été façonnées dans ce dialogue entre hiérarques tibétains et pouvoir impérial. Cette image me permettait donc de relier visuellement Sakya aux transformations observées dans le bouddhisme de cour de la fin de Koryŏ.</p>
 
 <p>La bibliothèque est probablement l'espace qui m'a le plus impressionné intellectuellement. Les hauts rayonnages de bois sont chargés de volumes enveloppés et empilés sur une hauteur qui oblige presque à renverser la tête. Sakya conserve l'une des grandes collections textuelles du Tibet, avec des corpus canoniques et de nombreux manuscrits anciens. La presse et les récits de voyage ont parfois popularisé l'expression de « second Dunhuang ». La comparaison est spectaculaire et doit être maniée avec prudence, mais elle dit quelque chose de l'impression produite par l'ampleur de l'ensemble.</p>
 
-<figure><img src="/assets/images/sakya-06.jpg" alt="Bibliothèque du monastère de Sakya" loading="lazy"><figcaption>Les rayonnages de la bibliothèque de Sakya : le texte comme architecture.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-06.jpg" alt="Bibliothèque du monastère de Sakya" loading="lazy"><figcaption>Les rayonnages de la bibliothèque de Sakya : le texte comme architecture.</figcaption></figure>
 
 <p>Face à cette bibliothèque, j'ai surtout pensé aux chaînes matérielles de transmission. Un texte bouddhique n'est pas une abstraction : il faut le copier, le traduire, le corriger, l'imprimer, le transporter, le conserver et le lire. Pour comprendre les circulations religieuses entre Tibet, Chine et Koryŏ, ces objets sont aussi importants que les doctrines qu'ils contiennent. Voir les volumes accumulés sur place rend cette réalité presque tangible.</p>
 
