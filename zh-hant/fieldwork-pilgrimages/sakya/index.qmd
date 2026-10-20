@@ -6,27 +6,6 @@ format:
     include-before-body: _includes/zh-hant-header.html
     include-after-body: _includes/zh-hant-footer.html
 ---
-<style>
-.fieldwork-story figure{
-  width:50%;
-  margin:3rem auto;
-}
-.fieldwork-story figure img{
-  display:block;
-  width:100%;
-  height:auto;
-  margin:0 auto;
-}
-.fieldwork-story figure figcaption{
-  margin-top:.6rem;
-}
-@media (max-width: 720px){
-  .fieldwork-story figure{
-    width:90%;
-  }
-}
-</style>
-
 <section class="page-hero"><h1>薩迦寺</h1><p class="lead">ས་སྐྱ་དགོན་པ་ · 西藏後藏薩迦</p></section>
 <main class="content"><div class="content-inner fieldwork-story">
 <figure class="fieldwork-hero"><img src="/assets/images/sakya-02.jpg" alt="薩迦寺前" loading="eager"><figcaption>抵達後藏後，我在薩迦寺前。</figcaption></figure>
@@ -39,10 +18,10 @@ format:
 <p>從院落進入室內，是這次訪問中最鮮明的經驗之一。外部由石牆與巨大量體主導；進入殿內後，光線驟減，色彩變得濃重，佛像逐漸從昏暗中顯現。我花了很多時間看的不只是造像本身，而是它們如何與織物、供品、燈火和小型造像共同構成一個整體。在博物館裡，我們常把作品從環境中抽離；在這裡，聖像從來不是孤立的。</p>
 <figure><img src="/assets/images/sakya-04.jpg" alt="薩迦寺佛像" loading="lazy"><figcaption>仍完整存在於儀式環境中的佛像。</figcaption></figure>
 <p>這種差異對佛教美術史非常重要。鎏金銅像、泥塑、繪畫與祭壇當然可以用風格、圖像學與年代加以研究，但在薩迦，我總是被迫重新思考「功能」。織物、供物、禮拜痕跡與空間歷次改造都說明，這些物件至今仍透過宗教實踐被啟動。我拍攝的不是單純的文化遺產，而是一個仍在運作的宗教環境。</p>
-<figure><img src="/assets/images/sakya-05.jpg" alt="八思巴與成吉思汗、忽必烈汗造像" loading="lazy"><figcaption>中央為八思巴（’Phags-pa），兩側為成吉思汗與忽必烈汗。對我而言，這組造像把薩迦宗教權威與蒙古帝國權力之間的關係直接視覺化了。</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-05.jpg" alt="八思巴與成吉思汗、忽必烈汗造像" loading="lazy"><figcaption>中央為八思巴（’Phags-pa），兩側為成吉思汗與忽必烈汗。對我而言，這組造像把薩迦宗教權威與蒙古帝國權力之間的關係直接視覺化了。</figcaption></figure>
 <p>我在這組造像前停留了很久。八思巴被置於成吉思汗與忽必烈汗之間，這一構圖本身就把宗教導師與帝國君主之間的關係具體呈現出來。這一點對我的高麗研究尤其重要。高麗所接受的並不是一種籠統的「蒙古佛教」，而是在藏傳佛教領袖與帝國權力互動中形成的宗教文化。這組造像因此成為我理解薩迦與高麗後期王廷佛教變化之間聯繫的一個非常直接的視覺節點。</p>
 <p>在學術上最令我震撼的，是藏書空間。高大的木架上堆滿包裹好的經卷，整面牆幾乎由文本構成。薩迦保存著西藏最重要的文獻收藏之一，其中包括大藏經系統與大量古代寫本。旅行文學和大眾介紹有時稱之為「第二敦煌」。這個說法很吸引人，也容易誇張，因此需要謹慎使用；但它確實傳達了現場所感受到的規模。</p>
-<figure><img src="/assets/images/sakya-06.jpg" alt="薩迦寺藏書" loading="lazy"><figcaption>薩迦書架：文本本身彷彿成為建築。</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-06.jpg" alt="薩迦寺藏書" loading="lazy"><figcaption>薩迦書架：文本本身彷彿成為建築。</figcaption></figure>
 <p>站在這些書架前，我想到的是知識傳承所需的物質鏈條。佛教文本並不是抽象概念：它需要抄寫、翻譯、校勘、印刷、運輸、保存與閱讀。理解西藏、中國與高麗之間的宗教網絡時，這些具體的物件與其承載的教義同樣重要。</p>
 <figure><img src="/assets/images/sakya-07.jpg" alt="薩迦寺內佛塔與祭壇" loading="lazy"><figcaption>佛塔、造像與儀式器物共同構成不可分割的宗教空間。</figcaption></figure>
 <p>另一個令我感興趣的面向，是制度佛教與地方傳承的並存。寺院屋頂有一處小殿，在地方敘事中有時被稱為「女巫殿」，並流傳著它用來降伏有害女性精靈或巫者的故事。我更願意把它保留在「傳說」的層次，而不將之包裝成確定的歷史事實。即便如此，它仍說明西藏聖地如何吸納關於降伏、護佑與地方力量轉化的敘事。</p>
