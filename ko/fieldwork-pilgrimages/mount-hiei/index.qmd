@@ -1,0 +1,44 @@
+---
+title: "히에이산"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="page-hero"><h1>히에이산</h1><p class="lead">比叡山 · 교토 / 오쓰, 일본</p></section>
+<main class="content"><div class="content-inner fieldwork-story">
+
+<figure class="fieldwork-hero"><img src="/assets/images/mount-hiei-02.webp" alt="엔랴쿠지 전각 앞에서의 히에이산 답사" loading="eager"><figcaption>엔랴쿠지의 한 전각 앞에서. 현지조사와 순례, 우정이 자연스럽게 겹쳐진 하루였다.</figcaption></figure>
+
+<p class="lead">일본 여행에서 가장 기억에 남는 날 가운데 하나는 일본 불교 전공자이자 대학 시절 동창인 오랜 친구 <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a>와 함께 히에이산(比叡山)을 걸었던 날이다. 문헌과 일본 불교사를 통해 오래전부터 알고 있던 장소였지만, 직접 산을 걷자 히에이라는 이름은 사이초와 천태종을 가리키는 역사적 표지에서 경사, 숲, 거리, 경계로 이루어진 실제 공간으로 바뀌었다.</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="히에이산의 불교 전각" loading="lazy"><figcaption>엔랴쿠지의 건물들은 독립된 기념물이라기보다 산악 사원의 풍경을 구성하는 요소로 다가온다.</figcaption></figure>
+
+<p>교토를 내려다보고 비와호를 향해 솟은 히에이산은 일본을 대표하는 성산 가운데 하나다. 788년 사이초(最澄)는 이곳에 수행처를 세웠고, 그것이 엔랴쿠지(延暦寺)의 핵심이자 일본 천태종(天台宗)이 발전하는 중심이 되었다. 현장에서 보면 이 역사는 공간의 구조로 이해된다. 엔랴쿠지는 하나의 전각이 아니라 도도(東塔), 사이토(西塔), 요카와(横川) 등 여러 구역이 숲과 길로 이어지는 산 전체의 종교적 조직이다.</p>
+
+<p>내가 특히 관심을 둔 것은 종교 제도와 건축, 경관이 맺는 관계였다. 히에이산은 일본 중세 불교 형성에 결정적인 역할을 했다. 호넨(法然), 신란(親鸞), 도겐(道元), 에이사이(栄西), 니치렌(日蓮)은 서로 다른 방식과 시기에 이 환경에서 배우고 수행했으며, 이후 각자의 종교적 길로 나아갔다. 따라서 히에이산은 천태종의 중심일 뿐 아니라 일본 불교가 이후 여러 흐름으로 분화되는 과정을 이해하는 출발점이기도 하다.</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="히에이산의 전각과 탑" loading="lazy"><figcaption>전각과 탑, 넓은 마당과 수목이 함께 놓이며 건축이 지형과 분리될 수 없음을 보여 준다.</figcaption></figure>
+
+<p>산을 걸을수록 이 장소가 요구하는 이동의 리듬이 인상적이었다. 건물에서 건물로 단순히 옮겨 가는 것이 아니다. 오르고, 내려가고, 때로는 숲이 거의 모든 시야를 차지하는 구간을 지난다. 그 과정이 시선을 바꾼다. 큰 전각도 중요하지만 그 사이의 간격과 길 역시 중요하다. 산 전체가 어떻게 수행의 공간이 될 수 있는지를 몸으로 이해하게 한다.</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="히에이산의 석등과 돌계단" loading="lazy"><figcaption>숲속의 돌계단과 석등은 이동 자체를 장소 경험의 일부로 만든다.</figcaption></figure>
+
+<p>오래된 돌계단과 석등은 그날 가장 강하게 남은 이미지 가운데 하나였다. 단순히 아름답기 때문만은 아니다. 이 길에는 승려와 순례자, 참배객들이 수세기 동안 반복해 온 움직임이 물질적으로 남아 있다. 건축물이나 불상만을 분리해 보는 미술사에서는 쉽게 놓칠 수 있는 종교 공간의 연결성을 직접 느끼게 했다.</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-06.webp" alt="히에이산 숲속의 돌계단" loading="lazy"><figcaption>나무 사이로 이어지는 길은 보다 고요하고 외진 건물들로 연결된다.</figcaption></figure>
+
+<p>이 경험은 Guilhem과 함께했기에 더욱 의미가 있었다. 천태의 역사, 승려 계보, 수행, 공간 조직에 관해 이야기하며 걷자 건축의 작은 세부, 방향, 전각의 이름, 길의 굽이까지 더 큰 일본 불교사의 일부로 읽히기 시작했다.</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-05.webp" alt="히에이산에서 바라본 비와호" loading="lazy"><figcaption>히에이산 높은 곳에서 비와호와 오쓰 방면을 바라본 풍경.</figcaption></figure>
+
+<p>비와호를 향한 전망은 히에이산이 결코 닫힌 세계가 아니라는 사실도 보여 준다. 교토와 오쓰 사이에 자리한 이 산에서는 수도적 은둔과 주변 지역을 내려다보는 지리적 개방성이 동시에 존재한다. 높은 곳에서 바라보면 고립과 연결이라는 두 성격이 매우 선명하게 드러난다.</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-01.webp" alt="히에이산 방문의 개인적인 기록" loading="lazy"><figcaption>연구 기록과 함께 그날의 인간적인 기억도 남기고 싶었다.</figcaption></figure>
+
+<p>히에이산을 내려오며 나는 ‘산악 사원’이라는 말을 이전보다 구체적으로 이해하게 되었다. 이곳에서는 건축이 홀로 작동하지 않는다. 길, 숲, 거리, 전망, 기후, 그리고 반복되는 수행이 함께 공간을 만든다. 어떤 장소는 풍경 때문에 아름답고, 어떤 장소는 그 안에 보존된 이야기 때문에 아름답다. 히에이산은 그 두 가지를 모두 갖춘 곳이었다.</p>
+
+<div class="fieldwork-notes"><h2>기본 정보</h2><p><strong>장소:</strong> 히에이산(比叡山), 교토와 오쓰 사이.<br><strong>중심 사원:</strong> 엔랴쿠지(延暦寺).<br><strong>창건:</strong> 788년, 사이초(最澄).<br><strong>전통:</strong> 천태종(天台宗).<br><strong>주요 구역:</strong> 도도(東塔), 사이토(西塔), 요카와(横川).<br><strong>문화유산:</strong> 엔랴쿠지는 유네스코 세계유산 ‘고도 교토의 문화재’ 구성 자산이다.</p></div>
+
+</div></main>
