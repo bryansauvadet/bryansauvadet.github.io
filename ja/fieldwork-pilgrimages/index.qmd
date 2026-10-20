@@ -7,7 +7,7 @@ format:
     include-after-body: _includes/ja-footer.html
 ---
 <section class="page-hero"><h1>フィールドワークと巡礼</h1></section>
-<main class="content"><div class="content-inner">
+<main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">寺院、建造物、考古遺跡の現地調査記録、研究行程、巡礼に関するノート。</p>
 <section class="fieldwork-index-section"><h2>訪問地</h2><ul class="fieldwork-place-list"><li><a href="/ja/fieldwork-pilgrimages/sakya/"><strong>サキャ僧院</strong></a> <span>— チベット・ツァン地方</span></li></ul></section>
 <section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
