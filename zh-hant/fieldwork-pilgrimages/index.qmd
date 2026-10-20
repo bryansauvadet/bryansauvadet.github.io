@@ -7,7 +7,7 @@ format:
     include-after-body: _includes/zh-hant-footer.html
 ---
 <section class="page-hero"><h1>田野調查與巡禮</h1></section>
-<main class="content"><div class="content-inner">
+<main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">寺院、建築與考古遺址的田野筆記、研究路線與巡禮記錄。</p>
 <section class="fieldwork-index-section"><h2>訪問地點</h2><ul class="fieldwork-place-list"><li><a href="/zh-hant/fieldwork-pilgrimages/sakya/"><strong>薩迦寺</strong></a> <span>— 西藏・後藏</span></li></ul></section>
 <section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
