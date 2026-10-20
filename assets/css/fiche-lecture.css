@@ -96,3 +96,19 @@
 .reading-book-link{font:10px/1 Arial,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--accent-dark);text-decoration:underline;text-underline-offset:3px}
 @media(max-width:860px){.reading-list-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.reading-book-cover{height:300px}}
 @media(max-width:600px){.reading-list-grid{grid-template-columns:1fr}.reading-book-cover{height:auto;aspect-ratio:2/3}}
+
+
+/* Reading cards: preserve full book-cover proportions */
+.reading-book-cover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.reading-book-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center center;
+}
