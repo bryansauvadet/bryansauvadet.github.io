@@ -1,0 +1,13 @@
+---
+title: "展覧会"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+<section class="page-hero"><h1>展覧会</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">仏教美術、アジア、美術史に関わる博物館・美術館の展覧会についての記録、レビュー、観覧メモ。</p>
+<div class="database-empty-state"><h2>訪れた展覧会</h2><p>このセクションでは、博物館・美術館で訪れた展覧会の記録とレビューを順次まとめます。</p></div>
+</div></main>
