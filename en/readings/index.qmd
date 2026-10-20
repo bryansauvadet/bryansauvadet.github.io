@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">A selection of books worth reading to better understand Buddhist art history, Buddhism, Asian history, archaeology and architecture.</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/en/readings/domesticating-the-dharma.html">
+<div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Cover of Domesticating the Dharma" loading="lazy"></div>
+<div class="reading-book-domain">Korean Buddhism · Silla · Hwaŏm · Cult and ritual</div>
+<h2>Domesticating the Dharma</h2>
+<p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
+<p>Why cults, images, ritual and sacred geography explain the embedding of Buddhism in Silla better than the conventional narrative of separate “schools.”</p>
+<span class="reading-book-link">Read the review →</span>
+</a>
 <a class="reading-book-card" href="/en/readings/the-dynamic-spread-of-buddhist-print-culture.html">
 <div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Cover of The Dynamic Spread of Buddhist Print Culture" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">Buddhist art history · Print culture · Asian history</div>
