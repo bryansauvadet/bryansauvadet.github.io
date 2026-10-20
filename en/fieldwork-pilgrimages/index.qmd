@@ -7,7 +7,7 @@ format:
     include-after-body: _includes/en-footer.html
 ---
 <section class="page-hero"><h1>Fieldwork and Pilgrimages</h1></section>
-<main class="content"><div class="content-inner">
+<main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">Field notes, visits to temples, monuments and archaeological sites, research itineraries and pilgrimages.</p>
 <section class="fieldwork-index-section"><h2>Places visited</h2><ul class="fieldwork-place-list"><li><a href="/en/fieldwork-pilgrimages/sakya/"><strong>Sakya Monastery</strong></a> <span>— Tibet · Tsang</span></li></ul></section>
 <section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
