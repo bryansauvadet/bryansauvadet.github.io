@@ -142,7 +142,7 @@ format:
           </article>
 
           <article class="exhibit-report__work">
-            <img src="https://www.narahaku.go.jp/photo/H063543.jpg" alt="Brûle-parfum coréen en bronze à décor incrusté d’argent, Koryŏ, XIVe siècle" loading="lazy" referrerpolicy="no-referrer">
+            <img src="https://www.narahaku.go.jp/_fKkxXPHb/H060909.jpg" alt="Brûle-parfum coréen en bronze à décor incrusté d’argent, Koryŏ, XIVe siècle" loading="lazy" referrerpolicy="no-referrer">
             <div>
               <h3>梵字宝相華草文銀象嵌香炉 — Brûle-parfum aux caractères sanskrits et rinceaux</h3>
               <p class="exhibit-report__work-meta">XIVe siècle · Koryŏ · bronze avec incrustations d’argent · Nara National Museum</p>
