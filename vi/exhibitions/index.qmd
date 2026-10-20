@@ -6,8 +6,27 @@ format:
     include-before-body: _includes/vi-header.html
     include-after-body: _includes/vi-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 <section class="page-hero"><h1>Triển lãm</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">Ghi chép, nhận xét và lộ trình tham quan các triển lãm trong bảo tàng, liên quan đến nghệ thuật Phật giáo, châu Á và lịch sử nghệ thuật.</p>
-<div class="database-empty-state"><h2>Các triển lãm đã xem</h2><p>Mục này sẽ dần tập hợp những ghi chép và nhận xét của tôi về các triển lãm trong bảo tàng.</p></div>
+
+<div class="exhibition-list">
+  <div class="exhibition-list-grid">
+    <a class="exhibition-card" href="/vi/exhibitions/monk-artisans-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://img.segye.com/content/image/2021/12/06/20211206516438.jpg" alt="조선의 승려 장인" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Nghệ thuật Phật giáo Hàn Quốc · Chosŏn · điêu khắc và hội họa</div>
+      <h2>조선의 승려 장인</h2>
+      <p class="exhibition-card-subtitle">Nghệ nhân tăng sĩ thời Chosŏn</p>
+      <p class="exhibition-card-meta">Bảo tàng Quốc gia Hàn Quốc · Seoul · 7/12/2021 — 6/3/2022</p>
+      <p>Một triển lãm quan trọng về các tăng sĩ điêu khắc và họa công, xưởng, mạng lưới lưu động và quá trình chế tác hình tượng Phật giáo.</p>
+      <span class="exhibition-card-link">Đọc bài viết →</span>
+    </a>
+  </div>
+</div>
+
 </div></main>
+```
