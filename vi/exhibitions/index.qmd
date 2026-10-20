@@ -28,7 +28,7 @@ format:
 
     <a class="exhibition-card" href="/vi/exhibitions/beauty-prayer-koryo-choson.html">
       <div class="exhibition-card-image">
-        <img src="https://www.kyuhaku.jp/visit/img/book/book124.jpg" alt="うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術" loading="lazy">
+        <img class="exhibition-card-image--beauty-prayer" src="https://www.kyuhaku.jp/visit/img/book/book124.jpg" alt="うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術" loading="lazy" referrerpolicy="no-referrer">
       </div>
       <div class="exhibition-card-domain">Nghệ thuật Phật giáo Hàn Quốc · Koryŏ và Chosŏn · thế kỷ XI–XVI</div>
       <h2>うるわしき祈りの美</h2>
