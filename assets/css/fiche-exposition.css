@@ -111,3 +111,6 @@
 .exhibition-card-link{font:10px/1 Arial,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--accent-dark);text-decoration:underline;text-underline-offset:3px}
 @media(max-width:860px){.exhibition-list-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.exhibition-list-grid{grid-template-columns:1fr}.exhibition-card-image{height:auto;aspect-ratio:4/3}}
+
+/* Cadrage spécifique — うるわしき祈りの美 */
+.exhibition-card-image img.exhibition-card-image--beauty-prayer{object-position:50% 18%}
