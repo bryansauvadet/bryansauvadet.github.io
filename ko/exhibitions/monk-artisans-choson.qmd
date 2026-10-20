@@ -1,0 +1,212 @@
+---
+title: "조선의 승려 장인"
+lang: ko
+image: https://img.segye.com/content/image/2021/12/06/20211206516438.jpg
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+
+<main class="exhibit-report" id="top">
+  <header class="exhibit-report__hero">
+    <div class="exhibit-report__shell">
+      <figure class="exhibit-report__hero-image">
+        <img src="https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg" alt="국립중앙박물관 조선의 승려 장인 전시 전경" loading="eager" decoding="async" referrerpolicy="no-referrer">
+        <figcaption>국립중앙박물관 특별전 <em>조선의 승려 장인</em> 전경, 2021. 법보신문 게재 사진.</figcaption>
+      </figure>
+
+      <div class="exhibit-report__hero-copy">
+        <div class="exhibit-report__eyebrow">전시 리뷰 · 한국 불교미술 · 조선 · 조각과 회화</div>
+        <h1>조선의 승려 장인</h1>
+        <p class="exhibit-report__venue"><em>조선의 승려 장인: 불상과 불화</em><br>국립중앙박물관 · 서울</p>
+
+        <dl class="exhibit-report__meta" aria-label="전시 정보">
+          <div><dt>전시 기간</dt><dd>2021년 12월 7일 — 2022년 3월 6일</dd></div>
+          <div><dt>박물관</dt><dd>국립중앙박물관</dd></div>
+          <div><dt>도시</dt><dd>서울 · 대한민국</dd></div>
+          <div><dt>기획</dt><dd>미술부 · 권강미 및 박물관 연구진</dd></div>
+          <div><dt>유형</dt><dd>특별전 · 불교미술</dd></div>
+        </dl>
+
+        <div class="exhibit-report__question">
+          <strong>핵심 주제:</strong> 조선 불교미술을 그것을 만든 사람들, 곧 수행자이자 전문 장인이고 공방의 책임자이며 기술 전승자였던 승려들의 관점에서 이해하는 것.
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="exhibit-report__nav-wrap">
+    <nav class="exhibit-report__shell exhibit-report__nav" aria-label="목차">
+      <a href="#why">왜 볼 만한가?</a>
+      <a href="#proposal">기획 의도</a>
+      <a href="#route">전시 구성과 연출</a>
+      <a href="#works">주목할 작품</a>
+      <a href="#understand">무엇을 이해하게 하는가</a>
+      <a href="#resources">더 읽기</a>
+      <a href="#verdict">평가</a>
+    </nav>
+  </div>
+
+  <section class="exhibit-report__section" id="why">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">01 · 핵심</div>
+        <h2>왜 이 전시를 볼 만한가?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>이 전시는 시선을 작품 자체에서 제작자에게로 옮긴다. 조선의 불상과 불화를 익명의 종교미술품으로 다루는 대신, 그것을 설계하고 조각하고 채색하고 개금하며 점안과 봉안을 준비한 승려 장인들을 전면에 내세운다. 전시는 27개 기관에서 온 145건의 작품과 자료를 모았고, 그중 54건은 15개 사찰에서 출품되었다. 전시에 소개된 작품에는 이름이 확인된 366명의 승려 장인이 관여한다. 이를 통해 불교미술을 개인 천재의 산물이 아니라 공방, 협업, 기술 계보가 결합된 집단 작업으로 이해할 수 있다.</p>
+
+        <p>역사적으로도 중요하다. 조선시대 불교를 단순한 쇠퇴의 역사로 보는 서술을 강하게 수정하기 때문이다. 1592–1598년 임진왜란 이후 오히려 불상과 불화 제작은 활발해졌고, 조각승과 화승의 수가 크게 늘었다. 이는 조선 후기 사찰을 중심으로 매우 역동적인 불교 시각문화가 형성되었음을 보여준다.</p>
+
+        <figure class="exhibit-report__figure exhibit-report__figure--wide">
+          <img src="https://cdn.buddhismjournal.com/news/photo/202112/22295_28277_3035.jpg" alt="전시 속 화승 작업 공간 재현" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>화승의 작업 공간을 재현한 전시 연출. 도구, 손의 움직임, 제작 단계를 구체적으로 드러낸다. Buddhist Journal 게재 사진.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="proposal">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">02 · 기획</div>
+        <h2>전시는 무엇을 제안하는가?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p class="exhibit-report__thesis">이 전시는 승려 장인을 조선 불교미술을 이해하는 핵심 인물로 제시한다. 그들은 종교적 수행자이면서 동시에 고도로 전문화된 기술자였다. 따라서 예배 이미지를 만드는 일은 수행, 집단 노동의 조직, 기술과 도상의 전승과 분리해서 볼 수 없다.</p>
+
+        <ul class="exhibit-report__keypoints">
+          <li><strong>익명성에서 벗어나기.</strong>명문, 복장 기록, 화기 등에 남은 이름을 통해 개별 장인의 활동, 계보, 공방 네트워크를 복원할 수 있다.</li>
+          <li><strong>제작을 보이게 하기.</strong>초본, 내부 구조, 재료, 조각기법, 채색 과정은 완성품을 실제 제작 공정 속에 다시 놓는다.</li>
+          <li><strong>집단 작업 이해하기.</strong>불상과 불화는 대개 한 사람의 작품이 아니라 수장, 보조자, 제자가 이동하며 구성하는 협업의 결과다.</li>
+          <li><strong>조선 불교 다시 보기.</strong>16세기 이후의 강한 제작 활동은 성리학 국가 아래에서 불교가 계속 소멸했다는 단선적 서사를 수정하게 한다.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="route">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">03 · 관람</div>
+        <h2>전시 구성과 연출</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>전시는 네 부분으로 구성된다. 먼저 승려 장인의 정체를 설명하고, 이어 조각과 회화의 제작 공간을 보여준다. 세 번째 부분에서는 주요 작품들을 통해 이러한 기술과 협업이 완성된 불교 이미지로 어떻게 나타나는지 보여주며, 마지막에는 승려 장인에 대한 기억과 현대적 재해석을 다룬다. 단순한 연대기 대신 사회적 정체성에서 제작 행위로, 그리고 예배 이미지로 이동하는 흐름이다.</p>
+
+        <figure class="exhibit-report__figure">
+          <img src="https://dimg.donga.com/wps/NEWS/IMAGE/2021/12/06/110629231.3.jpg" alt="불화와 초본을 함께 전시한 모습" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>완성된 불화와 초본을 나란히 제시해 밑그림에서 예배 이미지로 이어지는 과정을 보여준다. 동아일보 게재 사진.</figcaption>
+        </figure>
+
+        <ol class="exhibit-report__route">
+          <li><strong>승려 장인은 누구인가</strong><span>민간 장인과 구별되는 전문 승려 장인의 성격을 설명하고 조선 후기 집단 제작의 확대를 보여준다.</span></li>
+          <li><strong>불상과 불화를 만든 공간</strong><span>조각승과 화승의 두 작업 공간을 통해 도구, 제작 단계, 초본과 과학조사를 제시한다. CT 촬영은 목조불상 내부 구조까지 보여준다.</span></li>
+          <li><strong>그들이 꿈꾼 세계</strong><span>대표 승려 장인의 걸작을 통해 정토, 영산회, 화엄 세계가 기술과 협업을 통해 어떻게 가시화되는지 보여준다.</span></li>
+          <li><strong>승려 장인을 기억하며</strong><span>조선 후기 불교조각과 현대 작가 빠키의 설치작업을 연결하여 승려 장인의 기억이 오늘날 어떻게 재해석되는지 묻는다.</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="works">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">04 · 선정</div>
+        <h2>기억할 작품과 자료</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__works">
+          <article class="exhibit-report__work">
+            <img src="https://img.khan.co.kr/news/2021/12/06/l_2021120601000692600058542.webp" alt="용문사 목각아미타여래설법상" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>용문사 목각아미타여래설법상</h3>
+              <p class="exhibit-report__work-meta">1684 · 목조, 개금과 채색 · 용문사 · 조각승 단응(端應)</p>
+              <p>전시의 핵심 작품 가운데 하나다. 단응은 보통 불화에서 볼 법한 아미타 설법 장면을 입체 부조로 옮겼다. 중앙의 아미타여래와 빽빽한 권속 구성은 조각과 회화의 경계를 흐린다. 2021년 전시를 위해 제작 후 337년 만에 처음으로 사찰 밖에 나온 작품이라는 점도 중요하다.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://img9.yna.co.kr/etc/inner/KR/2024/12/26/AKR20241226036700005_01_i_P4.jpg" alt="해인사 영산회상도" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>해인사 영산회상도</h3>
+              <p class="exhibit-report__work-meta">1729 · 비단에 채색 · 해인사 · 의겸(義謙)과 공방</p>
+              <p>석가모니의 설법 장면을 그린 이 대형 불화는 많은 인물을 담으면서도 위계와 시선의 질서를 잃지 않는 공방의 능력을 보여준다. 18세기 불화의 대표적 인물인 의겸 역시 독립된 개인 화가라기보다 전문 화승 집단을 이끈 수장으로 보는 편이 더 정확하다.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://cdn.ibulgyo.com/news/photo/202201/215880_233842_5858.jpg" alt="송광사 화엄경변상도" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>송광사 화엄경변상도</h3>
+              <p class="exhibit-report__work-meta">1770 · 비단에 채색 · 송광사 · 화련(華蓮)과 공방</p>
+              <p>이 작품의 밀도는 화엄미술의 우주론적 야심을 잘 보여준다. 한 화면 안에 여러 법회와 인물, 건축, 천상 공간이 복합적으로 배치된다. 화승의 기량은 장식적 효과에 그치지 않고, 한계가 없는 화엄의 교리 세계를 이해 가능한 시각적 질서로 바꾸는 역할을 한다.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="understand">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">05 · 이해</div>
+        <h2>이 전시가 이해하게 하는 것</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__keypoints">
+          <li><strong>불교 이미지는 집단의 산물이다.</strong>명문은 수장과 제자를 중심으로 조직된 제작 집단을 보여준다. 한 작품을 한 사람에게만 귀속시키면 실제 제작 현장이 가려질 수 있다.</li>
+          <li><strong>공방은 이동했다.</strong>승려 장인은 사찰에서 사찰로 이동했다. 이러한 이동을 통해 양식, 기법, 도상 해결책이 한반도 전역으로 퍼졌다.</li>
+          <li><strong>기술은 종교 행위의 일부다.</strong>목재 선택, 초본 제작, 복장물을 넣을 공간 마련, 개금과 채색은 단순한 기술이 아니라 물질을 예배 대상으로 전환하는 과정에 참여한다.</li>
+          <li><strong>조선 후기는 창조의 시기였다.</strong>현재 확인된 조선 후기 조각승은 1,000명 이상, 화승은 약 2,400명에 이른다. 이는 당시 불교미술 활동의 규모를 보여준다.</li>
+        </ul>
+
+        <div class="exhibit-report__research">
+          <strong>불교미술사적 의의</strong>
+          <p>가장 중요한 방법론적 교훈은 도상과 제작을 분리하지 않는 것이다. 불상과 불화는 이미지이면서 물질적 대상이고, 공방의 산물이며, 사찰 네트워크의 결과이자 의례의 매개다. 이 전시는 한국 불교미술의 사회사와 물질사를 함께 쓰기 위한 훌륭한 모델을 제시한다.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="resources">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">06 · 자료</div>
+        <h2>더 읽기</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__resources">
+          <li><strong>도록:</strong> 국립중앙박물관, <em>조선의 승려 장인</em>, 서울, 국립중앙박물관, 2021, 400쪽.</li>
+          <li><strong>공식 페이지:</strong> <a href="https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=631858&listType=list&menuId=past&schM=view" target="_blank" rel="noopener">국립중앙박물관 전시 안내</a>.</li>
+          <li><strong>박물관 자료:</strong> <a href="https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?catCustomType=post&catId=93&schM=view&arcId=18039" target="_blank" rel="noopener">전시 보도자료 및 상세 소개</a>.</li>
+          <li><strong>도록의 주요 내용:</strong> 조각·회화 공방, 이동하는 승려 장인 네트워크, 제작 공정, 조선 후기 주요 장인을 폭넓게 다룬다.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="verdict">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">07 · 결론</div>
+        <h2>평가</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__verdict">
+          <div class="exhibit-report__verdict-label">종합 평가</div>
+          <strong>한국 불교미술사를 위해 반드시 참고할 전시</strong>
+          <p><em>조선의 승려 장인</em>의 가장 큰 장점은 종교 이미지를 만든 사람들을 다시 보이게 했다는 점이다. 걸작 자체도 중요하지만 더 결정적인 성과는 공방, 협업, 손의 움직임, 이동 네트워크를 복원한 데 있다. 그 결과 조선 불교미술은 형식의 역사뿐 아니라 실천과 제작의 역사로 다시 읽힌다.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ 맨 위로</a></div>
+</main>
+```
