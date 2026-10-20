@@ -1,0 +1,63 @@
+---
+title: "꿈꾸는 즐거움, 극락極樂"
+lang: ja
+image: https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--pure-land" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="黒石寺木造阿弥陀如来坐像、1458年" loading="eager" decoding="async" referrerpolicy="no-referrer"><figcaption><em>영주 흑석사 목조아미타여래좌상</em> — 黒石寺木造阿弥陀如来坐像、1458年。本展を象徴する初期朝鮮時代の重要作。</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">展覧会レビュー · 韓国仏教美術 · 阿弥陀如来 · 極楽浄土</div>
+<h1>꿈꾸는 즐거움, 극락極樂</h1>
+<p class="exhibit-report__venue"><em>極楽を夢みる喜び — 阿弥陀如来の浄土</em><br>仏教中央博物館 · 불교중앙박물관 · ソウル</p>
+<dl class="exhibit-report__meta" aria-label="展覧会情報">
+<div><dt>会期</dt><dd>2016年10月19日 — 12月18日</dd></div>
+<div><dt>会場</dt><dd>仏教中央博物館</dd></div>
+<div><dt>都市</dt><dd>ソウル · 韓国</dd></div>
+<div><dt>出品</dt><dd>97件 · 国宝1件 · 宝物8件</dd></div>
+<div><dt>主題</dt><dd>阿弥陀如来 · 極楽浄土 · 往生</dd></div>
+<div><dt>形式</dt><dd>特別展 · 仏教美術</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>中心課題：</strong>韓国仏教美術は、阿弥陀の極楽浄土へ往生する願いをどのように可視化し、空間化し、儀礼として機能させたのか。</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav"><a href="#why">展覧会の意義</a><a href="#proposal">企画意図</a><a href="#route">構成</a><a href="#works">注目作品</a><a href="#understand">理解できること</a><a href="#resources">資料</a><a href="#verdict">総評</a></nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · 要点</div><h2>なぜ重要な展覧会なのか</h2></div><div class="exhibit-report__content">
+<p>本展は極楽浄土を単なる図像主題として扱うのではなく、阿弥陀如来、浄土の景観、往生の方法、発願、そして死者を極楽へ導くイメージまでを一つの宗教的体系として再構成した。</p>
+<p>絵画、彫刻、経典、梵鐘、奉納品を素材別に切り離さず、称名念仏、功徳、観想、死と往生という実践の連鎖の中に戻した点が重要である。</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a4416341551993f740daa8b2f50ecf87101437.jpg" alt="展覧会場風景" loading="lazy" referrerpolicy="no-referrer"><figcaption>会場風景。彫刻と大型仏画を同じ視野に置くことで、阿弥陀信仰の儀礼空間を再構成している。</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · 企画</div><h2>展覧会の提案</h2></div><div class="exhibit-report__content">
+<p class="exhibit-report__thesis">極楽は「描かれた天国」ではなく、経典、画像、建築、念仏、発願を組織する救済の視覚的・儀礼的構造である。</p>
+<ul class="exhibit-report__keypoints"><li><strong>経典から出発する。</strong>『無量寿経』『観無量寿経』『阿弥陀経』を図像理解の基盤とする。</li><li><strong>浄土を空間として見る。</strong>蓮池、楼閣、聖衆、蓮華化生が極楽を可視化する。</li><li><strong>救済を実践として捉える。</strong>念仏、発願、布施が美術作品を功徳の体系へ結び付ける。</li><li><strong>死と美術を結び付ける。</strong>来迎や般若龍船の図像が、死後の移行を具体的な旅として表現する。</li></ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · 展示構成</div><h2>五つの段階で見る極楽</h2></div><div class="exhibit-report__content">
+<ol class="exhibit-report__route"><li><strong>極楽の主、阿弥陀如来。</strong><span>三部経、印相、観音・勢至の両脇侍から阿弥陀信仰を整理する。</span></li><li><strong>楽しみのみが満ちる世界。</strong><span>仏画と極楽殿の再現から浄土を具体的な空間として理解する。</span></li><li><strong>極楽九品。</strong><span>『観無量寿経』の九品往生を後期朝鮮の図像がどのように再構成したかを見る。</span></li><li><strong>極楽を願う。</strong><span>発願文、寄進、念仏実践から信仰者の具体的な願いを読み取る。</span></li><li><strong>極楽へ導かれる。</strong><span>来迎、引路王菩薩、般若龍船が死者の移行を可視化する。</span></li></ol>
+<figure class="exhibit-report__figure"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a231dff37897f9b13a7467f1d548e275101437.jpg" alt="展示された小型金銅仏群" loading="lazy" referrerpolicy="no-referrer"><figcaption>展示された小型金銅仏群。大型仏画とは異なる、身近な信仰対象としてのスケールが見える。</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 作品</div><h2>注目すべき作品</h2></div><div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="黒石寺木造阿弥陀如来坐像" loading="lazy" referrerpolicy="no-referrer"><div><h3>영주 흑석사 목조아미타여래좌상 — 黒石寺木造阿弥陀如来坐像</h3><p class="exhibit-report__work-meta">1458年 · 朝鮮前期 · 木造金漆 · 国宝</p><p>15世紀朝鮮仏教彫刻を代表する王室発願像。像内納入品は制作事情、施主、開眼・奉安をめぐる文字文化を具体的に示す。</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.icpn.co.kr/news/photo/202005/10753_22314_1158.jpg" alt="銀海寺念仏往生捷径図" loading="lazy" referrerpolicy="no-referrer"><div><h3>영천 은해사 염불왕생첩경도 — 銀海寺念仏往生捷径図</h3><p class="exhibit-report__work-meta">朝鮮後期 · 銀海寺 · 宝物</p><p>阿弥陀の名を唱える実践、極楽の景観、往生者の変化を一画面に統合し、声による修行を救済の地理へ変換している。</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202206/218339_239358_951.jpg" alt="深谷寺金銅阿弥陀七尊像" loading="lazy" referrerpolicy="no-referrer"><div><h3>익산 심곡사 금동아미타여래칠존좌상 — 深谷寺金銅阿弥陀七尊像</h3><p class="exhibit-report__work-meta">金銅 · 石塔出土 · 宝物</p><p>塔内に納められた小像群は、仏像が必ずしも正面観賞のために作られたものではなく、建築内部に聖性を封入する役割を担ったことを示す。</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/201910/202591_205230_4551.jpg" alt="極楽九品図" loading="lazy" referrerpolicy="no-referrer"><div><h3>극락구품도 — 極楽九品図</h3><p class="exhibit-report__work-meta">朝鮮後期 · 浄土教絵画</p><p>蓮池と九品往生を組み合わせ、極楽を道徳的・救済論的な地図として見せる。教理を一目で理解させる視覚装置である。</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · 理解</div><h2>この展覧会から理解できること</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__keypoints"><li><strong>極楽は視覚的に構築される。</strong>経典の記述を選択・再編し、わかりやすい景観へ変換する。</li><li><strong>仏教画像は実践を助ける。</strong>念仏、観想、功徳、死の準備を支える機能を持つ。</li><li><strong>阿弥陀信仰は社会層を横断する。</strong>王室、僧侶、在家信者が同じ救済体系に参加した。</li><li><strong>建築は意味の一部である。</strong>極楽殿の内部構成を考えることで仏画と彫刻の関係が明確になる。</li></ul><div class="exhibit-report__research"><strong>仏教美術史上の意義</strong><p>九品往生、蓮華化生、阿弥陀の印相、来迎、龍船、発願文を装飾ではなく救済思想を働かせる視覚装置として読める点に本展の価値がある。</p></div></div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · 資料</div><h2>さらに読む</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__resources"><li><strong>公式ページ：</strong><a href="https://museum.buddhism.or.kr/?c=2/14&p=14&uid=181" target="_blank" rel="noopener">仏教中央博物館</a></li><li><strong>図録：</strong>불교중앙박물관『꿈꾸는 즐거움, 극락極樂』ソウル、2016年、223頁。</li><li><strong>基本経典：</strong>『無量寿経』『観無量寿経』『阿弥陀経』。</li></ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · 結論</div><h2>総評</h2></div><div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">評価</div><strong>救済がどのようにイメージになるかを理解するための基準的展覧会</strong><p>本展は名品を並べるだけでなく、経典、画像、建築、念仏、死者儀礼が相互に支え合う宗教世界を再構成した。極楽浄土を一つの図像主題ではなく、総合的な視覚・儀礼システムとして理解させた点が重要である。</p></div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ ページ上部へ</a></div>
+</main>
+```
