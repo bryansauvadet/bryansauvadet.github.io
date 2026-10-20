@@ -6,8 +6,27 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 <section class="page-hero"><h1>Expositions</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">Notes, comptes rendus et parcours d’expositions visitées dans les musées, en lien avec l’art bouddhique, l’Asie et l’histoire de l’art.</p>
-<div class="database-empty-state"><h2>Expositions visitées</h2><p>Cette section rassemblera progressivement mes notes et comptes rendus d’expositions muséales.</p></div>
+
+<div class="exhibition-list">
+  <div class="exhibition-list-grid">
+    <a class="exhibition-card" href="/fr/expositions/moines-artisans-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg" alt="Vue de l’exposition 조선의 승려 장인 au Musée national de Corée" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Art bouddhique coréen · Chosŏn · sculpture et peinture</div>
+      <h2>조선의 승려 장인</h2>
+      <p class="exhibition-card-subtitle">Les moines-artisans du Chosŏn</p>
+      <p class="exhibition-card-meta">Musée national de Corée · Séoul · 7 décembre 2021 — 6 mars 2022</p>
+      <p>Une exposition majeure consacrée aux moines sculpteurs et peintres, à leurs ateliers, leurs réseaux et aux processus de fabrication de l’image bouddhique.</p>
+      <span class="exhibition-card-link">Lire la fiche →</span>
+    </a>
+  </div>
+</div>
+
 </div></main>
+```
