@@ -12,12 +12,12 @@ format:
 <main class="book-report" id="haut">
 <header class="book-report__hero"><div class="book-report__shell book-report__hero-grid">
 <figure class="book-report__cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="Couverture de 조선의 불교회화 de Chŏng Myŏnghŭi" loading="eager" decoding="async" referrerpolicy="no-referrer"></figure>
-<div><div class="book-report__eyebrow">Compte rendu d’ouvrage · Peinture bouddhique coréenne · Chosŏn · rituel et espace</div><h1>조선의 불교회화</h1><p class="book-report__author">Peintures bouddhiques du Chosŏn<br>Chŏng Myŏnghŭi (정명희)</p>
+<div><div class="book-report__eyebrow">Compte rendu d’ouvrage · Peinture bouddhique coréenne du Chosŏn · rituel et espace</div><h1>조선의 불교회화</h1><p class="book-report__author">Peintures bouddhiques du Chosŏn<br>Chŏng Myŏnghŭi (정명희)</p>
 <dl class="book-report__meta" aria-label="Référence bibliographique">
 <div><dt>Date</dt><dd>2024</dd></div>
 <div><dt>Éditeur</dt><dd>사회평론아카데미</dd></div>
 <div><dt>Langue</dt><dd>Coréen</dd></div>
-<div><dt>Domaine</dt><dd>Histoire de l’art bouddhique · peinture coréenne · Chosŏn · histoire des rituels</dd></div>
+<div><dt>Domaine</dt><dd>Histoire de l’art bouddhique · peinture coréenne du Chosŏn · histoire des rituels</dd></div>
 <div><dt>Type</dt><dd>Monographie scientifique</dd></div>
 <div><dt>Référence</dt><dd>ISBN 979-11-6707-150-7 · 496 p.</dd></div>
 </dl>
