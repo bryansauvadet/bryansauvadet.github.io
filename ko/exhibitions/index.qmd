@@ -25,6 +25,18 @@ format:
       <p>조각승과 화승, 공방 조직, 이동 네트워크, 불교 이미지의 제작 과정을 조명한 중요한 특별전.</p>
       <span class="exhibition-card-link">전시 리뷰 읽기 →</span>
     </a>
+
+    <a class="exhibition-card" href="/ko/exhibitions/beauty-prayer-koryo-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術" loading="lazy">
+      </div>
+      <div class="exhibition-card-domain">한국 불교미술 · 고려와 조선 · 11–16세기</div>
+      <h2>うるわしき祈りの美</h2>
+      <p class="exhibition-card-subtitle">숭고한 믿음의 아름다움 ― 고려시대와 조선시대의 불교 미술</p>
+      <p class="exhibition-card-meta">규슈국립박물관 · 다자이후 · 2023년 9월 5일 — 10월 15일</p>
+      <p>불화, 조각, 경전과 의례구를 통해 고려에서 조선으로 이어지는 불교 기도와 물질문화의 연속성을 살펴본 전시.</p>
+      <span class="exhibition-card-link">전시 리뷰 읽기 →</span>
+    </a>
   </div>
 </div>
 
