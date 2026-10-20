@@ -1,0 +1,44 @@
+---
+title: "比叡山"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+<section class="page-hero"><h1>比叡山</h1><p class="lead">比叡山 · 京都 / 大津，日本</p></section>
+<main class="content"><div class="content-inner fieldwork-story">
+
+<figure class="fieldwork-hero"><img src="/assets/images/mount-hiei-02.webp" alt="在延曆寺殿堂前的比叡山訪學" loading="eager"><figcaption>在比叡山延曆寺的一座殿堂前：田野考察、朝聖與友情在這一天真正重疊在一起。</figcaption></figure>
+
+<p class="lead">這是我日本旅程中最難忘的一天之一：與一位親近的朋友、研究日本佛教的專家及大學舊同學 <a href="https://www.facebook.com/profile.php?id=100009682834194" target="_blank" rel="noopener">Guilhem Laude</a> 一起登上比叡山。多年來，我一直透過文獻和日本佛教史認識比叡山；真正步行其間之後，這個名字不再只是最澄和天台宗的歷史標籤，而成為由坡地、森林、距離與空間界限構成的具體地形。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-03.webp" alt="比叡山佛教殿堂" loading="lazy"><figcaption>延曆寺的建築並非孤立的紀念物，而是整個山岳寺院景觀的一部分。</figcaption></figure>
+
+<p>比叡山高踞京都之上並面向琵琶湖，是日本最重要的聖山之一。788年，最澄在此建立修行道場，後來成為延曆寺（延暦寺）的核心，也成為日本天台宗發展的中心。來到現場，這段歷史首先表現為空間結構：延曆寺並非一座單獨的寺院建築，而是由東塔（東塔）、西塔、橫川（横川）等區域組成，並透過森林與道路連接成覆蓋整座山的宗教體系。</p>
+
+<p>我最感興趣的是宗教制度、建築與景觀之間的關係。比叡山深刻參與了日本中世佛教的形成。法然、親鸞（親鸞）、道元、榮西（栄西）與日蓮（日蓮）都以不同方式在這一環境中學習或修行，之後才走向各自不同的宗教道路。因此，比叡山不僅是天台宗的中心，也是理解日本佛教後來分化與發展的關鍵起點。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-04.webp" alt="比叡山佛教建築與塔" loading="lazy"><figcaption>殿堂、塔、庭院與樹木共同構成一個無法將建築與地形分開的整體。</figcaption></figure>
+
+<p>隨著我們不斷前行，我越來越注意到這座山本身所規定的移動節奏。這裡不是簡單地從一座建築走向另一座建築，而是不斷上坡、下坡，並穿過森林幾乎佔據全部視野的路段。正是這種連續的移動改變了觀看方式。大型殿堂當然重要，但建築之間的道路與空隙同樣重要。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-07.webp" alt="比叡山森林中的石階與石燈籠" loading="lazy"><figcaption>森林中的石階與石燈籠，使移動本身成為體驗這一聖地的一部分。</figcaption></figure>
+
+<p>古老的石階與石燈籠是這一天給我留下最深印象的景象之一。它們的意義並不只是「風景優美」。這些路徑將幾個世紀以來僧侶、朝聖者與參拜者反覆進行的移動具體化，也保存著連接不同寺院空間的日常實踐。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-06.webp" alt="比叡山森林中的石階" loading="lazy"><figcaption>有些道路在樹林間逐漸收窄，並通向更隱蔽、更安靜的建築。</figcaption></figure>
+
+<p>與 Guilhem 一同經歷這次行程，也使它變得更加重要。我們一路討論天台宗歷史、僧侶譜系、修行與空間組織。與真正深入研究日本佛教的人同行，會改變觀看一處寺院的方式：建築細節、方位、殿名乃至道路的轉折，都可能成為進入更大宗教史的入口。</p>
+
+<figure class="figure-right"><img src="/assets/images/mount-hiei-05.webp" alt="從比叡山眺望琵琶湖" loading="lazy"><figcaption>從比叡山高處眺望琵琶湖與大津方向。</figcaption></figure>
+
+<p>面向琵琶湖的景觀也提醒我，比叡山從來不是一個封閉世界。它位於京都與大津之間，山林中的修行與對周邊地區的地理開放性同時存在。從高處望去，這種「退隱」與「連接」的雙重性質變得非常清楚。</p>
+
+<figure class="figure-left"><img src="/assets/images/mount-hiei-01.webp" alt="比叡山訪問的個人紀念" loading="lazy"><figcaption>除了研究記錄之外，我也想保留這一天屬於人的記憶。</figcaption></figure>
+
+<p>離開比叡山時，我覺得自己比過去更具體地理解了「山岳寺院」的含義。在這裡，建築從不獨立運作；道路、森林、距離、視野、氣候以及不斷重複的宗教實踐共同塑造空間。有些地方因景色而美，有些地方因保存的故事而美。比叡山兼具兩者。</p>
+
+<div class="fieldwork-notes"><h2>基本資料</h2><p><strong>地點：</strong>比叡山，京都與大津之間。<br><strong>寺院中心：</strong>延曆寺（延暦寺）。<br><strong>創建：</strong>788年，最澄。<br><strong>傳統：</strong>天台宗。<br><strong>主要區域：</strong>東塔、西塔、橫川。<br><strong>文化遺產：</strong>延曆寺屬於聯合國教科文組織世界遺產「古都京都的文化財」。</p></div>
+
+</div></main>
