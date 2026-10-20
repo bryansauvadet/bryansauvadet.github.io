@@ -49,6 +49,18 @@ format:
       <p>以97件聖寶梳理阿彌陀信仰、九品往生、念佛修行與極樂淨土視覺化的重要特展。</p>
       <span class="exhibition-card-link">閱讀展覽評論 →</span>
     </a>
+
+    <a class="exhibition-card" href="/zh-hant/exhibitions/ingaksa-samguk-yusa.html">
+      <div class="exhibition-card-image">
+        <img class="exhibition-card-image--ingaksa" src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="인각사와 삼국유사" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">韓國佛教藝術 · 麟角寺 · 一然 · 三國遺事 · 考古</div>
+      <h2>인각사와 삼국유사</h2>
+      <p class="exhibition-card-subtitle">麟角寺與《三國遺事》——循歷史之香，遇見千年氣息</p>
+      <p class="exhibition-card-meta">佛教中央博物館 · 首爾 · 2013年11月13日 — 2014年1月12日</p>
+      <p>連結麟角寺考古、一然生涯、佛教供養具與《三國遺事》物質傳承的重要特展。</p>
+      <span class="exhibition-card-link">閱讀展覽評論 →</span>
+    </a>
   </div>
 </div>
 
