@@ -12,7 +12,7 @@ format:
 <link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 <main class="exhibit-report" id="top">
 <header class="exhibit-report__hero"><div class="exhibit-report__shell">
-<figure class="exhibit-report__hero-image"><img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="特集展示「うるわしき祈りの美」のポスター" loading="eager"><figcaption>特集展示 <em>うるわしき祈りの美―高麗・朝鮮時代の仏教美術―</em>、九州国立博物館、2023年。</figcaption></figure>
+<figure class="exhibit-report__hero-image"><img src="https://www.kyuhaku.jp/visit/img/book/book124.jpg" alt="特集展示「うるわしき祈りの美」のポスター" loading="eager" referrerpolicy="no-referrer"><figcaption>特集展示 <em>うるわしき祈りの美―高麗・朝鮮時代の仏教美術―</em>、九州国立博物館、2023年。</figcaption></figure>
 <div class="exhibit-report__hero-copy">
 <div class="exhibit-report__eyebrow">展覧会レビュー · 韓国仏教美術 · 高麗と朝鮮 · 11〜16世紀</div>
 <h1>うるわしき祈りの美</h1>
@@ -37,7 +37,7 @@ format:
 <div class="exhibit-report__content">
 <p>本展の大きな意義は、日本各地の博物館・寺院・神社に分散して所蔵される朝鮮半島の仏教美術を、一つの空間で比較できる点にある。出品目録は48件で、仏画、彫刻、写経・刊経、金工、青磁、螺鈿など多様な素材を含む。これによって朝鮮半島の仏教美術が単なる絵画史ではなく、礼拝空間を構成する総合的な物質文化であったことがよくわかる。</p>
 <p>また、高麗と朝鮮を「仏教国家」と「儒教国家」という単純な対立だけで語らない点も重要である。高麗では王室が仏教を強く支持した一方、朝鮮では制度的な抑制が進んだ。それでも仏像・仏画・経典・仏具の制作は続いた。祈りという視点から見ると、王朝交代を越える仏教文化の連続性が見えてくる。</p>
-<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="1310年の楊柳観音像" loading="lazy"><figcaption><em>楊柳観音像</em>、高麗、1310年、佐賀・鏡神社。四メートルを超える大画面は高麗宮廷仏画の到達点の一つである。</figcaption></figure>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" alt="1310年の楊柳観音像" loading="lazy" referrerpolicy="no-referrer"><figcaption><em>楊柳観音像</em>、高麗、1310年、佐賀・鏡神社。四メートルを超える大画面は高麗宮廷仏画の到達点の一つである。</figcaption></figure>
 </div></div></section>
 
 <section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell">
@@ -55,7 +55,7 @@ format:
 <div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · 観覧</div><h2>展示構成と空間</h2></div>
 <div class="exhibit-report__content">
 <p>文化交流展示室の二室にまとめられた特集展示であり、大規模回顧展というより密度の高い研究展示として機能する。絵画の華やかさが目を引く一方、彫刻、経典、供養具との比較によって、作品が本来属していた礼拝環境を想像しやすい。</p>
-<figure class="exhibit-report__figure"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像" loading="lazy"><figcaption><em>地蔵菩薩遊戯坐像</em>、高麗、11世紀、銅造鍍金、九州国立博物館。</figcaption></figure>
+<figure class="exhibit-report__figure"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像" loading="lazy" referrerpolicy="no-referrer"><figcaption><em>地蔵菩薩遊戯坐像</em>、高麗、11世紀、銅造鍍金、九州国立博物館。</figcaption></figure>
 <ol class="exhibit-report__route">
 <li><strong>救済のイメージ。</strong><span>阿弥陀、観音、地蔵、諸尊の集会が中世朝鮮の救済観を可視化する。</span></li>
 <li><strong>経典と功徳。</strong><span>金字経や版経は、聖典を制作する行為自体が信仰実践であったことを示す。</span></li>
@@ -66,9 +66,9 @@ format:
 <section class="exhibit-report__section" id="works"><div class="exhibit-report__shell">
 <div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 選定</div><h2>記憶しておきたい作品</h2></div>
 <div class="exhibit-report__content"><div class="exhibit-report__works">
-<article class="exhibit-report__work"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="鏡神社 楊柳観音像" loading="lazy"><div><h3>重要文化財 楊柳観音像</h3><p class="exhibit-report__work-meta">1310年 · 高麗 · 絹本着色 · 佐賀・鏡神社</p><p>高さ四メートルを超える高麗仏画の代表作。複数の宮廷画家による共同制作で、透ける衣、装身具、文様表現の精緻さが圧倒的である。豪華さそのものが観音の慈悲と超越性を視覚化している。</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" alt="鏡神社 楊柳観音像" loading="lazy"><div><h3>重要文化財 楊柳観音像</h3><p class="exhibit-report__work-meta">1310年 · 高麗 · 絹本着色 · 佐賀・鏡神社</p><p>高さ四メートルを超える高麗仏画の代表作。複数の宮廷画家による共同制作で、透ける衣、装身具、文様表現の精緻さが圧倒的である。豪華さそのものが観音の慈悲と超越性を視覚化している。</p></div></article>
 <article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像</h3><p class="exhibit-report__work-meta">11世紀 · 高麗 · 銅造鍍金 · 九州国立博物館 · 総高49.2cm</p><p>くつろいだ姿勢と穏やかな表情が、小像ながら強い存在感を生む。巨大な掛幅とは正反対のスケールで、礼拝者と像との近い距離を想像させる。</p></div></article>
-<article class="exhibit-report__work"><img src="https://imagedb.narahaku.go.jp/artize-data/sr-thum/l/H063546L.jpg" alt="梵字宝相華草文銀象嵌香炉" loading="lazy"><div><h3>梵字宝相華草文銀象嵌香炉</h3><p class="exhibit-report__work-meta">14世紀 · 高麗 · 銅製銀象嵌 · 奈良国立博物館</p><p>梵字と宝相華唐草を銀象嵌で表した香炉。金工技術の精緻さだけでなく、香り、光、手の動きまで含めて仏教儀礼の経験を考えさせる作品である。</p></div></article>
+<article class="exhibit-report__work exhibit-report__work--text-only"><div><h3>梵字宝相華草文銀象嵌香炉</h3><p class="exhibit-report__work-meta">14世紀 · 高麗 · 銅製銀象嵌 · 奈良国立博物館</p><p>梵字と宝相華唐草を銀象嵌で表した香炉。金工技術の精緻さだけでなく、香り、光、手の動きまで含めて仏教儀礼の経験を考えさせる作品である。</p></div></article>
 </div></div></div></section>
 
 <section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell">
