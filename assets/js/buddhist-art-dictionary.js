@@ -83,10 +83,6 @@
   const columns = [
     { key: "fr", label: "Terme", group: "Français", lang: "fr", cls: "dictionary-fr" },
     { key: "en", label: "Term", group: "English", lang: "en" },
-    { key: "sa", label: "Devanāgarī", group: "Sanskrit", lang: "sa" },
-    { key: "iast", label: "IAST", group: "Sanskrit", lang: "sa-Latn" },
-    { key: "bo", label: "བོད་ཡིག", group: "Tibétain", lang: "bo", cls: "dictionary-tibetan" },
-    { key: "wylie", label: "Wylie", group: "Tibétain", lang: "bo-Latn" },
     { key: "ko_hanja", label: "Hancha", group: "한국어", lang: "ko-Hani" },
     { key: "ko_hangul", label: "Hangŭl", group: "한국어", lang: "ko" },
     { key: "ja_kanji", label: "Kanji", group: "日本語", lang: "ja" },
@@ -94,30 +90,34 @@
     { key: "zh_hanzi", label: "Hanzi", group: "中文", lang: "zh-Hant" },
     { key: "zh_pinyin", label: "Pinyin", group: "中文", lang: "zh-Latn" },
     { key: "vi_hannom", label: "Hán Nôm", group: "Tiếng Việt", lang: "vi-Hani" },
-    { key: "vi_quocngu", label: "Quốc Ngữ", group: "Tiếng Việt", lang: "vi" }
+    { key: "vi_quocngu", label: "Quốc Ngữ", group: "Tiếng Việt", lang: "vi" },
+    { key: "sa", label: "Devanāgarī", group: "Sanskrit", lang: "sa" },
+    { key: "iast", label: "IAST", group: "Sanskrit", lang: "sa-Latn" },
+    { key: "bo", label: "བོད་ཡིག", group: "Tibétain", lang: "bo", cls: "dictionary-tibetan" },
+    { key: "wylie", label: "Wylie", group: "Tibétain", lang: "bo-Latn" }
   ];
 
   const groups = [
     { label: "Français", span: 1 },
     { label: "English", span: 1 },
-    { label: "Sanskrit", span: 2 },
-    { label: "བོད་སྐད། · Tibetan", span: 2 },
     { label: "한국어", span: 2 },
     { label: "日本語", span: 2 },
     { label: "中文", span: 2 },
-    { label: "Tiếng Việt", span: 2 }
+    { label: "Tiếng Việt", span: 2 },
+    { label: "Sanskrit", span: 2 },
+    { label: "བོད་སྐད། · Tibetan", span: 2 }
   ];
 
   const fieldGroups = [
     { value: "all", label: ui.all, keys: columns.map(c => c.key) },
     { value: "fr", label: "Français", keys: ["fr"] },
     { value: "en", label: "English", keys: ["en"] },
-    { value: "sa", label: "Sanskrit · IAST", keys: ["sa", "iast"] },
-    { value: "bo", label: "བོད་སྐད། · Wylie", keys: ["bo", "wylie"] },
     { value: "ko", label: "한국어 · Hancha / Hangŭl", keys: ["ko_hanja", "ko_hangul"] },
     { value: "ja", label: "日本語 · Kanji / Rōmaji", keys: ["ja_kanji", "ja_romaji"] },
     { value: "zh", label: "中文 · Hanzi / Pinyin", keys: ["zh_hanzi", "zh_pinyin"] },
-    { value: "vi", label: "Tiếng Việt · Hán Nôm / Quốc Ngữ", keys: ["vi_hannom", "vi_quocngu"] }
+    { value: "vi", label: "Tiếng Việt · Hán Nôm / Quốc Ngữ", keys: ["vi_hannom", "vi_quocngu"] },
+    { value: "sa", label: "Sanskrit · IAST", keys: ["sa", "iast"] },
+    { value: "bo", label: "བོད་སྐད། · Wylie", keys: ["bo", "wylie"] }
   ];
 
   root.innerHTML = `
