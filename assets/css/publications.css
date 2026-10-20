@@ -1,0 +1,317 @@
+.publications-page{
+  max-width:1240px;
+  margin:0 auto;
+  padding:0 30px 80px;
+}
+.pub-intro{
+  display:grid;
+  grid-template-columns:minmax(0,1.1fr) minmax(320px,.9fr);
+  gap:52px;
+  align-items:end;
+  padding:46px 0 48px;
+  border-bottom:1px solid var(--line);
+}
+.pub-kicker,
+.pub-section-kicker{
+  font:10px/1.4 Arial,sans-serif;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--accent-dark);
+}
+.pub-intro h2{
+  font-size:38px;
+  line-height:1.14;
+  font-weight:400;
+  margin:8px 0 17px;
+}
+.pub-intro p{
+  margin:0;
+  font-size:16px;
+  line-height:1.72;
+  color:#403a34;
+}
+.pub-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  justify-content:flex-end;
+}
+.pub-nav a{
+  border:1px solid #d9d0c3;
+  padding:8px 11px;
+  background:#fff;
+  font:10px/1 Arial,sans-serif;
+  letter-spacing:.035em;
+}
+.pub-nav a:hover{
+  border-color:var(--accent);
+  color:var(--accent-dark);
+}
+.pub-section{
+  scroll-margin-top:120px;
+  padding:52px 0 0;
+}
+.pub-section-head{
+  display:grid;
+  grid-template-columns:1fr minmax(300px,.65fr);
+  gap:36px;
+  align-items:end;
+  margin-bottom:23px;
+}
+.pub-section-head h2{
+  font-size:30px;
+  line-height:1.2;
+  font-weight:400;
+  margin:5px 0 0;
+}
+.pub-section-head p{
+  margin:0;
+  font-size:13px;
+  line-height:1.65;
+  color:#625b53;
+}
+.pub-projects{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:20px;
+}
+.pub-project{
+  display:grid;
+  grid-template-columns:205px minmax(0,1fr);
+  min-height:260px;
+  border:1px solid #e0d8cc;
+  background:#fff;
+  overflow:hidden;
+}
+.pub-project-visual{
+  position:relative;
+  min-height:260px;
+  overflow:hidden;
+  background:#e7e0d5;
+}
+.pub-project-visual img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  transition:transform .4s ease;
+}
+.pub-project:hover .pub-project-visual img{
+  transform:scale(1.025);
+}
+.pub-project-copy{
+  padding:23px 22px 18px;
+  display:flex;
+  flex-direction:column;
+}
+.pub-status{
+  font:9px/1.2 Arial,sans-serif;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--accent);
+  margin-bottom:11px;
+}
+.pub-project h3{
+  font-size:20px;
+  line-height:1.25;
+  font-weight:400;
+  margin:0 0 11px;
+}
+.pub-project p{
+  font-size:13px;
+  line-height:1.6;
+  color:#574f47;
+  margin:0;
+}
+.pub-image-credit{
+  display:block;
+  margin-top:auto;
+  padding-top:13px;
+  font:8px/1.4 Arial,sans-serif;
+  color:#7a7168;
+}
+.pub-image-credit a{
+  text-decoration:underline;
+  text-underline-offset:2px;
+}
+.kmooc-feature{
+  border:1px solid #ded6ca;
+  background:#faf8f3;
+}
+.kmooc-top{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:30px;
+  align-items:center;
+  padding:27px 28px;
+  border-bottom:1px solid #ded6ca;
+}
+.kmooc-top p{
+  margin:0;
+  max-width:780px;
+  font-size:14px;
+  line-height:1.68;
+  color:#504940;
+}
+.kmooc-link{
+  white-space:nowrap;
+  padding:10px 14px;
+  border:1px solid #bba98d;
+  background:#fff;
+  font:10px/1 Arial,sans-serif;
+  letter-spacing:.04em;
+}
+.kmooc-link:hover{
+  border-color:var(--accent);
+  color:var(--accent-dark);
+}
+.kmooc-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.kmooc-item{
+  min-height:112px;
+  padding:20px 20px 18px;
+  border-right:1px solid #ded6ca;
+  border-bottom:1px solid #ded6ca;
+  background:#fff;
+}
+.kmooc-item:nth-child(3n){
+  border-right:0;
+}
+.kmooc-item:nth-last-child(-n+3){
+  border-bottom:0;
+}
+.kmooc-no{
+  display:block;
+  margin-bottom:7px;
+  font:9px/1 Arial,sans-serif;
+  letter-spacing:.12em;
+  color:var(--accent);
+}
+.kmooc-item strong{
+  font-size:15px;
+  line-height:1.38;
+  font-weight:400;
+}
+.talks-list{
+  border-top:1px solid var(--line);
+}
+.pub-talk{
+  display:grid;
+  grid-template-columns:190px minmax(0,1fr);
+  gap:28px;
+  padding:20px 0 21px;
+  border-bottom:1px solid var(--line);
+}
+.pub-talk-meta{
+  font:10px/1.45 Arial,sans-serif;
+  color:#71685f;
+}
+.pub-talk-meta strong{
+  display:block;
+  color:#4a433b;
+  font-weight:600;
+  margin-bottom:3px;
+}
+.pub-talk-copy h3{
+  margin:0 0 6px;
+  font-size:16px;
+  line-height:1.35;
+  font-weight:400;
+}
+.pub-talk-copy p{
+  margin:0;
+  font-size:13px;
+  line-height:1.58;
+  color:#554e46;
+}
+.pub-talk-copy .pub-talk-extra{
+  margin:0 0 5px;
+  font-size:11.5px;
+  color:#766d63;
+}
+@media(max-width:1000px){
+  .pub-intro{
+    grid-template-columns:1fr;
+    gap:24px;
+  }
+  .pub-nav{
+    justify-content:flex-start;
+  }
+  .pub-project{
+    grid-template-columns:170px minmax(0,1fr);
+  }
+  .kmooc-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+  .kmooc-item,
+  .kmooc-item:nth-child(3n),
+  .kmooc-item:nth-last-child(-n+3){
+    border-right:1px solid #ded6ca;
+    border-bottom:1px solid #ded6ca;
+  }
+  .kmooc-item:nth-child(2n){
+    border-right:0;
+  }
+  .kmooc-item:nth-last-child(-n+1){
+    border-bottom:0;
+  }
+}
+@media(max-width:760px){
+  .publications-page{
+    padding-left:18px;
+    padding-right:18px;
+  }
+  .pub-intro h2{
+    font-size:31px;
+  }
+  .pub-section-head{
+    grid-template-columns:1fr;
+    gap:10px;
+  }
+  .pub-projects{
+    grid-template-columns:1fr;
+  }
+  .kmooc-top{
+    grid-template-columns:1fr;
+    gap:18px;
+  }
+  .kmooc-link{
+    justify-self:start;
+  }
+  .pub-talk{
+    grid-template-columns:135px minmax(0,1fr);
+    gap:18px;
+  }
+}
+@media(max-width:520px){
+  .pub-project{
+    grid-template-columns:1fr;
+  }
+  .pub-project-visual{
+    height:215px;
+    min-height:215px;
+  }
+  .kmooc-grid{
+    grid-template-columns:1fr;
+  }
+  .kmooc-item,
+  .kmooc-item:nth-child(2n),
+  .kmooc-item:nth-child(3n),
+  .kmooc-item:nth-last-child(-n+3),
+  .kmooc-item:nth-last-child(-n+1){
+    border-right:0;
+    border-bottom:1px solid #ded6ca;
+  }
+  .kmooc-item:last-child{
+    border-bottom:0;
+  }
+  .pub-talk{
+    grid-template-columns:1fr;
+    gap:7px;
+  }
+}
