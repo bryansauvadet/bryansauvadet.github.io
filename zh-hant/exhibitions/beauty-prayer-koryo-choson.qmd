@@ -39,7 +39,7 @@ format:
 <div class="exhibit-report__content">
 <p>本展最大的價值，在於把今日分散收藏於日本各地博物館、寺院與神社的韓國佛教藝術集中起來比較。出品目錄共48件，涵蓋佛畫、雕塑、寫經與刊經、金工、青瓷以及螺鈿。這種跨媒材的集合讓人看見，韓半島佛教藝術並不只是繪畫史，而是一套構成禮拜空間的完整物質文化。</p>
 <p>展覽也避免把高麗與朝鮮簡化成「佛教國家」與「儒教國家」的二元對立。高麗王室大力護持佛教，朝鮮國家則限制其制度力量，但佛像、佛畫、經典與儀式器物的製作並未中斷。若以祈禱為線索，王朝更替之間的佛教文化連續性便清楚可見。</p>
-<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="1310年楊柳觀音像" loading="lazy" referrerpolicy="no-referrer"><figcaption><em>楊柳観音像</em>，高麗，1310，佐賀鏡神社。超過四公尺的巨大畫幅，是高麗宮廷佛畫最具代表性的作品之一。</figcaption></figure>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://www.kyuhaku.jp/exhibition/img/tokuten/186/01.jpg" referrerpolicy="no-referrer" alt="1310年楊柳觀音像" loading="lazy" referrerpolicy="no-referrer"><figcaption><em>楊柳観音像</em>，高麗，1310，佐賀鏡神社。超過四公尺的巨大畫幅，是高麗宮廷佛畫最具代表性的作品之一。</figcaption></figure>
 </div></div></section>
 
 <section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell">
@@ -68,7 +68,7 @@ format:
 <section class="exhibit-report__section" id="works"><div class="exhibit-report__shell">
 <div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 選件</div><h2>值得記住的作品</h2></div>
 <div class="exhibit-report__content"><div class="exhibit-report__works">
-<article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="鏡神社楊柳觀音像" loading="lazy"><div><h3>重要文化財 楊柳観音像 — 楊柳觀音像</h3><p class="exhibit-report__work-meta">1310 · 高麗 · 絹本設色 · 佐賀鏡神社</p><p>高逾四公尺，是高麗佛畫的代表作。多位宮廷畫家共同完成，透明衣紗、珠寶與織物紋樣的細節極為精緻。華麗本身成為觀音慈悲與超越性的視覺表現。</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/img/tokuten/186/01.jpg" referrerpolicy="no-referrer" alt="鏡神社楊柳觀音像" loading="lazy"><div><h3>重要文化財 楊柳観音像 — 楊柳觀音像</h3><p class="exhibit-report__work-meta">1310 · 高麗 · 絹本設色 · 佐賀鏡神社</p><p>高逾四公尺，是高麗佛畫的代表作。多位宮廷畫家共同完成，透明衣紗、珠寶與織物紋樣的細節極為精緻。華麗本身成為觀音慈悲與超越性的視覺表現。</p></div></article>
 <article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" referrerpolicy="no-referrer" alt="地藏菩薩遊戲坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像 — 地藏菩薩遊戲坐像</h3><p class="exhibit-report__work-meta">11世紀 · 高麗 · 銅鑄鍍金 · 九州國立博物館 · 總高49.2公分</p><p>放鬆的姿態與柔和表情，使小型雕像仍具有強烈存在感。它與巨大掛軸形成鮮明對比，也讓人想像禮拜者與聖像之間更親近的距離。</p></div></article>
 <article class="exhibit-report__work">
             <img src="https://www.narahaku.go.jp/_fKkxXPHb/H060909.jpg" alt="高麗十四世紀銀象嵌紋飾青銅香爐" loading="lazy" referrerpolicy="no-referrer">
