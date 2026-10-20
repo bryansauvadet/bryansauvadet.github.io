@@ -11,12 +11,12 @@ format:
 ```{=html}
 <link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 
-<main class="exhibit-report" id="haut">
+<main class="exhibit-report exhibit-report--beauty-prayer" id="haut">
   <header class="exhibit-report__hero">
     <div class="exhibit-report__shell">
-      <figure class="exhibit-report__hero-image">
-        <img src="https://www.kyuhaku.jp/visit/img/book/book124.jpg" alt="Affiche de l’exposition うるわしき祈りの美 au Kyushu National Museum" loading="eager" decoding="async" referrerpolicy="no-referrer">
-        <figcaption>Affiche de l’exposition <em>うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術</em>, Kyushu National Museum, 2023.</figcaption>
+      <figure class="exhibit-report__hero-image exhibit-report__hero-image--beauty-prayer">
+        <img src="/assets/images/expositions/beauty-prayer/beauty-prayer-first-photo.jpg" alt="Détail de l’image choisie pour l’exposition うるわしき祈りの美, centré sur Avalokiteśvara" loading="eager" decoding="async">
+        <figcaption>Détail de l’image de l’exposition : Avalokiteśvara, figure centrale de <em>うるわしき祈りの美</em>.</figcaption>
       </figure>
 
       <div class="exhibit-report__hero-copy">
@@ -64,7 +64,7 @@ format:
         <p>Le parcours met en regard Koryŏ et Chosŏn sans les réduire à une opposition simpliste entre un royaume bouddhique et un royaume confucéen. Certes, la cour de Koryŏ soutient activement le bouddhisme tandis que l’État Chosŏn limite son influence institutionnelle. Pourtant, la commande d’images, la copie de sūtras et la production d’objets rituels continuent. La prière sert ainsi de fil conducteur pour comprendre la persistance d’une culture bouddhique au-delà des changements politiques.</p>
 
         <figure class="exhibit-report__figure exhibit-report__figure--wide">
-          <img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" alt="Yangnyu Gwanŭm, peinture bouddhique de Koryŏ datée de 1310" loading="lazy">
+          <img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="Yangnyu Gwanŭm, peinture bouddhique de Koryŏ datée de 1310" loading="lazy">
           <figcaption><em>楊柳観音像</em> — Avalokiteśvara au rameau de saule, Koryŏ, 1310, Kagami-jinja, Saga. La monumentalité et la richesse picturale de cette œuvre résument à elles seules l’ambition de la peinture bouddhique de cour de Koryŏ.</figcaption>
         </figure>
       </div>
@@ -100,7 +100,7 @@ format:
         <p>Installée dans deux salles de la galerie des échanges culturels, l’exposition fonctionne comme un dossier resserré plutôt que comme une grande rétrospective. La concentration du parcours favorise les rapprochements formels et matériels. La peinture occupe une place forte, mais elle est continuellement mise en tension avec les sculptures, les objets liturgiques et les textes sacrés.</p>
 
         <figure class="exhibit-report__figure">
-          <img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="Jijang Bosal en posture de délassement, Koryŏ, XIe siècle" loading="lazy">
+          <img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" referrerpolicy="no-referrer" alt="Jijang Bosal en posture de délassement, Koryŏ, XIe siècle" loading="lazy">
           <figcaption><em>地蔵菩薩遊戯坐像</em>, Koryŏ, XI<sup>e</sup> siècle, bronze coulé et doré, Kyushu National Museum. La petite échelle de la sculpture contraste avec la monumentalité des grandes peintures.</figcaption>
         </figure>
 
@@ -124,7 +124,7 @@ format:
         <div class="exhibit-report__works">
 
           <article class="exhibit-report__work">
-            <img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" alt="楊柳観音像 de Kagami-jinja" loading="lazy">
+            <img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="楊柳観音像 de Kagami-jinja" loading="lazy">
             <div>
               <h3>楊柳観音像 — Avalokiteśvara au rameau de saule</h3>
               <p class="exhibit-report__work-meta">1310 · Koryŏ · peinture sur soie · Kagami-jinja, Saga · Bien culturel important</p>
@@ -133,7 +133,7 @@ format:
           </article>
 
           <article class="exhibit-report__work">
-            <img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像 du Kyushu National Museum" loading="lazy">
+            <img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" referrerpolicy="no-referrer" alt="地蔵菩薩遊戯坐像 du Kyushu National Museum" loading="lazy">
             <div>
               <h3>地蔵菩薩遊戯坐像 — Kṣitigarbha en posture de délassement</h3>
               <p class="exhibit-report__work-meta">XIe siècle · Koryŏ · bronze coulé et doré · Kyushu National Museum · hauteur totale 49,2 cm</p>
@@ -141,7 +141,9 @@ format:
             </div>
           </article>
 
-          <article class="exhibit-report__work exhibit-report__work--text-only"><div>
+          <article class="exhibit-report__work">
+            <img src="https://www.narahaku.go.jp/photo/H063543.jpg" alt="Brûle-parfum coréen en bronze à décor incrusté d’argent, Koryŏ, XIVe siècle" loading="lazy" referrerpolicy="no-referrer">
+            <div>
               <h3>梵字宝相華草文銀象嵌香炉 — Brûle-parfum aux caractères sanskrits et rinceaux</h3>
               <p class="exhibit-report__work-meta">XIVe siècle · Koryŏ · bronze avec incrustations d’argent · Nara National Museum</p>
               <p>L’objet montre combien la virtuosité métallurgique peut participer au rituel. Les caractères sanskrits et les rinceaux floraux incrustés d’argent animent une surface sombre qui se transforme avec la lumière. Le brûle-parfum rappelle que l’expérience bouddhique engage aussi l’odeur, la matière, le geste et l’espace autour de l’image.</p>
