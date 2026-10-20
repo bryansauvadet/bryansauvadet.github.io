@@ -114,3 +114,6 @@
 
 /* Cadrage spécifique — うるわしき祈りの美 */
 .exhibition-card-image img.exhibition-card-image--beauty-prayer{object-position:50% 18%}
+
+/* Cartes d’œuvres sans image distante fiable */
+.exhibit-report__work.exhibit-report__work--text-only{grid-template-columns:1fr}
