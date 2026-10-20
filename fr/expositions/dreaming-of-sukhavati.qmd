@@ -1,0 +1,141 @@
+---
+title: "꿈꾸는 즐거움, 극락極樂"
+lang: fr
+image: https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+
+<main class="exhibit-report exhibit-report--pure-land" id="haut">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image">
+<img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="Amitābha assis en bois doré du Hŭksŏksa, 1458" loading="eager" decoding="async" referrerpolicy="no-referrer">
+<figcaption><em>영주 흑석사 목조아미타여래좌상</em> — Amitābha assis du Hŭksŏksa, 1458. Cette œuvre majeure du début de Chosŏn était présentée pour la première fois dans une exposition à Séoul.</figcaption>
+</figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">Compte rendu d’exposition · Art bouddhique coréen · Amitābha · Terre Pure</div>
+<h1>꿈꾸는 즐거움, 극락極樂</h1>
+<p class="exhibit-report__venue"><em>Le plaisir de rêver au paradis — Sukhāvatī, la Terre Pure d’Amitābha</em><br>Musée central bouddhique · 불교중앙박물관 · Séoul</p>
+<dl class="exhibit-report__meta" aria-label="Informations sur l’exposition">
+<div><dt>Dates</dt><dd>19 octobre — 18 décembre 2016</dd></div>
+<div><dt>Musée</dt><dd>Musée central bouddhique<br><span lang="ko">불교중앙박물관</span></dd></div>
+<div><dt>Ville</dt><dd>Séoul · Corée du Sud</dd></div>
+<div><dt>Ensemble présenté</dt><dd>97 œuvres · 1 Trésor national · 8 Trésors</dd></div>
+<div><dt>Thème</dt><dd>Amitābha · Sukhāvatī · renaissance dans la Terre Pure</dd></div>
+<div><dt>Type</dt><dd>Exposition spéciale · arts bouddhiques</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>Fil directeur :</strong> comment l’art bouddhique coréen a-t-il donné une forme visible, habitable et presque tangible à l’espérance de renaître dans la Terre Pure d’Amitābha ?</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav" aria-label="Sommaire">
+<a href="#pourquoi">Pourquoi cette exposition compte</a><a href="#proposition">Proposition curatoriale</a><a href="#parcours">Parcours</a><a href="#oeuvres">Œuvres à retenir</a><a href="#comprendre">Ce qu’elle permet de comprendre</a><a href="#ressources">Pour aller plus loin</a><a href="#bilan">Bilan</a>
+</nav></div>
+
+<section class="exhibit-report__section" id="pourquoi"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · Essentiel</div><h2>Pourquoi cette exposition compte</h2></div>
+<div class="exhibit-report__content">
+<p><em>꿈꾸는 즐거움, 극락極樂</em> ne traitait pas la Terre Pure comme une simple iconographie parmi d’autres. L’exposition cherchait à reconstruire un système complet de croyances, de pratiques et d’images : Amitābha comme maître de l’Occident, Sukhāvatī comme espace idéal, les méthodes permettant d’y renaître, les vœux formulés par les fidèles et, enfin, les images qui matérialisent le passage de ce monde vers l’au-delà.</p>
+<p>Ce choix rendait l’exposition particulièrement importante pour l’histoire de l’art. Les peintures, sculptures, textes, cloches, objets de dévotion et inscriptions n’étaient pas isolés selon leur matériau ou leur date : ils étaient replacés dans une chaîne rituelle. L’objet devenait le témoin d’une action — réciter le nom d’Amitābha, produire du mérite, formuler un vœu, visualiser la Terre Pure ou préparer le passage de la mort.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide">
+<img src="https://museum.buddhism.or.kr/files/2016/11/02/a4416341551993f740daa8b2f50ecf87101437.jpg" alt="Vue de l’exposition 꿈꾸는 즐거움, 극락 au Musée central bouddhique" loading="lazy" referrerpolicy="no-referrer">
+<figcaption>Vue de l’exposition au Musée central bouddhique. L’accrochage faisait dialoguer sculpture et grands formats peints afin de replacer Amitābha dans un environnement rituel complet.</figcaption>
+</figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposition"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · Curatorial</div><h2>Quelle est la proposition de l’exposition ?</h2></div>
+<div class="exhibit-report__content">
+<p class="exhibit-report__thesis">Le propos majeur consiste à montrer que la Terre Pure n’est pas seulement un « paradis » représenté par les artistes : c’est une architecture mentale du salut qui organise les images, les gestes, les textes et les espaces du temple.</p>
+<ul class="exhibit-report__keypoints">
+<li><strong>Partir des textes.</strong> Les trois grands sūtras de la Terre Pure — <em>Sūtra de la Vie-Infinie</em>, <em>Sūtra de la Contemplation de la Vie-Infinie</em> et <em>Sūtra d’Amitābha</em> — donnent le vocabulaire doctrinal de l’exposition.</li>
+<li><strong>Montrer Sukhāvatī comme un espace.</strong> Étangs de lotus, pavillons, assemblées célestes et renaissance dans les fleurs transforment la doctrine en paysage visible.</li>
+<li><strong>Faire du salut une pratique.</strong> Le nembutsu coréen, <span lang="ko">염불</span>, les vœux et les donations rappellent que l’image s’inscrit dans une économie du mérite.</li>
+<li><strong>Relier art et mort.</strong> Les scènes d’accueil d’Amitābha, de navire-dragon et de conduite vers la Terre Pure donnent une forme à l’espoir d’une bonne mort.</li>
+</ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="parcours"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · Visite</div><h2>Un parcours en cinq étapes</h2></div>
+<div class="exhibit-report__content">
+<ol class="exhibit-report__route">
+<li><strong>Le maître de la Terre Pure : Amitābha.</strong><span>La première section présente Amitābha à partir des textes, de ses mudrā et de ses assistants, Avalokiteśvara et Mahāsthāmaprāpta.</span></li>
+<li><strong>Un monde où ne subsiste que la joie.</strong><span>Peintures et reconstitutions donnent corps au paysage de Sukhāvatī et à l’espace du <em>Kŭngnakchŏn</em>, le pavillon de la Terre Pure.</span></li>
+<li><strong>Les neuf degrés de renaissance.</strong><span>Les <em>Kŭngnak kup'umdo</em> dérivés des visualisations du <em>Gwanmuryangsugyeong</em> montrent la renaissance graduée dans les lotus du paradis d’Amitābha.</span></li>
+<li><strong>Désirer la Terre Pure.</strong><span>Inscriptions de vœux, objets de fondation et pratiques de récitation rendent visibles les aspirations concrètes des fidèles.</span></li>
+<li><strong>Être conduit vers Sukhāvatī.</strong><span>Les scènes de <em>naeyŏng</em>, de bodhisattvas guides et de bateaux menant les défunts vers l’Occident concluent le parcours par une véritable iconographie du passage.</span></li>
+</ol>
+<figure class="exhibit-report__figure">
+<img src="https://museum.buddhism.or.kr/files/2016/11/02/a231dff37897f9b13a7467f1d548e275101437.jpg" alt="Petites images bouddhiques exposées dans 꿈꾸는 즐거움, 극락" loading="lazy" referrerpolicy="no-referrer">
+<figcaption>Une vitrine de l’exposition réunissant de petites images métalliques. L’échelle intime de ces objets contraste avec la monumentalité des grandes peintures de Terre Pure.</figcaption>
+</figure>
+<p>La scénographie avait aussi un intérêt méthodologique : elle reconstituait un <em>Kŭngnakchŏn</em> à partir du pavillon de Hŭngch'ŏnsa, alors en restauration, en associant sculpture d’Amitābha, <em>Kŭngnak kup'umdo</em> et peinture de l’assemblée d’Amitābha. L’espace architectural n’était donc pas un décor, mais une clé de lecture des œuvres.</p>
+</div></div></section>
+
+<section class="exhibit-report__section" id="oeuvres"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · Sélection</div><h2>Œuvres et objets à retenir</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__works">
+
+<article class="exhibit-report__work">
+<img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="영주 흑석사 목조아미타여래좌상" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>영주 흑석사 목조아미타여래좌상 — Amitābha assis du Hŭksŏksa</h3>
+<p class="exhibit-report__work-meta">1458 · début de Chosŏn · bois doré · Trésor national</p>
+<p>Commandée dans un contexte royal lié au prince Hyoryŏng et au règne de Sejo, cette sculpture est l’un des jalons majeurs de la sculpture bouddhique du XVe siècle. Son exposition à Séoul fut exceptionnelle. Les documents découverts à l’intérieur de la statue éclairent la commande, les donateurs et la culture textuelle qui entouraient la consécration de l’image.</p></div></article>
+
+<article class="exhibit-report__work">
+<img src="https://www.icpn.co.kr/news/photo/202005/10753_22314_1158.jpg" alt="영천 은해사 염불왕생첩경도" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>영천 은해사 염불왕생첩경도 — La voie rapide vers la renaissance par la récitation</h3>
+<p class="exhibit-report__work-meta">Chosŏn tardif · Ŭnhaesa · Trésor</p>
+<p>Cette peinture constitue presque un résumé visuel de l’exposition. Elle articule la récitation du nom d’Amitābha, le paysage de la Terre Pure et la renaissance des pratiquants. Le spectateur ne regarde pas seulement Sukhāvatī : il voit un itinéraire spirituel, ordonné par l’image, qui transforme une pratique vocale en géographie du salut.</p></div></article>
+
+<article class="exhibit-report__work">
+<img src="https://cdn.ibulgyo.com/news/photo/202206/218339_239358_951.jpg" alt="익산 심곡사 금동아미타여래칠존좌상" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>익산 심곡사 금동아미타여래칠존좌상 — Sept figures d’Amitābha du Simgoksa</h3>
+<p class="exhibit-report__work-meta">Ensemble en bronze doré · découvert dans une pagode · Trésor</p>
+<p>La découverte de ces petites figures dans une pagode rappelle que les images bouddhiques n’étaient pas toujours destinées à la contemplation frontale. Certaines fonctionnaient comme dépôts sacrés, condensant une présence religieuse au cœur même de l’architecture.</p></div></article>
+
+<article class="exhibit-report__work">
+<img src="https://cdn.ibulgyo.com/news/photo/201910/202591_205230_4551.jpg" alt="극락구품도 de Hŭngch'ŏnsa" loading="lazy" referrerpolicy="no-referrer">
+<div><h3>극락구품도 — Les neuf degrés de renaissance dans la Terre Pure</h3>
+<p class="exhibit-report__work-meta">Chosŏn tardif · tradition des peintures de Terre Pure</p>
+<p>Ces compositions ne décrivent pas Sukhāvatī comme un espace homogène. Elles classent les renaissances selon neuf degrés, du niveau supérieur au niveau inférieur, et traduisent en images les visualisations du <em>Sūtra de la Contemplation</em>. L’étang de lotus devient ainsi une cartographie morale et sotériologique.</p></div></article>
+
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="comprendre"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · Connaissances</div><h2>Ce que l’exposition permet de comprendre</h2></div>
+<div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints">
+<li><strong>La Terre Pure est une construction visuelle.</strong> Les textes fournissent un modèle, mais peintres, sculpteurs et commanditaires sélectionnent certains motifs pour rendre Sukhāvatī immédiatement intelligible.</li>
+<li><strong>L’image bouddhique est performative.</strong> Elle ne se contente pas de représenter la croyance : elle aide à réciter, visualiser, produire du mérite et préparer la mort.</li>
+<li><strong>Le Chosŏn bouddhique est socialement large.</strong> La piété d’Amitābha relie cour, communautés monastiques et laïcs, bien au-delà d’un seul milieu de production.</li>
+<li><strong>L’architecture compte autant que l’objet.</strong> Replacer peintures et sculptures dans la logique du <em>Kŭngnakchŏn</em> permet de comprendre leur échelle, leur hiérarchie et leur fonction.</li>
+</ul>
+<div class="exhibit-report__research"><strong>Intérêt pour l’histoire de l’art bouddhique</strong>
+<p>La grande réussite intellectuelle de l’exposition est d’avoir pris au sérieux la relation entre doctrine et forme. Les neuf grades de renaissance, le lotus, les gestes d’Amitābha, l’organisation des assemblées, le navire conduisant les défunts ou les inscriptions de vœux ne sont pas des détails décoratifs : ce sont les instruments visuels d’une pensée du salut.</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="ressources"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · Documentation</div><h2>Pour aller plus loin</h2></div>
+<div class="exhibit-report__content"><ul class="exhibit-report__resources">
+<li><strong>Page officielle :</strong> <a href="https://museum.buddhism.or.kr/?c=2/14&p=14&uid=181" target="_blank" rel="noopener">Musée central bouddhique — 꿈꾸는 즐거움, 극락極樂</a>.</li>
+<li><strong>Catalogue :</strong> 불교중앙박물관, <em>꿈꾸는 즐거움, 극락極樂</em>, Séoul, 2016, 223 p.</li>
+<li><strong>Structure du catalogue :</strong> Amitābha et les sūtras de Terre Pure ; Sukhāvatī ; vœux de renaissance ; neuf grades ; voies conduisant vers la Terre Pure.</li>
+<li><strong>Pour l’iconographie :</strong> le <em>Sūtra d’Amitābha</em>, le <em>Sūtra de la Vie-Infinie</em> et le <em>Sūtra de la Contemplation de la Vie-Infinie</em> constituent le socle doctrinal essentiel.</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="bilan"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · Conclusion</div><h2>Bilan</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__verdict">
+<div class="exhibit-report__verdict-label">Appréciation</div>
+<strong>Une exposition de référence pour comprendre comment le salut devient image</strong>
+<p><em>꿈꾸는 즐거움, 극락極樂</em> dépasse la juxtaposition de chefs-d’œuvre. Elle restitue la cohérence d’un univers religieux dans lequel textes, images, architecture, récitation et gestes funéraires se répondent. Pour l’histoire de l’art bouddhique coréen, son apport est majeur : elle montre que la Terre Pure doit être étudiée comme un dispositif visuel complet, pensé pour être cru, contemplé et pratiqué.</p>
+</div></div></div></section>
+
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#haut">↑ Retour en haut</a></div>
+</main>
+```
