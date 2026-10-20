@@ -7,4 +7,8 @@ format:
     include-after-body: _includes/en-footer.html
 ---
 <section class="page-hero"><h1>Notebook</h1></section>
-<main class="content"><div class="content-inner"><p class="lead">Research notes, readings and work in progress.</p><div class="database-grid"><a class="database-card readings-card" href="/en/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette-inline.svg" alt="Books and research on Buddhist art and Asia" loading="lazy"></div><h2>My Readings</h2><p>Reading notes and book reviews: why these books are worth reading and what they help us understand.</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></div></main>
+<main class="content"><div class="content-inner"><p class="lead">Research notes, readings and work in progress.</p><div class="database-grid">
+<a class="database-card readings-card" href="/en/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette-inline.svg" alt="Books and research on Buddhist art and Asia" loading="lazy"></div><h2>My Readings</h2><p>Reading notes and book reviews: why these books are worth reading and what they help us understand.</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card" href="/en/exhibitions/"><div class="database-card-kicker">Museums</div><h2>Exhibitions</h2><p>Notes, reviews and itineraries from museum exhibitions, with a focus on Buddhist art, Asia and art history.</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card" href="/en/fieldwork-pilgrimages/"><div class="database-card-kicker">Fieldwork</div><h2>Fieldwork and Pilgrimages</h2><p>Field notes, visits to temples, monuments and archaeological sites, research itineraries and pilgrimages.</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+</div></div></main>
