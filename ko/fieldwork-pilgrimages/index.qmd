@@ -1,0 +1,13 @@
+---
+title: "현지 조사와 순례"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="page-hero"><h1>현지 조사와 순례</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">사찰, 건축물, 고고학 유적에 대한 현지 조사 기록, 연구 답사 경로와 순례에 관한 노트.</p>
+<div class="database-empty-state"><h2>현지 조사와 답사 경로</h2><p>이 섹션에는 현지 조사, 유적과 사찰에 대한 관찰, 순례 경로를 차례로 정리합니다.</p></div>
+</div></main>
