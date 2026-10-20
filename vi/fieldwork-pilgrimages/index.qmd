@@ -7,7 +7,7 @@ format:
     include-after-body: _includes/vi-footer.html
 ---
 <section class="page-hero"><h1>Khảo sát thực địa và hành hương</h1></section>
-<main class="content"><div class="content-inner">
+<main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">Ghi chép thực địa, khảo sát chùa, công trình kiến trúc và di chỉ khảo cổ, các hành trình nghiên cứu và hành hương.</p>
 <section class="fieldwork-index-section"><h2>Địa điểm đã thăm</h2><ul class="fieldwork-place-list"><li><a href="/vi/fieldwork-pilgrimages/sakya/"><strong>Tu viện Sakya</strong></a> <span>— Tây Tạng · Tsang</span></li></ul></section>
 <section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
