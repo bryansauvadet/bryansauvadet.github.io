@@ -37,6 +37,18 @@ format:
       <p>Un parcours à travers peintures, sculptures, sūtras et objets rituels pour comprendre la continuité de la prière bouddhique de Koryŏ à Chosŏn.</p>
       <span class="exhibition-card-link">Lire la fiche →</span>
     </a>
+
+    <a class="exhibition-card" href="/fr/expositions/dreaming-of-sukhavati.html">
+      <div class="exhibition-card-image">
+        <img src="https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg" alt="꿈꾸는 즐거움, 극락極樂" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Art bouddhique coréen · Amitābha · Terre Pure · Chosŏn</div>
+      <h2>꿈꾸는 즐거움, 극락極樂</h2>
+      <p class="exhibition-card-subtitle">Le plaisir de rêver au paradis — Sukhāvatī, la Terre Pure d’Amitābha</p>
+      <p class="exhibition-card-meta">Musée central bouddhique · Séoul · 19 octobre — 18 décembre 2016</p>
+      <p>Une exposition de référence sur Amitābha, les neuf degrés de renaissance, le yŏmbul et la construction visuelle de Sukhāvatī dans l’art bouddhique coréen.</p>
+      <span class="exhibition-card-link">Lire la fiche →</span>
+    </a>
   </div>
 </div>
 
