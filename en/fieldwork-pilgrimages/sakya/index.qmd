@@ -6,27 +6,6 @@ format:
     include-before-body: _includes/en-header.html
     include-after-body: _includes/en-footer.html
 ---
-<style>
-.fieldwork-story figure{
-  width:50%;
-  margin:3rem auto;
-}
-.fieldwork-story figure img{
-  display:block;
-  width:100%;
-  height:auto;
-  margin:0 auto;
-}
-.fieldwork-story figure figcaption{
-  margin-top:.6rem;
-}
-@media (max-width: 720px){
-  .fieldwork-story figure{
-    width:90%;
-  }
-}
-</style>
-
 <section class="page-hero"><h1>Sakya Monastery</h1><p class="lead">ས་སྐྱ་དགོན་པ་ · Sakya, Tsang, Tibet</p></section>
 <main class="content"><div class="content-inner fieldwork-story">
 <figure class="fieldwork-hero"><img src="/assets/images/sakya-02.jpg" alt="At Sakya Monastery" loading="eager"><figcaption>In front of Sakya Monastery after arriving in Tsang.</figcaption></figure>
@@ -39,10 +18,10 @@ format:
 <p>The transition from the courtyard to the interior was one of the strongest moments of my visit. Outside everything feels mineral and monumental. Inside, light becomes scarce, colours deepen and statues gradually emerge from darkness. I spent time looking not only at the images themselves but at the way they are installed among textiles, offerings, lamps and smaller figures. In a museum we often isolate an artwork. Here the image is never alone.</p>
 <figure><img src="/assets/images/sakya-04.jpg" alt="Buddha image at Sakya Monastery" loading="lazy"><figcaption>A Buddha image still fully embedded in a ritual environment.</figcaption></figure>
 <p>This difference matters for art history. Gilded bronzes, clay sculptures, paintings and altars can be studied through style, iconography and dating, but Sakya constantly brought me back to function. Traces of devotion, textiles, offerings and successive alterations show that these objects continue to be activated through religious practice. What I photographed was therefore not simply heritage, but a living religious environment.</p>
-<figure><img src="/assets/images/sakya-05.jpg" alt="’Phags-pa between Činggis Qan and Qubilai Qan at Sakya Monastery" loading="lazy"><figcaption>’Phags-pa in the centre, flanked by Činggis Qan and Qubilai Qan. For me, this image makes the relationship between Sakya religious authority and Mongol imperial power immediately visible.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-05.jpg" alt="’Phags-pa between Činggis Qan and Qubilai Qan at Sakya Monastery" loading="lazy"><figcaption>’Phags-pa in the centre, flanked by Činggis Qan and Qubilai Qan. For me, this image makes the relationship between Sakya religious authority and Mongol imperial power immediately visible.</figcaption></figure>
 <p>I spent a long time in front of this group. Seeing ’Phags-pa positioned between Činggis Qan and Qubilai Qan gives visual form to a relationship between religious master and ruler that political diagrams tend to flatten. This is precisely what matters for my work on Koryŏ: the peninsula did not simply receive an undifferentiated “Mongol Buddhism”, but religious forms shaped through the interaction of Tibetan hierarchs and imperial power. The group therefore gave me a visual bridge between Sakya and the transformations I study in late Koryŏ court Buddhism.</p>
 <p>The library was probably the space that impressed me most intellectually. High wooden shelves are packed with wrapped volumes, stacked so high that one has to tilt one's head back to take in the whole wall. Sakya preserves one of Tibet's major textual collections, including canonical corpora and many ancient manuscripts. Travel writing and popular accounts sometimes call it a “second Dunhuang”. The comparison is dramatic and should be used cautiously, but it conveys something of the scale of the collection.</p>
-<figure><img src="/assets/images/sakya-06.jpg" alt="Library of Sakya Monastery" loading="lazy"><figcaption>The shelves of Sakya's library: text becoming architecture.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-06.jpg" alt="Library of Sakya Monastery" loading="lazy"><figcaption>The shelves of Sakya's library: text becoming architecture.</figcaption></figure>
 <p>Standing in front of those shelves, I thought above all about the material chain of transmission. A Buddhist text is not an abstraction: it has to be copied, translated, corrected, printed, transported, preserved and read. For understanding religious circulation between Tibet, China and Koryŏ, these material objects matter as much as the doctrines they transmit.</p>
 <figure><img src="/assets/images/sakya-07.jpg" alt="Stupas and altars inside Sakya Monastery" loading="lazy"><figcaption>Stupas, images and ritual objects create a space in which architecture and devotion are inseparable.</figcaption></figure>
 <p>Another aspect of Sakya that interested me was the coexistence of institutional Buddhism and local traditions. A small rooftop shrine is sometimes described locally as the “Chapel of the Witches”. Tradition says it was used to subdue harmful female spirits or sorceresses. I prefer to preserve this as a tradition rather than turn it into a historical fact. Even so, it is revealing of the way Tibetan sacred landscapes absorb narratives of protection, subjugation and the control of local forces.</p>
