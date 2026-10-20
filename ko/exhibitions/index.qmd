@@ -1,0 +1,13 @@
+---
+title: "전시"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="page-hero"><h1>전시</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">불교미술, 아시아, 미술사와 관련하여 박물관과 미술관에서 관람한 전시에 대한 기록, 리뷰와 관람 노트.</p>
+<div class="database-empty-state"><h2>관람한 전시</h2><p>이 섹션에는 박물관과 미술관에서 관람한 전시에 대한 기록과 리뷰를 차례로 정리합니다.</p></div>
+</div></main>
