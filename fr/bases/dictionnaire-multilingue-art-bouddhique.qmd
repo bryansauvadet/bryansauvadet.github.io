@@ -1,0 +1,30 @@
+---
+title: "Dictionnaire multilingue de l’art bouddhique"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/buddhist-art-dictionary.css">
+<script defer src="/assets/js/buddhist-art-dictionary.js"></script>
+
+<section class="page-hero database-subhero">
+  <div class="eyebrow"><a href="/fr/bases.html">Bases de données</a></div>
+  <h1>Dictionnaire multilingue de l’art bouddhique</h1>
+</section>
+
+<main class="content">
+  <div class="content-inner database-detail buddhist-dictionary-page">
+    <section class="dictionary-intro">
+      <p>Ce répertoire met en regard 150 termes fondamentaux de l’art bouddhique en français, anglais, sanskrit, tibétain, coréen, japonais, chinois et vietnamien, avec leurs principales écritures et romanisations.</p>
+      <p class="dictionary-method">La recherche peut porter sur l’ensemble du tableau ou être limitée à une langue ou à un système d’écriture. Les cellules laissées vides ne sont pas complétées artificiellement lorsqu’aucun équivalent normalisé n’a été retenu à ce stade.</p>
+    </section>
+
+    <section class="dictionary-interface" aria-label="Dictionnaire multilingue de l’art bouddhique">
+      <div id="multilingual-dictionary" data-locale="fr"></div>
+    </section>
+  </div>
+</main>
+```
