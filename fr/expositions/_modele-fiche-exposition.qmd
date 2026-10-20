@@ -12,7 +12,7 @@ GABARIT CANONIQUE — COMPTE RENDU DE VISITE D’EXPOSITION
 
 Objectif :
 Documenter une exposition visitée en articulant contenu scientifique, expérience de visite,
-œuvres/objets observés, scénographie et documentation photographique.
+œuvres/objets observés, scénographie et photographies intégrées au fil du compte rendu.
 
 Mode d’emploi :
 1. Dupliquer ce fichier et le renommer avec un slug explicite :
@@ -63,9 +63,7 @@ Mode d’emploi :
       <a href="#proposition">Proposition curatoriale</a>
       <a href="#parcours">Parcours & scénographie</a>
       <a href="#oeuvres">Œuvres à retenir</a>
-      <a href="#galerie">Galerie</a>
       <a href="#comprendre">Ce qu’elle permet de comprendre</a>
-      <a href="#critique">Lecture critique</a>
       <a href="#ressources">Pour aller plus loin</a>
       <a href="#bilan">Bilan</a>
     </nav>
@@ -79,6 +77,11 @@ Mode d’emploi :
       </div>
       <div class="exhibit-report__content">
         <p>[[5 À 10 LIGNES. EXPLIQUER CE QUI JUSTIFIE LA VISITE : RARETÉ DU CORPUS, QUALITÉ DES PRÊTS, NOUVELLE LECTURE D’UN SUJET, INTÉRÊT POUR L’HISTOIRE DE L’ART, LE BOUDDHISME OU L’ASIE. NE PAS RÉSUMER LE PARCOURS.]]</p>
+
+        <figure class="exhibit-report__figure exhibit-report__figure--wide">
+          <img src="[[URL_PHOTO_CONTEXTE_1]]" alt="[[DESCRIPTION PHOTO CONTEXTE 1]]" loading="lazy">
+          <figcaption>[[LÉGENDE PHOTO · UTILISER CETTE IMAGE POUR ILLUSTRER DIRECTEMENT LE POINT ABORDÉ DANS LE TEXTE]]</figcaption>
+        </figure>
       </div>
     </div>
   </section>
@@ -108,7 +111,12 @@ Mode d’emploi :
         <h2>Parcours et scénographie</h2>
       </div>
       <div class="exhibit-report__content">
-        <p>[[DÉCRIRE L’ORGANISATION DU PARCOURS : CHRONOLOGIQUE, THÉMATIQUE, GÉOGRAPHIQUE, MONOGRAPHIQUE, ETC. EXPLIQUER COMMENT L’ESPACE, LA LUMIÈRE, LES CARTELS, LES VITRINES, LES RECONSTITUTIONS OU LES DISPOSITIFS MULTIMÉDIAS SERVENT — OU DESSERVENT — LE PROPOS.]]</p>
+        <p>[[DÉCRIRE L’ORGANISATION DU PARCOURS : CHRONOLOGIQUE, THÉMATIQUE, GÉOGRAPHIQUE, MONOGRAPHIQUE, ETC. EXPLIQUER COMMENT L’ESPACE, LA LUMIÈRE, LES CARTELS, LES VITRINES, LES RECONSTITUTIONS OU LES DISPOSITIFS MULTIMÉDIAS SERVENT LE PROPOS.]]</p>
+
+        <figure class="exhibit-report__figure">
+          <img src="[[URL_PHOTO_SCENOGRAPHIE_1]]" alt="[[DESCRIPTION PHOTO SCÉNOGRAPHIE 1]]" loading="lazy">
+          <figcaption>[[LÉGENDE : VUE DE SALLE, DISPOSITIF, VITRINE OU ÉLÉMENT DU PARCOURS ÉVOQUÉ CI-DESSUS]]</figcaption>
+        </figure>
 
         <ol class="exhibit-report__route">
           <li><strong>[[SÉQUENCE / SALLE 1]]</strong><span>[[RÔLE DANS LE PARCOURS ET OBJETS PRINCIPAUX]]</span></li>
@@ -116,6 +124,11 @@ Mode d’emploi :
           <li><strong>[[SÉQUENCE / SALLE 3]]</strong><span>[[RÔLE DANS LE PARCOURS ET OBJETS PRINCIPAUX]]</span></li>
           <li><strong>[[SÉQUENCE / SALLE 4]]</strong><span>[[RÔLE DANS LE PARCOURS ET OBJETS PRINCIPAUX]]</span></li>
         </ol>
+
+        <figure class="exhibit-report__figure">
+          <img src="[[URL_PHOTO_SCENOGRAPHIE_2]]" alt="[[DESCRIPTION PHOTO SCÉNOGRAPHIE 2]]" loading="lazy">
+          <figcaption>[[LÉGENDE : IMAGE ASSOCIÉE À UNE SÉQUENCE PRÉCISE DU PARCOURS]]</figcaption>
+        </figure>
       </div>
     </div>
   </section>
@@ -145,27 +158,10 @@ Mode d’emploi :
     </div>
   </section>
 
-  <section class="exhibit-report__section exhibit-report__section--gallery" id="galerie">
-    <div class="exhibit-report__shell">
-      <div class="exhibit-report__section-head">
-        <div class="exhibit-report__number">05 · Photographies</div>
-        <h2>Galerie de visite</h2>
-      </div>
-      <div class="exhibit-report__gallery">
-        <figure class="is-wide"><img src="[[URL_PHOTO_1]]" alt="[[DESCRIPTION PHOTO 1]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 1]]</figcaption></figure>
-        <figure><img src="[[URL_PHOTO_2]]" alt="[[DESCRIPTION PHOTO 2]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 2]]</figcaption></figure>
-        <figure><img src="[[URL_PHOTO_3]]" alt="[[DESCRIPTION PHOTO 3]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 3]]</figcaption></figure>
-        <figure><img src="[[URL_PHOTO_4]]" alt="[[DESCRIPTION PHOTO 4]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 4]]</figcaption></figure>
-        <figure><img src="[[URL_PHOTO_5]]" alt="[[DESCRIPTION PHOTO 5]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 5]]</figcaption></figure>
-        <figure class="is-wide"><img src="[[URL_PHOTO_6]]" alt="[[DESCRIPTION PHOTO 6]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 6]]</figcaption></figure>
-      </div>
-    </div>
-  </section>
-
   <section class="exhibit-report__section" id="comprendre">
     <div class="exhibit-report__shell">
       <div class="exhibit-report__section-head">
-        <div class="exhibit-report__number">06 · Connaissances</div>
+        <div class="exhibit-report__number">05 · Connaissances</div>
         <h2>Ce que l’exposition permet de comprendre</h2>
       </div>
       <div class="exhibit-report__content">
@@ -175,6 +171,12 @@ Mode d’emploi :
           <li><strong>[[IDÉE FORTE 3]]</strong>[[EXPLICATION]]</li>
           <li><strong>[[IDÉE FORTE 4]]</strong>[[EXPLICATION]]</li>
         </ul>
+
+        <figure class="exhibit-report__figure exhibit-report__figure--wide">
+          <img src="[[URL_PHOTO_DETAIL_1]]" alt="[[DESCRIPTION PHOTO DÉTAIL 1]]" loading="lazy">
+          <figcaption>[[LÉGENDE : ŒUVRE, DÉTAIL OU RAPPROCHEMENT VISUEL QUI APPUIE L’ANALYSE CI-DESSUS]]</figcaption>
+        </figure>
+
         <div class="exhibit-report__research">
           <strong>Intérêt pour mes recherches :</strong>
           <p>[[RELIER EXPLICITEMENT LA VISITE À TES THÈMES DE RECHERCHE : ICONOGRAPHIE, MATÉRIAUX, CIRCULATION, ARCHITECTURE, RITUELS, ESPACES SACRÉS, HISTOIRE DE L’ASIE, ETC.]]</p>
@@ -183,25 +185,10 @@ Mode d’emploi :
     </div>
   </section>
 
-  <section class="exhibit-report__section" id="critique">
-    <div class="exhibit-report__shell">
-      <div class="exhibit-report__section-head">
-        <div class="exhibit-report__number">07 · Lecture critique</div>
-        <h2>Forces et limites</h2>
-      </div>
-      <div class="exhibit-report__content">
-        <div class="exhibit-report__critique">
-          <div><strong>Ce qui fonctionne</strong><p>[[QUALITÉ DU CORPUS, COHÉRENCE DU PARCOURS, CARTELS, COMPARAISONS, SCÉNOGRAPHIE, APPORT SCIENTIFIQUE, ETC.]]</p></div>
-          <div><strong>Ce qui convainc moins</strong><p>[[ANGLES MORTS, OBJETS MANQUANTS, CONTEXTE TROP FAIBLE, CHRONOLOGIE, TERMINOLOGIE, SCÉNOGRAPHIE, SURINTERPRÉTATION, ETC.]]</p></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <section class="exhibit-report__section" id="ressources">
     <div class="exhibit-report__shell">
       <div class="exhibit-report__section-head">
-        <div class="exhibit-report__number">08 · Documentation</div>
+        <div class="exhibit-report__number">06 · Documentation</div>
         <h2>Pour aller plus loin</h2>
       </div>
       <div class="exhibit-report__content">
@@ -218,7 +205,7 @@ Mode d’emploi :
   <section class="exhibit-report__section" id="bilan">
     <div class="exhibit-report__shell">
       <div class="exhibit-report__section-head">
-        <div class="exhibit-report__number">09 · Conclusion</div>
+        <div class="exhibit-report__number">07 · Conclusion</div>
         <h2>Bilan</h2>
       </div>
       <div class="exhibit-report__content">
