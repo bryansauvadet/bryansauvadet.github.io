@@ -71,7 +71,7 @@ format:
 <article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="가가미신사 양류관음상" loading="lazy"><div><h3>중요문화재 楊柳観音像 — 양류관음상</h3><p class="exhibit-report__work-meta">1310년 · 고려 · 비단에 채색 · 사가 가가미신사</p><p>높이 4미터가 넘는 고려불화의 대표작이다. 여러 궁정 화가가 공동으로 제작했으며 투명한 의복, 장신구, 직물 문양의 섬세함이 압도적이다. 화려함 자체가 관음의 자비와 초월성을 가시화한다.</p></div></article>
 <article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" referrerpolicy="no-referrer" alt="지장보살유희좌상" loading="lazy"><div><h3>地蔵菩薩遊戯坐像 — 지장보살유희좌상</h3><p class="exhibit-report__work-meta">11세기 · 고려 · 동조 도금 · 규슈국립박물관 · 총높이 49.2cm</p><p>편안한 자세와 부드러운 표정이 작은 크기에도 강한 존재감을 만든다. 거대한 괘불과 정반대의 규모로, 예배자와 상 사이의 가까운 거리를 상상하게 한다.</p></div></article>
 <article class="exhibit-report__work">
-            <img src="https://www.narahaku.go.jp/photo/H063543.jpg" alt="은입사 문양을 장식한 고려 14세기 청동 향로" loading="lazy" referrerpolicy="no-referrer">
+            <img src="https://www.narahaku.go.jp/_fKkxXPHb/H060909.jpg" alt="은입사 문양을 장식한 고려 14세기 청동 향로" loading="lazy" referrerpolicy="no-referrer">
             <div><h3>梵字宝相華草文銀象嵌香炉 — 범자 보상화 당초문 은상감 향로</h3><p class="exhibit-report__work-meta">14세기 · 고려 · 청동 은상감 · 나라국립박물관</p><p>범자와 화문을 은상감으로 장식한 향로다. 금속공예의 정교함뿐 아니라 향기, 빛, 손의 움직임까지 포함한 불교 의례의 경험을 생각하게 한다.</p></div></article>
 </div></div></div></section>
 
