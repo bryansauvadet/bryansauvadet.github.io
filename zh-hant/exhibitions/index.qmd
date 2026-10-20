@@ -6,8 +6,27 @@ format:
     include-before-body: _includes/zh-hant-header.html
     include-after-body: _includes/zh-hant-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 <section class="page-hero"><h1>展覽</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">關於博物館與美術館展覽的筆記、評論與參觀記錄，聚焦佛教藝術、亞洲與藝術史。</p>
-<div class="database-empty-state"><h2>參觀過的展覽</h2><p>本區將逐步整理我對博物館與美術館展覽的筆記與評論。</p></div>
+
+<div class="exhibition-list">
+  <div class="exhibition-list-grid">
+    <a class="exhibition-card" href="/zh-hant/exhibitions/monk-artisans-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://img.segye.com/content/image/2021/12/06/20211206516438.jpg" alt="조선의 승려 장인" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">韓國佛教藝術 · 朝鮮王朝 · 雕塑與繪畫</div>
+      <h2>조선의 승려 장인</h2>
+      <p class="exhibition-card-subtitle">朝鮮僧侶工匠：佛教雕塑與佛畫</p>
+      <p class="exhibition-card-meta">韓國國立中央博物館 · 首爾 · 2021年12月7日 — 2022年3月6日</p>
+      <p>聚焦雕刻僧、畫僧、工坊組織、移動網絡與佛教圖像製作過程的重要特展。</p>
+      <span class="exhibition-card-link">閱讀展覽評論 →</span>
+    </a>
+  </div>
+</div>
+
 </div></main>
+```
