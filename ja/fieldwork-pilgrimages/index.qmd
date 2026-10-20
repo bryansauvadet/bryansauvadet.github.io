@@ -1,0 +1,13 @@
+---
+title: "フィールドワークと巡礼"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+<section class="page-hero"><h1>フィールドワークと巡礼</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">寺院、建造物、考古遺跡の現地調査記録、研究行程、巡礼に関するノート。</p>
+<div class="database-empty-state"><h2>現地調査と行程</h2><p>このセクションでは、現地調査、遺跡・寺院の観察、巡礼の行程を順次まとめます。</p></div>
+</div></main>
