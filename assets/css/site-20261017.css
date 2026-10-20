@@ -756,3 +756,25 @@ html.site-intro-skip .site-intro{display:none!important}
   html:not(.site-intro-skip) .site-intro-title{animation:none!important;opacity:1;transform:none}
 }
 
+
+
+/* Carnet section thumbnails — Expositions and Fieldwork */
+.exhibitions-card .database-card-image,
+.fieldwork-card .database-card-image{
+  height:auto;
+  aspect-ratio:16/9;
+}
+.exhibitions-card .database-card-image img,
+.fieldwork-card .database-card-image img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+}
+@media(max-width:600px){
+  .exhibitions-card .database-card-image,
+  .fieldwork-card .database-card-image{
+    height:auto;
+    aspect-ratio:16/9;
+  }
+}
