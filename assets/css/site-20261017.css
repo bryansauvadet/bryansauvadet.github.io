@@ -778,3 +778,27 @@ html.site-intro-skip .site-intro{display:none!important}
     aspect-ratio:16/9;
   }
 }
+
+
+/* Fieldwork / pilgrimages — reading layout */
+.fieldwork-story p,
+.fieldwork-index > p,
+.fieldwork-index-section > p{
+  text-align:justify;
+  text-justify:auto;
+  hyphens:auto;
+}
+.fieldwork-story figure{
+  margin-top:3rem;
+  margin-bottom:3rem;
+}
+.fieldwork-story figure figcaption{
+  margin-top:.75rem;
+  line-height:1.5;
+}
+@media (max-width:720px){
+  .fieldwork-story figure{
+    margin-top:2.25rem;
+    margin-bottom:2.25rem;
+  }
+}
