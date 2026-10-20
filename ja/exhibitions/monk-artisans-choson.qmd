@@ -1,0 +1,212 @@
+---
+title: "조선의 승려 장인"
+lang: ja
+image: https://img.segye.com/content/image/2021/12/06/20211206516438.jpg
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+
+<main class="exhibit-report" id="top">
+  <header class="exhibit-report__hero">
+    <div class="exhibit-report__shell">
+      <figure class="exhibit-report__hero-image">
+        <img src="https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg" alt="韓国国立中央博物館の展覧会「조선의 승려 장인」会場風景" loading="eager" decoding="async" referrerpolicy="no-referrer">
+        <figcaption>韓国国立中央博物館特別展 <em>조선의 승려 장인</em> 会場風景、2021年。Beopbo News掲載写真。</figcaption>
+      </figure>
+
+      <div class="exhibit-report__hero-copy">
+        <div class="exhibit-report__eyebrow">展覧会レビュー · 韓国仏教美術 · 朝鮮王朝 · 彫刻と絵画</div>
+        <h1>조선의 승려 장인</h1>
+        <p class="exhibit-report__venue"><em>朝鮮の僧侶職人――仏教彫刻と仏画</em><br>韓国国立中央博物館 · ソウル</p>
+
+        <dl class="exhibit-report__meta" aria-label="展覧会情報">
+          <div><dt>会期</dt><dd>2021年12月7日 — 2022年3月6日</dd></div>
+          <div><dt>博物館</dt><dd>韓国国立中央博物館<br><span lang="ko">국립중앙박물관</span></dd></div>
+          <div><dt>都市</dt><dd>ソウル · 大韓民国</dd></div>
+          <div><dt>企画</dt><dd>美術部 · クォン・ガンミおよび博物館研究チーム</dd></div>
+          <div><dt>種類</dt><dd>特別展 · 仏教美術</dd></div>
+        </dl>
+
+        <div class="exhibit-report__question">
+          <strong>中心テーマ：</strong> 朝鮮王朝の仏教美術を、それを制作した人びと――宗教者であり、専門職人であり、工房の指導者であり、技術の継承者でもあった僧侶――の側から理解すること。
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="exhibit-report__nav-wrap">
+    <nav class="exhibit-report__shell exhibit-report__nav" aria-label="目次">
+      <a href="#why">なぜ見るべきか</a>
+      <a href="#proposal">企画意図</a>
+      <a href="#route">構成と展示</a>
+      <a href="#works">注目作品</a>
+      <a href="#understand">理解できること</a>
+      <a href="#resources">さらに読む</a>
+      <a href="#verdict">総評</a>
+    </nav>
+  </div>
+
+  <section class="exhibit-report__section" id="why">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">01 · 要点</div>
+        <h2>なぜこの展覧会を見るべきか</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>この展覧会の最大の意義は、作品から制作者へと視点を移したことにある。朝鮮王朝の仏像や仏画を匿名的な宗教美術として扱うのではなく、構想し、彫り、描き、鍍金し、奉安のために仕上げた僧侶職人の存在を前面に押し出している。27機関から145件の作品・資料が集められ、そのうち54件は15寺院からの出品だった。展示作品には、名前が確認される366名の僧侶職人が関わっている。仏教美術を個人作家の成果ではなく、工房、協働、技術系譜による集団制作として理解できる点が重要である。</p>
+
+        <p>歴史的にも重要である。朝鮮王朝の仏教を単純な衰退史として捉える見方を大きく修正するからだ。1592–1598年の日本軍侵攻以後、むしろ仏教彫刻と仏画の制作は活発化した。彫刻僧（조각승）と画僧（화승）の増加は、寺院を基盤とする非常に活発な仏教視覚文化が朝鮮後期に形成されたことを示す。</p>
+
+        <figure class="exhibit-report__figure exhibit-report__figure--wide">
+          <img src="https://cdn.buddhismjournal.com/news/photo/202112/22295_28277_3035.jpg" alt="展覧会で再現された画僧の作業空間" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>画僧の作業空間を再現した展示。道具、手の動き、制作工程が具体的に示される。Buddhist Journal掲載写真。</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="proposal">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">02 · 企画</div>
+        <h2>展覧会は何を提示するのか</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p class="exhibit-report__thesis">本展は、僧侶職人を朝鮮王朝の仏教美術を理解するための中心人物として提示する。彼らは宗教的実践者であると同時に、高度に専門化された技術者でもあった。したがって礼拝像の制作は、僧院生活、集団労働の組織、技術と図像の継承から切り離して考えることができない。</p>
+
+        <ul class="exhibit-report__keypoints">
+          <li><strong>匿名性を超える。</strong>銘文、納入品の記録、画記などに残る名前から、個々の職人の活動、系譜、工房ネットワークを復元できる。</li>
+          <li><strong>制作過程を可視化する。</strong>下絵、内部構造、材料、彫刻技法、彩色工程によって、完成品を具体的な制作過程の中に戻して考えられる。</li>
+          <li><strong>集団制作を理解する。</strong>仏像や仏画は一人の作者だけによるものではなく、師匠、補助者、弟子から成る移動型のチームによって制作された。</li>
+          <li><strong>朝鮮仏教を読み直す。</strong>16世紀以後の活発な制作は、儒教国家の下で仏教が一方向に衰退したという説明を修正する。</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="route">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">03 · 観覧</div>
+        <h2>展示構成と空間演出</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>展覧会は四部構成である。最初に僧侶職人とは何者かを定義し、次に彫刻と絵画の制作空間を開いて見せる。第三部では主要作品を通して、技術と協働がどのように完成した仏教像へ結実したかを示し、最後に僧侶職人の記憶と現代的再解釈を扱う。単純な年代順ではなく、社会的身分から制作行為へ、さらに礼拝像そのものへと進む構成である。</p>
+
+        <figure class="exhibit-report__figure">
+          <img src="https://dimg.donga.com/wps/NEWS/IMAGE/2021/12/06/110629231.3.jpg" alt="仏画と下絵を並べた展示" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>完成した仏画と下絵を並べ、構想から礼拝像へ至る過程を見せる展示。東亜日報掲載写真。</figcaption>
+        </figure>
+
+        <ol class="exhibit-report__route">
+          <li><strong>승려 장인은 누구인가 — 僧侶職人とは誰か</strong><span>専門化した僧侶職人を俗人の職人と区別し、朝鮮後期における僧侶による集団制作の拡大を示す。</span></li>
+          <li><strong>불상과 불화를 만든 공간 — 仏像と仏画をつくった空間</strong><span>彫刻僧と画僧の二つの「工房」を通して、道具、制作工程、下絵、科学調査を紹介する。CT画像は木造仏像の内部構造まで明らかにする。</span></li>
+          <li><strong>그들이 꿈꾼 세계 — 彼らが思い描いた世界</strong><span>主要な僧侶職人の傑作を通して、浄土、霊鷲山会、華厳世界が技術によってどのように可視化されたかを示す。</span></li>
+          <li><strong>승려 장인을 기억하며 — 僧侶職人を記憶する</strong><span>朝鮮後期の仏教彫刻と現代作家Vakkiのインスタレーションを結びつけ、僧侶職人の記憶が現代にどう残るかを問う。</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="works">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">04 · 選定</div>
+        <h2>記憶しておきたい作品</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__works">
+          <article class="exhibit-report__work">
+            <img src="https://img.khan.co.kr/news/2021/12/06/l_2021120601000692600058542.webp" alt="龍門寺木刻阿弥陀如来説法像" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>용문사 목각아미타여래설법상 — 龍門寺 木刻阿弥陀如来説法像</h3>
+              <p class="exhibit-report__work-meta">1684 · 木彫、鍍金・彩色 · 龍門寺 · 彫刻僧 Tanŭng（端應）</p>
+              <p>本展の最重要作品の一つである。Tanŭngは、本来は仏画で表現されることの多い阿弥陀説法の構図を三次元の浮彫へ変換した。中央の阿弥陀如来と密集した眷属の構成は、彫刻と絵画の境界を曖昧にする。2021年の展覧会では、制作後337年を経て初めて寺院外へ出た。</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://img9.yna.co.kr/etc/inner/KR/2024/12/26/AKR20241226036700005_01_i_P4.jpg" alt="海印寺霊山会上図" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>해인사 영산회상도 — 海印寺 霊山会上図</h3>
+              <p class="exhibit-report__work-meta">1729 · 絹本彩色 · 海印寺 · Ŭigyŏm（義謙）と工房</p>
+              <p>釈迦牟尼の説法場面を描くこの大画面は、多数の人物を配しながら視覚的な序列を失わない工房の能力を示す。18世紀仏画の代表的画僧Ŭigyŏmは、孤立した個人作家というより、専門画僧集団を率いる指導者として理解すべきである。</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://cdn.ibulgyo.com/news/photo/202201/215880_233842_5858.jpg" alt="松廣寺華厳経変相図" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>송광사 화엄경변상도 — 松廣寺 華厳経変相図</h3>
+              <p class="exhibit-report__work-meta">1770 · 絹本彩色 · 松廣寺 · Hwaryŏn（華蓮）と工房</p>
+              <p>画面の密度は華厳美術の宇宙論的な野心をよく示す。一つの画面に複数の法会、人物、建築、天上空間が重層的に配置される。画僧の技量は装飾性にとどまらず、無限に展開する華厳の教理世界を理解可能な視覚秩序へ変換する役割を果たしている。</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="understand">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">05 · 理解</div>
+        <h2>この展覧会から理解できること</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__keypoints">
+          <li><strong>仏教像は集団制作の産物である。</strong>銘文は師匠と弟子を中心に組織された制作集団を示す。一つの名前だけに作品を帰属させると、実際の制作現場を見失う。</li>
+          <li><strong>工房は移動した。</strong>僧侶職人は寺院から寺院へ移動し、様式、技法、図像的解決法を朝鮮半島各地へ伝えた。</li>
+          <li><strong>技術は宗教実践の一部である。</strong>木材の選択、下絵、納入品のための空間、鍍金、彩色は単なる工芸工程ではなく、物質を礼拝対象へ変える過程に関与する。</li>
+          <li><strong>朝鮮後期は創造の時代である。</strong>現在までに1,000名以上の彫刻僧と約2,400名の画僧が確認されており、当時の仏教美術活動の規模がわかる。</li>
+        </ul>
+
+        <div class="exhibit-report__research">
+          <strong>仏教美術史にとっての意義</strong>
+          <p>最も重要な方法論的教訓は、図像と制作を切り離さないことである。仏像や仏画は、イメージであると同時に物質的対象であり、工房の産物であり、寺院ネットワークの成果であり、儀礼の媒体でもある。本展は韓国仏教美術の社会史と物質史を統合する優れたモデルを提示する。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="resources">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">06 · 資料</div>
+        <h2>さらに読む</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__resources">
+          <li><strong>図録：</strong> 국립중앙박물관, <em>조선의 승려 장인</em>, ソウル, 韓国国立中央博物館, 2021, 400頁。</li>
+          <li><strong>公式ページ：</strong> <a href="https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=631858&listType=list&menuId=past&schM=view" target="_blank" rel="noopener">韓国国立中央博物館 展覧会ページ</a>。</li>
+          <li><strong>博物館資料：</strong> <a href="https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?catCustomType=post&catId=93&schM=view&arcId=18039" target="_blank" rel="noopener">プレスリリースと詳細解説</a>。</li>
+          <li><strong>図録の内容：</strong> 彫刻・絵画工房、移動する僧侶職人ネットワーク、制作工程、朝鮮後期の主要な職人を詳しく扱う。</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="verdict">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">07 · 結論</div>
+        <h2>総評</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__verdict">
+          <div class="exhibit-report__verdict-label">評価</div>
+          <strong>韓国仏教美術史にとって必見の展覧会</strong>
+          <p><em>조선의 승려 장인</em> の最大の強みは、宗教イメージを生み出した人びとを再び見える存在にしたことにある。傑作の集成も重要だが、決定的な成果は、工房、協働、制作の手つき、移動ネットワークを復元した点にある。その結果、朝鮮仏教美術は形式の歴史だけでなく、実践と制作の歴史として読み直される。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ ページ上部へ</a></div>
+</main>
+```
