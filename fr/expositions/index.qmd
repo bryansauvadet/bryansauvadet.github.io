@@ -25,6 +25,18 @@ format:
       <p>Une exposition majeure consacrée aux moines sculpteurs et peintres, à leurs ateliers, leurs réseaux et aux processus de fabrication de l’image bouddhique.</p>
       <span class="exhibition-card-link">Lire la fiche →</span>
     </a>
+
+    <a class="exhibition-card" href="/fr/expositions/beaute-priere-koryo-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術" loading="lazy">
+      </div>
+      <div class="exhibition-card-domain">Art bouddhique coréen · Koryŏ et Chosŏn · XIe–XVIe siècles</div>
+      <h2>うるわしき祈りの美</h2>
+      <p class="exhibition-card-subtitle">La beauté de la prière — Art bouddhique des périodes Koryŏ et Chosŏn</p>
+      <p class="exhibition-card-meta">Kyushu National Museum · Dazaifu · 5 septembre — 15 octobre 2023</p>
+      <p>Un parcours à travers peintures, sculptures, sūtras et objets rituels pour comprendre la continuité de la prière bouddhique de Koryŏ à Chosŏn.</p>
+      <span class="exhibition-card-link">Lire la fiche →</span>
+    </a>
   </div>
 </div>
 
