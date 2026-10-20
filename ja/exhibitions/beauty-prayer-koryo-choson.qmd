@@ -71,7 +71,7 @@ format:
 <article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="鏡神社 楊柳観音像" loading="lazy"><div><h3>重要文化財 楊柳観音像</h3><p class="exhibit-report__work-meta">1310年 · 高麗 · 絹本着色 · 佐賀・鏡神社</p><p>高さ四メートルを超える高麗仏画の代表作。複数の宮廷画家による共同制作で、透ける衣、装身具、文様表現の精緻さが圧倒的である。豪華さそのものが観音の慈悲と超越性を視覚化している。</p></div></article>
 <article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" referrerpolicy="no-referrer" alt="地蔵菩薩遊戯坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像</h3><p class="exhibit-report__work-meta">11世紀 · 高麗 · 銅造鍍金 · 九州国立博物館 · 総高49.2cm</p><p>くつろいだ姿勢と穏やかな表情が、小像ながら強い存在感を生む。巨大な掛幅とは正反対のスケールで、礼拝者と像との近い距離を想像させる。</p></div></article>
 <article class="exhibit-report__work">
-            <img src="https://www.narahaku.go.jp/photo/H063543.jpg" alt="銀象嵌文様を施した高麗時代14世紀の銅製香炉" loading="lazy" referrerpolicy="no-referrer">
+            <img src="https://www.narahaku.go.jp/_fKkxXPHb/H060909.jpg" alt="銀象嵌文様を施した高麗時代14世紀の銅製香炉" loading="lazy" referrerpolicy="no-referrer">
             <div><h3>梵字宝相華草文銀象嵌香炉</h3><p class="exhibit-report__work-meta">14世紀 · 高麗 · 銅製銀象嵌 · 奈良国立博物館</p><p>梵字と宝相華唐草を銀象嵌で表した香炉。金工技術の精緻さだけでなく、香り、光、手の動きまで含めて仏教儀礼の経験を考えさせる作品である。</p></div></article>
 </div></div></div></section>
 
