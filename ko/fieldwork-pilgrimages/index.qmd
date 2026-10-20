@@ -7,7 +7,7 @@ format:
     include-after-body: _includes/ko-footer.html
 ---
 <section class="page-hero"><h1>현지 조사와 순례</h1></section>
-<main class="content"><div class="content-inner">
+<main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">사찰, 건축물, 고고학 유적에 대한 현지 조사 기록, 연구 답사 경로와 순례에 관한 노트.</p>
 <section class="fieldwork-index-section"><h2>방문지</h2><ul class="fieldwork-place-list"><li><a href="/ko/fieldwork-pilgrimages/sakya/"><strong>사캬 사원</strong></a> <span>— 티베트 · 짱</span></li></ul></section>
 <section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
