@@ -9,5 +9,12 @@ format:
 <section class="page-hero"><h1>Khảo sát thực địa và hành hương</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">Ghi chép thực địa, khảo sát chùa, công trình kiến trúc và di chỉ khảo cổ, các hành trình nghiên cứu và hành hương.</p>
-<div class="database-empty-state"><h2>Thực địa và hành trình</h2><p>Mục này sẽ dần tập hợp các ghi chép khảo sát thực địa, quan sát di tích và những hành trình hành hương.</p></div>
+<section class="fieldwork-index-section"><h2>Địa điểm đã thăm</h2><ul class="fieldwork-place-list"><li><a href="/vi/fieldwork-pilgrimages/sakya/"><strong>Tu viện Sakya</strong></a> <span>— Tây Tạng · Tsang</span></li></ul></section>
+<section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+document.addEventListener("DOMContentLoaded",function(){const m=L.map("fieldwork-map").setView([28.905,88.018],6);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:18,attribution:"&copy; OpenStreetMap contributors"}).addTo(m);L.marker([28.905,88.018]).addTo(m).bindPopup('<strong>Tu viện Sakya</strong><br>Tây Tạng · Tsang<br><a href="/vi/fieldwork-pilgrimages/sakya/">Đọc ghi chép</a>');});
+</script>
+<section class="fieldwork-index-section"><h2>Nhật ký thực địa</h2><div class="database-grid"><a class="database-card fieldwork-card" href="/vi/fieldwork-pilgrimages/sakya/"><div class="database-card-image"><img src="/assets/images/sakya-02.jpg" alt="Tu viện Sakya" loading="lazy"></div><div class="database-card-kicker">Tây Tạng · Tsang</div><h3>Tu viện Sakya</h3><p>Đọc ghi chép</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></section>
 </div></main>
