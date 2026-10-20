@@ -6,8 +6,27 @@ format:
     include-before-body: _includes/ja-header.html
     include-after-body: _includes/ja-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 <section class="page-hero"><h1>展覧会</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">仏教美術、アジア、美術史に関わる博物館・美術館の展覧会についての記録、レビュー、観覧メモ。</p>
-<div class="database-empty-state"><h2>訪れた展覧会</h2><p>このセクションでは、博物館・美術館で訪れた展覧会の記録とレビューを順次まとめます。</p></div>
+
+<div class="exhibition-list">
+  <div class="exhibition-list-grid">
+    <a class="exhibition-card" href="/ja/exhibitions/monk-artisans-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://img.segye.com/content/image/2021/12/06/20211206516438.jpg" alt="조선의 승려 장인" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">韓国仏教美術 · 朝鮮王朝 · 彫刻と絵画</div>
+      <h2>조선의 승려 장인</h2>
+      <p class="exhibition-card-subtitle">朝鮮の僧侶職人――仏教彫刻と仏画</p>
+      <p class="exhibition-card-meta">韓国国立中央博物館 · ソウル · 2021年12月7日 — 2022年3月6日</p>
+      <p>彫刻僧と画僧、その工房、移動ネットワーク、仏教イメージの制作工程を中心に据えた重要な特別展。</p>
+      <span class="exhibition-card-link">レビューを読む →</span>
+    </a>
+  </div>
+</div>
+
 </div></main>
+```
