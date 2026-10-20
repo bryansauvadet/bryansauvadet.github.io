@@ -15,10 +15,10 @@ format:
 <div class="reading-list"><div class="reading-list-grid">
 <a class="reading-book-card" href="/fr/lectures/domesticating-the-dharma.html">
 <div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Couverture de Domesticating the Dharma" loading="lazy"></div>
-<div class="reading-book-domain">Bouddhisme coréen · Silla · Hwaŏm · Cultes et rituels</div>
+<div class="reading-book-domain">Bouddhisme coréen · le Silla · Hwaŏm · Cultes et rituels</div>
 <h2>Domesticating the Dharma</h2>
 <p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
-<p>Pourquoi les cultes, les images, les rituels et la sacralisation du territoire expliquent mieux l’implantation du bouddhisme à Silla que le récit classique des « écoles ».</p>
+<p>Pourquoi les cultes, les images, les rituels et la sacralisation du territoire expliquent mieux l’implantation du bouddhisme au Silla que le récit classique des « écoles ».</p>
 <span class="reading-book-link">Lire la fiche →</span>
 </a>
 <a class="reading-book-card" href="/fr/lectures/the-dynamic-spread-of-buddhist-print-culture.html">
