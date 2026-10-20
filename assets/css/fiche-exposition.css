@@ -157,3 +157,35 @@
   .exhibit-report--beauty-prayer .exhibit-report__hero-image img{min-height:0}
   .exhibit-report--beauty-prayer .exhibit-report__work img{max-height:none}
 }
+
+/* 꿈꾸는 즐거움, 극락 — conserver les œuvres intégralement visibles */
+.exhibit-report--pure-land .exhibit-report__hero-image img{
+  height:auto;
+  max-height:650px;
+  object-fit:contain;
+  object-position:center;
+  background:var(--er-paper);
+}
+.exhibit-report--pure-land .exhibit-report__figure img{
+  width:100%;
+  height:auto;
+  max-height:680px;
+  object-fit:contain;
+  object-position:center top;
+  margin:0 auto;
+  background:var(--er-paper);
+}
+.exhibit-report--pure-land .exhibit-report__work img{
+  width:100%;
+  height:auto;
+  max-height:390px;
+  aspect-ratio:auto;
+  object-fit:contain;
+  object-position:center top;
+  margin:0 auto;
+  background:var(--er-paper);
+}
+@media(max-width:600px){
+  .exhibit-report--pure-land .exhibit-report__hero-image img,
+  .exhibit-report--pure-land .exhibit-report__work img{max-height:none;min-height:0}
+}
