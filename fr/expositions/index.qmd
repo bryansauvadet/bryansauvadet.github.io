@@ -49,6 +49,18 @@ format:
       <p>Une exposition de référence sur Amitābha, les neuf degrés de renaissance, le yŏmbul et la construction visuelle de Sukhāvatī dans l’art bouddhique coréen.</p>
       <span class="exhibition-card-link">Lire la fiche →</span>
     </a>
+
+    <a class="exhibition-card" href="/fr/expositions/ingaksa-samguk-yusa.html">
+      <div class="exhibition-card-image">
+        <img class="exhibition-card-image--ingaksa" src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="인각사와 삼국유사" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Art bouddhique coréen · Ingaksa · Iryŏn · Samguk yusa · archéologie</div>
+      <h2>인각사와 삼국유사</h2>
+      <p class="exhibition-card-subtitle">Ingaksa et le Samguk yusa — suivre le parfum de l’histoire, rencontrer le souffle d’un millénaire</p>
+      <p class="exhibition-card-meta">Musée central bouddhique · Séoul · 13 novembre 2013 — 12 janvier 2014</p>
+      <p>Une exposition qui relie les fouilles d’Ingaksa, la vie d’Iryŏn, les objets rituels et la transmission matérielle du Samguk yusa.</p>
+      <span class="exhibition-card-link">Lire la fiche →</span>
+    </a>
   </div>
 </div>
 
