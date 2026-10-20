@@ -887,3 +887,27 @@ html.site-intro-skip .site-intro{display:none!important}
   }
 }
 
+
+
+.fieldwork-story .figure-pair{
+  clear:both;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:1.5rem;
+  width:76%;
+  max-width:760px;
+  margin:2.2rem auto 2.5rem;
+}
+.fieldwork-story .figure-pair figure{
+  float:none;
+  clear:none;
+  width:100%;
+  max-width:none;
+  margin:0;
+}
+@media(max-width:760px){
+  .fieldwork-story .figure-pair{
+    grid-template-columns:1fr;
+    width:min(92%,420px);
+  }
+}
