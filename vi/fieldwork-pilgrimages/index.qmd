@@ -1,0 +1,13 @@
+---
+title: "Khảo sát thực địa và hành hương"
+lang: vi
+format:
+  html:
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
+---
+<section class="page-hero"><h1>Khảo sát thực địa và hành hương</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">Ghi chép thực địa, khảo sát chùa, công trình kiến trúc và di chỉ khảo cổ, các hành trình nghiên cứu và hành hương.</p>
+<div class="database-empty-state"><h2>Thực địa và hành trình</h2><p>Mục này sẽ dần tập hợp các ghi chép khảo sát thực địa, quan sát di tích và những hành trình hành hương.</p></div>
+</div></main>
