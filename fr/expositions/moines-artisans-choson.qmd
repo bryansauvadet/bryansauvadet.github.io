@@ -185,7 +185,7 @@ format:
       <div class="exhibit-report__content">
         <ul class="exhibit-report__resources">
           <li><strong>Catalogue :</strong> 국립중앙박물관, <em>조선의 승려 장인</em>, Séoul, Musée national de Corée, 2021, 400 p.</li>
-          <li><strong>Page officielle :</strong> <a href="https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=631858&listType=list&menuId=past&schM=view" target="_blank" rel="noopener">National Museum of Korea — Monk Artisans of the Joseon Dynasty</a>.</li>
+          <li><strong>Page officielle :</strong> <a href="https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=631858&listType=list&menuId=past&schM=view" target="_blank" rel="noopener">National Museum of Korea — Monk Artisans of the Chosŏn Dynasty</a>.</li>
           <li><strong>Dossier du musée :</strong> <a href="https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?catCustomType=post&catId=93&schM=view&arcId=18039" target="_blank" rel="noopener">communiqué et présentation détaillée de l’exposition</a>.</li>
           <li><strong>Catalogue détaillé :</strong> le volume développe notamment les ateliers de sculpture et de peinture, les réseaux mobiles de moines-artisans, les procédés de fabrication et les principaux maîtres du Chosŏn tardif.</li>
         </ul>
