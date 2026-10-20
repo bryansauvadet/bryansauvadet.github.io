@@ -843,3 +843,9 @@ html.site-intro-skip .site-intro{display:none!important}
   }
 }
 
+
+
+/* Carnet: suppress any stray rendered cards beyond the three intended sections */
+.carnet-grid > .database-card:nth-child(n+4){
+  display:none !important;
+}
