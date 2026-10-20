@@ -49,6 +49,18 @@ format:
       <p>A major exhibition on Amitābha, the nine grades of rebirth, yŏmbul practice and the visual construction of Sukhāvatī in Korean Buddhist art.</p>
       <span class="exhibition-card-link">Read the review →</span>
     </a>
+
+    <a class="exhibition-card" href="/en/exhibitions/ingaksa-samguk-yusa.html">
+      <div class="exhibition-card-image">
+        <img class="exhibition-card-image--ingaksa" src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="인각사와 삼국유사" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Korean Buddhist art · Ingaksa · Iryŏn · Samguk yusa · archaeology</div>
+      <h2>인각사와 삼국유사</h2>
+      <p class="exhibition-card-subtitle">Ingaksa and the Samguk yusa — Following the Fragrance of History</p>
+      <p class="exhibition-card-meta">Central Buddhist Museum · Seoul · 13 November 2013 — 12 January 2014</p>
+      <p>An exhibition connecting Ingaksa’s archaeology, Iryŏn’s life, ritual objects and the material transmission of the Samguk yusa.</p>
+      <span class="exhibition-card-link">Read the review →</span>
+    </a>
   </div>
 </div>
 
