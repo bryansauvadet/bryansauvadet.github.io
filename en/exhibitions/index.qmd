@@ -1,0 +1,13 @@
+---
+title: "Exhibitions"
+lang: en
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+<section class="page-hero"><h1>Exhibitions</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">Notes, reviews and itineraries from museum exhibitions, with a focus on Buddhist art, Asia and art history.</p>
+<div class="database-empty-state"><h2>Exhibitions visited</h2><p>This section will progressively bring together my notes and reviews of museum exhibitions.</p></div>
+</div></main>
