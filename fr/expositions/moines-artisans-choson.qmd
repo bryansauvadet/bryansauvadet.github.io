@@ -1,7 +1,7 @@
 ---
 title: "조선의 승려 장인"
 lang: fr
-image: https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg
+image: https://img.segye.com/content/image/2021/12/06/20211206516438.jpg
 format:
   html:
     include-before-body: _includes/fr-header.html
