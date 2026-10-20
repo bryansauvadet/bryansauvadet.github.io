@@ -11,19 +11,19 @@ format:
 <figure class="fieldwork-hero"><img src="/assets/images/sakya-02.jpg" alt="萨迦寺前" loading="eager"><figcaption>抵达后藏后，我在萨迦寺前。</figcaption></figure>
 <p class="lead">我来到萨迦，是因为只要研究十三世纪的藏传佛教、蒙古权力与宗教权威的关系，或仪式与物质文化在亚洲各地的流动，就会不断遇到这个名字。书本中的萨迦首先是一个制度与历史中心；真正站在现场时，我最先感受到的却是它的物质性：深红、白与灰蓝色的巨大墙体在高原景观中形成沉重的量体，轮廓甚至带有近乎军事建筑的张力。</p>
 <p>寺院位于日喀则以西的后藏地区。依萨迦派传统，1073年昆・贡却杰波在此建立据点，成为萨迦派发展的核心。走进院落后，我立刻意识到照片很难传达建筑真正的“重量”。厚墙、开口极少的立面与紧密的建筑量体，使整个寺院呈现出堡垒般的存在感。</p>
-<figure><img src="/assets/images/sakya-03.jpg" alt="萨迦寺院落" loading="lazy"><figcaption>院落与萨迦厚重的外墙。</figcaption></figure>
+<figure class="figure-left"><img src="/assets/images/sakya-03.jpg" alt="萨迦寺院落" loading="lazy"><figcaption>院落与萨迦厚重的外墙。</figcaption></figure>
 <p>这种建筑也让政治史变得可见。十三至十四世纪，萨迦远不只是一座寺院。萨迦班智达与蒙古的关系，以及其侄八思巴（’Phags-pa）与忽必烈的关系，使萨迦派高僧进入元帝国政治与宗教秩序的核心。不过，把这段历史简化为“萨迦僧侣统治西藏”并不准确；实际上，蒙古权力、宗教领袖与民政官员的职责彼此交叠。即便如此，在此行走仍能直接感受到萨迦当时已具有的制度规模。</p>
 <p>对我而言，萨迦之所以特别重要，是因为我对高丽的研究最终会把我带回这个世界。不过必须避免一种过度简化：元代进入朝鲜半岛的藏传佛教因素，并非全部都直接来自萨迦。真正重要的是理解由藏传佛教高僧——尤其是萨迦派高僧——与蒙古帝国权力共同形成的政治与宗教结构，以及十三世纪后半叶以后高丽逐步被纳入这一结构的过程。《高丽史》留下了非常具体的痕迹。1271年三别抄抗争被镇压时遭俘的珍岛人 Dge bshes Se-pa（吃折思八），后来在元帝国境内出家并接受藏传佛教训练，1294年返回开京；他的归来还把藏传佛教经籍与仪式器物带入高丽王廷。1314年的记载又提到，一名藏僧向高丽宫廷献上数量极大的藏传佛教文献，据称超过一万八千部。因此，我来到萨迦并不是为了寻找一个唯一的“源头”，而是要理解促成这些移动、翻译与重新构成的帝国网络中最重要的制度中心之一。我在高丽材料中追踪的图像、仪式与物质文化痕迹，在这里获得了更广阔的欧亚历史纵深。</p>
-<figure><img src="/assets/images/sakya-01.jpg" alt="萨迦寺大殿" loading="lazy"><figcaption>进入大殿后，光线彻底改变了我对空间的感受。</figcaption></figure>
+<figure class="figure-right"><img src="/assets/images/sakya-01.jpg" alt="萨迦寺大殿" loading="lazy"><figcaption>进入大殿后，光线彻底改变了我对空间的感受。</figcaption></figure>
 <p>从院落进入室内，是这次访问中最鲜明的经验之一。外部由石墙与巨大量体主导；进入殿内后，光线骤减，色彩变得浓重，佛像逐渐从昏暗中显现。我花了很多时间看的不只是造像本身，而是它们如何与织物、供品、灯火和小型造像共同构成一个整体。在博物馆里，我们常把作品从环境中抽离；在这里，圣像从来不是孤立的。</p>
-<figure><img src="/assets/images/sakya-04.jpg" alt="萨迦寺佛像" loading="lazy"><figcaption>仍完整存在于仪式环境中的佛像。</figcaption></figure>
+<figure class="figure-left"><img src="/assets/images/sakya-04.jpg" alt="萨迦寺佛像" loading="lazy"><figcaption>仍完整存在于仪式环境中的佛像。</figcaption></figure>
 <p>这种差异对佛教美术史非常重要。鎏金铜像、泥塑、绘画与祭坛当然可以用风格、图像学与年代加以研究，但在萨迦，我总是被迫重新思考“功能”。织物、供物、礼拜痕迹与空间历次改造都说明，这些物件至今仍通过宗教实践被启动。我拍摄的不是单纯的文化遗产，而是一个仍在运作的宗教环境。</p>
-<figure class="figure-wide"><img src="/assets/images/sakya-05.jpg" alt="八思巴与成吉思汗、忽必烈汗造像" loading="lazy"><figcaption>中央为八思巴（’Phags-pa），两侧为成吉思汗与忽必烈汗。对我而言，这组造像把萨迦宗教权威与蒙古帝国权力之间的关系直接视觉化了。</figcaption></figure>
+<figure class="figure-right"><img src="/assets/images/sakya-05.jpg" alt="八思巴与成吉思汗、忽必烈汗造像" loading="lazy"><figcaption>中央为八思巴（’Phags-pa），两侧为成吉思汗与忽必烈汗。对我而言，这组造像把萨迦宗教权威与蒙古帝国权力之间的关系直接视觉化了。</figcaption></figure>
 <p>我在这组造像前停留了很久。八思巴被置于成吉思汗与忽必烈汗之间，这一构图本身就把宗教导师与帝国君主之间的关系具体呈现出来。这一点对我的高丽研究尤其重要。高丽所接受的并不是一种笼统的“蒙古佛教”，而是在藏传佛教领袖与帝国权力互动中形成的宗教文化。这组造像因此成为我理解萨迦与高丽后期王廷佛教变化之间联系的一个非常直接的视觉节点。</p>
 <p>在学术上最令我震撼的，是藏书空间。高大的木架上堆满包裹好的经卷，整面墙几乎由文本构成。萨迦保存着西藏最重要的文献收藏之一，其中包括大藏经系统与大量古代写本。旅行文学和大众介绍有时称之为“第二敦煌”。这个说法很吸引人，也容易夸张，因此需要谨慎使用；但它确实传达了现住所感受到的规模。</p>
-<figure class="figure-wide"><img src="/assets/images/sakya-06.jpg" alt="萨迦寺藏书" loading="lazy"><figcaption>萨迦书架：文本本身仿佛成为建筑。</figcaption></figure>
+<figure class="figure-left"><img src="/assets/images/sakya-06.jpg" alt="萨迦寺藏书" loading="lazy"><figcaption>萨迦书架：文本本身仿佛成为建筑。</figcaption></figure>
 <p>站在这些书架前，我想到的是知识传承所需的物质链条。佛教文本并不是抽象概念：它需要抄写、翻译、校勘、印刷、运输、保存与阅读。理解西藏、中国与高丽之间的宗教网络时，这些具体的物件与其承载的教义同样重要。</p>
-<figure><img src="/assets/images/sakya-07.jpg" alt="萨迦寺内佛塔与祭坛" loading="lazy"><figcaption>佛塔、造像与仪式器物共同构成不可分割的宗教空间。</figcaption></figure>
+<figure class="figure-right"><img src="/assets/images/sakya-07.jpg" alt="萨迦寺内佛塔与祭坛" loading="lazy"><figcaption>佛塔、造像与仪式器物共同构成不可分割的宗教空间。</figcaption></figure>
 <p>另一个令我感兴趣的面向，是制度佛教与地方传承的并存。寺院屋顶有一处小殿，在地方叙事中有时被称为“女巫殿”，并流传着它用来降伏有害女性精灵或巫者的故事。我更愿意把它保留在“传说”的层次，而不将之包装成确定的历史事实。即便如此，它仍说明西藏圣地如何吸纳关于降伏、护佑与地方力量转化的叙事。</p>
 <p>离开萨迦时，我脑中留下的不再是一座孤立的名寺，而是一个节点：研究与信仰、建筑与政治权力、物质文化与文献传承、西藏历史与更广阔的欧亚网络在此交会。对我而言，这正是实地考察不可取代之处——它重新给予那些在文字中容易抽象化的历史过程以尺度、光线与材质。</p>
 <div class="fieldwork-notes"><h2>基本资料</h2><p><strong>创建：</strong>1073年，传统上归于昆・贡却杰波。<br><strong>位置：</strong>后藏萨迦，日喀则地区。<br><strong>坐标：</strong>约北纬28.905°、东经88.018°。<br><strong>传承：</strong>藏传佛教萨迦派。</p></div>
