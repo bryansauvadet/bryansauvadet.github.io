@@ -19,7 +19,7 @@ format:
       <div>
         <div class="book-report__eyebrow">Book review · Buddhist art history · Print culture · Asian history</div>
         <h1>The Dynamic Spread of Buddhist Print Culture</h1>
-        <p class="book-report__author">Shih-shan Susan Huang</p>
+        <p class="book-report__author">Shih-shan Susan Huang 黃士珊</p>
         <dl class="book-report__meta" aria-label="Bibliographic reference">
           <div><dt>Date</dt><dd>2024</dd></div>
           <div><dt>Publisher</dt><dd>Brill · Leiden / Boston</dd></div>
