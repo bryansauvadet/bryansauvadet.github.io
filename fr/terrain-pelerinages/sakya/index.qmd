@@ -6,6 +6,27 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
+<style>
+.fieldwork-story figure{
+  width:50%;
+  margin:2rem auto;
+}
+.fieldwork-story figure img{
+  display:block;
+  width:100%;
+  height:auto;
+  margin:0 auto;
+}
+.fieldwork-story figure figcaption{
+  margin-top:.6rem;
+}
+@media (max-width: 720px){
+  .fieldwork-story figure{
+    width:90%;
+  }
+}
+</style>
+
 <section class="page-hero"><h1>Monastère de Sakya</h1><p class="lead">ས་སྐྱ་དགོན་པ་ · Sakya, Tsang, Tibet</p></section>
 
 <main class="content"><div class="content-inner fieldwork-story">
