@@ -71,7 +71,7 @@ format:
 <article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="鏡神社楊柳觀音像" loading="lazy"><div><h3>重要文化財 楊柳観音像 — 楊柳觀音像</h3><p class="exhibit-report__work-meta">1310 · 高麗 · 絹本設色 · 佐賀鏡神社</p><p>高逾四公尺，是高麗佛畫的代表作。多位宮廷畫家共同完成，透明衣紗、珠寶與織物紋樣的細節極為精緻。華麗本身成為觀音慈悲與超越性的視覺表現。</p></div></article>
 <article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" referrerpolicy="no-referrer" alt="地藏菩薩遊戲坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像 — 地藏菩薩遊戲坐像</h3><p class="exhibit-report__work-meta">11世紀 · 高麗 · 銅鑄鍍金 · 九州國立博物館 · 總高49.2公分</p><p>放鬆的姿態與柔和表情，使小型雕像仍具有強烈存在感。它與巨大掛軸形成鮮明對比，也讓人想像禮拜者與聖像之間更親近的距離。</p></div></article>
 <article class="exhibit-report__work">
-            <img src="https://www.narahaku.go.jp/photo/H063543.jpg" alt="高麗十四世紀銀象嵌紋飾青銅香爐" loading="lazy" referrerpolicy="no-referrer">
+            <img src="https://www.narahaku.go.jp/_fKkxXPHb/H060909.jpg" alt="高麗十四世紀銀象嵌紋飾青銅香爐" loading="lazy" referrerpolicy="no-referrer">
             <div><h3>梵字宝相華草文銀象嵌香炉 — 梵字寶相華草文銀象嵌香爐</h3><p class="exhibit-report__work-meta">14世紀 · 高麗 · 青銅銀象嵌 · 奈良國立博物館</p><p>梵字與花草紋以銀象嵌裝飾於青銅表面。它不只展現金工技術，也讓人注意到香氣、光線與手勢如何共同構成佛教儀式的感官經驗。</p></div></article>
 </div></div></div></section>
 
