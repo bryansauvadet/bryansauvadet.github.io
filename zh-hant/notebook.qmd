@@ -9,6 +9,6 @@ format:
 <section class="page-hero"><h1>研究札記</h1></section>
 <main class="content"><div class="content-inner"><p class="lead">研究筆記、閱讀記錄與進行中的工作。</p><div class="database-grid">
 <a class="database-card readings-card" href="/zh-hant/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette-inline.svg" alt="關於佛教藝術與亞洲的書籍與研究" loading="lazy"></div><h2>我的閱讀</h2><p>閱讀札記與書評：為什麼值得讀這些書，以及它們能幫助我們理解什麼。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
-<a class="database-card" href="/zh-hant/exhibitions/"><div class="database-card-kicker">博物館</div><h2>展覽</h2><p>關於博物館與美術館展覽的筆記、評論與參觀記錄，聚焦佛教藝術、亞洲與藝術史。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
-<a class="database-card" href="/zh-hant/fieldwork-pilgrimages/"><div class="database-card-kicker">田野調查</div><h2>田野調查與巡禮</h2><p>寺院、建築與考古遺址的田野筆記、研究路線與巡禮記錄。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card exhibitions-card" href="/zh-hant/exhibitions/"><div class="database-card-image"><img src="/assets/images/expositions-vignette.svg" alt="博物館中的佛教藝術展覽" loading="lazy"></div><div class="database-card-kicker">博物館</div><h2>展覽</h2><p>關於博物館與美術館展覽的筆記、評論與參觀記錄，聚焦佛教藝術、亞洲與藝術史。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card fieldwork-card" href="/zh-hant/fieldwork-pilgrimages/"><div class="database-card-image"><img src="/assets/images/terrain-pelerinages-vignette.svg" alt="韓國佛教寺院的田野調查" loading="lazy"></div><div class="database-card-kicker">田野調查</div><h2>田野調查與巡禮</h2><p>寺院、建築與考古遺址的田野筆記、研究路線與巡禮記錄。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
 </div></div></main>
