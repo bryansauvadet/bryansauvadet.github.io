@@ -26,7 +26,6 @@ format:
 
         <dl class="exhibit-report__meta" aria-label="Informations sur l’exposition">
           <div><dt>Dates de l’exposition</dt><dd>7 décembre 2021 — 6 mars 2022</dd></div>
-          <div><dt>Date de visite</dt><dd>Non renseignée</dd></div>
           <div><dt>Musée</dt><dd>Musée national de Corée<br><span lang="ko">국립중앙박물관</span></dd></div>
           <div><dt>Ville</dt><dd>Séoul · Corée du Sud</dd></div>
           <div><dt>Conception</dt><dd>Département des beaux-arts · Kwŏn Kang-mi et équipe scientifique du musée</dd></div>
