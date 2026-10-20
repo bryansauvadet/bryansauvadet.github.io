@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">精選值得閱讀的書籍，以更深入理解佛教藝術史、佛教、亞洲史、考古學與建築。</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/zh-hant/readings/domesticating-the-dharma.html">
+<div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Domesticating the Dharma 封面" loading="lazy"></div>
+<div class="reading-book-domain">韓國佛教 · Silla · Hwaŏm · 信仰與儀式</div>
+<h2>Domesticating the Dharma</h2>
+<p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
+<p>說明為何信仰、圖像、儀式與聖地地理，比傳統的「宗派」敘事更能解釋佛教如何在Silla扎根。</p>
+<span class="reading-book-link">閱讀書評 →</span>
+</a>
 <a class="reading-book-card" href="/zh-hant/readings/the-dynamic-spread-of-buddhist-print-culture.html">
 <div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="The Dynamic Spread of Buddhist Print Culture 封面" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">佛教藝術史 · 印刷文化 · 亞洲史</div>
