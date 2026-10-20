@@ -1,0 +1,84 @@
+---
+title: "꿈꾸는 즐거움, 극락極樂"
+lang: en
+image: https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--pure-land" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="Gilt-wood seated Amitābha from Hŭksŏksa, 1458" loading="eager" decoding="async" referrerpolicy="no-referrer"><figcaption><em>영주 흑석사 목조아미타여래좌상</em> — Seated Amitābha from Hŭksŏksa, 1458, one of the exhibition’s central works.</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">Exhibition review · Korean Buddhist art · Amitābha · Pure Land</div>
+<h1>꿈꾸는 즐거움, 극락極樂</h1>
+<p class="exhibit-report__venue"><em>The Joy of Dreaming of Paradise — Sukhāvatī, Amitābha’s Pure Land</em><br>Central Buddhist Museum · 불교중앙박물관 · Seoul</p>
+<dl class="exhibit-report__meta" aria-label="Exhibition information">
+<div><dt>Dates</dt><dd>19 October — 18 December 2016</dd></div>
+<div><dt>Museum</dt><dd>Central Buddhist Museum<br><span lang="ko">불교중앙박물관</span></dd></div>
+<div><dt>City</dt><dd>Seoul · South Korea</dd></div>
+<div><dt>Displayed</dt><dd>97 works · 1 National Treasure · 8 Treasures</dd></div>
+<div><dt>Theme</dt><dd>Amitābha · Sukhāvatī · rebirth in the Pure Land</dd></div>
+<div><dt>Type</dt><dd>Special exhibition · Buddhist art</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>Central question:</strong> how did Korean Buddhist art make the hope of rebirth in Amitābha’s Pure Land visible, spatial and ritually effective?</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav" aria-label="Contents">
+<a href="#why">Why it matters</a><a href="#proposal">Curatorial proposal</a><a href="#route">Route</a><a href="#works">Key works</a><a href="#understand">What it explains</a><a href="#resources">Further reading</a><a href="#verdict">Verdict</a>
+</nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · Essential</div><h2>Why this exhibition matters</h2></div><div class="exhibit-report__content">
+<p><em>꿈꾸는 즐거움, 극락極樂</em> did not treat the Pure Land as one iconographic theme among many. It reconstructed a complete system of belief and visual practice: Amitābha as lord of the western paradise, Sukhāvatī as an ideal realm, methods of rebirth, donors’ vows and images of the final passage from this world to the next.</p>
+<p>This approach is especially valuable for art history because paintings, sculptures, scriptures, bells and devotional objects are not separated by medium. They are placed back into a ritual sequence. An object becomes evidence of an action: invoking Amitābha, generating merit, making a vow, visualising paradise or preparing for death.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a4416341551993f740daa8b2f50ecf87101437.jpg" alt="Installation view of 꿈꾸는 즐거움, 극락" loading="lazy" referrerpolicy="no-referrer"><figcaption>Installation view. Sculpture and large paintings were shown together to restore Amitābha to a complete ritual environment.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · Curatorial</div><h2>What is the curatorial proposition?</h2></div><div class="exhibit-report__content">
+<p class="exhibit-report__thesis">The Pure Land is not merely a paradise represented by artists; it is a mental and ritual architecture of salvation that organises images, texts, gestures and temple space.</p>
+<ul class="exhibit-report__keypoints">
+<li><strong>Begin with scripture.</strong> The three major Pure Land sūtras provide the doctrinal vocabulary.</li>
+<li><strong>Turn Sukhāvatī into space.</strong> Lotus ponds, pavilions, celestial assemblies and lotus rebirth translate doctrine into landscape.</li>
+<li><strong>Show salvation as practice.</strong> Yŏmbul, vows and donations place images within an economy of merit.</li>
+<li><strong>Connect art with death.</strong> Welcoming descents, guiding bodhisattvas and dragon boats visualise the hope for a good death and rebirth.</li>
+</ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · Visit</div><h2>A five-part route</h2></div><div class="exhibit-report__content">
+<ol class="exhibit-report__route">
+<li><strong>Amitābha, lord of the Pure Land.</strong><span>The opening section introduces Amitābha through scripture, mudrā and the attendant bodhisattvas Avalokiteśvara and Mahāsthāmaprāpta.</span></li>
+<li><strong>A realm filled only with joy.</strong><span>Paintings and reconstructed sacred space give visible form to Sukhāvatī and the Korean <em>Kŭngnakchŏn</em>.</span></li>
+<li><strong>The nine grades of rebirth.</strong><span><em>Kŭngnak kup'umdo</em> visualise graded rebirth according to the contemplations described in the <em>Contemplation Sūtra</em>.</span></li>
+<li><strong>Longing for the Pure Land.</strong><span>Votive inscriptions, ritual donations and recitation practices reveal the concrete hopes of worshippers.</span></li>
+<li><strong>Being guided to Sukhāvatī.</strong><span>Welcoming descent imagery and boats carrying the dead westward turn salvation into a visual journey.</span></li>
+</ol>
+<figure class="exhibit-report__figure"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a231dff37897f9b13a7467f1d548e275101437.jpg" alt="Small gilt Buddhist images in the exhibition" loading="lazy" referrerpolicy="no-referrer"><figcaption>Small metal icons in the exhibition. Their intimate scale creates a striking contrast with monumental Pure Land paintings.</figcaption></figure>
+<p>The reconstruction of a <em>Kŭngnakchŏn</em> based on Hŭngch'ŏnsa was especially instructive. A seated Amitābha, a Nine Grades painting and an Amitābha assembly were brought back into a shared architectural logic, showing that sacred space is itself part of the artwork’s meaning.</p>
+</div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · Selection</div><h2>Works to remember</h2></div><div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="Hŭksŏksa seated Amitābha" loading="lazy" referrerpolicy="no-referrer"><div><h3>영주 흑석사 목조아미타여래좌상 — Seated Amitābha from Hŭksŏksa</h3><p class="exhibit-report__work-meta">1458 · early Chosŏn · gilt wood · National Treasure</p><p>A landmark of fifteenth-century Buddhist sculpture, this royal-sponsored image was exceptionally shown in Seoul. Documents sealed inside the statue illuminate patronage, donors and the textual culture surrounding consecration.</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.icpn.co.kr/news/photo/202005/10753_22314_1158.jpg" alt="Ŭnhaesa Yeombulwangsaengcheopgyeongdo" loading="lazy" referrerpolicy="no-referrer"><div><h3>영천 은해사 염불왕생첩경도 — The swift path to rebirth through recitation</h3><p class="exhibit-report__work-meta">Late Chosŏn · Ŭnhaesa · Treasure</p><p>This painting almost summarises the exhibition in a single image: invocation of Amitābha, the landscape of Sukhāvatī and the rebirth of practitioners are integrated into one visual itinerary.</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202206/218339_239358_951.jpg" alt="Simgoksa gilt-bronze Amitābha group" loading="lazy" referrerpolicy="no-referrer"><div><h3>익산 심곡사 금동아미타여래칠존좌상 — Seven gilt-bronze figures from Simgoksa</h3><p class="exhibit-report__work-meta">Gilt bronze · discovered in a pagoda · Treasure</p><p>The group reminds us that Buddhist images were not always made for frontal viewing. Deposited inside a pagoda, such figures condensed sacred presence within architecture itself.</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/201910/202591_205230_4551.jpg" alt="Nine Grades of Pure Land rebirth" loading="lazy" referrerpolicy="no-referrer"><div><h3>극락구품도 — Nine Grades of Pure Land Rebirth</h3><p class="exhibit-report__work-meta">Late Chosŏn · Pure Land painting tradition</p><p>The lotus pond becomes a moral and soteriological map, translating the nine grades of rebirth from the <em>Contemplation Sūtra</em> into immediately legible visual form.</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · Knowledge</div><h2>What the exhibition makes clear</h2></div><div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints"><li><strong>The Pure Land is a visual construction.</strong> Scripture provides a model, but artists and patrons select motifs that make Sukhāvatī intelligible.</li><li><strong>Buddhist images are performative.</strong> They help practitioners recite, visualise, generate merit and prepare for death.</li><li><strong>Pure Land devotion crossed social boundaries.</strong> Royal, monastic and lay patronage all participated in Amitābha devotion.</li><li><strong>Architecture matters.</strong> Restoring works to the logic of the <em>Kŭngnakchŏn</em> reveals hierarchy, scale and ritual function.</li></ul>
+<div class="exhibit-report__research"><strong>Why it matters for Buddhist art history</strong><p>The exhibition’s strongest intellectual move was to take the relation between doctrine and form seriously. Lotus rebirth, Amitābha’s gestures, welcoming descents, boats of salvation and votive inscriptions are not decorative details; they are visual instruments for thinking and practising salvation.</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · Documentation</div><h2>Further reading</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__resources">
+<li><strong>Official page:</strong> <a href="https://museum.buddhism.or.kr/?c=2/14&p=14&uid=181" target="_blank" rel="noopener">Central Buddhist Museum — 꿈꾸는 즐거움, 극락極樂</a>.</li>
+<li><strong>Catalogue:</strong> 불교중앙박물관, <em>꿈꾸는 즐거움, 극락極樂</em>, Seoul, 2016, 223 pp.</li>
+<li><strong>Core texts:</strong> the <em>Longer Sukhāvatīvyūha</em>, the <em>Contemplation Sūtra</em> and the <em>Shorter Sukhāvatīvyūha</em>.</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · Conclusion</div><h2>Verdict</h2></div><div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">Assessment</div><strong>A reference exhibition for understanding how salvation becomes image</strong><p><em>꿈꾸는 즐거움, 극락極樂</em> reconstructed the coherence of a religious universe in which scripture, images, architecture, recitation and funerary imagination reinforce one another. Its lasting value lies in showing the Pure Land as a complete visual and ritual system rather than a single iconographic subject.</p></div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ Back to top</a></div>
+</main>
+```
