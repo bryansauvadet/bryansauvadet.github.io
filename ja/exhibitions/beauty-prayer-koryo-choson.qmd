@@ -1,0 +1,100 @@
+---
+title: "うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術"
+lang: ja
+image: https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="特集展示「うるわしき祈りの美」のポスター" loading="eager"><figcaption>特集展示 <em>うるわしき祈りの美―高麗・朝鮮時代の仏教美術―</em>、九州国立博物館、2023年。</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">展覧会レビュー · 韓国仏教美術 · 高麗と朝鮮 · 11〜16世紀</div>
+<h1>うるわしき祈りの美</h1>
+<p class="exhibit-report__venue"><em>高麗・朝鮮時代の仏教美術</em><br>九州国立博物館 · 太宰府</p>
+<dl class="exhibit-report__meta" aria-label="展覧会情報">
+<div><dt>会期</dt><dd>2023年9月5日 — 10月15日</dd></div>
+<div><dt>博物館</dt><dd>九州国立博物館</dd></div>
+<div><dt>都市</dt><dd>太宰府 · 福岡</dd></div>
+<div><dt>会場</dt><dd>文化交流展示室 第9・11室</dd></div>
+<div><dt>対象時代</dt><dd>11〜16世紀</dd></div>
+<div><dt>種類</dt><dd>特集展示 · 韓国仏教美術</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>中心テーマ：</strong> 高麗と朝鮮で仏教政策が大きく異なっていても、仏像・仏画・経典・供養具は祈り、救済、聖なる存在を可視化するために作られ続けたことを示す。</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav" aria-label="目次">
+<a href="#why">なぜ見るべきか</a><a href="#proposal">企画意図</a><a href="#route">構成と展示</a><a href="#works">注目作品</a><a href="#understand">理解できること</a><a href="#resources">さらに読む</a><a href="#verdict">総評</a>
+</nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · 要点</div><h2>なぜこの展覧会を見るべきか</h2></div>
+<div class="exhibit-report__content">
+<p>本展の大きな意義は、日本各地の博物館・寺院・神社に分散して所蔵される朝鮮半島の仏教美術を、一つの空間で比較できる点にある。出品目録は48件で、仏画、彫刻、写経・刊経、金工、青磁、螺鈿など多様な素材を含む。これによって朝鮮半島の仏教美術が単なる絵画史ではなく、礼拝空間を構成する総合的な物質文化であったことがよくわかる。</p>
+<p>また、高麗と朝鮮を「仏教国家」と「儒教国家」という単純な対立だけで語らない点も重要である。高麗では王室が仏教を強く支持した一方、朝鮮では制度的な抑制が進んだ。それでも仏像・仏画・経典・仏具の制作は続いた。祈りという視点から見ると、王朝交代を越える仏教文化の連続性が見えてくる。</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="1310年の楊柳観音像" loading="lazy"><figcaption><em>楊柳観音像</em>、高麗、1310年、佐賀・鏡神社。四メートルを超える大画面は高麗宮廷仏画の到達点の一つである。</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · 企画</div><h2>展覧会は何を提示するのか</h2></div>
+<div class="exhibit-report__content">
+<p class="exhibit-report__thesis">王朝史だけを並べるのではなく、信仰と使用を中心に据えることで、高麗から朝鮮へ続く仏教美術の意味を読み直す。作品の美しさは、礼拝・供養・救済への期待と切り離せない。</p>
+<ul class="exhibit-report__keypoints">
+<li><strong>二つの宗教政策を比較する。</strong>高麗と朝鮮では政策が大きく異なるが、仏教美術の制作そのものは途絶えない。</li>
+<li><strong>仏画だけに限定しない。</strong>彫刻、経典、香炉、青磁、螺鈿を並べ、仏教実践の物質的な環境を示す。</li>
+<li><strong>作品の移動を見る。</strong>多くの作品が日本に伝来・保存されている事実そのものが、海域交流と収集史を考える手がかりとなる。</li>
+<li><strong>祈りの道具として見る。</strong>仏教美術を鑑賞対象だけでなく、礼拝・供養・功徳を生み出す実践の中に戻す。</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · 観覧</div><h2>展示構成と空間</h2></div>
+<div class="exhibit-report__content">
+<p>文化交流展示室の二室にまとめられた特集展示であり、大規模回顧展というより密度の高い研究展示として機能する。絵画の華やかさが目を引く一方、彫刻、経典、供養具との比較によって、作品が本来属していた礼拝環境を想像しやすい。</p>
+<figure class="exhibit-report__figure"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像" loading="lazy"><figcaption><em>地蔵菩薩遊戯坐像</em>、高麗、11世紀、銅造鍍金、九州国立博物館。</figcaption></figure>
+<ol class="exhibit-report__route">
+<li><strong>救済のイメージ。</strong><span>阿弥陀、観音、地蔵、諸尊の集会が中世朝鮮の救済観を可視化する。</span></li>
+<li><strong>経典と功徳。</strong><span>金字経や版経は、聖典を制作する行為自体が信仰実践であったことを示す。</span></li>
+<li><strong>彫刻された存在。</strong><span>高麗の金銅仏は、絵画とは異なる身体的・空間的な聖性をつくる。</span></li>
+<li><strong>儀礼のための器物。</strong><span>香炉、水瓶、青磁、螺鈿は仏教儀礼の物質環境を構成する。</span></li>
+</ol></div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 選定</div><h2>記憶しておきたい作品</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="鏡神社 楊柳観音像" loading="lazy"><div><h3>重要文化財 楊柳観音像</h3><p class="exhibit-report__work-meta">1310年 · 高麗 · 絹本着色 · 佐賀・鏡神社</p><p>高さ四メートルを超える高麗仏画の代表作。複数の宮廷画家による共同制作で、透ける衣、装身具、文様表現の精緻さが圧倒的である。豪華さそのものが観音の慈悲と超越性を視覚化している。</p></div></article>
+<article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像</h3><p class="exhibit-report__work-meta">11世紀 · 高麗 · 銅造鍍金 · 九州国立博物館 · 総高49.2cm</p><p>くつろいだ姿勢と穏やかな表情が、小像ながら強い存在感を生む。巨大な掛幅とは正反対のスケールで、礼拝者と像との近い距離を想像させる。</p></div></article>
+<article class="exhibit-report__work"><img src="https://imagedb.narahaku.go.jp/artize-data/sr-thum/l/H063546L.jpg" alt="梵字宝相華草文銀象嵌香炉" loading="lazy"><div><h3>梵字宝相華草文銀象嵌香炉</h3><p class="exhibit-report__work-meta">14世紀 · 高麗 · 銅製銀象嵌 · 奈良国立博物館</p><p>梵字と宝相華唐草を銀象嵌で表した香炉。金工技術の精緻さだけでなく、香り、光、手の動きまで含めて仏教儀礼の経験を考えさせる作品である。</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · 理解</div><h2>この展覧会から理解できること</h2></div>
+<div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints">
+<li><strong>高麗美術は仏画だけではない。</strong>金工、青磁、経典、螺鈿を含む総合的な仏教物質文化が存在した。</li>
+<li><strong>朝鮮は「仏教の空白」ではない。</strong>抑制政策の下でも15〜16世紀に仏画や儀礼具は制作され続けた。</li>
+<li><strong>日本は重要な保存地である。</strong>作品の現在地そのものが、朝鮮仏教美術の移動史を語る。</li>
+<li><strong>祈りが造形を組織する。</strong>巨大画面、金、香、反復する仏、金属の質感はすべて宗教的効力に関わる。</li>
+</ul>
+<div class="exhibit-report__research"><strong>仏教美術史にとっての意義</strong><p>作品を東アジアの具体的な移動空間に置き直すことが本展の強みである。政治史、収集史、儀礼の物質性、海域交流を一つの問題として考えられるため、高麗から朝鮮初期の仏教美術を研究するうえで非常に有効な視点を提供する。</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · 資料</div><h2>さらに読む</h2></div>
+<div class="exhibit-report__content"><ul class="exhibit-report__resources">
+<li><strong>図録：</strong>九州国立博物館編『<em>うるわしき祈りの美：高麗・朝鮮時代の仏教美術</em>』九州国立博物館、2023年、128頁。</li>
+<li><strong>公式ページ：</strong><a href="https://www.kyuhaku.jp/exhibition/exhibition_pre186.html" target="_blank" rel="noopener">九州国立博物館 特集展示ページ</a>。</li>
+<li><strong>出品：</strong>絵画、彫刻、経典、金工、青磁、螺鈿など48件。会期中に一部展示替えあり。</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · 結論</div><h2>総評</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">評価</div><strong>高麗と朝鮮への連続を理解するために非常に重要な展覧会</strong><p><em>うるわしき祈りの美</em> は、著名な高麗仏画と小さな儀礼具を同じ歴史の中で見せることで、韓国仏教美術を様式史だけに閉じ込めない。美しさ、物質、使用、移動を結びつけた点に大きな価値がある。</p></div></div>
+</div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ ページ上部へ</a></div>
+</main>
+```
