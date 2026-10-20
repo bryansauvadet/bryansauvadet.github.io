@@ -1,0 +1,215 @@
+---
+title: "조선의 승려 장인"
+lang: fr
+image: https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+
+<main class="exhibit-report" id="haut">
+  <header class="exhibit-report__hero">
+    <div class="exhibit-report__shell">
+      <figure class="exhibit-report__hero-image">
+        <img src="https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg" alt="Vue de l’exposition 조선의 승려 장인 au Musée national de Corée" loading="eager" decoding="async" referrerpolicy="no-referrer">
+        <figcaption>Vue de l’exposition <em>조선의 승려 장인</em> au Musée national de Corée, 2021. Photographie : Beopbo News.</figcaption>
+      </figure>
+
+      <div class="exhibit-report__hero-copy">
+        <div class="exhibit-report__eyebrow">Compte rendu d’exposition · Art bouddhique coréen · Chosŏn · sculpture et peinture</div>
+        <h1>조선의 승려 장인</h1>
+        <p class="exhibit-report__venue"><em>Les moines-artisans du Chosŏn : sculptures et peintures bouddhiques</em><br>Musée national de Corée · Séoul</p>
+
+        <dl class="exhibit-report__meta" aria-label="Informations sur l’exposition">
+          <div><dt>Dates de l’exposition</dt><dd>7 décembre 2021 — 6 mars 2022</dd></div>
+          <div><dt>Date de visite</dt><dd>Non renseignée</dd></div>
+          <div><dt>Musée</dt><dd>Musée national de Corée<br><span lang="ko">국립중앙박물관</span></dd></div>
+          <div><dt>Ville</dt><dd>Séoul · Corée du Sud</dd></div>
+          <div><dt>Conception</dt><dd>Département des beaux-arts · Kwŏn Kang-mi et équipe scientifique du musée</dd></div>
+          <div><dt>Type</dt><dd>Exposition temporaire · art bouddhique</dd></div>
+        </dl>
+
+        <div class="exhibit-report__question">
+          <strong>Fil directeur :</strong> comprendre l’art bouddhique du Chosŏn à partir de ceux qui le fabriquaient : des moines à la fois religieux, artisans spécialisés, chefs d’atelier et transmetteurs de techniques.
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="exhibit-report__nav-wrap">
+    <nav class="exhibit-report__shell exhibit-report__nav" aria-label="Sommaire du compte rendu">
+      <a href="#pourquoi">Pourquoi la voir ?</a>
+      <a href="#proposition">Proposition curatoriale</a>
+      <a href="#parcours">Parcours & scénographie</a>
+      <a href="#oeuvres">Œuvres à retenir</a>
+      <a href="#comprendre">Ce qu’elle permet de comprendre</a>
+      <a href="#ressources">Pour aller plus loin</a>
+      <a href="#bilan">Bilan</a>
+    </nav>
+  </div>
+
+  <section class="exhibit-report__section" id="pourquoi">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">01 · Essentiel</div>
+        <h2>Pourquoi voir cette exposition ?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>Cette exposition déplace utilement le regard : au lieu de traiter les statues et peintures bouddhiques du Chosŏn comme des objets anonymes, elle restitue les hommes qui les ont conçues, sculptées, peintes, dorées et consacrées. Le musée rassemble 145 ensembles ou objets provenant de vingt-sept institutions, dont cinquante-quatre pièces prêtées par quinze monastères. Les œuvres exposées impliquent 366 moines-artisans identifiés. Ce corpus exceptionnel permet de comprendre l’art bouddhique comme le résultat d’un travail collectif, organisé en ateliers et fondé sur des lignées de transmission technique.</p>
+
+        <p>L’intérêt historique est tout aussi important. L’exposition nuance fortement le récit d’un bouddhisme simplement déclinant sous le Chosŏn. Après les invasions japonaises de 1592–1598, la sculpture et la peinture bouddhiques connaissent au contraire une production intense. La multiplication des <em>chogaksŭng</em> (조각승, moines sculpteurs) et des <em>hwasŭng</em> (화승, moines peintres) montre qu’une culture visuelle bouddhique particulièrement dynamique se développe dans les monastères.</p>
+
+        <figure class="exhibit-report__figure exhibit-report__figure--wide">
+          <img src="https://cdn.buddhismjournal.com/news/photo/202112/22295_28277_3035.jpg" alt="Reconstitution d’un espace de travail de moines peintres dans l’exposition" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>Reconstitution d’un espace de travail consacré aux moines peintres : l’exposition met l’accent sur les gestes, les outils et les étapes de fabrication. Photographie : Buddhist Journal.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="proposition">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">02 · Curatorial</div>
+        <h2>Quelle est la proposition de l’exposition ?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p class="exhibit-report__thesis">L’exposition propose de considérer le moine-artisan comme une clé majeure de compréhension de l’art bouddhique du Chosŏn. Son identité est double : il est à la fois pratiquant religieux et professionnel hautement spécialisé. La fabrication d’une image cultuelle devient ainsi inséparable de la pratique monastique, de l’organisation collective du travail et de la transmission des savoir-faire.</p>
+
+        <ul class="exhibit-report__keypoints">
+          <li><strong>Sortir de l’anonymat.</strong>Les noms conservés dans les inscriptions, documents de consécration et colophons permettent de reconstruire des carrières, des lignées et des réseaux d’ateliers.</li>
+          <li><strong>Montrer la fabrication.</strong>Esquisses, structures internes, matériaux, techniques de sculpture et processus picturaux replacent l’objet fini dans une chaîne opératoire concrète.</li>
+          <li><strong>Comprendre le collectif.</strong>Statues et peintures sont rarement l’œuvre d’un individu isolé : maîtres, assistants et disciples travaillent en équipes mobiles qui se recomposent d’un chantier à l’autre.</li>
+          <li><strong>Relire le Chosŏn bouddhique.</strong>L’intensité de la production après le XVI<sup>e</sup> siècle oblige à nuancer l’idée d’un effacement continu du bouddhisme sous une monarchie néoconfucéenne.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="parcours">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">03 · Visite</div>
+        <h2>Parcours et scénographie</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>Le parcours est organisé en quatre parties. Il commence par définir la figure du moine-artisan, puis ouvre littéralement les ateliers de sculpture et de peinture. La troisième partie réunit les œuvres majeures comme l’aboutissement matériel de ces pratiques, avant une conclusion consacrée à la mémoire de ces artisans et à leur réinterprétation contemporaine. Ce choix évite une simple succession chronologique : le visiteur passe de l’identité sociale aux gestes de fabrication, puis aux images cultuelles elles-mêmes.</p>
+
+        <figure class="exhibit-report__figure">
+          <img src="https://dimg.donga.com/wps/NEWS/IMAGE/2021/12/06/110629231.3.jpg" alt="Mise en regard d’une peinture bouddhique et d’un dessin préparatoire dans l’exposition" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>Mise en regard d’une peinture achevée et d’un dessin préparatoire : un dispositif essentiel pour rendre visible le passage de l’esquisse à l’image cultuelle. Photographie : Dong-A Ilbo.</figcaption>
+        </figure>
+
+        <ol class="exhibit-report__route">
+          <li><strong>승려 장인은 누구인가 — Qui sont les moines-artisans ?</strong><span>La première partie distingue ces religieux spécialisés des artisans civils et montre l’essor de la production collective par les moines à l’époque tardive du Chosŏn.</span></li>
+          <li><strong>불상과 불화를 만든 공간 — Les espaces de fabrication</strong><span>Deux « studios », l’un consacré aux sculpteurs et l’autre aux peintres, présentent outils, étapes de production, dessins préparatoires et examens scientifiques. Des images de tomodensitométrie donnent notamment accès à la structure interne de statues en bois.</span></li>
+          <li><strong>그들이 꿈꾼 세계 — Le monde dont ils rêvaient</strong><span>Le cœur de l’exposition confronte plusieurs chefs-d’œuvre de grands moines-artisans et montre comment leur savoir-faire matérialise la Terre pure, l’assemblée du Buddha ou l’univers du <em>Avataṃsaka Sūtra</em>.</span></li>
+          <li><strong>승려 장인을 기억하며 — Se souvenir des moines-artisans</strong><span>La conclusion rapproche des sculptures bouddhiques tardives d’une installation contemporaine de l’artiste Vakki et interroge la persistance de cette mémoire artisanale.</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="oeuvres">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">04 · Sélection</div>
+        <h2>Œuvres et objets à retenir</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__works">
+
+          <article class="exhibit-report__work">
+            <img src="https://www.ijkaa.org/assets/600x/jkaa-17-32-f003.tif" alt="Retable sculpté de la prédication d’Amitābha du Yongmunsa" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>용문사 목각아미타여래설법상 — Retable sculpté de la prédication d’Amitābha du Yongmunsa</h3>
+              <p class="exhibit-report__work-meta">1684 · bois sculpté, doré et polychromé · Yongmunsa · moine sculpteur Tanŭng (端應)</p>
+              <p>Cette œuvre est l’un des sommets de l’exposition. Tanŭng transforme en relief tridimensionnel une composition normalement associée à la peinture d’autel : Amitābha siège au centre d’une assemblée densément organisée. L’objet brouille ainsi la frontière entre sculpture et peinture bouddhiques. Pour l’exposition de 2021, il quittait son monastère pour la première fois depuis sa réalisation, 337 ans auparavant.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://img9.yna.co.kr/etc/inner/KR/2024/12/26/AKR20241226036700005_01_i_P4.jpg" alt="Haeinsa Yeongsanhoesangdo, assemblée du Pic des Vautours" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>해인사 영산회상도 — Assemblée du Pic des Vautours de Haeinsa</h3>
+              <p class="exhibit-report__work-meta">1729 · couleurs sur soie · Haeinsa · Ŭigyŏm (義謙) et son atelier</p>
+              <p>Cette grande peinture consacrée à la prédication de Śākyamuni montre la capacité d’un atelier monastique à organiser une composition monumentale et extrêmement peuplée sans perdre la hiérarchie visuelle. Ŭigyŏm, figure majeure de la peinture bouddhique du XVIII<sup>e</sup> siècle, apparaît moins comme un artiste isolé que comme le chef d’un collectif de peintres spécialisés.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://cdn.ibulgyo.com/news/photo/202201/215880_233842_5858.jpg" alt="Songgwangsa Hwaeomgyeong Byeonsangdo, peinture illustrant l’Avatamsaka Sutra" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>송광사 화엄경변상도 — Illustration du <em>Avataṃsaka Sūtra</em> de Songgwangsa</h3>
+              <p class="exhibit-report__work-meta">1770 · couleurs sur soie · Songgwangsa · Hwaryŏn (華蓮) et son atelier</p>
+              <p>La densité de cette peinture rend visible l’ambition cosmologique de l’art Hwaŏm : plusieurs assemblées du sūtra sont distribuées dans une seule surface, saturée de figures, architectures et espaces célestes. L’œuvre montre à quel point la virtuosité des moines peintres est au service d’un problème religieux et spatial : donner une forme intelligible à un univers doctrinal potentiellement illimité.</p>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="comprendre">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">05 · Connaissances</div>
+        <h2>Ce que l’exposition permet de comprendre</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__keypoints">
+          <li><strong>L’image bouddhique est un produit collectif.</strong>Les inscriptions révèlent des équipes organisées autour de maîtres et de disciples. Attribuer une œuvre à un seul nom masque donc souvent la réalité du chantier.</li>
+          <li><strong>Les ateliers sont mobiles.</strong>Les moines-artisans circulent de monastère en monastère. Leurs déplacements expliquent la diffusion de modèles, de techniques et de solutions iconographiques à travers la péninsule.</li>
+          <li><strong>La technique participe du religieux.</strong>Choisir le bois, préparer un dessin, creuser une cavité destinée aux dépôts de consécration, dorer ou peindre ne sont pas de simples opérations artisanales : elles participent à la transformation d’une matière en présence cultuelle.</li>
+          <li><strong>Le Chosŏn tardif est une période d’invention.</strong>Le musée rappelle que plus d’un millier de moines sculpteurs et environ 2 400 moines peintres de cette période ont aujourd’hui été identifiés, ce qui donne la mesure de l’activité artistique bouddhique.</li>
+        </ul>
+
+        <div class="exhibit-report__research">
+          <strong>Intérêt pour l’histoire de l’art bouddhique</strong>
+          <p>La principale leçon méthodologique est de ne pas séparer l’iconographie de la fabrication. Une statue ou une peinture bouddhique peut être étudiée simultanément comme image, objet matériel, produit d’un atelier, résultat d’un réseau monastique et support rituel. L’exposition fournit ainsi un excellent modèle pour une histoire sociale et matérielle de l’art bouddhique coréen.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="ressources">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">06 · Documentation</div>
+        <h2>Pour aller plus loin</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__resources">
+          <li><strong>Catalogue :</strong> 국립중앙박물관, <em>조선의 승려 장인</em>, Séoul, Musée national de Corée, 2021, 400 p.</li>
+          <li><strong>Page officielle :</strong> <a href="https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=631858&listType=list&menuId=past&schM=view" target="_blank" rel="noopener">National Museum of Korea — Monk Artisans of the Joseon Dynasty</a>.</li>
+          <li><strong>Dossier du musée :</strong> <a href="https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?catCustomType=post&catId=93&schM=view&arcId=18039" target="_blank" rel="noopener">communiqué et présentation détaillée de l’exposition</a>.</li>
+          <li><strong>Catalogue détaillé :</strong> le volume développe notamment les ateliers de sculpture et de peinture, les réseaux mobiles de moines-artisans, les procédés de fabrication et les principaux maîtres du Chosŏn tardif.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="bilan">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">07 · Conclusion</div>
+        <h2>Bilan</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__verdict">
+          <div class="exhibit-report__verdict-label">Appréciation</div>
+          <strong>Incontournable pour l’histoire de l’art bouddhique coréen</strong>
+          <p>La force de <em>조선의 승려 장인</em> est de rendre visibles les producteurs de l’image religieuse. Les chefs-d’œuvre réunis sont importants, mais l’apport décisif réside ailleurs : dans la reconstruction des ateliers, des collaborations, des gestes et des réseaux qui ont rendu ces œuvres possibles. L’exposition transforme ainsi l’étude de l’art bouddhique du Chosŏn en une histoire des pratiques autant qu’en une histoire des formes.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="exhibit-report__shell exhibit-report__backtop"><a href="#haut">↑ Retour en haut</a></div>
+</main>
+```
