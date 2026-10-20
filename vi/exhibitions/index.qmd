@@ -49,6 +49,18 @@ format:
       <p>Một triển lãm quan trọng về Amitābha, chín phẩm vãng sinh, niệm Phật và cách nghệ thuật Hàn Quốc hình dung Sukhāvatī.</p>
       <span class="exhibition-card-link">Đọc bài viết →</span>
     </a>
+
+    <a class="exhibition-card" href="/vi/exhibitions/ingaksa-samguk-yusa.html">
+      <div class="exhibition-card-image">
+        <img class="exhibition-card-image--ingaksa" src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="인각사와 삼국유사" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Nghệ thuật Phật giáo Hàn Quốc · Ingaksa · Iryŏn · Samguk yusa · khảo cổ</div>
+      <h2>인각사와 삼국유사</h2>
+      <p class="exhibition-card-subtitle">Ingaksa và Samguk yusa — theo hương lịch sử, gặp hơi thở của một thiên niên kỷ</p>
+      <p class="exhibition-card-meta">Bảo tàng Phật giáo Trung ương · Seoul · 13/11/2013 — 12/01/2014</p>
+      <p>Một triển lãm nối khảo cổ Ingaksa, cuộc đời Iryŏn, đồ nghi lễ và lịch sử truyền bản của Samguk yusa.</p>
+      <span class="exhibition-card-link">Đọc bài viết →</span>
+    </a>
   </div>
 </div>
 
