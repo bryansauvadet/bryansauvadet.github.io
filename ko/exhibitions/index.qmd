@@ -6,8 +6,27 @@ format:
     include-before-body: _includes/ko-header.html
     include-after-body: _includes/ko-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 <section class="page-hero"><h1>전시</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">불교미술, 아시아, 미술사와 관련하여 박물관과 미술관에서 관람한 전시에 대한 기록, 리뷰와 관람 노트.</p>
-<div class="database-empty-state"><h2>관람한 전시</h2><p>이 섹션에는 박물관과 미술관에서 관람한 전시에 대한 기록과 리뷰를 차례로 정리합니다.</p></div>
+
+<div class="exhibition-list">
+  <div class="exhibition-list-grid">
+    <a class="exhibition-card" href="/ko/exhibitions/monk-artisans-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://img.segye.com/content/image/2021/12/06/20211206516438.jpg" alt="조선의 승려 장인" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">한국 불교미술 · 조선 · 조각과 회화</div>
+      <h2>조선의 승려 장인</h2>
+      <p class="exhibition-card-subtitle">조선의 승려 장인: 불상과 불화</p>
+      <p class="exhibition-card-meta">국립중앙박물관 · 서울 · 2021년 12월 7일 — 2022년 3월 6일</p>
+      <p>조각승과 화승, 공방 조직, 이동 네트워크, 불교 이미지의 제작 과정을 조명한 중요한 특별전.</p>
+      <span class="exhibition-card-link">전시 리뷰 읽기 →</span>
+    </a>
+  </div>
+</div>
+
 </div></main>
+```
