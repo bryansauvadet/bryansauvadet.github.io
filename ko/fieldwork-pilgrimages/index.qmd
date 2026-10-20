@@ -9,5 +9,12 @@ format:
 <section class="page-hero"><h1>현지 조사와 순례</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">사찰, 건축물, 고고학 유적에 대한 현지 조사 기록, 연구 답사 경로와 순례에 관한 노트.</p>
-<div class="database-empty-state"><h2>현지 조사와 답사 경로</h2><p>이 섹션에는 현지 조사, 유적과 사찰에 대한 관찰, 순례 경로를 차례로 정리합니다.</p></div>
+<section class="fieldwork-index-section"><h2>방문지</h2><ul class="fieldwork-place-list"><li><a href="/ko/fieldwork-pilgrimages/sakya/"><strong>사캬 사원</strong></a> <span>— 티베트 · 짱</span></li></ul></section>
+<section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+document.addEventListener("DOMContentLoaded",function(){const m=L.map("fieldwork-map").setView([28.905,88.018],6);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:18,attribution:"&copy; OpenStreetMap contributors"}).addTo(m);L.marker([28.905,88.018]).addTo(m).bindPopup('<strong>사캬 사원</strong><br>티베트 · 짱<br><a href="/ko/fieldwork-pilgrimages/sakya/">답사기 읽기</a>');});
+</script>
+<section class="fieldwork-index-section"><h2>현지 조사 기록</h2><div class="database-grid"><a class="database-card fieldwork-card" href="/ko/fieldwork-pilgrimages/sakya/"><div class="database-card-image"><img src="/assets/images/sakya-02.jpg" alt="사캬 사원" loading="lazy"></div><div class="database-card-kicker">티베트 · 짱</div><h3>사캬 사원</h3><p>답사기 읽기</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></section>
 </div></main>
