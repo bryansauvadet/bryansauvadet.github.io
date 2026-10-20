@@ -6,5 +6,122 @@ format:
     include-before-body: _includes/ko-header.html
     include-after-body: _includes/ko-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/publications.css">
+
 <section class="page-hero"><h1>출판물</h1></section>
-<main class="content"><p class="lead">Structured bibliography, articles, chapters and talks.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="publications-page">
+
+<section class="pub-intro">
+  <div>
+    <div class="pub-kicker">출판 및 편집 활동</div>
+    <h2>논문·번역·학술 발표</h2>
+    <p>현재 진행 중인 논문 프로젝트, 동국대학교 K‑MOOC의 프랑스어 자막 번역 작업, 그리고 학술 발표를 정리했습니다.</p>
+  </div>
+  <nav class="pub-nav" aria-label="논문·번역·학술 발표">
+    <a href="#articles">논문 프로젝트</a>
+    <a href="#kmooc">K‑MOOC 번역</a>
+    <a href="#communications">학술 발표</a>
+  </nav>
+</section>
+
+<section class="pub-section" id="articles">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">논문 기획</div>
+      <h2>논문 프로젝트</h2>
+    </div>
+    <p>현재 서로 다른 단계에 있는 네 편의 논문 프로젝트를 진행하고 있습니다.</p>
+  </div>
+  <div class="pub-projects">
+    <article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="Sweet Dew painting detail" loading="eager" fetchpriority="high">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">논문 프로젝트</div>
+        <h3>제약 속에서 의례를 재현하다: 16세기 조선 감로도의 출현</h3>
+        <p>16세기 감로도의 출현을 의례의 재편, 제도적 제약, 그리고 의례 행위의 시각화라는 관점에서 살펴본다.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" target="_blank" rel="noopener">Daderot · Wikimedia Commons · CC0 ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Water-Moon Avalokiteśvara" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">논문 프로젝트</div>
+        <h3>수월관음 도상의 기원</h3>
+        <p>경전 자료, 전승, 성지 지형, 의례 실천, 도상 형성의 관계를 함께 분석한다.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Water-Moon_Avalokitesvara_(Freer_Gallery_of_Art).jpg" target="_blank" rel="noopener">Freer Gallery of Art · Wikimedia Commons ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Goryeo_Pagoda.jpg" alt="Koryŏ stone pagoda" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">논문 프로젝트</div>
+        <h3>‘장기 고려’와 석탑</h3>
+        <p>건축적 연속성과 기념비적 형식의 장기지속을 통해 왕조 중심의 시대 구분을 재검토한다.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Goryeo_Pagoda.jpg" target="_blank" rel="noopener">sarahkim · Wikimedia Commons · CC BY-SA 2.0 ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Ancient_hangzhou.JPG" alt="Historical map of Hangzhou" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">논문 프로젝트</div>
+        <h3>항저우 — 대도 — 개경의 이동 네트워크</h3>
+        <p>송·원대 중국과 고려를 연결한 인물, 오브제, 예술적 모델의 네트워크를 재구성한다.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Ancient_hangzhou.JPG" target="_blank" rel="noopener">Historical map of Hangzhou · Wikimedia Commons ↗</a></small>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="pub-section" id="kmooc">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">학술 번역</div>
+      <h2>K‑MOOC 번역</h2>
+    </div>
+    <p>한국불교를 주제로 한 K‑Academics 프로그램을 위해 수행한 프랑스어 자막 번역.</p>
+  </div>
+
+  <div class="kmooc-feature">
+    <div class="kmooc-top">
+      <p>2022년부터 동국대학교 K‑Academics / K‑MOOC에서 한국어와 영어 영상 세미나 자막을 프랑스어로 번역하고 있습니다.</p>
+      <a class="kmooc-link" href="https://www.kmooc.kr/view/course/institution/kaep_dongguk" target="_blank" rel="noopener">동국대학교 K‑MOOC 보기 ↗</a>
+    </div>
+    <ol class="kmooc-grid">
+      <li class="kmooc-item"><span class="kmooc-no">01</span><strong>세계적 관점에서 본 한국 불교미술사</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">02</span><strong>동아시아 불교문화</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">03</span><strong>한국의 불교 주술과 의학</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">04</span><strong>한국의 불교 정치와 문화</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">05</span><strong>한국 불교고고학</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">06</span><strong>한국 불교사와 왕실</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">07</span><strong>세계 박물관의 한국 불교미술 컬렉션</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">08</span><strong>불교와 전근대 외교</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">09</span><strong>불교건축</strong></li>
+    </ol>
+  </div>
+</section>
+
+<section class="pub-section" id="communications">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">학술 발표</div>
+      <h2>학술 발표 및 초청 강연</h2>
+    </div>
+    <p>CV에 수록된 학술 발표, 초청 강연, 연구 발표를 연대순으로 정리했습니다.</p>
+  </div>
+  <div class="talks-list">
+    <article class="pub-talk"><div class="pub-talk-meta"><strong>2024년 12월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">파리, 프랑스</span></div><div class="pub-talk-copy"><h3>AFPEC 창립 학술대회</h3><p >‘수행적 창’을 통해 반불교 정책을 우회하기: 16세기 한국 감로도 속 의례 장면.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2024년 3월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/us.svg" alt="미국" loading="lazy">시애틀, 미국</span></div><div class="pub-talk-copy"><h3>아시아학회(AAS) 연례학술대회</h3><p>패널 기획: “Court Policy, State Politics, and Their Religious Outcomes in Pre-Modern East Asian Material Culture”.</p><p >발표: Bypassing Anti-Buddhist Restrictions through a “Window of Performativity”: Ritual Scene Apparition in 16th Century Korean Buddhist Painting.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2023년 7월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/gb.svg" alt="영국" loading="lazy">케임브리지, 영국</span></div><div class="pub-talk-copy"><h3>불교의 지역 실천과 민간 신앙 · 케임브리지대학교 동아시아학 대학원생 학술대회</h3><p >The Buddhist Ritual Ban and the Emergence of the “Sweet Dew Paintings” in 16th Century Korea.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2023년 5월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">파리, 프랑스</span></div><div class="pub-talk-copy"><h3>중국·한국·일본 연구센터(UMR CCJ) 신진연구자 학술대회 · 프랑스 사회과학고등연구원(EHESS)</h3><p >이미지가 더 이상 재현하지 않는다면: 14~16세기 한국 궁정 의례와 관련한 불교 이미지의 물질성과 도상학에 관한 질문.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2022년 12월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/de.svg" alt="독일" loading="lazy">베를린, 독일</span></div><div class="pub-talk-copy"><h3>2022 특별강연 시리즈 — 유럽의 한국미술 수집과 보존 · 베를린 자유대학교</h3><p >Encounter the Korean Buddhist collections from the Musée Guimet: Their history and masterpieces.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2022년 5월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">파리, 프랑스</span></div><div class="pub-talk-copy"><h3>중국·한국·일본 연구센터(UMR CCJ) 신진연구자 학술대회 · 프랑스 사회과학고등연구원(EHESS)</h3><p >향수에서 동일성으로: 한국 궁정 불교미술의 옛것에 대한 취향(1459–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2022년 2월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/us.svg" alt="미국" loading="lazy">휴스턴, 미국</span></div><div class="pub-talk-copy"><h3>라이스대학교 차오센터 초청강연</h3><p >Politic, Nostalgia and Imagination: An attempt to approach Korean Buddhist art.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2021년 10월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">라로셸, 프랑스</span></div><div class="pub-talk-copy"><h3>유럽한국학회(AKSE) 학술대회</h3><p >Political practice “beyond the rituals”: The use of gendered and religious discourses in Korean Buddhist court images (1270–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2021년 5월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">파리, 프랑스</span></div><div class="pub-talk-copy"><h3>중국·한국·일본 연구센터(UMR CCJ) 신진연구자 학술대회 · 프랑스 사회과학고등연구원(EHESS)</h3><p >한국 불교 이미지가 궁정미술이 될 때: 적응, 유통, 여성화(1270–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2018년 6월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">파리, 프랑스</span></div><div class="pub-talk-copy"><h3>북한 연구 학술대회 · 파리 제1대학교 팡테옹-소르본</h3><p >Some examples of Buddhist and Taoist artistic heritage in North Korea.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2017년 3월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">파리, 프랑스</span></div><div class="pub-talk-copy"><h3>한국 문화유산·고고학 유럽학술대회 · 프랑스 사회과학고등연구원(EHESS)</h3><p >Religious Art in North Korea: The Missing Link in Korean Heritage Studies.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>2016년 5월</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="프랑스" loading="lazy">파리, 프랑스</span></div><div class="pub-talk-copy"><h3>불교미술사 국제워크숍 · 프랑스 국립동양언어문화연구원(INALCO)</h3><p>Journeys across the realm of the Dead: Narratives, rituals, and images.</p><p >Which hell for which Korea? An Aesthetic and Layout study about representations of the Ten Kings of Hell in Korean Peninsula.</p></div></article>
+  </div>
+</section>
+
+</main>
+```
