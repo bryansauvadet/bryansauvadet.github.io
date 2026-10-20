@@ -1,7 +1,7 @@
 ---
 title: "うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術"
 lang: ja
-image: https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg
+image: https://www.kyuhaku.jp/visit/img/book/book124.jpg
 format:
   html:
     include-before-body: _includes/ja-header.html
