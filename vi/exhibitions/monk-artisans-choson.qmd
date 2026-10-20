@@ -1,0 +1,212 @@
+---
+title: "조선의 승려 장인"
+lang: vi
+image: https://img.segye.com/content/image/2021/12/06/20211206516438.jpg
+format:
+  html:
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+
+<main class="exhibit-report" id="top">
+  <header class="exhibit-report__hero">
+    <div class="exhibit-report__shell">
+      <figure class="exhibit-report__hero-image">
+        <img src="https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg" alt="Không gian triển lãm 조선의 승려 장인 tại Bảo tàng Quốc gia Hàn Quốc" loading="eager" decoding="async" referrerpolicy="no-referrer">
+        <figcaption>Không gian triển lãm <em>조선의 승려 장인</em> tại Bảo tàng Quốc gia Hàn Quốc, 2021. Ảnh đăng trên Beopbo News.</figcaption>
+      </figure>
+
+      <div class="exhibit-report__hero-copy">
+        <div class="exhibit-report__eyebrow">Bài viết về triển lãm · Nghệ thuật Phật giáo Hàn Quốc · Chosŏn · điêu khắc và hội họa</div>
+        <h1>조선의 승려 장인</h1>
+        <p class="exhibit-report__venue"><em>Nghệ nhân tăng sĩ thời Chosŏn: điêu khắc Phật giáo và Phật họa</em><br>Bảo tàng Quốc gia Hàn Quốc · Seoul</p>
+
+        <dl class="exhibit-report__meta" aria-label="Thông tin triển lãm">
+          <div><dt>Thời gian</dt><dd>7 tháng 12 năm 2021 — 6 tháng 3 năm 2022</dd></div>
+          <div><dt>Bảo tàng</dt><dd>Bảo tàng Quốc gia Hàn Quốc<br><span lang="ko">국립중앙박물관</span></dd></div>
+          <div><dt>Thành phố</dt><dd>Seoul · Hàn Quốc</dd></div>
+          <div><dt>Giám tuyển</dt><dd>Ban Mỹ thuật · Kwŏn Kang-mi và nhóm nghiên cứu của bảo tàng</dd></div>
+          <div><dt>Loại hình</dt><dd>Triển lãm chuyên đề · nghệ thuật Phật giáo</dd></div>
+        </dl>
+
+        <div class="exhibit-report__question">
+          <strong>Chủ đề trung tâm:</strong> hiểu nghệ thuật Phật giáo Chosŏn từ chính những người tạo ra nó: các tăng sĩ vừa là người tu hành, vừa là thợ thủ công chuyên môn cao, người đứng đầu xưởng và người truyền nghề.
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="exhibit-report__nav-wrap">
+    <nav class="exhibit-report__shell exhibit-report__nav" aria-label="Mục lục">
+      <a href="#why">Vì sao nên xem?</a>
+      <a href="#proposal">Ý tưởng giám tuyển</a>
+      <a href="#route">Lộ trình & trưng bày</a>
+      <a href="#works">Tác phẩm đáng nhớ</a>
+      <a href="#understand">Điều triển lãm giúp hiểu</a>
+      <a href="#resources">Đọc thêm</a>
+      <a href="#verdict">Đánh giá</a>
+    </nav>
+  </div>
+
+  <section class="exhibit-report__section" id="why">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">01 · Cốt lõi</div>
+        <h2>Vì sao nên xem triển lãm này?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>Điểm mạnh lớn nhất của triển lãm là chuyển trọng tâm từ tác phẩm sang người làm ra tác phẩm. Thay vì xem tượng Phật và Phật họa thời Chosŏn như những hiện vật tôn giáo vô danh, triển lãm khôi phục vai trò của những tăng sĩ đã thiết kế, chạm khắc, vẽ, thếp vàng và chuẩn bị nghi thức an vị cho chúng. Bảo tàng tập hợp 145 nhóm hiện vật và tư liệu từ 27 cơ quan, trong đó 54 hiện vật được mượn từ 15 ngôi chùa. Các tác phẩm trưng bày liên quan đến 366 tăng sĩ nghệ nhân đã xác định được tên tuổi. Nhờ đó, nghệ thuật Phật giáo hiện ra như kết quả của lao động tập thể, được tổ chức theo xưởng và các dòng truyền nghề.</p>
+
+        <p>Ý nghĩa lịch sử cũng rất rõ. Triển lãm buộc người xem điều chỉnh quan niệm đơn giản rằng Phật giáo chỉ suy tàn dưới triều Chosŏn. Sau các cuộc xâm lược của Nhật Bản năm 1592–1598, điêu khắc và hội họa Phật giáo thực tế bước vào một giai đoạn sản xuất mạnh. Sự gia tăng của <em>chogaksŭng</em> (조각승, tăng sĩ điêu khắc) và <em>hwasŭng</em> (화승, tăng sĩ họa công) cho thấy một nền văn hóa thị giác Phật giáo rất năng động phát triển trong các tự viện.</p>
+
+        <figure class="exhibit-report__figure exhibit-report__figure--wide">
+          <img src="https://cdn.buddhismjournal.com/news/photo/202112/22295_28277_3035.jpg" alt="Không gian làm việc của tăng sĩ họa công được tái hiện trong triển lãm" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>Không gian làm việc của các tăng sĩ họa công được tái hiện để nhấn mạnh công cụ, động tác tay và các công đoạn chế tác. Ảnh đăng trên Buddhist Journal.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="proposal">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">02 · Giám tuyển</div>
+        <h2>Triển lãm muốn chứng minh điều gì?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p class="exhibit-report__thesis">Triển lãm đặt hình tượng tăng sĩ nghệ nhân vào vị trí then chốt để hiểu nghệ thuật Phật giáo Chosŏn. Họ có một căn tính kép: vừa là người thực hành tôn giáo, vừa là chuyên gia kỹ thuật cao. Vì vậy, việc tạo ra một hình tượng thờ phụng không thể tách khỏi đời sống tu viện, tổ chức lao động tập thể và quá trình truyền thụ kỹ năng.</p>
+
+        <ul class="exhibit-report__keypoints">
+          <li><strong>Thoát khỏi tính vô danh.</strong>Tên tuổi còn lại trong minh văn, tư liệu an tàng và lời ghi trên tranh giúp tái dựng sự nghiệp, dòng truyền nghề và mạng lưới xưởng.</li>
+          <li><strong>Làm cho quá trình chế tác trở nên hữu hình.</strong>Bản phác, cấu trúc bên trong, vật liệu, kỹ thuật chạm khắc và quy trình hội họa đặt hiện vật hoàn chỉnh trở lại trong chuỗi thao tác cụ thể.</li>
+          <li><strong>Hiểu lao động tập thể.</strong>Tượng và tranh hiếm khi là tác phẩm của một cá nhân đơn độc; các bậc thầy, trợ thủ và đệ tử tạo thành những nhóm lưu động, liên tục tái tổ chức theo từng công trình.</li>
+          <li><strong>Đọc lại Phật giáo Chosŏn.</strong>Cường độ sản xuất sau thế kỷ XVI buộc chúng ta phải điều chỉnh ý niệm rằng Phật giáo chỉ liên tục bị đẩy lùi dưới một vương triều Tân Nho giáo.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="route">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">03 · Tham quan</div>
+        <h2>Lộ trình và thiết kế trưng bày</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>Triển lãm được chia thành bốn phần. Phần đầu xác định tăng sĩ nghệ nhân là ai; phần hai mở ra các không gian chế tác điêu khắc và hội họa; phần ba tập hợp những tác phẩm chủ chốt như kết quả vật chất của kỹ năng và hợp tác; phần cuối dành cho ký ức về các nghệ nhân này và sự tái diễn giải đương đại. Nhờ vậy, người xem không đi theo một niên đại đơn giản mà chuyển từ căn tính xã hội sang hành vi chế tác rồi đến chính hình tượng thờ phụng.</p>
+
+        <figure class="exhibit-report__figure">
+          <img src="https://dimg.donga.com/wps/NEWS/IMAGE/2021/12/06/110629231.3.jpg" alt="Một Phật họa được trưng bày bên cạnh bản vẽ chuẩn bị" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>Một Phật họa hoàn chỉnh đặt cạnh bản vẽ chuẩn bị, giúp người xem nhận ra quá trình từ phác thảo đến hình tượng thờ phụng. Ảnh đăng trên Dong-A Ilbo.</figcaption>
+        </figure>
+
+        <ol class="exhibit-report__route">
+          <li><strong>승려 장인은 누구인가 — Ai là các tăng sĩ nghệ nhân?</strong><span>Phần đầu phân biệt các tăng sĩ chuyên nghiệp này với thợ thủ công thế tục và cho thấy sự mở rộng của sản xuất tập thể trong các tự viện thời Chosŏn hậu kỳ.</span></li>
+          <li><strong>불상과 불화를 만든 공간 — Không gian làm tượng và Phật họa</strong><span>Hai “xưởng”, một dành cho điêu khắc và một cho hội họa, giới thiệu công cụ, các công đoạn, bản phác và kết quả khảo sát khoa học. Ảnh CT đặc biệt cho phép nhìn vào cấu trúc bên trong tượng gỗ.</span></li>
+          <li><strong>그들이 꿈꾼 세계 — Thế giới họ hình dung</strong><span>Phần trung tâm quy tụ các kiệt tác của những tăng sĩ nghệ nhân lớn và cho thấy kỹ năng của họ vật chất hóa Tịnh độ, pháp hội của Đức Phật và vũ trụ của <em>Avataṃsaka Sūtra</em>.</span></li>
+          <li><strong>승려 장인을 기억하며 — Ghi nhớ các tăng sĩ nghệ nhân</strong><span>Phần kết đặt điêu khắc Phật giáo hậu kỳ cạnh một sắp đặt đương đại của nghệ sĩ Vakki, qua đó đặt câu hỏi về sự tiếp tục của ký ức nghề nghiệp này.</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="works">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">04 · Tuyển chọn</div>
+        <h2>Tác phẩm và hiện vật đáng nhớ</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__works">
+          <article class="exhibit-report__work">
+            <img src="https://img.khan.co.kr/news/2021/12/06/l_2021120601000692600058542.webp" alt="Phù điêu gỗ Amitābha thuyết pháp tại Yongmunsa" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>용문사 목각아미타여래설법상 — Phù điêu gỗ Amitābha thuyết pháp, Yongmunsa</h3>
+              <p class="exhibit-report__work-meta">1684 · gỗ chạm, thếp vàng và tô màu · Yongmunsa · tăng sĩ điêu khắc Tanŭng (端應)</p>
+              <p>Đây là một trong những điểm nhấn lớn nhất của triển lãm. Tanŭng chuyển một bố cục vốn thường gắn với tranh thờ thành phù điêu ba chiều: Amitābha ngự ở trung tâm một pháp hội dày đặc nhân vật. Tác phẩm vì thế làm mờ ranh giới giữa điêu khắc và hội họa Phật giáo. Năm 2021, tác phẩm rời chùa lần đầu tiên sau 337 năm kể từ khi được tạo tác.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://img9.yna.co.kr/etc/inner/KR/2024/12/26/AKR20241226036700005_01_i_P4.jpg" alt="Haeinsa Yeongsanhoesangdo, Pháp hội Linh Thứu" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>해인사 영산회상도 — Pháp hội Linh Thứu, Haeinsa</h3>
+              <p class="exhibit-report__work-meta">1729 · màu trên lụa · Haeinsa · Ŭigyŏm (義謙) và xưởng</p>
+              <p>Bức tranh lớn mô tả Śākyamuni thuyết pháp cho thấy khả năng của một xưởng tu viện trong việc tổ chức một bố cục đồ sộ và đông nhân vật mà vẫn giữ được trật tự thị giác. Ŭigyŏm, nhân vật lớn của Phật họa thế kỷ XVIII, hiện ra không phải như một họa sĩ đơn độc mà như người đứng đầu một tập thể họa tăng chuyên nghiệp.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://cdn.ibulgyo.com/news/photo/202201/215880_233842_5858.jpg" alt="Songgwangsa Hwaeomgyeong Byeonsangdo, minh họa Avatamsaka Sutra" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>송광사 화엄경변상도 — Minh họa <em>Avataṃsaka Sūtra</em>, Songgwangsa</h3>
+              <p class="exhibit-report__work-meta">1770 · màu trên lụa · Songgwangsa · Hwaryŏn (華蓮) và xưởng</p>
+              <p>Mật độ của bức tranh làm nổi bật tham vọng vũ trụ luận của nghệ thuật Hwaŏm: nhiều pháp hội, nhân vật, kiến trúc và không gian thiên giới được tổ chức trên cùng một mặt tranh. Kỹ năng của các họa tăng vì thế không chỉ mang tính trang trí mà giải quyết một vấn đề tôn giáo và không gian: làm cho một vũ trụ giáo lý gần như vô hạn trở nên có thể nhận hiểu bằng hình ảnh.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="understand">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">05 · Nhận thức</div>
+        <h2>Triển lãm giúp chúng ta hiểu điều gì?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__keypoints">
+          <li><strong>Hình tượng Phật giáo là sản phẩm tập thể.</strong>Minh văn cho thấy các nhóm sản xuất được tổ chức quanh bậc thầy và đệ tử. Gán một tác phẩm cho một tên duy nhất thường che khuất thực tế của xưởng.</li>
+          <li><strong>Các xưởng có tính lưu động.</strong>Tăng sĩ nghệ nhân di chuyển từ chùa này sang chùa khác, góp phần truyền bá mẫu thức, kỹ thuật và giải pháp biểu tượng trên khắp bán đảo.</li>
+          <li><strong>Kỹ thuật là một phần của thực hành tôn giáo.</strong>Chọn gỗ, chuẩn bị bản vẽ, tạo khoang cho vật phẩm an tàng, thếp vàng hay tô màu không chỉ là thao tác nghề mà còn tham gia biến vật chất thành hiện diện thờ phụng.</li>
+          <li><strong>Chosŏn hậu kỳ là một thời kỳ sáng tạo.</strong>Hiện đã xác định được hơn 1.000 tăng sĩ điêu khắc và khoảng 2.400 tăng sĩ họa công, cho thấy quy mô lớn của hoạt động nghệ thuật Phật giáo.</li>
+        </ul>
+
+        <div class="exhibit-report__research">
+          <strong>Ý nghĩa đối với lịch sử nghệ thuật Phật giáo</strong>
+          <p>Bài học phương pháp quan trọng nhất là không tách biểu tượng học khỏi chế tác. Một tượng hay tranh Phật giáo có thể đồng thời được nghiên cứu như hình ảnh, vật thể vật chất, sản phẩm của xưởng, kết quả của mạng lưới tu viện và phương tiện nghi lễ. Triển lãm vì vậy là một mô hình xuất sắc cho lịch sử xã hội và vật chất của nghệ thuật Phật giáo Hàn Quốc.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="resources">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">06 · Tư liệu</div>
+        <h2>Đọc thêm</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__resources">
+          <li><strong>Danh mục triển lãm:</strong> 국립중앙박물관, <em>조선의 승려 장인</em>, Seoul, Bảo tàng Quốc gia Hàn Quốc, 2021, 400 tr.</li>
+          <li><strong>Trang chính thức:</strong> <a href="https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=631858&listType=list&menuId=past&schM=view" target="_blank" rel="noopener">Bảo tàng Quốc gia Hàn Quốc — trang triển lãm</a>.</li>
+          <li><strong>Hồ sơ bảo tàng:</strong> <a href="https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?catCustomType=post&catId=93&schM=view&arcId=18039" target="_blank" rel="noopener">thông cáo và phần giới thiệu chi tiết</a>.</li>
+          <li><strong>Nội dung danh mục:</strong> trình bày các xưởng điêu khắc và hội họa, mạng lưới tăng sĩ nghệ nhân lưu động, quy trình chế tác và các bậc thầy lớn của Chosŏn hậu kỳ.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="verdict">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">07 · Kết luận</div>
+        <h2>Đánh giá</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__verdict">
+          <div class="exhibit-report__verdict-label">Nhận định</div>
+          <strong>Một triển lãm thiết yếu cho lịch sử nghệ thuật Phật giáo Hàn Quốc</strong>
+          <p>Sức mạnh của <em>조선의 승려 장인</em> nằm ở việc làm cho những người tạo nên hình tượng tôn giáo trở nên hữu hình trở lại. Các kiệt tác được quy tụ rất quan trọng, nhưng đóng góp quyết định là việc tái dựng xưởng, quan hệ hợp tác, thao tác chế tác và mạng lưới lưu động. Nhờ đó, nghệ thuật Phật giáo Chosŏn được đọc không chỉ như lịch sử hình thức mà còn như lịch sử của thực hành và sản xuất.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ Lên đầu trang</a></div>
+</main>
+```
