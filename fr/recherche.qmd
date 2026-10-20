@@ -100,7 +100,7 @@ format:
       <div class="axis-copy">
         <div class="axis-number">AXE 04</div>
         <h3>Architecture, monastères et stoupas</h3>
-        <p>Évolution et conservatisme des formes architecturales, implantation des monastères et histoire des stoupas. Les corpus distinguent Silla, Paekche, Koguryŏ, Grand Silla, Koryŏ et Chosŏn, ainsi que les différentes fonctions des monuments.</p>
+        <p>Évolution et conservatisme des formes architecturales, implantation des monastères et histoire des stoupas. Les corpus distinguent le Silla, le Paekche, le Koguryŏ, le Grand Silla, le Koryŏ et le Chosŏn, ainsi que les différentes fonctions des monuments.</p>
         <div class="axis-tags"><span>Stoupas</span><span>Monastères</span><span>Longue durée</span></div>
       </div>
     </article>
