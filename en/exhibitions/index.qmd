@@ -6,8 +6,27 @@ format:
     include-before-body: _includes/en-header.html
     include-after-body: _includes/en-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
 <section class="page-hero"><h1>Exhibitions</h1></section>
 <main class="content"><div class="content-inner">
 <p class="lead">Notes, reviews and itineraries from museum exhibitions, with a focus on Buddhist art, Asia and art history.</p>
-<div class="database-empty-state"><h2>Exhibitions visited</h2><p>This section will progressively bring together my notes and reviews of museum exhibitions.</p></div>
+
+<div class="exhibition-list">
+  <div class="exhibition-list-grid">
+    <a class="exhibition-card" href="/en/exhibitions/monk-artisans-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://img.segye.com/content/image/2021/12/06/20211206516438.jpg" alt="조선의 승려 장인" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">Korean Buddhist art · Chosŏn · sculpture and painting</div>
+      <h2>조선의 승려 장인</h2>
+      <p class="exhibition-card-subtitle">Monk Artisans of the Chosŏn Dynasty</p>
+      <p class="exhibition-card-meta">National Museum of Korea · Seoul · 7 December 2021 — 6 March 2022</p>
+      <p>A major exhibition on monk sculptors and painters, their workshops, networks and the processes through which Buddhist images were made.</p>
+      <span class="exhibition-card-link">Read the review →</span>
+    </a>
+  </div>
+</div>
+
 </div></main>
+```
