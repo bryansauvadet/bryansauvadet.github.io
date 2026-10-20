@@ -9,10 +9,20 @@ format:
 <section class="page-hero"><h1>田野调查与巡礼</h1></section>
 <main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">寺院、建筑与考古遗址的田野笔记、研究路线与巡礼记录。</p>
-<section class="fieldwork-index-section"><h2>访问地点</h2><ul class="fieldwork-place-list"><li><a href="/zh/fieldwork-pilgrimages/sakya/"><strong>萨迦寺</strong></a> <span>— 西藏・后藏</span></li></ul></section>
+<section class="fieldwork-index-section"><h2>访问地点</h2><ul class="fieldwork-place-list"><li><a href="/zh/fieldwork-pilgrimages/sakya/"><strong>萨迦寺</strong></a> <span>— 西藏・后藏</span></li><li><a href="/zh/fieldwork-pilgrimages/mount-hiei/"><strong>比叡山</strong></a> <span>— 日本・京都 / 大津</span></li></ul></section>
 <section class="fieldwork-index-section"><h2>地图</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<script>document.addEventListener("DOMContentLoaded",function(){const m=L.map("fieldwork-map").setView([28.905,88.018],6);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:18,attribution:"&copy; OpenStreetMap contributors"}).addTo(m);L.marker([28.905,88.018]).addTo(m).bindPopup('<strong>萨迦寺</strong><br>西藏・后藏<br><a href="/zh/fieldwork-pilgrimages/sakya/">阅读田野记录</a>');});</script>
-<section class="fieldwork-index-section"><h2>田野笔记</h2><div class="database-grid"><a class="database-card fieldwork-card" href="/zh/fieldwork-pilgrimages/sakya/"><div class="database-card-image"><img src="/assets/images/sakya-02.jpg" alt="萨迦寺" loading="lazy"></div><div class="database-card-kicker">西藏・后藏</div><h3>萨迦寺</h3><p>阅读田野记录</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></section>
+<script>
+document.addEventListener("DOMContentLoaded",function(){
+  const m=L.map("fieldwork-map");
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:18,attribution:"&copy; OpenStreetMap contributors"}).addTo(m);
+  const bounds=[];
+  function addMarker(coords,html){L.marker(coords).addTo(m).bindPopup(html);bounds.push(coords);}
+  addMarker([28.905,88.018],document.querySelector('.fieldwork-place-list a[href*="/sakya/"]').innerHTML+'<br>'+document.querySelector('.fieldwork-place-list a[href*="/sakya/"]').nextElementSibling.textContent.replace(/^—\s*/,'')+'<br><a href="'+document.querySelector('.fieldwork-place-list a[href*="/sakya/"]').getAttribute('href')+'">阅读田野记录</a>');
+  addMarker([35.07068,135.84139],'<strong>比叡山</strong><br>日本・京都 / 大津<br><a href="/zh/fieldwork-pilgrimages/mount-hiei/">阅读田野记录</a>');
+  m.fitBounds(bounds,{padding:[35,35],maxZoom:5});
+});
+</script>
+<section class="fieldwork-index-section"><h2>田野笔记</h2><div class="database-grid"><a class="database-card fieldwork-card" href="/zh/fieldwork-pilgrimages/sakya/"><div class="database-card-image"><img src="/assets/images/sakya-02.jpg" alt="萨迦寺" loading="lazy"></div><div class="database-card-kicker">西藏・后藏</div><h3>萨迦寺</h3><p>阅读田野记录</p><span class="database-card-arrow" aria-hidden="true">→</span></a><a class="database-card fieldwork-card" href="/zh/fieldwork-pilgrimages/mount-hiei/"><div class="database-card-image"><img src="/assets/images/mount-hiei-02.webp" alt="比叡山" loading="lazy"></div><div class="database-card-kicker">日本・京都 / 大津</div><h3>比叡山</h3><p>阅读田野记录</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></section>
 </div></main>
