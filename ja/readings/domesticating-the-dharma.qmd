@@ -1,0 +1,39 @@
+---
+title: "Domesticating the Dharma"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
+<main class="book-report" id="haut">
+<header class="book-report__hero"><div class="book-report__shell book-report__hero-grid">
+<figure class="book-report__cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Richard D. McBride, II『Domesticating the Dharma』表紙" loading="eager" decoding="async"></figure>
+<div><div class="book-report__eyebrow">書評 · 朝鮮仏教 · Silla · Hwaŏm · 信仰と儀礼</div><h1>Domesticating the Dharma</h1><p class="book-report__author">Buddhist Cults and the Hwaŏm Synthesis in Silla Korea<br>Richard D. McBride, II</p>
+<dl class="book-report__meta" aria-label="書誌情報">
+<div><dt>刊行年</dt><dd>2008</dd></div>
+<div><dt>出版社</dt><dd>University of Hawai‘i Press · Honolulu</dd></div>
+<div><dt>言語</dt><dd>英語</dd></div>
+<div><dt>分野</dt><dd>朝鮮仏教 · Silla · Hwaŏm · 宗教史・文化史</dd></div>
+<div><dt>種別</dt><dd>研究モノグラフ</dd></div>
+<div><dt>書誌情報</dt><dd>ISBN 978-0-8248-3087-8</dd></div>
+</dl>
+<div class="book-report__domain"><strong>中心的な問い：</strong> 仏教は、信仰、儀礼、画像、そして社会・宗教エリートの働きを通してSilla社会にどのように定着し、その後Hwaŏmの枠組みに統合されたのか。</div>
+</div></div></header>
+<div class="book-report__nav-wrap"><nav class="book-report__shell book-report__nav" aria-label="書評目次"><a href="#pourquoi-lire">なぜ読むべきか</a><a href="#comprendre">何が理解できるか</a><a href="#apports">研究上の貢献</a><a href="#reperes">重要な対象</a><a href="#these">著者の主張</a><a href="#changement">理解をどう変えるか</a><a href="#limites">限界</a><a href="#public">誰に向くか</a><a href="#verdict">評価</a></nav></div>
+
+<section class="book-report__section" id="pourquoi-lire"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">01 · 要点</div><h2>なぜこの本を読むべきか</h2></div><div class="book-report__content"><p>McBride は、Silla仏教史を歪めてきた二つの見方を批判する。第一は、その発展を教理的な「宗派」の連続として語ること、第二は、知的でエリート的な宗教と、信仰・奇跡・儀礼からなる「民衆仏教」を切り離すことである。彼が示すのは、学僧、王権、貴族自身がMaitreya、Avalokiteśvara、Amitābhaを礼拝し、造像を行い、dhāraṇī、懺悔、護国儀礼を実践していたという事実である。</p><p>美術史にとって重要なのは、像、寺院、塔、山岳聖地、建築構成を教理の単なる図解として扱わない点にある。それらは正統性、護持、功徳、そして領域の再編成を実現する装置であった。本書は、Sillaの土地そのものが仏教的な聖地へ再解釈され、さらにHwaŏm宇宙論によって統合される過程を示す。</p></div></div></section>
+<section class="book-report__section" id="comprendre"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">02 · 知識</div><h2>この本から何が理解できるか</h2></div><div class="book-report__content"><ul class="book-report__keypoints"><li><strong>「エリート／民衆」という二層モデルは成立しない。</strong>造像礼拝、奇跡、dhāraṇī、読誦、懺悔など、しばしば「民衆的」とされる実践は、高僧、王族、貴族にも共有されていた。</li><li><strong>「宗派」よりも信仰集団の実践を見る方が有効である。</strong>Maitreya、Avalokiteśvara、Amitābhaの信仰は閉じた別系統ではなく、重なり合い、最終的にHwaŏmの枠組みに組み込まれていく。</li><li><strong>Hwaŏmは教理であると同時に実践体系である。</strong>Ŭisangとその後継者にとって、Avataṃsaka Sūtraは読誦、礼拝、懺悔、菩薩信仰、護国、悟りへの道を一つの宇宙論の中で結びつけた。</li><li><strong>Sillaの国土そのものが仏教的景観となる。</strong>山、寺院、古い聖地は、仏の痕跡、菩薩の住処、中国・インドの聖地に対応する場所として再解釈された。</li></ul></div></div></section>
+<section class="book-report__section" id="apports"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">03 · 視野</div><h2>美術史・仏教史・アジア史への貢献</h2></div><div class="book-report__content"><p><strong>美術史</strong>では、図像、建築、実践を直接結びつける。MaitreyaやAvalokiteśvaraの像は、男子誕生、家族の保護、功徳、政治秩序の安定など具体的目的のために造られた。Hwangnyongsa、Pulguksa、Sŏkkuram、Odaesan、Naksanは、形、儀礼、空間を一体として読むべき事例となる。</p><p><strong>仏教史</strong>では、Sillaの仏教を読誦、観想、造像礼拝、供養、占い、懺悔、dhāraṇī、護国儀礼からなる実践の集合として描く。輸入教理の地域的適用という説明だけでは不十分になる。</p><p><strong>アジア史</strong>では、Sillaを中国北朝、唐、Koguryŏ、Paekche、日本に連なる地域世界の中に置く。移動したのは思想だけではなく、儀礼、王権モデル、画像、制度、聖地化の方法でもあった。</p></div></div></section>
+<section class="book-report__section" id="reperes"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">04 · 重要対象</div><h2>覚えておきたい場所・人物</h2></div><div class="book-report__content"><ul class="book-report__entities"><li><strong>Hwangnyongsa</strong><span>Kyŏngjuの主要な王室寺院。王権の正統化、護国儀礼、九層木塔と結びつく。</span></li><li><strong>Odaesan</strong><span>中国のWutai山をSillaに再配置した聖地。Avataṃsaka Sūtraの神聖な集会を祀るHwaŏm儀礼の中心となった。</span></li><li><strong>Naksan</strong><span>Silla東海岸のAvalokiteśvara聖地。仏教の聖なる地理が朝鮮半島の景観に移植されたことを示す。</span></li><li><strong>Pulguksa</strong><span>Vairocana、Avalokiteśvara、Amitābhaなど複数の信仰をHwaŏm的な空間秩序の中に組み込んだ複合寺院として読まれる。</span></li><li><strong>Sŏkkuram</strong><span>中央仏をŚākyamuni、Amitābha、Vairocanaのいずれと見るか議論がある人工石窟。McBrideはHwaŏmと両立する包括的読解を重視する。</span></li><li><strong>Ŭisang</strong><span>SillaにHwaŏmを定着させた中心人物。Avataṃsaka Sūtraを具体的な実践と寺院ネットワークに結びつけた。</span></li><li><strong>Wŏnhyo</strong><span>単一の「宗派」に閉じ込められない代表的学僧。教学、Hwaŏm、信仰実践、広い層への布教が交差する人物として描かれる。</span></li><li><strong>MaitreyaとAvalokiteśvara</strong><span>Sillaの美術・信仰・宗教政治を理解する二つの重要な軸。前者はhwarangとエリートに強く結びつき、後者はより広い社会層へ展開した。</span></li></ul></div></div></section>
+<section class="book-report__section" id="these"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">05 · 主張</div><h2>著者の中心的な主張</h2></div><div class="book-report__content"><p class="book-report__thesis">Sillaにおける仏教の定着は、まず社会・宗教エリートが仏教信仰を採用し、積極的に推進したことで実現した。Maitreya、Avalokiteśvara、Amitābhaなどの信仰はその後Hwaŏmに統合され、儀礼、画像、政治的護持、領域の聖地化を一つの宇宙論の中で結びつけた。したがって「民衆仏教」は宗教の下位層ではなく、エリートも実践した主流Mahāyānaの姿である。</p></div></div></section>
+<section class="book-report__section" id="changement"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">06 · 意義</div><h2>この本は理解をどう変えるか</h2></div><div class="book-report__content"><p>本書を読むと、Silla仏教史を中国から輸入された教理体系と個別の「宗派」の連続として描くことは難しくなる。同じ僧侶が学僧であり、儀礼実践者であり、信仰者であり、政治的行為者でもあるからである。信仰実践も社会階層や教理区分を横断する。</p><p>もう一つの転換は空間である。仏教の定着は新しい経典や像の導入だけではなく、地理そのものを変えた。寺院、山、石窟、古い聖地が普遍的な仏教史の中に書き込まれ、HwaŏmはSillaを周辺ではなくBuddha-Dharmaの土地として理解するための強力な言語となった。</p></div></div></section>
+<section class="book-report__section" id="limites"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">07 · 批判的読解</div><h2>本書の限界</h2></div><div class="book-report__content"><div class="book-report__limits">最大の方法論的限界は史料構成にある。McBride自身が述べるように、中心史料は教学書、聖者伝、碑文、とりわけ多くの出来事から数世紀後に編纂されたSamguk yusaである。建築・美術史資料も用いられるが、より限定的である。このため、後世のKoryŏ的関心がSillaに投影される危険と、文献にエリートが多く現れること自体が「上からの普及」論を強化する危険がある。またPulguksaやSŏkkuramをめぐる地理・図像解釈の一部は、連続した文書証拠による実証というより解釈的仮説にとどまる。</div></div></div></section>
+<section class="book-report__section" id="public"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">08 · 読者</div><h2>誰に向いているか</h2></div><div class="book-report__content"><div class="book-report__audience"><div><strong>初学者</strong><span>Sillaの最初の入門書としては重い。Mahāyāna、古代朝鮮史、主要人物について基礎知識がある方がよい。</span></div><div><strong>学生</strong><span>「宗派」「エリート」「民衆」といった分析カテゴリーを疑い、テキスト、儀礼、画像、空間を結びつける方法を学ぶのに有用。</span></div><div><strong>研究者</strong><span>Sillaの信仰実践、Hwaŏm、Ŭisang、Wŏnhyo、朝鮮仏教の聖地地理を研究するうえで重要な参照文献。</span></div><div><strong>一般の専門的読者</strong><span>朝鮮仏教美術に関心があれば章ごとに読めるが、方法論と研究史の議論には丁寧な読解が必要。</span></div></div></div></div></section>
+<section class="book-report__section" id="verdict"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">09 · 結論</div><h2>評価</h2></div><div class="book-report__content"><div class="book-report__verdict"><div class="book-report__verdict-label">推奨度</div><strong>必読 — 「宗派」を超えてSilla仏教を理解するために</strong><p>本書の強みは、「仏教徒が何を考えたか」から「何を実践し、資金を出し、建て、礼拝したか」へ問いを移したことにある。Silla仏教美術、Hwaŏm、朝鮮の聖地景観を研究するなら極めて有効な枠組みを与える。ただし後世の文献に大きく依存する点は常に意識すべきである。</p></div></div></div></section>
+<div class="book-report__shell book-report__backtop"><a href="#haut">↑ ページ上部へ</a></div>
+</main>
+```
