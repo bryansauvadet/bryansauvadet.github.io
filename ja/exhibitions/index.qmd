@@ -49,6 +49,18 @@ format:
       <p>阿弥陀如来、九品往生、念仏、極楽浄土の視覚化を総合的に扱った韓国仏教美術の重要展。</p>
       <span class="exhibition-card-link">レビューを読む →</span>
     </a>
+
+    <a class="exhibition-card" href="/ja/exhibitions/ingaksa-samguk-yusa.html">
+      <div class="exhibition-card-image">
+        <img class="exhibition-card-image--ingaksa" src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="인각사와 삼국유사" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">韓国仏教美術 · 麟角寺 · 一然 · 三国遺事 · 考古学</div>
+      <h2>인각사와 삼국유사</h2>
+      <p class="exhibition-card-subtitle">麟角寺と『三国遺事』――歴史の香りをたどり、千年の息吹に出会う</p>
+      <p class="exhibition-card-meta">仏教中央博物館 · ソウル · 2013年11月13日 — 2014年1月12日</p>
+      <p>麟角寺の発掘、一然の生涯、儀礼具、『三国遺事』の物質的伝承を結び付ける特別展。</p>
+      <span class="exhibition-card-link">レビューを読む →</span>
+    </a>
   </div>
 </div>
 
