@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">불교미술사, 불교, 아시아사, 고고학, 건축을 더 깊이 이해하기 위해 읽을 가치가 있는 책들을 소개합니다.</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/ko/readings/domesticating-the-dharma.html">
+<div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Domesticating the Dharma 표지" loading="lazy"></div>
+<div class="reading-book-domain">한국불교 · Silla · Hwaŏm · 신앙과 의례</div>
+<h2>Domesticating the Dharma</h2>
+<p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
+<p>분리된 ‘종파’의 역사보다 신앙, 이미지, 의례, 성지 지리가 Silla에서 불교가 정착한 과정을 더 잘 설명한다는 점을 보여 준다.</p>
+<span class="reading-book-link">서평 읽기 →</span>
+</a>
 <a class="reading-book-card" href="/ko/readings/the-dynamic-spread-of-buddhist-print-culture.html">
 <div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="The Dynamic Spread of Buddhist Print Culture 표지" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">불교미술사 · 인쇄문화 · 아시아사</div>
