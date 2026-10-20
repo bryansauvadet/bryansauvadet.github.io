@@ -39,7 +39,7 @@ format:
 <div class="exhibit-report__content">
 <p>本展の大きな意義は、日本各地の博物館・寺院・神社に分散して所蔵される朝鮮半島の仏教美術を、一つの空間で比較できる点にある。出品目録は48件で、仏画、彫刻、写経・刊経、金工、青磁、螺鈿など多様な素材を含む。これによって朝鮮半島の仏教美術が単なる絵画史ではなく、礼拝空間を構成する総合的な物質文化であったことがよくわかる。</p>
 <p>また、高麗と朝鮮を「仏教国家」と「儒教国家」という単純な対立だけで語らない点も重要である。高麗では王室が仏教を強く支持した一方、朝鮮では制度的な抑制が進んだ。それでも仏像・仏画・経典・仏具の制作は続いた。祈りという視点から見ると、王朝交代を越える仏教文化の連続性が見えてくる。</p>
-<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="1310年の楊柳観音像" loading="lazy" referrerpolicy="no-referrer"><figcaption><em>楊柳観音像</em>、高麗、1310年、佐賀・鏡神社。四メートルを超える大画面は高麗宮廷仏画の到達点の一つである。</figcaption></figure>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://www.kyuhaku.jp/exhibition/img/tokuten/186/01.jpg" referrerpolicy="no-referrer" alt="1310年の楊柳観音像" loading="lazy" referrerpolicy="no-referrer"><figcaption><em>楊柳観音像</em>、高麗、1310年、佐賀・鏡神社。四メートルを超える大画面は高麗宮廷仏画の到達点の一つである。</figcaption></figure>
 </div></div></section>
 
 <section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell">
@@ -68,7 +68,7 @@ format:
 <section class="exhibit-report__section" id="works"><div class="exhibit-report__shell">
 <div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 選定</div><h2>記憶しておきたい作品</h2></div>
 <div class="exhibit-report__content"><div class="exhibit-report__works">
-<article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/images/topic/topic_230905/01_page.jpg" referrerpolicy="no-referrer" alt="鏡神社 楊柳観音像" loading="lazy"><div><h3>重要文化財 楊柳観音像</h3><p class="exhibit-report__work-meta">1310年 · 高麗 · 絹本着色 · 佐賀・鏡神社</p><p>高さ四メートルを超える高麗仏画の代表作。複数の宮廷画家による共同制作で、透ける衣、装身具、文様表現の精緻さが圧倒的である。豪華さそのものが観音の慈悲と超越性を視覚化している。</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.kyuhaku.jp/exhibition/img/tokuten/186/01.jpg" referrerpolicy="no-referrer" alt="鏡神社 楊柳観音像" loading="lazy"><div><h3>重要文化財 楊柳観音像</h3><p class="exhibit-report__work-meta">1310年 · 高麗 · 絹本着色 · 佐賀・鏡神社</p><p>高さ四メートルを超える高麗仏画の代表作。複数の宮廷画家による共同制作で、透ける衣、装身具、文様表現の精緻さが圧倒的である。豪華さそのものが観音の慈悲と超越性を視覚化している。</p></div></article>
 <article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" referrerpolicy="no-referrer" alt="地蔵菩薩遊戯坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像</h3><p class="exhibit-report__work-meta">11世紀 · 高麗 · 銅造鍍金 · 九州国立博物館 · 総高49.2cm</p><p>くつろいだ姿勢と穏やかな表情が、小像ながら強い存在感を生む。巨大な掛幅とは正反対のスケールで、礼拝者と像との近い距離を想像させる。</p></div></article>
 <article class="exhibit-report__work">
             <img src="https://www.narahaku.go.jp/_fKkxXPHb/H060909.jpg" alt="銀象嵌文様を施した高麗時代14世紀の銅製香炉" loading="lazy" referrerpolicy="no-referrer">
