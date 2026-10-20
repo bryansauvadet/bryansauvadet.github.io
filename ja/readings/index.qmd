@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">仏教美術史、仏教、アジア史、考古学、建築をより深く理解するために読む価値のある書籍を紹介します。</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/ja/readings/domesticating-the-dharma.html">
+<div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Domesticating the Dharma 表紙" loading="lazy"></div>
+<div class="reading-book-domain">朝鮮仏教 · Silla · Hwaŏm · 信仰と儀礼</div>
+<h2>Domesticating the Dharma</h2>
+<p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
+<p>「宗派」の歴史よりも、信仰、画像、儀礼、聖地化された景観からSillaへの仏教定着を理解する重要性を示す。</p>
+<span class="reading-book-link">書評を読む →</span>
+</a>
 <a class="reading-book-card" href="/ja/readings/the-dynamic-spread-of-buddhist-print-culture.html">
 <div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="The Dynamic Spread of Buddhist Print Culture 表紙" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">仏教美術史 · 印刷文化 · アジア史</div>
