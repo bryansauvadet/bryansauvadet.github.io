@@ -25,6 +25,18 @@ format:
       <p>聚焦雕刻僧、畫僧、工坊組織、移動網絡與佛教圖像製作過程的重要特展。</p>
       <span class="exhibition-card-link">閱讀展覽評論 →</span>
     </a>
+
+    <a class="exhibition-card" href="/zh-hant/exhibitions/beauty-prayer-koryo-choson.html">
+      <div class="exhibition-card-image">
+        <img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術" loading="lazy">
+      </div>
+      <div class="exhibition-card-domain">韓國佛教藝術 · 高麗與朝鮮 · 11–16世紀</div>
+      <h2>うるわしき祈りの美</h2>
+      <p class="exhibition-card-subtitle">祈禱之美——高麗與朝鮮時代的佛教藝術</p>
+      <p class="exhibition-card-meta">九州國立博物館 · 太宰府 · 2023年9月5日 — 10月15日</p>
+      <p>透過佛畫、雕塑、經典與儀式器物，理解從高麗到朝鮮持續存在的佛教祈禱與物質文化。</p>
+      <span class="exhibition-card-link">閱讀展覽評論 →</span>
+    </a>
   </div>
 </div>
 
