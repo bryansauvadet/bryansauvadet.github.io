@@ -6,27 +6,6 @@ format:
     include-before-body: _includes/vi-header.html
     include-after-body: _includes/vi-footer.html
 ---
-<style>
-.fieldwork-story figure{
-  width:50%;
-  margin:3rem auto;
-}
-.fieldwork-story figure img{
-  display:block;
-  width:100%;
-  height:auto;
-  margin:0 auto;
-}
-.fieldwork-story figure figcaption{
-  margin-top:.6rem;
-}
-@media (max-width: 720px){
-  .fieldwork-story figure{
-    width:90%;
-  }
-}
-</style>
-
 <section class="page-hero"><h1>Tu viện Sakya</h1><p class="lead">ས་སྐྱ་དགོན་པ་ · Sakya, Tsang, Tây Tạng</p></section>
 <main class="content"><div class="content-inner fieldwork-story">
 <figure class="fieldwork-hero"><img src="/assets/images/sakya-02.jpg" alt="Trước tu viện Sakya" loading="eager"><figcaption>Trước tu viện Sakya sau khi tôi đến vùng Tsang.</figcaption></figure>
@@ -39,10 +18,10 @@ format:
 <p>Khoảnh khắc chuyển từ sân vào bên trong là một trong những trải nghiệm mạnh nhất của chuyến thăm. Bên ngoài, đá và tường tạo cảm giác nặng và lớn. Bên trong, ánh sáng giảm đột ngột, màu sắc trở nên sâu hơn, và các pho tượng dần hiện ra trong bóng tối. Tôi không chỉ quan sát bản thân các tượng mà còn chú ý đến cách chúng được đặt giữa vải vóc, đồ cúng, đèn và những tượng nhỏ. Trong bảo tàng, chúng ta thường tách tác phẩm khỏi bối cảnh. Ở đây, hình tượng không bao giờ đứng một mình.</p>
 <figure><img src="/assets/images/sakya-04.jpg" alt="Tượng Phật tại tu viện Sakya" loading="lazy"><figcaption>Một tượng Phật vẫn hoạt động trọn vẹn trong môi trường nghi lễ.</figcaption></figure>
 <p>Điều này rất quan trọng đối với lịch sử nghệ thuật. Tượng đồng mạ vàng, tượng đất, tranh và bàn thờ có thể được phân tích theo phong cách, biểu tượng học và niên đại, nhưng tại Sakya tôi luôn bị kéo trở lại câu hỏi về chức năng. Dấu vết sùng kính, vải, đồ cúng và những thay đổi của không gian cho thấy các đối tượng này vẫn được kích hoạt qua thực hành tôn giáo. Những gì tôi chụp không đơn thuần là di sản, mà là một môi trường tôn giáo sống.</p>
-<figure><img src="/assets/images/sakya-05.jpg" alt="’Phags-pa giữa Činggis Qan và Qubilai Qan tại Sakya" loading="lazy"><figcaption>’Phags-pa ở trung tâm, hai bên là Činggis Qan và Qubilai Qan. Với tôi, nhóm tượng này làm hiện rõ mối quan hệ giữa thẩm quyền tôn giáo Sakya và quyền lực đế quốc Mông Cổ.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-05.jpg" alt="’Phags-pa giữa Činggis Qan và Qubilai Qan tại Sakya" loading="lazy"><figcaption>’Phags-pa ở trung tâm, hai bên là Činggis Qan và Qubilai Qan. Với tôi, nhóm tượng này làm hiện rõ mối quan hệ giữa thẩm quyền tôn giáo Sakya và quyền lực đế quốc Mông Cổ.</figcaption></figure>
 <p>Tôi đã dừng lại khá lâu trước nhóm tượng này. Việc ’Phags-pa được đặt giữa Činggis Qan và Qubilai Qan khiến quan hệ giữa bậc thầy tôn giáo và người cai trị đế quốc trở nên trực quan hơn bất kỳ sơ đồ chính trị nào. Chính cấu hình ấy rất quan trọng đối với nghiên cứu của tôi về Koryŏ: bán đảo không đơn giản tiếp nhận một thứ “Phật giáo Mông Cổ” chung chung, mà tiếp nhận những hình thức tôn giáo đã được định hình trong sự tương tác giữa giới lãnh đạo Phật giáo Tây Tạng và quyền lực đế quốc. Nhóm tượng này vì thế tạo cho tôi một cầu nối trực tiếp giữa Sakya và những biến đổi của Phật giáo cung đình cuối thời Koryŏ.</p>
 <p>Không gian thư tịch có lẽ gây ấn tượng mạnh nhất về mặt học thuật. Những giá gỗ cao chất đầy kinh sách được bọc và xếp thành nhiều tầng. Sakya bảo tồn một trong những bộ sưu tập văn bản lớn của Tây Tạng, gồm các bộ kinh điển và nhiều bản chép tay cổ. Một số sách du lịch gọi nơi đây là “Đôn Hoàng thứ hai”. So sánh này rất mạnh và cần thận trọng, nhưng nó phần nào truyền đạt được cảm giác về quy mô của kho tư liệu.</p>
-<figure><img src="/assets/images/sakya-06.jpg" alt="Thư viện tu viện Sakya" loading="lazy"><figcaption>Các giá sách ở Sakya: văn bản tự nó tạo thành một kiến trúc.</figcaption></figure>
+<figure class="figure-wide"><img src="/assets/images/sakya-06.jpg" alt="Thư viện tu viện Sakya" loading="lazy"><figcaption>Các giá sách ở Sakya: văn bản tự nó tạo thành một kiến trúc.</figcaption></figure>
 <p>Đứng trước những giá sách ấy, tôi nghĩ nhiều nhất đến chuỗi vật chất của sự truyền thừa. Một văn bản Phật giáo không phải là khái niệm trừu tượng: nó phải được chép, dịch, hiệu đính, in, vận chuyển, bảo quản và đọc. Muốn hiểu các mạng lưới tôn giáo nối Tây Tạng, Trung Quốc và Koryŏ, những vật thể này quan trọng không kém nội dung giáo lý.</p>
 <figure><img src="/assets/images/sakya-07.jpg" alt="Stūpa và bàn thờ bên trong Sakya" loading="lazy"><figcaption>Stūpa, hình tượng và đồ nghi lễ tạo thành một không gian không thể tách rời giữa kiến trúc và sùng kính.</figcaption></figure>
 <p>Một khía cạnh khác khiến tôi chú ý là sự cùng tồn tại giữa Phật giáo thiết chế và các truyền thống địa phương. Trên mái có một điện nhỏ đôi khi được gọi trong lời kể địa phương là “Nhà nguyện của các phù thủy”, với truyền thuyết rằng nơi này dùng để chế ngự các nữ linh hoặc thế lực gây hại. Tôi muốn giữ câu chuyện này ở địa vị của một truyền thuyết, thay vì biến nó thành sự kiện lịch sử. Dù vậy, nó cho thấy cảnh quan thiêng Tây Tạng thường hấp thụ các câu chuyện về sự chế ngự, bảo hộ và chuyển hóa sức mạnh bản địa.</p>
