@@ -6,5 +6,121 @@ format:
     include-before-body: _includes/vi-header.html
     include-after-body: _includes/vi-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/publications.css">
+
 <section class="page-hero"><h1>Công bố</h1></section>
-<main class="content"><p class="lead">Structured bibliography, articles, chapters and talks.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="publications-page">
+
+<section class="pub-intro">
+  <div>
+    <div class="pub-kicker">Công bố &amp; hoạt động biên tập</div>
+    <h2>Bài viết, biên dịch và tham luận</h2>
+    <p>Trang này tập hợp các dự án bài báo đang triển khai, các bản dịch phụ đề tiếng Pháp cho chương trình K‑MOOC của Đại học Dongguk và các tham luận khoa học.</p>
+  </div>
+  <nav class="pub-nav" aria-label="Bài viết, biên dịch và tham luận">
+    <a href="#articles">Dự án bài báo</a>
+    <a href="#kmooc">Bản dịch K‑MOOC</a>
+    <a href="#communications">Tham luận</a>
+  </nav>
+</section>
+
+<section class="pub-section" id="articles">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">Dự án biên tập</div>
+      <h2>Dự án bài báo</h2>
+    </div>
+    <p>Bốn dự án bài báo hiện đang được phát triển ở những giai đoạn khác nhau.</p>
+  </div>
+  <div class="pub-projects">
+    <article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="Chi tiết tranh Cam Lộ" loading="eager" fetchpriority="high">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Dự án bài báo</div>
+        <h3>Biểu hiện nghi lễ dưới những ràng buộc: sự hình thành tranh Cam Lộ ở Chosŏn thế kỷ XVI</h3>
+        <p>Nghiên cứu sự hình thành tranh Cam Lộ thế kỷ XVI qua việc tái cấu trúc nghi lễ, những ràng buộc thể chế và sự trực quan hóa hành động nghi lễ.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" target="_blank" rel="noopener">Daderot · Wikimedia Commons · CC0 ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Thủy Nguyệt Quán Âm" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Dự án bài báo</div>
+        <h3>Khởi nguyên biểu tượng học của Thủy Nguyệt Quán Âm</h3>
+        <p>Đặt các nguồn kinh điển, truyền thuyết, địa hình linh thiêng, thực hành nghi lễ và quá trình kiến tạo biểu tượng trong cùng một hệ quan hệ.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Water-Moon_Avalokitesvara_(Freer_Gallery_of_Art).jpg" target="_blank" rel="noopener">Freer Gallery of Art · Wikimedia Commons ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Goryeo_Pagoda.jpg" alt="Bảo tháp đá thời Cao Ly" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Dự án bài báo</div>
+        <h3>« Cao Ly trường kỳ » và bảo tháp đá</h3>
+        <p>Xem xét lại cách phân kỳ theo triều đại từ những tính liên tục kiến trúc và trường kỳ của các hình thức kiến trúc kỷ niệm.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Goryeo_Pagoda.jpg" target="_blank" rel="noopener">sarahkim · Wikimedia Commons · CC BY-SA 2.0 ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Ancient_hangzhou.JPG" alt="Bản đồ cổ Hàng Châu" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Dự án bài báo</div>
+        <h3>Lưu chuyển Hàng Châu — Đại Đô — Khai Kinh</h3>
+        <p>Tái dựng các mạng lưới con người, hiện vật và mô hình nghệ thuật nối Trung Quốc thời Tống–Nguyên với Cao Ly.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Ancient_hangzhou.JPG" target="_blank" rel="noopener">Bản đồ cổ Hàng Châu · Wikimedia Commons ↗</a></small>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="pub-section" id="kmooc">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">Biên dịch học thuật</div>
+      <h2>Bản dịch K‑MOOC</h2>
+    </div>
+    <p>Các bản dịch phụ đề tiếng Pháp thực hiện cho chương trình K‑Academics về Phật giáo Hàn Quốc.</p>
+  </div>
+  <div class="kmooc-feature">
+    <div class="kmooc-top">
+      <p>Từ năm 2022, tôi dịch phụ đề các seminar video từ tiếng Hàn và tiếng Anh sang tiếng Pháp cho chương trình K‑Academics / K‑MOOC của Đại học Dongguk.</p>
+      <a class="kmooc-link" href="https://www.kmooc.kr/view/course/institution/kaep_dongguk" target="_blank" rel="noopener">Xem K‑MOOC của Đại học Dongguk ↗</a>
+    </div>
+    <ol class="kmooc-grid">
+      <li class="kmooc-item"><span class="kmooc-no">01</span><strong>Lịch sử nghệ thuật Phật giáo Hàn Quốc trong viễn cảnh toàn cầu</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">02</span><strong>Văn hóa Phật giáo Đông Á</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">03</span><strong>Pháp thuật và y học Phật giáo ở Hàn Quốc</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">04</span><strong>Chính trị và văn hóa Phật giáo ở Hàn Quốc</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">05</span><strong>Khảo cổ học Phật giáo Hàn Quốc</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">06</span><strong>Lịch sử Phật giáo Hàn Quốc và hoàng gia</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">07</span><strong>Sưu tập nghệ thuật Phật giáo Hàn Quốc tại các bảo tàng trên thế giới</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">08</span><strong>Phật giáo và ngoại giao tiền cận đại</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">09</span><strong>Kiến trúc Phật giáo</strong></li>
+    </ol>
+  </div>
+</section>
+
+<section class="pub-section" id="communications">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">Trình bày khoa học</div>
+      <h2>Tham luận và bài giảng mời</h2>
+    </div>
+    <p>Danh sách theo thời gian các tham luận, bài giảng mời và trình bày khoa học được ghi trong CV.</p>
+  </div>
+  <div class="talks-list">
+    <article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 12/2024</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">Paris, Pháp</span></div><div class="pub-talk-copy"><h3>Hội thảo khai mạc AFPEC</h3><p >Vượt qua chính sách bài Phật qua một “cửa sổ trình diễn”: các cảnh nghi lễ trong tranh Cam Lộ ở Hàn Quốc thế kỷ XVI.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 3/2024</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/us.svg" alt="Hoa Kỳ" loading="lazy">Seattle, Hoa Kỳ</span></div><div class="pub-talk-copy"><h3>Hội nghị thường niên của Hiệp hội Nghiên cứu Châu Á (AAS)</h3><p>Tổ chức panel: “Court Policy, State Politics, and Their Religious Outcomes in Pre-Modern East Asian Material Culture”.</p><p >Tham luận: Bypassing Anti-Buddhist Restrictions through a “Window of Performativity”: Ritual Scene Apparition in 16th Century Korean Buddhist Painting.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 7/2023</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/gb.svg" alt="Vương quốc Anh" loading="lazy">Cambridge, Vương quốc Anh</span></div><div class="pub-talk-copy"><h3>Thực hành địa phương và tín ngưỡng dân gian trong Phật giáo · Hội nghị nghiên cứu sinh Đông Á, Đại học Cambridge</h3><p >The Buddhist Ritual Ban and the Emergence of the “Sweet Dew Paintings” in 16th Century Korea.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 5/2023</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">Paris, Pháp</span></div><div class="pub-talk-copy"><h3>Ngày nghiên cứu viên trẻ của Trung tâm Nghiên cứu Trung Quốc, Hàn Quốc và Nhật Bản (UMR CCJ) · Trường Cao học Khoa học Xã hội (EHESS)</h3><p >Nếu hình ảnh không còn đại diện: câu hỏi về tính vật chất và biểu tượng học của hình ảnh Phật giáo trong mối liên hệ với nghi lễ cung đình Hàn Quốc (thế kỷ XIV–XVI).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 12/2022</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/de.svg" alt="Đức" loading="lazy">Berlin, Đức</span></div><div class="pub-talk-copy"><h3>Chuỗi bài giảng đặc biệt 2022 — Sưu tầm và bảo tồn nghệ thuật Hàn Quốc ở châu Âu · Đại học Tự do Berlin</h3><p >Encounter the Korean Buddhist collections from the Musée Guimet: Their history and masterpieces.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 5/2022</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">Paris, Pháp</span></div><div class="pub-talk-copy"><h3>Ngày nghiên cứu viên trẻ của Trung tâm Nghiên cứu Trung Quốc, Hàn Quốc và Nhật Bản (UMR CCJ) · Trường Cao học Khoa học Xã hội (EHESS)</h3><p >Từ hoài niệm đến sự đồng dạng: thị hiếu hướng về cái cổ trong nghệ thuật Phật giáo cung đình Hàn Quốc (1459–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 2/2022</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/us.svg" alt="Hoa Kỳ" loading="lazy">Houston, Hoa Kỳ</span></div><div class="pub-talk-copy"><h3>Bài giảng khách mời tại Trung tâm Chao · Đại học Rice</h3><p >Politic, Nostalgia and Imagination: An attempt to approach Korean Buddhist art.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 10/2021</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">La Rochelle, Pháp</span></div><div class="pub-talk-copy"><h3>Hội nghị của Hiệp hội Nghiên cứu Hàn Quốc tại Châu Âu (AKSE)</h3><p >Political practice “beyond the rituals”: The use of gendered and religious discourses in Korean Buddhist court images (1270–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 5/2021</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">Paris, Pháp</span></div><div class="pub-talk-copy"><h3>Ngày nghiên cứu viên trẻ của Trung tâm Nghiên cứu Trung Quốc, Hàn Quốc và Nhật Bản (UMR CCJ) · Trường Cao học Khoa học Xã hội (EHESS)</h3><p >Khi hình ảnh Phật giáo Hàn Quốc trở thành nghệ thuật cung đình: thích nghi, lưu chuyển và nữ tính hóa (1270–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 6/2018</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">Paris, Pháp</span></div><div class="pub-talk-copy"><h3>Hội nghị nghiên cứu Triều Tiên · Đại học Paris 1 Panthéon-Sorbonne</h3><p >Some examples of Buddhist and Taoist artistic heritage in North Korea.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 3/2017</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">Paris, Pháp</span></div><div class="pub-talk-copy"><h3>Hội nghị châu Âu về di sản và khảo cổ học Hàn Quốc · Trường Cao học Khoa học Xã hội (EHESS)</h3><p >Religious Art in North Korea: The Missing Link in Korean Heritage Studies.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Tháng 5/2016</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="Pháp" loading="lazy">Paris, Pháp</span></div><div class="pub-talk-copy"><h3>Hội thảo quốc tế về lịch sử nghệ thuật Phật giáo · Viện Quốc gia về Ngôn ngữ và Văn minh Phương Đông (INALCO)</h3><p>Journeys across the realm of the Dead: Narratives, rituals, and images.</p><p >Which hell for which Korea? An Aesthetic and Layout study about representations of the Ten Kings of Hell in Korean Peninsula.</p></div></article>
+  </div>
+</section>
+
+</main>
+```
