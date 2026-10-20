@@ -6,5 +6,122 @@ format:
     include-before-body: _includes/fr-header.html
     include-after-body: _includes/fr-footer.html
 ---
+```{=html}
+<link rel="stylesheet" href="/assets/css/publications.css">
+
 <section class="page-hero"><h1>Publications</h1></section>
-<main class="content"><p class="lead">Structured bibliography, articles, chapters and talks.</p><div class="card"><h3>Architecture en cours de construction</h3><p>Cette section sera alimentée avec les contenus scientifiques vérifiés.</p></div></main>
+
+<main class="publications-page">
+
+<section class="pub-intro">
+  <div>
+    <div class="pub-kicker">Publications &amp; activités éditoriales</div>
+    <h2>Articles, traductions et communications</h2>
+    <p>Cette page rassemble mes projets d’articles en cours, mes traductions françaises pour le programme K‑MOOC de l’Université Dongguk et mes communications scientifiques.</p>
+  </div>
+  <nav class="pub-nav" aria-label="Articles, traductions et communications">
+    <a href="#articles">Projets d’articles</a>
+    <a href="#kmooc">Traductions K‑MOOC</a>
+    <a href="#communications">Communications</a>
+  </nav>
+</section>
+
+<section class="pub-section" id="articles">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">Projets éditoriaux</div>
+      <h2>Projets d’articles</h2>
+    </div>
+    <p>Quatre projets structurent actuellement mon travail d’écriture, à des degrés d’avancement différents.</p>
+  </div>
+  <div class="pub-projects">
+    <article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" alt="Sweet Dew painting detail" loading="eager" fetchpriority="high">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Projet d’article</div>
+        <h3>Représenter le rituel sous contrainte : l’émergence des peintures de la Douce Rosée dans le Chosŏn du XVIe siècle</h3>
+        <p>Étude de l’émergence des <em>kamnodo</em> au XVIe siècle à partir de la reconfiguration des rites, de leur encadrement et de leur mise en image.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Gamnodo_detail_%28replica%29%2C_Souls_Receiving_the_Sweet_Dew_of_Immortality_from_Buddhas%2C_18th_century_-_Korean_Culture_Museum%2C_Incheon_Airport%2C_Seoul%2C_South_Korea_-_DSC00804.JPG" target="_blank" rel="noopener">Daderot · Wikimedia Commons · CC0 ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Water-Moon_Avalokitesvara_%28Freer_Gallery_of_Art%29.jpg" alt="Water-Moon Avalokiteśvara" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Projet d’article</div>
+        <h3>Origines iconographiques d’Avalokiteśvara à la lune d’eau</h3>
+        <p>Mettre en relation sources scripturaires, légendes, topographie sacrée, pratiques rituelles et construction de l’iconographie.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Water-Moon_Avalokitesvara_(Freer_Gallery_of_Art).jpg" target="_blank" rel="noopener">Freer Gallery of Art · Wikimedia Commons ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Goryeo_Pagoda.jpg" alt="Koryŏ stone pagoda" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Projet d’article</div>
+        <h3>Long Koryŏ et stoupas de pierre</h3>
+        <p>Réinterroger les découpages dynastiques à partir des continuités architecturales et de la longue durée des formes monumentales.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Goryeo_Pagoda.jpg" target="_blank" rel="noopener">sarahkim · Wikimedia Commons · CC BY-SA 2.0 ↗</a></small>
+      </div>
+    </article>
+<article class="pub-project">
+      <div class="pub-project-visual">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Ancient_hangzhou.JPG" alt="Historical map of Hangzhou" loading="lazy">
+      </div>
+      <div class="pub-project-copy">
+        <div class="pub-status">Projet d’article</div>
+        <h3>Circulations Hangzhou — Dadu — Kaegyŏng</h3>
+        <p>Reconstituer les réseaux de personnes, objets et modèles artistiques reliant la Chine des Song et des Yuan au Koryŏ.</p>
+        <small class="pub-image-credit"><a href="https://commons.wikimedia.org/wiki/File:Ancient_hangzhou.JPG" target="_blank" rel="noopener">Historical map of Hangzhou · Wikimedia Commons ↗</a></small>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="pub-section" id="kmooc">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">Traduction académique</div>
+      <h2>Traductions K‑MOOC</h2>
+    </div>
+    <p>Traductions françaises réalisées dans le cadre du programme K‑Academics consacré au bouddhisme coréen.</p>
+  </div>
+
+  <div class="kmooc-feature">
+    <div class="kmooc-top">
+      <p>Depuis 2022, je traduis vers le français des sous-titres de séminaires vidéo depuis le coréen et l’anglais pour le programme K‑Academics / K‑MOOC de l’Université Dongguk.</p>
+      <a class="kmooc-link" href="https://www.kmooc.kr/view/course/institution/kaep_dongguk" target="_blank" rel="noopener">Voir les K‑MOOC de Dongguk ↗</a>
+    </div>
+    <ol class="kmooc-grid">
+      <li class="kmooc-item"><span class="kmooc-no">01</span><strong>Histoire de l’art bouddhique coréen dans une perspective mondiale</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">02</span><strong>Cultures bouddhiques en Asie Orientale</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">03</span><strong>Magie et médecine bouddhique en Corée</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">04</span><strong>Politique et culture bouddhique en Corée</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">05</span><strong>Archéologie bouddhique coréenne</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">06</span><strong>Histoire du bouddhisme coréen et cour royale</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">07</span><strong>Collections d’art bouddhique coréen dans les musées du monde</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">08</span><strong>Bouddhisme et diplomatie prémoderne</strong></li>
+<li class="kmooc-item"><span class="kmooc-no">09</span><strong>Architecture bouddhique</strong></li>
+    </ol>
+  </div>
+</section>
+
+<section class="pub-section" id="communications">
+  <div class="pub-section-head">
+    <div>
+      <div class="pub-section-kicker">Présentations scientifiques</div>
+      <h2>Communications scientifiques</h2>
+    </div>
+    <p>Liste chronologique des communications, conférences invitées et interventions scientifiques figurant dans mon CV.</p>
+  </div>
+  <div class="talks-list">
+    <article class="pub-talk"><div class="pub-talk-meta"><strong>Décembre 2024</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">Paris, France</span></div><div class="pub-talk-copy"><h3>Colloque inaugural de l’AFPEC</h3><p >Contourner la politique anti-bouddhique à travers « une fenêtre performative » : les scènes de rituels dans les peintures de la Douce Rosée au XVIe siècle en Corée.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Mars 2024</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/us.svg" alt="États-Unis" loading="lazy">Seattle, États-Unis</span></div><div class="pub-talk-copy"><h3>Congrès annuel de l’Association for Asian Studies (AAS)</h3><p>Organisateur du panel : “Court Policy, State Politics, and Their Religious Outcomes in Pre-Modern East Asian Material Culture”.</p><p >Communication : Bypassing Anti-Buddhist Restrictions through a “Window of Performativity”: Ritual Scene Apparition in 16th Century Korean Buddhist Painting.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Juillet 2023</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/gb.svg" alt="Royaume-Uni" loading="lazy">Cambridge, Royaume-Uni</span></div><div class="pub-talk-copy"><h3>Pratiques locales et croyances populaires dans le bouddhisme · Conférence des doctorants en études est-asiatiques de l’Université de Cambridge</h3><p >The Buddhist Ritual Ban and the Emergence of the “Sweet Dew Paintings” in 16th Century Korea.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Mai 2023</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">Paris, France</span></div><div class="pub-talk-copy"><h3>Journée des jeunes chercheurs de l’UMR Chine, Corée, Japon · EHESS</h3><p >Et si l’image ne représente plus : questions autour de la matérialité et l’iconographie des images bouddhiques en lien avec les rituels de cour en Corée (XIVe–XVIe siècle).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Décembre 2022</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/de.svg" alt="Allemagne" loading="lazy">Berlin, Allemagne</span></div><div class="pub-talk-copy"><h3>Cycle de conférences 2022 — Collectionner et préserver l’art coréen en Europe · Université libre de Berlin</h3><p >Encounter the Korean Buddhist collections from the Musée Guimet: Their history and masterpieces.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Mai 2022</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">Paris, France</span></div><div class="pub-talk-copy"><h3>Journée des jeunes chercheurs de l’UMR Chine, Corée, Japon · EHESS</h3><p >De la nostalgie aux mêmes : un goût pour l’ancien dans l’art bouddhique de cour en Corée (1459–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Février 2022</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/us.svg" alt="États-Unis" loading="lazy">Houston, États-Unis</span></div><div class="pub-talk-copy"><h3>Conférence invitée du Chao Center · Université Rice</h3><p >Politic, Nostalgia and Imagination: An attempt to approach Korean Buddhist art.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Octobre 2021</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">La Rochelle, France</span></div><div class="pub-talk-copy"><h3>Conférence de l’AKSE</h3><p >Political practice “beyond the rituals”: The use of gendered and religious discourses in Korean Buddhist court images (1270–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Mai 2021</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">Paris, France</span></div><div class="pub-talk-copy"><h3>Journée des jeunes chercheurs de l’UMR Chine, Corée, Japon · EHESS</h3><p >Quand les images bouddhiques coréennes sont un art de cour : adaptations, circulations et féminisation (1270–1598).</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Juin 2018</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">Paris, France</span></div><div class="pub-talk-copy"><h3>Conférence d’études sur la Corée du Nord · Université Paris 1 Panthéon-Sorbonne</h3><p >Some examples of Buddhist and Taoist artistic heritage in North Korea.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Mars 2017</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">Paris, France</span></div><div class="pub-talk-copy"><h3>Conférence européenne sur le patrimoine et l’archéologie coréens · EHESS</h3><p >Religious Art in North Korea: The Missing Link in Korean Heritage Studies.</p></div></article><article class="pub-talk"><div class="pub-talk-meta"><strong>Mai 2016</strong><span class="pub-talk-place"><img class="cv-flag-img" src="/assets/flags/fr.svg" alt="France" loading="lazy">Paris, France</span></div><div class="pub-talk-copy"><h3>Atelier international d’histoire de l’art bouddhique · INALCO</h3><p>Journeys across the realm of the Dead: Narratives, rituals, and images.</p><p >Which hell for which Korea? An Aesthetic and Layout study about representations of the Ten Kings of Hell in Korean Peninsula.</p></div></article>
+  </div>
+</section>
+
+</main>
+```
