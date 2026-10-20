@@ -1,0 +1,236 @@
+---
+title: "[[TITRE DE L’EXPOSITION]]"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+
+<!--
+GABARIT CANONIQUE — COMPTE RENDU DE VISITE D’EXPOSITION
+
+Objectif :
+Documenter une exposition visitée en articulant contenu scientifique, expérience de visite,
+œuvres/objets observés, scénographie et documentation photographique.
+
+Mode d’emploi :
+1. Dupliquer ce fichier et le renommer avec un slug explicite :
+   fr/expositions/nom-de-l-exposition.qmd
+2. Créer un dossier d’images :
+   assets/images/expositions/nom-de-l-exposition/
+3. Remplacer tous les champs [[...]].
+4. Conserver l’ordre des sections afin que les comptes rendus restent comparables.
+5. Pour les photographies, privilégier ses propres images et vérifier les conditions de
+   prise de vue / publication du musée lorsque nécessaire.
+-->
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+
+<main class="exhibit-report" id="haut">
+  <header class="exhibit-report__hero">
+    <div class="exhibit-report__shell">
+      <figure class="exhibit-report__hero-image">
+        <img src="[[URL_IMAGE_PRINCIPALE]]" alt="Vue de l’exposition [[TITRE DE L’EXPOSITION]]" loading="eager" decoding="async">
+        <figcaption>[[LÉGENDE IMAGE PRINCIPALE · ŒUVRE / SALLE / CRÉDIT SI NÉCESSAIRE]]</figcaption>
+      </figure>
+
+      <div class="exhibit-report__hero-copy">
+        <div class="exhibit-report__eyebrow">Compte rendu d’exposition · [[DOMAINE / PÉRIODE / AIRE CULTURELLE]]</div>
+        <h1>[[TITRE DE L’EXPOSITION]]</h1>
+        <p class="exhibit-report__venue">[[MUSÉE]] · [[VILLE]]</p>
+
+        <dl class="exhibit-report__meta" aria-label="Informations sur l’exposition">
+          <div><dt>Dates de l’exposition</dt><dd>[[DATE DÉBUT]] — [[DATE FIN]]</dd></div>
+          <div><dt>Date de visite</dt><dd>[[DATE DE VISITE]]</dd></div>
+          <div><dt>Musée</dt><dd>[[MUSÉE]]</dd></div>
+          <div><dt>Ville</dt><dd>[[VILLE · PAYS]]</dd></div>
+          <div><dt>Commissariat</dt><dd>[[COMMISSAIRE(S)]]</dd></div>
+          <div><dt>Type</dt><dd>[[TEMPORAIRE / COLLECTION / RÉTROSPECTIVE / THÉMATIQUE / AUTRE]]</dd></div>
+        </dl>
+
+        <div class="exhibit-report__question">
+          <strong>Fil directeur :</strong> [[QUESTION, THÈSE OU PROBLÉMATIQUE CENTRALE DE L’EXPOSITION]]
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="exhibit-report__nav-wrap">
+    <nav class="exhibit-report__shell exhibit-report__nav" aria-label="Sommaire du compte rendu">
+      <a href="#pourquoi">Pourquoi la voir ?</a>
+      <a href="#proposition">Proposition curatoriale</a>
+      <a href="#parcours">Parcours & scénographie</a>
+      <a href="#oeuvres">Œuvres à retenir</a>
+      <a href="#galerie">Galerie</a>
+      <a href="#comprendre">Ce qu’elle permet de comprendre</a>
+      <a href="#critique">Lecture critique</a>
+      <a href="#ressources">Pour aller plus loin</a>
+      <a href="#bilan">Bilan</a>
+    </nav>
+  </div>
+
+  <section class="exhibit-report__section" id="pourquoi">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">01 · Essentiel</div>
+        <h2>Pourquoi voir cette exposition ?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>[[5 À 10 LIGNES. EXPLIQUER CE QUI JUSTIFIE LA VISITE : RARETÉ DU CORPUS, QUALITÉ DES PRÊTS, NOUVELLE LECTURE D’UN SUJET, INTÉRÊT POUR L’HISTOIRE DE L’ART, LE BOUDDHISME OU L’ASIE. NE PAS RÉSUMER LE PARCOURS.]]</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="proposition">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">02 · Curatorial</div>
+        <h2>Quelle est la proposition de l’exposition ?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p class="exhibit-report__thesis">[[FORMULER L’IDÉE DIRECTRICE DE L’EXPOSITION : CE QUE LES COMMISSAIRES CHERCHENT À MONTRER OU À DÉMONTRER. DISTINGUER LE SUJET DE LA THÈSE.]]</p>
+        <ul class="exhibit-report__keypoints">
+          <li><strong>[[AXE 1]]</strong>[[EXPLICATION CONCISE]]</li>
+          <li><strong>[[AXE 2]]</strong>[[EXPLICATION CONCISE]]</li>
+          <li><strong>[[AXE 3]]</strong>[[EXPLICATION CONCISE]]</li>
+          <li><strong>[[AXE 4]]</strong>[[EXPLICATION CONCISE]]</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="parcours">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">03 · Visite</div>
+        <h2>Parcours et scénographie</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>[[DÉCRIRE L’ORGANISATION DU PARCOURS : CHRONOLOGIQUE, THÉMATIQUE, GÉOGRAPHIQUE, MONOGRAPHIQUE, ETC. EXPLIQUER COMMENT L’ESPACE, LA LUMIÈRE, LES CARTELS, LES VITRINES, LES RECONSTITUTIONS OU LES DISPOSITIFS MULTIMÉDIAS SERVENT — OU DESSERVENT — LE PROPOS.]]</p>
+
+        <ol class="exhibit-report__route">
+          <li><strong>[[SÉQUENCE / SALLE 1]]</strong><span>[[RÔLE DANS LE PARCOURS ET OBJETS PRINCIPAUX]]</span></li>
+          <li><strong>[[SÉQUENCE / SALLE 2]]</strong><span>[[RÔLE DANS LE PARCOURS ET OBJETS PRINCIPAUX]]</span></li>
+          <li><strong>[[SÉQUENCE / SALLE 3]]</strong><span>[[RÔLE DANS LE PARCOURS ET OBJETS PRINCIPAUX]]</span></li>
+          <li><strong>[[SÉQUENCE / SALLE 4]]</strong><span>[[RÔLE DANS LE PARCOURS ET OBJETS PRINCIPAUX]]</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="oeuvres">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">04 · Sélection</div>
+        <h2>Œuvres et objets à retenir</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__works">
+          <article class="exhibit-report__work">
+            <img src="[[URL_OEUVRE_1]]" alt="[[TITRE / DESCRIPTION ŒUVRE 1]]" loading="lazy">
+            <div><h3>[[TITRE / NOM ŒUVRE 1]]</h3><p class="exhibit-report__work-meta">[[DATE · MATÉRIAU · PROVENANCE · COLLECTION]]</p><p>[[POURQUOI CETTE ŒUVRE EST IMPORTANTE DANS L’EXPOSITION ET CE QU’ELLE PERMET DE COMPRENDRE.]]</p></div>
+          </article>
+          <article class="exhibit-report__work">
+            <img src="[[URL_OEUVRE_2]]" alt="[[TITRE / DESCRIPTION ŒUVRE 2]]" loading="lazy">
+            <div><h3>[[TITRE / NOM ŒUVRE 2]]</h3><p class="exhibit-report__work-meta">[[DATE · MATÉRIAU · PROVENANCE · COLLECTION]]</p><p>[[POURQUOI CETTE ŒUVRE EST IMPORTANTE DANS L’EXPOSITION ET CE QU’ELLE PERMET DE COMPRENDRE.]]</p></div>
+          </article>
+          <article class="exhibit-report__work">
+            <img src="[[URL_OEUVRE_3]]" alt="[[TITRE / DESCRIPTION ŒUVRE 3]]" loading="lazy">
+            <div><h3>[[TITRE / NOM ŒUVRE 3]]</h3><p class="exhibit-report__work-meta">[[DATE · MATÉRIAU · PROVENANCE · COLLECTION]]</p><p>[[POURQUOI CETTE ŒUVRE EST IMPORTANTE DANS L’EXPOSITION ET CE QU’ELLE PERMET DE COMPRENDRE.]]</p></div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section exhibit-report__section--gallery" id="galerie">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">05 · Photographies</div>
+        <h2>Galerie de visite</h2>
+      </div>
+      <div class="exhibit-report__gallery">
+        <figure class="is-wide"><img src="[[URL_PHOTO_1]]" alt="[[DESCRIPTION PHOTO 1]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 1]]</figcaption></figure>
+        <figure><img src="[[URL_PHOTO_2]]" alt="[[DESCRIPTION PHOTO 2]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 2]]</figcaption></figure>
+        <figure><img src="[[URL_PHOTO_3]]" alt="[[DESCRIPTION PHOTO 3]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 3]]</figcaption></figure>
+        <figure><img src="[[URL_PHOTO_4]]" alt="[[DESCRIPTION PHOTO 4]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 4]]</figcaption></figure>
+        <figure><img src="[[URL_PHOTO_5]]" alt="[[DESCRIPTION PHOTO 5]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 5]]</figcaption></figure>
+        <figure class="is-wide"><img src="[[URL_PHOTO_6]]" alt="[[DESCRIPTION PHOTO 6]]" loading="lazy"><figcaption>[[LÉGENDE PHOTO 6]]</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="comprendre">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">06 · Connaissances</div>
+        <h2>Ce que l’exposition permet de comprendre</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__keypoints">
+          <li><strong>[[IDÉE FORTE 1]]</strong>[[EXPLICATION]]</li>
+          <li><strong>[[IDÉE FORTE 2]]</strong>[[EXPLICATION]]</li>
+          <li><strong>[[IDÉE FORTE 3]]</strong>[[EXPLICATION]]</li>
+          <li><strong>[[IDÉE FORTE 4]]</strong>[[EXPLICATION]]</li>
+        </ul>
+        <div class="exhibit-report__research">
+          <strong>Intérêt pour mes recherches :</strong>
+          <p>[[RELIER EXPLICITEMENT LA VISITE À TES THÈMES DE RECHERCHE : ICONOGRAPHIE, MATÉRIAUX, CIRCULATION, ARCHITECTURE, RITUELS, ESPACES SACRÉS, HISTOIRE DE L’ASIE, ETC.]]</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="critique">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">07 · Lecture critique</div>
+        <h2>Forces et limites</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__critique">
+          <div><strong>Ce qui fonctionne</strong><p>[[QUALITÉ DU CORPUS, COHÉRENCE DU PARCOURS, CARTELS, COMPARAISONS, SCÉNOGRAPHIE, APPORT SCIENTIFIQUE, ETC.]]</p></div>
+          <div><strong>Ce qui convainc moins</strong><p>[[ANGLES MORTS, OBJETS MANQUANTS, CONTEXTE TROP FAIBLE, CHRONOLOGIE, TERMINOLOGIE, SCÉNOGRAPHIE, SURINTERPRÉTATION, ETC.]]</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="ressources">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">08 · Documentation</div>
+        <h2>Pour aller plus loin</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__resources">
+          <li><strong>Catalogue :</strong> [[RÉFÉRENCE DU CATALOGUE OU « NON CONSULTÉ »]]</li>
+          <li><strong>Page du musée :</strong> <a href="[[URL_PAGE_MUSÉE]]">[[TITRE / LIEN]]</a></li>
+          <li><strong>Bibliographie :</strong> [[1 À 3 RÉFÉRENCES UTILES]]</li>
+          <li><strong>Notes :</strong> [[CONFÉRENCE, AUDIOGUIDE, ENTRETIEN, DOSSIER DE PRESSE OU AUTRE SOURCE]]</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="bilan">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">09 · Conclusion</div>
+        <h2>Bilan</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__verdict">
+          <div class="exhibit-report__verdict-label">Appréciation</div>
+          <strong>[[INCONTOURNABLE / TRÈS RECOMMANDÉE / INTÉRESSANTE / SPÉCIALISÉE / DISPENSABLE]]</strong>
+          <p>[[3 À 5 LIGNES. RÉSUMER CE QUI RESTE DE LA VISITE : APPORT SCIENTIFIQUE, QUALITÉ DES ŒUVRES ET EFFICACITÉ DU DISPOSITIF MUSÉOGRAPHIQUE.]]</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="exhibit-report__shell exhibit-report__backtop"><a href="#haut">↑ Retour en haut</a></div>
+</main>
+```
