@@ -37,6 +37,18 @@ format:
       <p>仏画、彫刻、経典、仏具を通して、高麗から朝鮮へ続く祈りと仏教物質文化の連続性を考える特集展示。</p>
       <span class="exhibition-card-link">レビューを読む →</span>
     </a>
+
+    <a class="exhibition-card" href="/ja/exhibitions/dreaming-of-sukhavati.html">
+      <div class="exhibition-card-image">
+        <img src="https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg" alt="꿈꾸는 즐거움, 극락極樂" loading="lazy" referrerpolicy="no-referrer">
+      </div>
+      <div class="exhibition-card-domain">韓国仏教美術 · 阿弥陀如来 · 極楽浄土 · 朝鮮</div>
+      <h2>꿈꾸는 즐거움, 극락極樂</h2>
+      <p class="exhibition-card-subtitle">極楽を夢みる喜び — 阿弥陀如来の浄土</p>
+      <p class="exhibition-card-meta">仏教中央博物館 · ソウル · 2016年10月19日 — 12月18日</p>
+      <p>阿弥陀如来、九品往生、念仏、極楽浄土の視覚化を総合的に扱った韓国仏教美術の重要展。</p>
+      <span class="exhibition-card-link">レビューを読む →</span>
+    </a>
   </div>
 </div>
 
