@@ -1,0 +1,13 @@
+---
+title: "Triển lãm"
+lang: vi
+format:
+  html:
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
+---
+<section class="page-hero"><h1>Triển lãm</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">Ghi chép, nhận xét và lộ trình tham quan các triển lãm trong bảo tàng, liên quan đến nghệ thuật Phật giáo, châu Á và lịch sử nghệ thuật.</p>
+<div class="database-empty-state"><h2>Các triển lãm đã xem</h2><p>Mục này sẽ dần tập hợp những ghi chép và nhận xét của tôi về các triển lãm trong bảo tàng.</p></div>
+</div></main>
