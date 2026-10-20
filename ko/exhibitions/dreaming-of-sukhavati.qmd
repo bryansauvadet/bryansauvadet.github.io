@@ -1,0 +1,64 @@
+---
+title: "꿈꾸는 즐거움, 극락極樂"
+lang: ko
+image: https://museum.buddhism.or.kr/files/2016/09/28/e644698d28bdca7695804f8ccf784a6d091715.jpg
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--pure-land" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="영주 흑석사 목조아미타여래좌상, 1458년" loading="eager" decoding="async" referrerpolicy="no-referrer"><figcaption><em>영주 흑석사 목조아미타여래좌상</em>, 1458년. 조선 전기 왕실 발원 불교조각의 대표작이자 전시의 핵심 작품.</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">전시 리뷰 · 한국 불교미술 · 아미타여래 · 극락정토</div>
+<h1>꿈꾸는 즐거움, 극락極樂</h1>
+<p class="exhibit-report__venue"><em>아미타여래의 극락정토를 이미지로 읽다</em><br>불교중앙박물관 · 서울</p>
+<dl class="exhibit-report__meta" aria-label="전시 정보">
+<div><dt>전시기간</dt><dd>2016년 10월 19일 — 12월 18일</dd></div>
+<div><dt>박물관</dt><dd>불교중앙박물관</dd></div>
+<div><dt>도시</dt><dd>서울 · 대한민국</dd></div>
+<div><dt>출품</dt><dd>성보 97점 · 국보 1건 · 보물 8건</dd></div>
+<div><dt>주제</dt><dd>아미타신앙 · 극락정토 · 왕생</dd></div>
+<div><dt>유형</dt><dd>특별전 · 불교미술</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>핵심 질문:</strong> 한국 불교미술은 아미타여래의 극락에 왕생하려는 염원을 어떻게 보이는 이미지와 공간, 의례로 만들었는가?</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav"><a href="#why">왜 중요한가</a><a href="#proposal">기획 의도</a><a href="#route">전시 구성</a><a href="#works">주요 작품</a><a href="#understand">이해할 점</a><a href="#resources">자료</a><a href="#verdict">총평</a></nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · 핵심</div><h2>왜 중요한 전시인가</h2></div><div class="exhibit-report__content">
+<p><em>꿈꾸는 즐거움, 극락極樂</em>은 극락을 하나의 도상 주제로만 다루지 않았다. 아미타여래, 극락의 풍경, 왕생의 방법, 발원, 그리고 죽은 이를 극락으로 인도하는 이미지까지 하나의 신앙 체계로 연결했다.</p>
+<p>회화, 조각, 경전, 범종과 봉헌물을 재료별로 분리하지 않고 염불, 공덕, 관상, 죽음과 왕생이라는 실천의 연쇄 속에 놓은 점이 특히 중요하다. 성보는 감상의 대상이 아니라 행위를 가능하게 하는 매개가 된다.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a4416341551993f740daa8b2f50ecf87101437.jpg" alt="꿈꾸는 즐거움, 극락 전시장 전경" loading="lazy" referrerpolicy="no-referrer"><figcaption>전시장 전경. 불상과 대형 불화를 함께 배치해 아미타신앙의 의례 공간을 보여 준다.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · 기획</div><h2>전시의 제안</h2></div><div class="exhibit-report__content">
+<p class="exhibit-report__thesis">극락은 단순히 그림 속의 천국이 아니라 경전, 이미지, 건축, 염불과 발원을 조직하는 구원의 시각적·의례적 구조이다.</p>
+<ul class="exhibit-report__keypoints"><li><strong>경전에서 출발한다.</strong> 『무량수경』, 『관무량수경』, 『아미타경』을 도상 이해의 기반으로 삼는다.</li><li><strong>극락을 공간으로 본다.</strong> 연못, 누각, 성중, 연화화생을 통해 정토를 구체적인 풍경으로 만든다.</li><li><strong>구원을 실천으로 본다.</strong> 염불, 발원, 보시는 미술품을 공덕의 체계 안에 놓는다.</li><li><strong>죽음과 미술을 연결한다.</strong> 내영과 반야용선은 죽음 이후의 이동을 하나의 시각적 여정으로 만든다.</li></ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · 관람</div><h2>다섯 단계의 전시 구성</h2></div><div class="exhibit-report__content">
+<ol class="exhibit-report__route"><li><strong>극락의 주재자, 아미타여래.</strong><span>정토삼부경, 수인, 관음·대세지보살을 통해 아미타신앙의 기초를 정리한다.</span></li><li><strong>즐거움만 가득한 곳, 극락세계.</strong><span>불화와 극락전 재현을 통해 정토를 실제 공간처럼 경험하게 한다.</span></li><li><strong>극락으로 가는 방법, 극락구품도.</strong><span>『관무량수경』의 구품왕생이 조선 후기 불화에서 어떻게 재구성되었는지 보여 준다.</span></li><li><strong>극락을 염원하다.</strong><span>발원문, 시주, 염불수행을 통해 신앙인의 구체적인 바람을 읽는다.</span></li><li><strong>극락으로 인도하다.</strong><span>내영, 인로왕보살, 반야용선 이미지를 통해 죽은 이를 서방정토로 보내는 과정을 시각화한다.</span></li></ol>
+<figure class="exhibit-report__figure"><img src="https://museum.buddhism.or.kr/files/2016/11/02/a231dff37897f9b13a7467f1d548e275101437.jpg" alt="전시된 소형 금동불상" loading="lazy" referrerpolicy="no-referrer"><figcaption>전시된 소형 금동불상. 대형 불화와 다른 친밀한 규모의 예배 이미지를 보여 준다.</figcaption></figure>
+<p>특히 흥천사 극락보전을 모델로 극락전 공간을 재구성하고 목조아미타불좌상, 극락구품도, 아미타회상도를 함께 제시한 방식은 건축과 이미지가 분리될 수 없음을 잘 보여 주었다.</p>
+</div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 작품</div><h2>주요 작품</h2></div><div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://museum.buddhism.or.kr/files/2016/10/12/1f608789ab619ae250549ebdeb4eb72a151511.jpg" alt="영주 흑석사 목조아미타여래좌상" loading="lazy" referrerpolicy="no-referrer"><div><h3>영주 흑석사 목조아미타여래좌상</h3><p class="exhibit-report__work-meta">1458년 · 조선 전기 · 목조 금칠 · 국보</p><p>조선 전기 왕실 발원 불교조각을 대표하는 작품이다. 복장 유물은 조성 경위와 시주자, 봉안 과정에 동반된 문자문화를 구체적으로 알려 준다.</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.icpn.co.kr/news/photo/202005/10753_22314_1158.jpg" alt="영천 은해사 염불왕생첩경도" loading="lazy" referrerpolicy="no-referrer"><div><h3>영천 은해사 염불왕생첩경도</h3><p class="exhibit-report__work-meta">조선 후기 · 은해사 · 보물</p><p>아미타불의 이름을 부르는 염불, 극락의 풍경, 수행자의 왕생을 하나의 화면에 통합한다. 소리의 수행을 구원의 지리로 번역한 작품이다.</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202206/218339_239358_951.jpg" alt="익산 심곡사 금동아미타여래칠존좌상" loading="lazy" referrerpolicy="no-referrer"><div><h3>익산 심곡사 금동아미타여래칠존좌상</h3><p class="exhibit-report__work-meta">금동 · 석탑 출토 · 보물</p><p>탑 안에 봉안되었던 소형 불상군은 불상이 언제나 정면 감상을 위해 만들어진 것이 아니라 건축 내부에 성스러운 존재를 응축하는 역할도 했음을 보여 준다.</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/201910/202591_205230_4551.jpg" alt="극락구품도" loading="lazy" referrerpolicy="no-referrer"><div><h3>극락구품도</h3><p class="exhibit-report__work-meta">조선 후기 · 정토 불화</p><p>연못과 연화화생을 통해 구품왕생을 시각적으로 분류한다. 극락을 도덕적·구원론적 지도로 바꾸는 대표적인 시각 장치이다.</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · 이해</div><h2>이 전시가 보여 주는 것</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__keypoints"><li><strong>극락은 시각적으로 구성된다.</strong> 경전의 서술이 선택되고 재배열되어 이해하기 쉬운 풍경이 된다.</li><li><strong>불교 이미지는 수행한다.</strong> 염불, 관상, 공덕, 죽음의 준비를 돕는 기능을 갖는다.</li><li><strong>아미타신앙은 여러 사회층을 연결한다.</strong> 왕실, 승려, 재가 신자가 같은 구원 체계에 참여한다.</li><li><strong>건축도 이미지의 일부다.</strong> 극락전 내부의 위계를 복원할 때 불화와 불상의 관계가 명확해진다.</li></ul><div class="exhibit-report__research"><strong>불교미술사적 의의</strong><p>구품왕생, 연화화생, 아미타의 수인, 내영, 용선, 발원문을 장식이 아니라 구원 사상을 작동시키는 시각 장치로 읽게 한다는 점이 이 전시의 가장 큰 가치다.</p></div></div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · 자료</div><h2>더 읽기</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__resources"><li><strong>공식 페이지:</strong> <a href="https://museum.buddhism.or.kr/?c=2/14&p=14&uid=181" target="_blank" rel="noopener">불교중앙박물관 — 꿈꾸는 즐거움, 극락極樂</a>.</li><li><strong>도록:</strong> 불교중앙박물관, <em>꿈꾸는 즐거움, 극락極樂</em>, 2016, 223쪽.</li><li><strong>핵심 경전:</strong> 『무량수경』, 『관무량수경』, 『아미타경』.</li></ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · 결론</div><h2>총평</h2></div><div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">평가</div><strong>구원이 어떻게 이미지가 되는지 보여 주는 기준적인 전시</strong><p><em>꿈꾸는 즐거움, 극락極樂</em>은 명품을 나열하기보다 경전, 이미지, 건축, 염불과 죽음의 의례가 서로 연결되는 종교적 세계를 복원했다. 극락을 하나의 도상 주제가 아니라 종합적인 시각·의례 체계로 이해하게 한다는 점에서 중요하다.</p></div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ 맨 위로</a></div>
+</main>
+```
