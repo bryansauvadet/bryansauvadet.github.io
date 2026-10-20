@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">Une sélection d’ouvrages à lire pour mieux comprendre l’histoire de l’art bouddhique, le bouddhisme, l’histoire de l’Asie, l’archéologie et l’architecture.</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/fr/lectures/choson-buddhist-painting.html">
+<div class="reading-book-cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="Couverture de 조선의 불교회화" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">Peinture bouddhique coréenne · dynastie Chosŏn · rituel · espace monastique</div>
+<h2>조선의 불교회화</h2>
+<p class="reading-book-author">Chŏng Myŏnghŭi · 사회평론아카데미 · 2024</p>
+<p>Pourquoi les peintures bouddhiques de Chosŏn doivent être étudiées avec les autels, l’architecture et les rituels qui déterminaient leur fonction.</p>
+<span class="reading-book-link">Lire la fiche →</span>
+</a>
 <a class="reading-book-card" href="/fr/lectures/domesticating-the-dharma.html">
 <div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Couverture de Domesticating the Dharma" loading="lazy"></div>
 <div class="reading-book-domain">Bouddhisme coréen · le Silla · Hwaŏm · Cultes et rituels</div>

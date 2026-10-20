@@ -1,0 +1,37 @@
+---
+title: "조선의 불교회화"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-lecture.css">
+<main class="book-report" id="haut">
+<header class="book-report__hero"><div class="book-report__shell book-report__hero-grid">
+<figure class="book-report__cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="Chŏng Myŏnghŭi《조선의 불교회화》封面" loading="eager" decoding="async" referrerpolicy="no-referrer"></figure>
+<div><div class="book-report__eyebrow">書評 · 朝鮮王朝佛教繪畫 · 儀式 · 寺院空間</div><h1>조선의 불교회화</h1><p class="book-report__author">朝鮮王朝的佛教繪畫<br>Chŏng Myŏnghŭi（정명희）</p>
+<dl class="book-report__meta" aria-label="書目資料">
+<div><dt>出版年</dt><dd>2024</dd></div>
+<div><dt>出版社</dt><dd>사회평론아카데미</dd></div>
+<div><dt>語言</dt><dd>韓文</dd></div>
+<div><dt>領域</dt><dd>佛教藝術史 · 韓國繪畫史 · Chosŏn · 佛教儀式史</dd></div>
+<div><dt>類型</dt><dd>學術專著</dd></div>
+<div><dt>書目</dt><dd>ISBN 979-11-6707-150-7 · 496頁</dd></div>
+</dl>
+<div class="book-report__domain"><strong>核心問題：</strong> 如果不把Chosŏn佛畫視為孤立的平面作品，而是放回寺院空間、三壇配置與儀式行動之中，我們會如何重新理解它？</div></div></div></header>
+<div class="book-report__nav-wrap"><nav class="book-report__shell book-report__nav" aria-label="書評目錄"><a href="#pourquoi-lire">為何必讀</a><a href="#comprendre">能理解什麼</a><a href="#apports">學術貢獻</a><a href="#reperes">關鍵作品</a><a href="#these">作者論點</a><a href="#changement">改變了什麼</a><a href="#limites">限制</a><a href="#public">適合誰</a><a href="#verdict">評價</a></nav></div>
+<section class="book-report__section" id="pourquoi-lire"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">01 · 核心</div><h2>為什麼要讀這本書？</h2></div><div class="book-report__content"><p>本書對佛教藝術史的重要性，在於它改變了問題本身。Chŏng Myŏnghŭi不只問佛畫「畫了什麼」，還追問它<em>掛在哪裡</em>、屬於<em>哪一座壇</em>、在<em>什麼儀式</em>中使用，以及信徒實際上如何看見它。佛畫因此不再是一張與環境分離的平面圖像，而重新成為由佛像、佛壇、建築、儀式僧、信眾與移動共同構成的宗教裝置。</p><p>這一視角能說明Chosŏn主佛殿為何同時安置多幅佛畫，三壇如何分配不同圖像的儀式功能，以及巨大的<em>kwaebul</em>（괘불）為何會離開殿內進入戶外儀式。對只從圖像學與風格史理解韓國佛畫的讀者而言，這本書會迫使人重新觀看作品。</p></div></div></section>
+<section class="book-report__section" id="comprendre"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">02 · 知識</div><h2>這本書讓我們理解什麼</h2></div><div class="book-report__content"><ul class="book-report__keypoints"><li><strong>佛畫不只有圖像，也有功能。</strong> 同一類型的畫作會因壇位、殿堂、儀式與觀看關係不同而具有不同作用。</li><li><strong>主佛殿是一個有秩序的儀式空間。</strong> 三壇制度的形成，解釋了為何多幅佛畫會在同一建築中形成一套互相關聯的配置。</li><li><strong>建築與佛像會改變繪畫形式。</strong> 佛像大小、後佛壁與實際視線會使佛畫某些部分被遮蔽或突出。</li><li><strong>佛畫可以移動。</strong> 當儀式擴展到中庭與戶外，圖像也跟著移動；巨型<em>kwaebul</em>建立新的公共視覺中心。</li><li><strong>佛教儀式集也是藝術史史料。</strong> 它們能重建壇位與儀式程序，解釋單靠風格分析無法理解的圖像名稱與用途。</li></ul></div></div></section>
+<section class="book-report__section" id="apports"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">03 · 視野</div><h2>對藝術史、佛教史與東亞史的貢獻</h2></div><div class="book-report__content"><p><strong>對藝術史</strong>，本書最大的貢獻是方法論：把圖像與風格重新放回具體的安置條件與可見性之中。佛像與後方佛畫的關係顯示，構圖不只是教義的結果，也受到觀看位置、尺度與安裝方式制約。</p><p><strong>對佛教史</strong>，佛畫被視為構成儀式效力的媒介，而非附屬裝飾。圖像使被召請的尊格「在場」，區分不同壇位，並參與面向亡者與護法神等對象的儀式。</p><p><strong>對韓國史與東亞史</strong>，本書揭示Chosŏn寺院獨特的空間運作：在主佛殿內以三壇協調多重儀式。這也促使我們與Koryŏ、中國及日本進行比較。</p></div></div></section>
+<section class="book-report__section" id="reperes"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">04 · 關鍵項目</div><h2>值得記住的作品、裝置與史料</h2></div><div class="book-report__content"><ul class="book-report__entities"><li><strong>Chingwansa（진관사）與Suryukchae（수륙재）</strong><span>水陸齋相關記錄是理解Chosŏn前期三壇與儀式空間形成的重要文獻線索。</span></li><li><strong>Hubult’aeng（후불탱）</strong><span>掛在主尊佛像後方的佛畫，是理解雕塑、繪畫、上壇與實際可見性之間關係的核心案例。</span></li><li><strong>Kwanŭm posaldo（관음보살도）</strong><span>後佛壁背面的觀音菩薩圖表明，即使不易被看見的區域，也可能具有明確的儀式功能。</span></li><li><strong>Samjang posaldo（삼장보살도）</strong><span>此類佛畫有助於理解中壇的功能，以及水陸齋等儀式中尊格群的配置。</span></li><li><strong>Kamnodo（감로도）</strong><span>甘露圖與下壇、施食、亡者與餓鬼供養密切相關。</span></li><li><strong>Kwaebul（괘불）</strong><span>戶外儀式所懸掛的巨型佛畫，集中體現本書的重要論點：儀式移動，圖像也移動，寺院空間因而被重新組織。</span></li></ul></div></div></section>
+<section class="book-report__section" id="these"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">05 · 論點</div><h2>作者的核心主張</h2></div><div class="book-report__content"><p class="book-report__thesis">Chosŏn佛教繪畫不能脫離空間與儀式來理解。其圖像、尺度、位置乃至構圖，都與作品在具體儀式裝置中必須完成的功能緊密相連。因此，佛畫史同時也是主佛殿變化、三壇形成、儀式制度化，以及儀式向戶外空間擴張的歷史。</p></div></div></section>
+<section class="book-report__section" id="changement"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">06 · 意義</div><h2>這本書如何改變我們的理解</h2></div><div class="book-report__content"><p>讀完本書後，很難再只憑圖錄的正面照片或博物館展示理解Chosŏn佛畫。有些作品原本就會被佛像遮住一部分，有些掛在特定高度，有些在儀式中移動，有些則讓整個共同體在暫時改造的戶外空間中觀看。作品的「形式」本身與這些使用條件有關。</p><p>另一個改變是史學上的。Chosŏn後期佛殿內大量佛畫共存，不必再被解釋為裝飾過度或教義鬆散，而可以理解為上壇、中壇、下壇分工明確的儀式體系之結果。這對繪畫史與寺院建築史都很重要。</p></div></div></section>
+<section class="book-report__section" id="limites"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">07 · 批判閱讀</div><h2>本書的限制</h2></div><div class="book-report__content"><div class="book-report__limits">聚焦功能、空間與儀式是本書最大的優點，同時也限制了討論範圍。顏料與支持體的物質分析、僧侶畫師的製作組織、保存史、發願與贊助的經濟網絡相對不是重點。研究重心也主要放在Chosŏn，尤其是儀式體系最清楚的後期；與中國、日本、Koryŏ的比較更多是為了凸顯Chosŏn的特性，而不是建立均衡的跨區域史。若研究製作技術或跨國流通，仍需搭配其他研究。</div></div></div></section>
+<section class="book-report__section" id="public"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">08 · 讀者</div><h2>這本書適合誰？</h2></div><div class="book-report__content"><div class="book-report__audience"><div><strong>初學者</strong><span>內容很有啟發性，但若不熟悉韓國佛教與主要佛畫類型，專門術語會有一定難度。</span></div><div><strong>學生</strong><span>非常適合學習如何把圖像、建築、儀式文本與作品實際使用條件連結起來。</span></div><div><strong>研究者</strong><span>研究Chosŏn佛畫、佛教儀式、主佛殿、三壇與宗教空間的重要參考書。</span></div><div><strong>進階一般讀者</strong><span>特別適合參訪韓國寺院時想知道「為什麼這幅畫就在這個位置」的讀者。</span></div></div></div></div></section>
+<section class="book-report__section" id="verdict"><div class="book-report__shell"><div class="book-report__section-head"><div class="book-report__number">09 · 結論</div><h2>評價</h2></div><div class="book-report__content"><div class="book-report__verdict"><div class="book-report__verdict-label">推薦程度</div><strong>韓國佛教藝術史必讀</strong><p>本書最大的成就是把佛畫放回它原本的環境。佛畫不只是等待辨識圖像的作品，而是與佛像、佛壇、建築、儀式僧與信眾共同作用的媒介。對Chosŏn佛教繪畫研究而言，這是一套非常有生產力的分析框架。</p></div></div></div></section>
+<div class="book-report__shell book-report__backtop"><a href="#haut">↑ 回到頁首</a></div>
+</main>
+```
