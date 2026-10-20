@@ -120,6 +120,36 @@
     { value: "bo", label: "བོད་སྐད། · Wylie", keys: ["bo", "wylie"] }
   ];
 
+  const sortConfig = {
+    fr: { key: "fr", locale: "fr" },
+    en: { key: "en", locale: "en" },
+    ko: { key: "ko_hangul", locale: "ko" },
+    ja: { key: "ja_romaji", locale: "ja" },
+    "zh-hant": { key: "zh_pinyin", locale: "zh-Hant" },
+    vi: { key: "vi_quocngu", locale: "vi" }
+  };
+
+  const activeSort = sortConfig[locale] || sortConfig.fr;
+  const collator = new Intl.Collator(activeSort.locale, {
+    usage: "sort",
+    sensitivity: "variant",
+    ignorePunctuation: true,
+    numeric: true
+  });
+
+  function sortRows(data) {
+    return data.sort((a, b) => {
+      const av = String(a[activeSort.key] || "");
+      const bv = String(b[activeSort.key] || "");
+      if (!av && !bv) return Number(a.id) - Number(b.id);
+      if (!av) return 1;
+      if (!bv) return -1;
+      const primary = collator.compare(av, bv);
+      if (primary !== 0) return primary;
+      return Number(a.id) - Number(b.id);
+    });
+  }
+
   root.innerHTML = `
     <div class="dictionary-toolbar">
       <label class="dictionary-control dictionary-search-control">
@@ -219,7 +249,7 @@
     return response.json();
   })))
     .then(parts => {
-      rows = parts.flat().sort((a, b) => Number(a.id) - Number(b.id));
+      rows = sortRows(parts.flat());
       render(rows);
     })
     .catch(error => {
