@@ -1,0 +1,212 @@
+---
+title: "조선의 승려 장인"
+lang: en
+image: https://img.segye.com/content/image/2021/12/06/20211206516438.jpg
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+
+<main class="exhibit-report" id="top">
+  <header class="exhibit-report__hero">
+    <div class="exhibit-report__shell">
+      <figure class="exhibit-report__hero-image">
+        <img src="https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg" alt="View of the exhibition 조선의 승려 장인 at the National Museum of Korea" loading="eager" decoding="async" referrerpolicy="no-referrer">
+        <figcaption>View of <em>조선의 승려 장인</em> at the National Museum of Korea, 2021. Photograph published by Beopbo News.</figcaption>
+      </figure>
+
+      <div class="exhibit-report__hero-copy">
+        <div class="exhibit-report__eyebrow">Exhibition review · Korean Buddhist art · Chosŏn · sculpture and painting</div>
+        <h1>조선의 승려 장인</h1>
+        <p class="exhibit-report__venue"><em>Monk Artisans of the Chosŏn Dynasty: Buddhist Sculptures and Paintings</em><br>National Museum of Korea · Seoul</p>
+
+        <dl class="exhibit-report__meta" aria-label="Exhibition information">
+          <div><dt>Exhibition dates</dt><dd>7 December 2021 — 6 March 2022</dd></div>
+          <div><dt>Museum</dt><dd>National Museum of Korea<br><span lang="ko">국립중앙박물관</span></dd></div>
+          <div><dt>City</dt><dd>Seoul · South Korea</dd></div>
+          <div><dt>Curatorial team</dt><dd>Fine Arts Department · Kwŏn Kang-mi and the museum’s research team</dd></div>
+          <div><dt>Type</dt><dd>Temporary exhibition · Buddhist art</dd></div>
+        </dl>
+
+        <div class="exhibit-report__question">
+          <strong>Central thread:</strong> understanding Chosŏn Buddhist art through the people who made it: monks who were simultaneously religious practitioners, specialized craftsmen, workshop leaders and transmitters of technique.
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="exhibit-report__nav-wrap">
+    <nav class="exhibit-report__shell exhibit-report__nav" aria-label="Review contents">
+      <a href="#why">Why see it?</a>
+      <a href="#proposal">Curatorial proposal</a>
+      <a href="#route">Route & display</a>
+      <a href="#works">Works to remember</a>
+      <a href="#understand">What it helps us understand</a>
+      <a href="#resources">Further reading</a>
+      <a href="#verdict">Verdict</a>
+    </nav>
+  </div>
+
+  <section class="exhibit-report__section" id="why">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">01 · Essential</div>
+        <h2>Why see this exhibition?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>This exhibition shifts the focus in a productive way. Rather than treating Chosŏn Buddhist statues and paintings as anonymous objects, it restores the people who designed, carved, painted, gilded and consecrated them. The museum brought together 145 groups or objects from twenty-seven institutions, including fifty-four works lent by fifteen monasteries. The exhibited works involve 366 identified monk artisans. This exceptional corpus makes it possible to understand Buddhist art as the result of collective labor organized through workshops and lineages of technical transmission.</p>
+
+        <p>Its historical importance is equally strong. The exhibition substantially complicates the familiar narrative of Buddhism simply declining under the Chosŏn dynasty. After the Japanese invasions of 1592–1598, Buddhist sculpture and painting instead entered a period of intense production. The growing numbers of <em>chogaksŭng</em> (조각승, monk sculptors) and <em>hwasŭng</em> (화승, monk painters) reveal a particularly dynamic Buddhist visual culture developing within monasteries.</p>
+
+        <figure class="exhibit-report__figure exhibit-report__figure--wide">
+          <img src="https://cdn.buddhismjournal.com/news/photo/202112/22295_28277_3035.jpg" alt="Reconstruction of a monk-painters' workspace in the exhibition" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>Reconstruction of a workspace devoted to monk painters: the exhibition emphasizes gestures, tools and stages of production. Photograph published by Buddhist Journal.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="proposal">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">02 · Curatorial</div>
+        <h2>What is the exhibition’s argument?</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p class="exhibit-report__thesis">The exhibition presents the monk artisan as a major key to understanding Chosŏn Buddhist art. His identity is double: he is both a religious practitioner and a highly specialized professional. The making of a cult image therefore becomes inseparable from monastic practice, collective organization of labor and the transmission of expertise.</p>
+
+        <ul class="exhibit-report__keypoints">
+          <li><strong>Moving beyond anonymity.</strong>Names preserved in inscriptions, consecration records and colophons allow careers, lineages and workshop networks to be reconstructed.</li>
+          <li><strong>Making production visible.</strong>Drawings, internal structures, materials, carving techniques and painting processes return the finished object to a concrete chain of operations.</li>
+          <li><strong>Understanding collective work.</strong>Statues and paintings are rarely the work of one isolated individual: masters, assistants and disciples form mobile teams that are recomposed from one project to another.</li>
+          <li><strong>Rethinking Buddhist Chosŏn.</strong>The intensity of production after the sixteenth century forces us to qualify the idea of Buddhism’s continuous disappearance under a Neo-Confucian monarchy.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="route">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">03 · Visit</div>
+        <h2>Route and exhibition design</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <p>The exhibition is organized in four parts. It begins by defining the monk artisan, then effectively opens the sculpture and painting workshops. The third section gathers major works as the material culmination of these practices, before a conclusion devoted to the memory of these artisans and their contemporary reinterpretation. This avoids a simple chronological sequence: the visitor moves from social identity to the gestures of making and finally to the cult images themselves.</p>
+
+        <figure class="exhibit-report__figure">
+          <img src="https://dimg.donga.com/wps/NEWS/IMAGE/2021/12/06/110629231.3.jpg" alt="A Buddhist painting shown alongside a preparatory drawing in the exhibition" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption>A finished Buddhist painting placed alongside a preparatory drawing: a key display device for making visible the passage from sketch to cult image. Photograph published by Dong-A Ilbo.</figcaption>
+        </figure>
+
+        <ol class="exhibit-report__route">
+          <li><strong>승려 장인은 누구인가 — Who were the monk artisans?</strong><span>The first section distinguishes these specialized religious practitioners from lay craftsmen and shows the expansion of collective monastic production in late Chosŏn.</span></li>
+          <li><strong>불상과 불화를 만든 공간 — Spaces of production</strong><span>Two “studios,” one for sculptors and one for painters, present tools, stages of manufacture, preparatory drawings and scientific examinations. CT images, in particular, provide access to the internal structure of wooden statues.</span></li>
+          <li><strong>그들이 꿈꾼 세계 — The world they envisioned</strong><span>The core of the exhibition brings together masterpieces by major monk artisans and shows how their expertise materialized the Pure Land, the Buddha’s assembly and the universe of the <em>Avataṃsaka Sūtra</em>.</span></li>
+          <li><strong>승려 장인을 기억하며 — Remembering the monk artisans</strong><span>The conclusion juxtaposes late Buddhist sculptures with a contemporary installation by the artist Vakki and asks how the memory of these artisan monks persists.</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="works">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">04 · Selection</div>
+        <h2>Works and objects to remember</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__works">
+          <article class="exhibit-report__work">
+            <img src="https://img.khan.co.kr/news/2021/12/06/l_2021120601000692600058542.webp" alt="Wooden relief of Amitābha preaching from Yongmunsa" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>용문사 목각아미타여래설법상 — Wooden relief of Amitābha preaching, Yongmunsa</h3>
+              <p class="exhibit-report__work-meta">1684 · carved, gilded and polychromed wood · Yongmunsa · monk sculptor Tanŭng (端應)</p>
+              <p>This work is one of the exhibition’s high points. Tanŭng transforms into three-dimensional relief a composition usually associated with altar painting: Amitābha sits at the center of a densely organized assembly. The object therefore blurs the boundary between Buddhist sculpture and painting. For the 2021 exhibition, it left its monastery for the first time since its creation 337 years earlier.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://img9.yna.co.kr/etc/inner/KR/2024/12/26/AKR20241226036700005_01_i_P4.jpg" alt="Haeinsa Yeongsanhoesangdo, Vulture Peak Assembly" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>해인사 영산회상도 — Vulture Peak Assembly, Haeinsa</h3>
+              <p class="exhibit-report__work-meta">1729 · colors on silk · Haeinsa · Ŭigyŏm (義謙) and his workshop</p>
+              <p>This large painting of Śākyamuni preaching demonstrates a monastic workshop’s ability to organize a monumental and extremely crowded composition without losing visual hierarchy. Ŭigyŏm, a major figure in eighteenth-century Buddhist painting, appears less as an isolated artist than as the leader of a collective of specialized painters.</p>
+            </div>
+          </article>
+
+          <article class="exhibit-report__work">
+            <img src="https://cdn.ibulgyo.com/news/photo/202201/215880_233842_5858.jpg" alt="Songgwangsa Hwaeomgyeong Byeonsangdo, illustration of the Avatamsaka Sutra" loading="lazy" referrerpolicy="no-referrer">
+            <div>
+              <h3>송광사 화엄경변상도 — Illustration of the <em>Avataṃsaka Sūtra</em>, Songgwangsa</h3>
+              <p class="exhibit-report__work-meta">1770 · colors on silk · Songgwangsa · Hwaryŏn (華蓮) and his workshop</p>
+              <p>The density of this painting makes the cosmological ambition of Hwaŏm art visible: several assemblies from the sūtra are distributed across a single surface saturated with figures, architecture and celestial spaces. The work shows how the virtuosity of monk painters served a religious and spatial problem: giving intelligible form to a potentially limitless doctrinal universe.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="understand">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">05 · Knowledge</div>
+        <h2>What the exhibition helps us understand</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__keypoints">
+          <li><strong>The Buddhist image is a collective product.</strong>Inscriptions reveal teams organized around masters and disciples. Attributing a work to a single name therefore often obscures the actual reality of its production.</li>
+          <li><strong>Workshops were mobile.</strong>Monk artisans moved from monastery to monastery. Their movements explain the circulation of models, techniques and iconographic solutions across the peninsula.</li>
+          <li><strong>Technique participates in religion.</strong>Selecting wood, preparing a drawing, carving a cavity for consecration deposits, gilding or painting are not merely craft operations: they participate in transforming material into a cult presence.</li>
+          <li><strong>Late Chosŏn was a period of invention.</strong>The museum notes that more than a thousand monk sculptors and about 2,400 monk painters from this period have now been identified, indicating the scale of Buddhist artistic activity.</li>
+        </ul>
+
+        <div class="exhibit-report__research">
+          <strong>Importance for Buddhist art history</strong>
+          <p>The main methodological lesson is not to separate iconography from manufacture. A Buddhist statue or painting can be studied simultaneously as image, material object, workshop product, result of a monastic network and ritual support. The exhibition therefore offers an excellent model for a social and material history of Korean Buddhist art.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="resources">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">06 · Documentation</div>
+        <h2>Further reading</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <ul class="exhibit-report__resources">
+          <li><strong>Catalogue:</strong> 국립중앙박물관, <em>조선의 승려 장인</em>, Seoul, National Museum of Korea, 2021, 400 pp.</li>
+          <li><strong>Official page:</strong> <a href="https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=631858&listType=list&menuId=past&schM=view" target="_blank" rel="noopener">National Museum of Korea — Monk Artisans of the Chosŏn Dynasty</a>.</li>
+          <li><strong>Museum dossier:</strong> <a href="https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?catCustomType=post&catId=93&schM=view&arcId=18039" target="_blank" rel="noopener">press release and detailed presentation of the exhibition</a>.</li>
+          <li><strong>Detailed catalogue:</strong> the volume notably develops the sculpture and painting workshops, mobile networks of monk artisans, production processes and the major masters of late Chosŏn.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="exhibit-report__section" id="verdict">
+    <div class="exhibit-report__shell">
+      <div class="exhibit-report__section-head">
+        <div class="exhibit-report__number">07 · Conclusion</div>
+        <h2>Verdict</h2>
+      </div>
+      <div class="exhibit-report__content">
+        <div class="exhibit-report__verdict">
+          <div class="exhibit-report__verdict-label">Assessment</div>
+          <strong>Essential for the history of Korean Buddhist art</strong>
+          <p>The strength of <em>조선의 승려 장인</em> lies in making the producers of religious images visible. The masterpieces assembled are important, but the decisive contribution lies elsewhere: in reconstructing the workshops, collaborations, gestures and networks that made those works possible. The exhibition thus turns the study of Chosŏn Buddhist art into a history of practices as much as a history of forms.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ Back to top</a></div>
+</main>
+```
