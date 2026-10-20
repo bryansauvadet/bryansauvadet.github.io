@@ -1,0 +1,13 @@
+---
+title: "展覽"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+<section class="page-hero"><h1>展覽</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">關於博物館與美術館展覽的筆記、評論與參觀記錄，聚焦佛教藝術、亞洲與藝術史。</p>
+<div class="database-empty-state"><h2>參觀過的展覽</h2><p>本區將逐步整理我對博物館與美術館展覽的筆記與評論。</p></div>
+</div></main>
