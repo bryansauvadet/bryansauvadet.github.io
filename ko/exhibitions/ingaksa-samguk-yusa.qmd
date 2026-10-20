@@ -1,0 +1,55 @@
+---
+title: "인각사와 삼국유사 — 역사의 향기를 따라 천년의 숨결을 만나다"
+lang: ko
+image: https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report exhibit-report--ingaksa" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://cdn.ibulgyo.com/news/photo/202102/210391_221952_3931.jpg" alt="인각사 출토 불교 공양구 일괄" loading="eager" decoding="async" referrerpolicy="no-referrer"><figcaption>인각사 발굴에서 확인된 불교 금속공예품. 9세기 무렵의 의례 문화를 보여 주며 보존처리 뒤 전시에서 처음 일괄 공개되었다.</figcaption></figure>
+<div class="exhibit-report__hero-copy"><div class="exhibit-report__eyebrow">전시 리뷰 · 불교고고학 · 고려 · 일연 · 삼국유사</div>
+<h1>인각사와 삼국유사</h1>
+<p class="exhibit-report__venue"><em>역사의 향기를 따라 천년의 숨결을 만나다</em><br>불교중앙박물관 · 서울</p>
+<dl class="exhibit-report__meta"><div><dt>전시기간</dt><dd>2013년 11월 13일 — 2014년 1월 12일</dd></div><div><dt>박물관</dt><dd>불교중앙박물관</dd></div><div><dt>도시</dt><dd>서울 · 대한민국</dd></div><div><dt>출품</dt><dd>77건 · 195점 · 보물 5건</dd></div><div><dt>주제</dt><dd>인각사 · 일연 · 발굴 · 『삼국유사』의 전승</dd></div><div><dt>도록</dt><dd>271쪽 · 2013년</dd></div></dl>
+<div class="exhibit-report__question"><strong>핵심 질문:</strong> 한 사찰의 물질적 역사, 한 승려의 생애, 그리고 한 고전의 전승을 어떻게 하나의 불교문화사로 읽을 수 있는가?</div>
+</div></div></header>
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav"><a href="#why">왜 중요한가</a><a href="#proposal">기획 의도</a><a href="#route">전시 구성</a><a href="#works">주요 유물</a><a href="#understand">이해할 점</a><a href="#resources">자료</a><a href="#verdict">총평</a></nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · 핵심</div><h2>왜 중요한 전시인가</h2></div><div class="exhibit-report__content">
+<p>이 전시는 『삼국유사』를 장소와 분리된 고전으로 다루지 않는다. 일연이 말년을 보낸 인각사라는 장소로 텍스트를 되돌리고, 문헌사와 발굴층위, 의례구, 비문, 고판본을 하나의 역사로 연결한다.</p>
+<p>77건 195점 가운데 특히 중요한 것은 2008~2009년 발굴에서 확인된 불교 금속공예품 일괄이다. 이 유물은 일연보다 훨씬 앞선 시기부터 인각사에 중요한 의례 활동이 있었음을 보여 주며, 사찰의 역사를 13세기 인물사에만 한정하지 않게 한다.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="범어사 소장 삼국유사 권4와 권5" loading="lazy" referrerpolicy="no-referrer"><figcaption>범어사 소장 『삼국유사』 권4–5. 전시는 서로 다른 판본을 통해 『삼국유사』가 실제 책으로 전승된 과정을 보여 주었다.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · 기획</div><h2>전시가 제안하는 시선</h2></div><div class="exhibit-report__content">
+<p class="exhibit-report__thesis">인각사의 역사는 유적, 일연의 생애, 『삼국유사』라는 세 축을 함께 볼 때 비로소 입체적으로 드러난다.</p>
+<ul class="exhibit-report__keypoints"><li><strong>땅에서 시작한다.</strong> 1992년부터 2009년까지의 발굴은 여러 시기의 사역과 9세기 전후의 의례용 금속공예품을 확인시켰다.</li><li><strong>일연을 사찰 제도 속에서 본다.</strong> 인각사는 일연의 하안소였을 뿐 아니라 고려 선종계의 중요한 중심지였다.</li><li><strong>『삼국유사』를 전승된 물건으로 본다.</strong> 범어사본 등 여러 판본은 고전이 종이와 목판, 보존의 역사를 지닌 물질임을 보여 준다.</li><li><strong>이야기와 이미지를 연결한다.</strong> 단군, 처용, 천수천안관음, 선덕여왕 이야기는 불교와 설화, 미술의 관계를 읽는 통로가 된다.</li></ul>
+</div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · 관람</div><h2>네 부분의 전시 구성</h2></div><div class="exhibit-report__content">
+<ol class="exhibit-report__route"><li><strong>인각사의 창건.</strong><span>사찰의 지리적 환경과 창건 설화, 발굴 성과를 통해 인각사의 오래된 의례 역사를 보여 준다.</span></li><li><strong>일연스님의 주석과 인각사의 비상.</strong><span>13세기 일연의 주석과 구산문도회, 보각국존 정조탑비를 통해 고려시대 인각사의 위상을 살핀다.</span></li><li><strong>『삼국유사』의 탄생지, 인각사.</strong><span>고전 역사서이면서 불교적 기억의 저장소인 『삼국유사』를 다양한 판본과 관련 유물로 읽는다.</span></li><li><strong>천년고찰의 쇠락과 미래.</strong><span>조선의 억불정책, 1597년 소실, 이후 중수와 현대의 발굴·복원까지 한 장소의 긴 생애를 따라간다.</span></li></ol>
+<figure class="exhibit-report__figure"><img src="https://www.heritage.go.kr/unisearch/images/treasure/thumb/1620913.jpg" alt="인각사 보각국사탑과 비" loading="lazy" referrerpolicy="no-referrer"><figcaption>인각사 보각국사탑과 비. 크게 훼손된 비석은 일연의 말년과 인각사의 위상을 전하는 핵심 사료이다.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · 유물</div><h2>주요 유물과 자료</h2></div><div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202102/210391_221952_3931.jpg" alt="인각사 출토 공양구 일괄" loading="lazy" referrerpolicy="no-referrer"><div><h3>인각사 출토 공양구 일괄</h3><p class="exhibit-report__work-meta">9세기 무렵 · 불교 금속공예 · 2008–2009년 발굴</p><p>청동병향로, 향합, 정병 등 여러 공양구가 한 맥락에서 확인되었다. 개별 유물의 조형뿐 아니라 실제 의례 조합과 당대 중국과의 기술 교류까지 살필 수 있는 중요한 일괄 자료이다.</p></div></article>
+<article class="exhibit-report__work"><img src="https://cdn.ibulgyo.com/news/photo/202008/207733_216608_1421.jpg" alt="삼국유사 권4–5" loading="lazy" referrerpolicy="no-referrer"><div><h3>삼국유사 권4–5</h3><p class="exhibit-report__work-meta">고려 말·조선 초 · 목판본 · 범어사</p><p>종이, 판식, 인쇄 상태와 전래 흔적은 『삼국유사』가 추상적인 텍스트가 아니라 반복해서 간행되고 보존된 물질적 문화재임을 보여 준다.</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.heritage.go.kr/unisearch/images/treasure/thumb/1620913.jpg" alt="인각사 보각국존 정조탑비" loading="lazy" referrerpolicy="no-referrer"><div><h3>인각사 보각국존 정조탑비</h3><p class="exhibit-report__work-meta">고려 · 일연 행적을 기록한 비 · 인각사</p><p>민지가 글을 짓고 왕희지 글씨를 집자해 세운 비로, 일연의 생애와 인각사 주석, 구산문도회 개최를 전한다. 비가 파손된 뒤에는 여러 탁본첩이 원문과 원형을 복원하는 핵심 자료가 되었다.</p></div></article>
+<article class="exhibit-report__work"><img src="https://www.koya-culture.com/data/photos/20190103/art_15476216647463_797d39.jpg" alt="인각사 국사전의 일연 진영" loading="lazy" referrerpolicy="no-referrer"><div><h3>일연 — 기억되는 승려</h3><p class="exhibit-report__work-meta">1206–1289 · 고려 승려 · 『삼국유사』 찬술</p><p>일연을 저술가로만 보지 않고 선종 네트워크, 국사 책봉, 인각사와의 관계 속에 놓으면 『삼국유사』 역시 한 승려의 수행과 문헌 문화가 만든 결과물로 읽힌다.</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · 이해</div><h2>이 전시가 보여 주는 것</h2></div><div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints"><li><strong>『삼국유사』는 깊이 불교적인 고전이다.</strong> 역사서로서의 가치와 함께 승려의 수집 방식과 불교적 기억 구조를 보아야 한다.</li><li><strong>인각사는 일연보다 오래된 사찰이다.</strong> 발굴은 훨씬 이른 시기의 중요한 의례 활동을 복원한다.</li><li><strong>고고학은 미술사를 바꾼다.</strong> 출토 맥락이 남은 일괄 유물은 박물관의 단독 작품보다 실제 사용 방식을 더 풍부하게 알려 준다.</li><li><strong>전승 자체가 역사다.</strong> 파손된 비석, 탁본, 고판본, 현대 복원은 문화유산이 변화 속에서 살아남는 과정을 보여 준다.</li></ul>
+<div class="exhibit-report__research"><strong>불교미술사적 의의</strong><p>이 전시의 가장 큰 장점은 물질문화와 문헌문화를 분리하지 않는다는 점이다. 사찰은 건축의 집합이 아니라 유물, 비문, 승려 전기와 이야기를 생산하고 보존하며 전달하는 기억의 장치로 드러난다.</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · 자료</div><h2>더 읽기</h2></div><div class="exhibit-report__content"><ul class="exhibit-report__resources"><li><strong>공식 페이지:</strong> <a href="https://museum.buddhism.or.kr/?c=2/14&p=18&uid=91" target="_blank" rel="noopener">불교중앙박물관 — 인각사와 삼국유사</a>.</li><li><strong>도록:</strong> 불교중앙박물관, 『인각사와 삼국유사 — 역사의 향기를 따라 천년의 숨결을 만나다』, 2013, 271쪽.</li><li><strong>도록 논고:</strong> 인각사의 역사적 전개, 일연과 『삼국유사』, 인각사 출토 불교 금속공예품, 보각국사비 원문과 해석.</li></ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell"><div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · 결론</div><h2>총평</h2></div><div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">평가</div><strong>장소·텍스트·유물을 함께 생각하게 하는 중요한 전시</strong><p><em>인각사와 삼국유사</em>는 한 고전을 기념하는 데 그치지 않고, 책이 태어난 물질적 환경을 복원한다. 사찰, 의례구, 비문, 승려 네트워크, 파괴와 복원까지 연결함으로써 한국 불교의 기억이 어떻게 만들어지고 전승되는지를 보여 준다.</p></div></div></div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ 맨 위로</a></div></main>
+```
