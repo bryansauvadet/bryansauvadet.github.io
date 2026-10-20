@@ -16,7 +16,7 @@ format:
     <div class="exhibit-report__shell">
       <figure class="exhibit-report__hero-image">
         <img src="https://cdn.beopbo.com/news/photo/202112/305552_69451_1431.jpg" alt="Vue de l’exposition 조선의 승려 장인 au Musée national de Corée" loading="eager" decoding="async" referrerpolicy="no-referrer">
-        <figcaption>Vue de l’exposition <em>조선의 승려 장인</em> au Musée national de Corée, 2021. Photographie : Beopbo News.</figcaption>
+        <figcaption>Vue de l’exposition <em>조선의 승려 장인</em> au Musée national de Corée, 2021. Photographie publiée par Beopbo News.</figcaption>
       </figure>
 
       <div class="exhibit-report__hero-copy">
@@ -65,7 +65,7 @@ format:
 
         <figure class="exhibit-report__figure exhibit-report__figure--wide">
           <img src="https://cdn.buddhismjournal.com/news/photo/202112/22295_28277_3035.jpg" alt="Reconstitution d’un espace de travail de moines peintres dans l’exposition" loading="lazy" referrerpolicy="no-referrer">
-          <figcaption>Reconstitution d’un espace de travail consacré aux moines peintres : l’exposition met l’accent sur les gestes, les outils et les étapes de fabrication. Photographie : Buddhist Journal.</figcaption>
+          <figcaption>Reconstitution d’un espace de travail consacré aux moines peintres : l’exposition met l’accent sur les gestes, les outils et les étapes de fabrication. Photographie publiée par Buddhist Journal.</figcaption>
         </figure>
       </div>
     </div>
@@ -101,7 +101,7 @@ format:
 
         <figure class="exhibit-report__figure">
           <img src="https://dimg.donga.com/wps/NEWS/IMAGE/2021/12/06/110629231.3.jpg" alt="Mise en regard d’une peinture bouddhique et d’un dessin préparatoire dans l’exposition" loading="lazy" referrerpolicy="no-referrer">
-          <figcaption>Mise en regard d’une peinture achevée et d’un dessin préparatoire : un dispositif essentiel pour rendre visible le passage de l’esquisse à l’image cultuelle. Photographie : Dong-A Ilbo.</figcaption>
+          <figcaption>Mise en regard d’une peinture achevée et d’un dessin préparatoire : un dispositif essentiel pour rendre visible le passage de l’esquisse à l’image cultuelle. Photographie publiée par Dong-A Ilbo.</figcaption>
         </figure>
 
         <ol class="exhibit-report__route">
@@ -124,7 +124,7 @@ format:
         <div class="exhibit-report__works">
 
           <article class="exhibit-report__work">
-            <img src="https://www.ijkaa.org/assets/600x/jkaa-17-32-f003.tif" alt="Retable sculpté de la prédication d’Amitābha du Yongmunsa" loading="lazy" referrerpolicy="no-referrer">
+            <img src="https://img.khan.co.kr/news/2021/12/06/l_2021120601000692600058542.webp" alt="Retable sculpté de la prédication d’Amitābha du Yongmunsa" loading="lazy" referrerpolicy="no-referrer">
             <div>
               <h3>용문사 목각아미타여래설법상 — Retable sculpté de la prédication d’Amitābha du Yongmunsa</h3>
               <p class="exhibit-report__work-meta">1684 · bois sculpté, doré et polychromé · Yongmunsa · moine sculpteur Tanŭng (端應)</p>
