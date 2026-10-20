@@ -117,3 +117,43 @@
 
 /* Cartes d’œuvres sans image distante fiable */
 .exhibit-report__work.exhibit-report__work--text-only{grid-template-columns:1fr}
+
+
+/* うるわしき祈りの美 — conserver les œuvres intégralement visibles */
+.exhibit-report--beauty-prayer .exhibit-report__hero-image{
+  max-width:720px;
+  margin-left:auto;
+  margin-right:auto;
+  overflow:visible;
+}
+.exhibit-report--beauty-prayer .exhibit-report__hero-image img{
+  width:100%;
+  height:auto;
+  max-height:none;
+  object-fit:contain;
+  object-position:center;
+}
+.exhibit-report--beauty-prayer .exhibit-report__figure img{
+  width:100%;
+  height:auto;
+  max-height:680px;
+  object-fit:contain;
+  object-position:center top;
+  margin:0 auto;
+  background:var(--er-paper);
+}
+.exhibit-report--beauty-prayer .exhibit-report__work img{
+  width:100%;
+  height:auto;
+  max-height:390px;
+  aspect-ratio:auto;
+  object-fit:contain;
+  object-position:center top;
+  margin:0 auto;
+  background:var(--er-paper);
+}
+@media(max-width:600px){
+  .exhibit-report--beauty-prayer .exhibit-report__hero-image{max-width:100%}
+  .exhibit-report--beauty-prayer .exhibit-report__hero-image img{min-height:0}
+  .exhibit-report--beauty-prayer .exhibit-report__work img{max-height:none}
+}
