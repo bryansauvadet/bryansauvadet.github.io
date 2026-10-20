@@ -1,0 +1,13 @@
+---
+title: "田野調查與巡禮"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+<section class="page-hero"><h1>田野調查與巡禮</h1></section>
+<main class="content"><div class="content-inner">
+<p class="lead">寺院、建築與考古遺址的田野筆記、研究路線與巡禮記錄。</p>
+<div class="database-empty-state"><h2>田野與行程</h2><p>本區將逐步整理我的田野調查、遺址觀察與巡禮路線。</p></div>
+</div></main>
