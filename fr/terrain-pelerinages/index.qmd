@@ -8,6 +8,6 @@ format:
 ---
 <section class="page-hero"><h1>Travaux de terrain et pèlerinages</h1></section>
 <main class="content"><div class="content-inner">
-<p class="lead">Notes de terrain, visites de temples, monuments et sites archéologiques, itinéraires de recherche et pèlerinages.</p>
+<p class="lead">Notes de terrain, visites de monastères, monuments et sites archéologiques, itinéraires de recherche et pèlerinages.</p>
 <div class="database-empty-state"><h2>Terrains et itinéraires</h2><p>Cette section rassemblera progressivement mes travaux de terrain, observations de sites et parcours de pèlerinage.</p></div>
 </div></main>
