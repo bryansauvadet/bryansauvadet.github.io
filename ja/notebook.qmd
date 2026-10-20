@@ -9,6 +9,6 @@ format:
 <section class="page-hero"><h1>研究ノート</h1></section>
 <main class="content"><div class="content-inner"><p class="lead">研究ノート、読書記録、進行中の仕事。</p><div class="database-grid">
 <a class="database-card readings-card" href="/ja/readings/"><div class="database-card-image"><img src="/assets/images/mes-lectures-vignette-inline.svg" alt="仏教美術とアジアに関する書籍と研究" loading="lazy"></div><h2>私の読書</h2><p>読書ノートと書評。なぜその本を読むべきなのか、そして何を理解する助けになるのかを紹介します。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
-<a class="database-card" href="/ja/exhibitions/"><div class="database-card-kicker">博物館・美術館</div><h2>展覧会</h2><p>仏教美術、アジア、美術史に関わる博物館・美術館の展覧会についての記録、レビュー、観覧メモ。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
-<a class="database-card" href="/ja/fieldwork-pilgrimages/"><div class="database-card-kicker">現地調査</div><h2>フィールドワークと巡礼</h2><p>寺院、建造物、考古遺跡の現地調査記録、研究行程、巡礼に関するノート。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card exhibitions-card" href="/ja/exhibitions/"><div class="database-card-image"><img src="/assets/images/expositions-vignette.svg" alt="博物館の仏教美術展覧会" loading="lazy"></div><div class="database-card-kicker">博物館・美術館</div><h2>展覧会</h2><p>仏教美術、アジア、美術史に関わる博物館・美術館の展覧会についての記録、レビュー、観覧メモ。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
+<a class="database-card fieldwork-card" href="/ja/fieldwork-pilgrimages/"><div class="database-card-image"><img src="/assets/images/terrain-pelerinages-vignette.svg" alt="韓国仏教寺院でのフィールドワーク" loading="lazy"></div><div class="database-card-kicker">現地調査</div><h2>フィールドワークと巡礼</h2><p>寺院、建造物、考古遺跡の現地調査記録、研究行程、巡礼に関するノート。</p><span class="database-card-arrow" aria-hidden="true">→</span></a>
 </div></div></main>
