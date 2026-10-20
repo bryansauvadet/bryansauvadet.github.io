@@ -33,7 +33,7 @@
 .exhibit-report__number{font:10px/1.4 Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--er-accent-dark);padding-top:8px}
 .exhibit-report__section h2{font-size:31px;line-height:1.18;font-weight:400;margin:0}
 .exhibit-report__content{max-width:840px;margin-left:245px}
-.exhibit-report__content p{font-size:16px;line-height:1.75;margin:0 0 17px}
+.exhibit-report__content p{font-size:16px;line-height:1.75;margin:0 0 17px;text-align:justify;text-justify:auto;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word}
 .exhibit-report__keypoints{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;list-style:none!important;padding:0!important;margin:20px 0 0!important}
 .exhibit-report__keypoints li{border:1px solid var(--er-line);background:var(--er-paper-2);padding:18px 19px;margin:0!important;font-size:15px;line-height:1.6}
 .exhibit-report__keypoints strong{display:block;font-size:16px;font-weight:500;margin-bottom:6px}
