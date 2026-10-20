@@ -211,6 +211,18 @@
   font:10px/1.45 Arial,sans-serif;
   color:#71685f;
 }
+.pub-talk-place{
+  display:flex;
+  align-items:center;
+  gap:6px;
+  margin-top:4px;
+}
+.pub-talk-meta .cv-flag-img{
+  width:16px;
+  height:11px;
+  object-fit:cover;
+  flex:0 0 auto;
+}
 .pub-talk-meta strong{
   display:block;
   color:#4a433b;
