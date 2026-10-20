@@ -35,11 +35,14 @@ format:
 
 <p>La bibliothèque est probablement l'espace qui m'a le plus impressionné intellectuellement. Les hauts rayonnages de bois sont chargés de volumes enveloppés et empilés sur une hauteur qui oblige presque à renverser la tête. Sakya conserve l'une des grandes collections textuelles du Tibet, avec des corpus canoniques et de nombreux manuscrits anciens. La presse et les récits de voyage ont parfois popularisé l'expression de « second Dunhuang ». La comparaison est spectaculaire et doit être maniée avec prudence, mais elle dit quelque chose de l'impression produite par l'ampleur de l'ensemble.</p>
 
-<figure class="figure-left"><img src="/assets/images/sakya-06.jpg" alt="Bibliothèque du monastère de Sakya" loading="lazy"><figcaption>Les rayonnages de la bibliothèque de Sakya : le texte comme architecture.</figcaption></figure>
+<div class="figure-pair">
+<figure ><img src="/assets/images/sakya-06.jpg" alt="Bibliothèque du monastère de Sakya" loading="lazy"><figcaption>Les rayonnages de la bibliothèque de Sakya : le texte comme architecture.</figcaption></figure>
+<figure ><img src="/assets/images/sakya-07.jpg" alt="Stūpa et autels à l'intérieur du monastère de Sakya" loading="lazy"><figcaption>Stūpa, images et objets rituels composent un espace où architecture et dévotion sont indissociables.</figcaption></figure>
+</div>
 
 <p>Face à cette bibliothèque, j'ai surtout pensé aux chaînes matérielles de transmission. Un texte bouddhique n'est pas une abstraction : il faut le copier, le traduire, le corriger, l'imprimer, le transporter, le conserver et le lire. Pour comprendre les circulations religieuses entre Tibet, Chine et Koryŏ, ces objets sont aussi importants que les doctrines qu'ils contiennent. Voir les volumes accumulés sur place rend cette réalité presque tangible.</p>
 
-<figure class="figure-right"><img src="/assets/images/sakya-07.jpg" alt="Stūpa et autels à l'intérieur du monastère de Sakya" loading="lazy"><figcaption>Stūpa, images et objets rituels composent un espace où architecture et dévotion sont indissociables.</figcaption></figure>
+
 
 <p>Un autre aspect de Sakya m'a intéressé : la coexistence entre bouddhisme institutionnel et traditions locales. Sur le toit, une petite chapelle est parfois désignée dans les récits locaux comme la « chapelle des sorcières ». La tradition affirme qu'elle aurait servi à soumettre des esprits féminins ou des puissances nuisibles. Je préfère conserver ce récit pour ce qu'il est — une tradition — plutôt que de le transformer en fait historique. Il est néanmoins révélateur de la manière dont le paysage sacré tibétain incorpore des récits de maîtrise, de protection et de domestication des forces locales.</p>
 
