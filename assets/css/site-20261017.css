@@ -781,71 +781,109 @@ html.site-intro-skip .site-intro{display:none!important}
 
 
 
-/* Fieldwork / pilgrimages — editorial photo layout */
+/* Carnet: suppress any stray rendered cards beyond the three intended sections */
+.carnet-grid > .database-card:nth-child(n+4){
+  display:none !important;
+}
+
+
+/* Fieldwork / pilgrimages — integrated editorial layout */
 .fieldwork-story{
-  --fw-figure:min(52%,520px);
-  --fw-wide:min(76%,860px);
-  --fw-hero:min(82%,980px);
-  --fw-gap:3rem;
+  max-width:980px;
+  margin:0 auto;
 }
 .fieldwork-story p{
   text-align:justify;
   text-justify:auto;
   hyphens:auto;
+  line-height:1.82;
+  margin:0 0 1.35rem;
+}
+.fieldwork-story .lead{
+  line-height:1.75;
+  margin-bottom:1.75rem;
 }
 .fieldwork-story figure{
-  width:var(--fw-figure);
-  margin-top:var(--fw-gap);
-  margin-bottom:var(--fw-gap);
+  width:34%;
+  max-width:330px;
+  margin-top:.35rem;
+  margin-bottom:1.5rem;
+  clear:both;
 }
 .fieldwork-story figure img{
   display:block;
   width:100%;
   height:auto;
-  border-radius:10px;
-  box-shadow:0 10px 26px rgba(0,0,0,.08);
+  border-radius:4px;
+  box-shadow:none;
+  border:1px solid rgba(58,49,41,.12);
 }
 .fieldwork-story figure figcaption{
-  margin-top:.8rem;
-  font-size:.92rem;
-  line-height:1.55;
-  color:#6f675d;
+  margin-top:.55rem;
+  padding-top:.5rem;
+  border-top:1px solid rgba(58,49,41,.14);
+  font-size:.82rem;
+  line-height:1.45;
+  color:#756d64;
+  text-align:left;
 }
-.fieldwork-story figure.fieldwork-hero{
-  width:var(--fw-hero);
-  margin-left:auto;
-  margin-right:auto;
-  margin-top:1.25rem;
-  margin-bottom:3.25rem;
-}
-.fieldwork-story figure:not(.fieldwork-hero):not(.figure-wide):nth-of-type(even){
+.fieldwork-story figure.figure-left{
+  float:left;
+  margin-right:2rem;
   margin-left:0;
-  margin-right:auto;
 }
-.fieldwork-story figure:not(.fieldwork-hero):not(.figure-wide):nth-of-type(odd){
-  margin-left:auto;
+.fieldwork-story figure.figure-right{
+  float:right;
+  margin-left:2rem;
   margin-right:0;
 }
-.fieldwork-story figure.figure-wide{
-  width:var(--fw-wide);
-  margin-left:auto;
-  margin-right:auto;
+.fieldwork-story figure.fieldwork-hero{
+  float:none;
+  clear:both;
+  width:54%;
+  max-width:560px;
+  margin:1rem auto 2.4rem;
 }
-.fieldwork-story figure + p{margin-top:1.5rem;}
-.fieldwork-story p + figure{margin-top:2.5rem;}
-@media(max-width:900px){
+.fieldwork-story figure.figure-center,
+.fieldwork-story figure.figure-wide{
+  float:none;
+  clear:both;
+  width:42%;
+  max-width:430px;
+  margin:2.1rem auto;
+}
+.fieldwork-story .fieldwork-notes{
+  clear:both;
+  margin-top:2.5rem;
+}
+@media(max-width:860px){
+  .fieldwork-story{
+    max-width:100%;
+  }
   .fieldwork-story figure,
-  .fieldwork-story figure.fieldwork-hero,
+  .fieldwork-story figure.figure-left,
+  .fieldwork-story figure.figure-right,
+  .fieldwork-story figure.figure-center,
   .fieldwork-story figure.figure-wide{
-    width:min(100%,42rem);
-    margin-left:auto;
-    margin-right:auto;
+    float:none;
+    clear:both;
+    width:min(78%,380px);
+    max-width:none;
+    margin:1.8rem auto;
+  }
+  .fieldwork-story figure.fieldwork-hero{
+    width:min(88%,520px);
+    margin:1rem auto 2.2rem;
+  }
+}
+@media(max-width:560px){
+  .fieldwork-story figure,
+  .fieldwork-story figure.figure-left,
+  .fieldwork-story figure.figure-right,
+  .fieldwork-story figure.figure-center,
+  .fieldwork-story figure.figure-wide,
+  .fieldwork-story figure.fieldwork-hero{
+    width:92%;
   }
 }
 
-
-
-/* Carnet: suppress any stray rendered cards beyond the three intended sections */
-.carnet-grid > .database-card:nth-child(n+4){
-  display:none !important;
-}
