@@ -9,12 +9,20 @@ format:
 <section class="page-hero"><h1>Fieldwork and Pilgrimages</h1></section>
 <main class="content"><div class="content-inner fieldwork-index">
 <p class="lead">Field notes, visits to temples, monuments and archaeological sites, research itineraries and pilgrimages.</p>
-<section class="fieldwork-index-section"><h2>Places visited</h2><ul class="fieldwork-place-list"><li><a href="/en/fieldwork-pilgrimages/sakya/"><strong>Sakya Monastery</strong></a> <span>— Tibet · Tsang</span></li></ul></section>
-<section class="fieldwork-index-section"><h2>Carte</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
+<section class="fieldwork-index-section"><h2>Places visited</h2><ul class="fieldwork-place-list"><li><a href="/en/fieldwork-pilgrimages/sakya/"><strong>Sakya Monastery</strong></a> <span>— Tibet · Tsang</span></li><li><a href="/en/fieldwork-pilgrimages/mount-hiei/"><strong>Mount Hiei</strong></a> <span>— Japan · Kyoto / Otsu</span></li></ul></section>
+<section class="fieldwork-index-section"><h2>Map</h2><div id="fieldwork-map" style="height:430px;border-radius:10px;overflow:hidden;margin:1rem 0 2.5rem"></div></section>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <script>
-document.addEventListener("DOMContentLoaded",function(){const m=L.map("fieldwork-map").setView([28.905,88.018],6);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:18,attribution:"&copy; OpenStreetMap contributors"}).addTo(m);L.marker([28.905,88.018]).addTo(m).bindPopup('<strong>Sakya Monastery</strong><br>Tibet · Tsang<br><a href="/en/fieldwork-pilgrimages/sakya/">Read the account</a>');});
+document.addEventListener("DOMContentLoaded",function(){
+  const m=L.map("fieldwork-map");
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:18,attribution:"&copy; OpenStreetMap contributors"}).addTo(m);
+  const bounds=[];
+  function addMarker(coords,html){L.marker(coords).addTo(m).bindPopup(html);bounds.push(coords);}
+  addMarker([28.905,88.018],document.querySelector('.fieldwork-place-list a[href*="/sakya/"]').innerHTML+'<br>'+document.querySelector('.fieldwork-place-list a[href*="/sakya/"]').nextElementSibling.textContent.replace(/^—\s*/,'')+'<br><a href="'+document.querySelector('.fieldwork-place-list a[href*="/sakya/"]').getAttribute('href')+'">Read the account</a>');
+  addMarker([35.07068,135.84139],'<strong>Mount Hiei</strong><br>Japan · Kyoto / Otsu<br><a href="/en/fieldwork-pilgrimages/mount-hiei/">Read the account</a>');
+  m.fitBounds(bounds,{padding:[35,35],maxZoom:5});
+});
 </script>
-<section class="fieldwork-index-section"><h2>Field notebooks</h2><div class="database-grid"><a class="database-card fieldwork-card" href="/en/fieldwork-pilgrimages/sakya/"><div class="database-card-image"><img src="/assets/images/sakya-02.jpg" alt="Sakya Monastery" loading="lazy"></div><div class="database-card-kicker">Tibet · Tsang</div><h3>Sakya Monastery</h3><p>Read the account</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></section>
+<section class="fieldwork-index-section"><h2>Field notebooks</h2><div class="database-grid"><a class="database-card fieldwork-card" href="/en/fieldwork-pilgrimages/sakya/"><div class="database-card-image"><img src="/assets/images/sakya-02.jpg" alt="Sakya Monastery" loading="lazy"></div><div class="database-card-kicker">Tibet · Tsang</div><h3>Sakya Monastery</h3><p>Read the account</p><span class="database-card-arrow" aria-hidden="true">→</span></a><a class="database-card fieldwork-card" href="/en/fieldwork-pilgrimages/mount-hiei/"><div class="database-card-image"><img src="/assets/images/mount-hiei-02.webp" alt="Mount Hiei" loading="lazy"></div><div class="database-card-kicker">Japan · Kyoto / Otsu</div><h3>Mount Hiei</h3><p>Read the account</p><span class="database-card-arrow" aria-hidden="true">→</span></a></div></section>
 </div></main>
