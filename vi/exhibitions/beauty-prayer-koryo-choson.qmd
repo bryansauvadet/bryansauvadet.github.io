@@ -1,0 +1,100 @@
+---
+title: "うるわしき祈りの美 - 高麗・朝鮮時代の仏教美術"
+lang: vi
+image: https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg
+format:
+  html:
+    include-before-body: _includes/vi-header.html
+    include-after-body: _includes/vi-footer.html
+---
+
+```{=html}
+<link rel="stylesheet" href="/assets/css/fiche-exposition.css">
+<main class="exhibit-report" id="top">
+<header class="exhibit-report__hero"><div class="exhibit-report__shell">
+<figure class="exhibit-report__hero-image"><img src="https://images.ctfassets.net/j05yk38inose/7aCC4VtDoci2s2JAEdA60e/6fe0720bf1f39d4d3793a984248c2a74/p00.jpeg" alt="Áp phích triển lãm The Beauty of Prayer tại Bảo tàng Quốc gia Kyushu" loading="eager"><figcaption>Áp phích triển lãm <em>うるわしき祈りの美―高麗・朝鮮時代の仏教美術―</em>, Bảo tàng Quốc gia Kyushu, 2023.</figcaption></figure>
+<div class="exhibit-report__hero-copy">
+<div class="exhibit-report__eyebrow">Bài viết về triển lãm · Nghệ thuật Phật giáo Hàn Quốc · Koryŏ và Chosŏn · thế kỷ XI–XVI</div>
+<h1>うるわしき祈りの美</h1>
+<p class="exhibit-report__venue"><em>Vẻ đẹp của lời cầu nguyện — Nghệ thuật Phật giáo thời Koryŏ và Chosŏn</em><br>Bảo tàng Quốc gia Kyushu · Dazaifu</p>
+<dl class="exhibit-report__meta" aria-label="Thông tin triển lãm">
+<div><dt>Thời gian</dt><dd>5/9 — 15/10/2023</dd></div>
+<div><dt>Bảo tàng</dt><dd>Bảo tàng Quốc gia Kyushu<br><span lang="ja">九州国立博物館</span></dd></div>
+<div><dt>Thành phố</dt><dd>Dazaifu · Fukuoka · Nhật Bản</dd></div>
+<div><dt>Không gian</dt><dd>Phòng 9 và 11 · Khu trưng bày Giao lưu Văn hóa</dd></div>
+<div><dt>Niên đại</dt><dd>Thế kỷ XI — XVI</dd></div>
+<div><dt>Loại hình</dt><dd>Triển lãm chuyên đề · nghệ thuật Phật giáo Hàn Quốc</dd></div>
+</dl>
+<div class="exhibit-report__question"><strong>Chủ đề trung tâm:</strong> dù chính sách đối với Phật giáo dưới Koryŏ và Chosŏn rất khác nhau, tượng, tranh, kinh điển và pháp khí vẫn tiếp tục tạo hình cho cầu nguyện, cứu độ và sự hiện diện thiêng liêng.</div>
+</div></div></header>
+
+<div class="exhibit-report__nav-wrap"><nav class="exhibit-report__shell exhibit-report__nav" aria-label="Mục lục">
+<a href="#why">Vì sao nên xem?</a><a href="#proposal">Ý tưởng giám tuyển</a><a href="#route">Lộ trình & trưng bày</a><a href="#works">Tác phẩm đáng nhớ</a><a href="#understand">Điều giúp hiểu</a><a href="#resources">Đọc thêm</a><a href="#verdict">Đánh giá</a>
+</nav></div>
+
+<section class="exhibit-report__section" id="why"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">01 · Cốt lõi</div><h2>Vì sao nên xem triển lãm này?</h2></div>
+<div class="exhibit-report__content">
+<p>Giá trị lớn nhất của triển lãm là tập hợp tại Nhật Bản những tác phẩm Phật giáo Hàn Quốc hiện phân tán trong các bảo tàng, chùa và đền Thần đạo. Danh mục gồm 48 hiện vật, từ hội họa, điêu khắc, kinh chép và kinh in đến đồ đồng, men ngọc và sơn khảm. Nhờ đó, nghệ thuật Phật giáo trên bán đảo hiện ra như một nền văn hóa vật chất hoàn chỉnh của không gian thờ tự chứ không chỉ là lịch sử hội họa.</p>
+<p>Triển lãm cũng tránh giản lược Koryŏ và Chosŏn thành sự đối lập giữa “vương triều Phật giáo” và “vương triều Nho giáo”. Triều đình Koryŏ hậu thuẫn Phật giáo mạnh mẽ, trong khi nhà nước Chosŏn hạn chế quyền lực thể chế của Phật giáo; tuy vậy, tượng, tranh, kinh và pháp khí vẫn tiếp tục được sản xuất. Nhìn từ cầu nguyện, tính liên tục vượt qua thay đổi chính trị trở nên rõ ràng.</p>
+<figure class="exhibit-report__figure exhibit-report__figure--wide"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="Yangnyu Gwanŭm năm 1310" loading="lazy"><figcaption><em>楊柳観音像</em>, Koryŏ, 1310, Kagami-jinja, Saga. Kích thước hơn bốn mét và độ tinh vi của hội họa tiêu biểu cho Phật họa cung đình Koryŏ.</figcaption></figure>
+</div></div></section>
+
+<section class="exhibit-report__section" id="proposal"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · Giám tuyển</div><h2>Triển lãm muốn chứng minh điều gì?</h2></div>
+<div class="exhibit-report__content">
+<p class="exhibit-report__thesis">Thay vì chỉ kể lịch sử theo triều đại, triển lãm đặt niềm tin và việc sử dụng hiện vật ở trung tâm. Công năng thờ phụng và tính liên tục của thực hành sùng kính kết nối Koryŏ với Chosŏn rõ hơn một trình tự niên đại đơn thuần.</p>
+<ul class="exhibit-report__keypoints">
+<li><strong>So sánh hai chế độ tôn giáo.</strong>Chính sách của Koryŏ và Chosŏn khác nhau sâu sắc, nhưng sản xuất nghệ thuật Phật giáo không biến mất khi triều đại thay đổi.</li>
+<li><strong>Vượt ra ngoài hội họa.</strong>Điêu khắc, kinh điển, lư hương, men ngọc và sơn khảm tái tạo môi trường vật chất của thực hành Phật giáo.</li>
+<li><strong>Nghiên cứu sự lưu chuyển.</strong>Việc nhiều tác phẩm hiện ở Nhật Bản làm nổi bật lịch sử di chuyển, hiến tặng, sưu tập và giao lưu đường biển.</li>
+<li><strong>Đưa hiện vật trở lại lời cầu nguyện.</strong>Nghệ thuật Phật giáo không chỉ để ngắm mà còn phục vụ lễ bái, cúng dường, tạo công đức và cầu cứu độ.</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="route"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">03 · Tham quan</div><h2>Lộ trình và thiết kế trưng bày</h2></div>
+<div class="exhibit-report__content">
+<p>Được bố trí trong hai phòng của khu Giao lưu Văn hóa, triển lãm giống một trưng bày nghiên cứu cô đọng hơn là một hồi cố quy mô lớn. Phật họa giữ vị trí nổi bật, nhưng liên tục được đặt cạnh điêu khắc, kinh điển và pháp khí, giúp người xem hình dung môi trường thờ tự nguyên gốc.</p>
+<figure class="exhibit-report__figure"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="Tượng Kṣitigarbha ngồi thư thái" loading="lazy"><figcaption><em>地蔵菩薩遊戯坐像</em>, Koryŏ, thế kỷ XI, đồng đúc thếp vàng, Bảo tàng Quốc gia Kyushu.</figcaption></figure>
+<ol class="exhibit-report__route">
+<li><strong>Hình ảnh cứu độ.</strong><span>Amitābha, Avalokiteśvara, Kṣitigarbha và các pháp hội cho thấy những hình thức thị giác của niềm hy vọng cứu độ trong nghệ thuật Hàn Quốc trung đại.</span></li>
+<li><strong>Kinh điển và công đức.</strong><span>Kinh viết vàng và kinh in cho thấy việc tạo ra văn bản thiêng tự thân đã là một hành vi sùng kính.</span></li>
+<li><strong>Sự hiện diện của điêu khắc.</strong><span>Tượng đồng Koryŏ tạo nên một dạng thiêng liêng có tính thân thể và không gian khác với hội họa.</span></li>
+<li><strong>Đồ vật nghi lễ.</strong><span>Lư hương, bình nước, men ngọc và sơn khảm tạo nên môi trường vật chất của nghi lễ Phật giáo.</span></li>
+</ol></div></div></section>
+
+<section class="exhibit-report__section" id="works"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">04 · Tuyển chọn</div><h2>Tác phẩm và hiện vật đáng nhớ</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__works">
+<article class="exhibit-report__work"><img src="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ch/2023/09/18/YMQK5B5VENA6ZKYVPVIR5H2RHU.jpg" alt="楊柳観音像 tại Kagami-jinja" loading="lazy"><div><h3>楊柳観音像 — Avalokiteśvara với nhành liễu</h3><p class="exhibit-report__work-meta">1310 · Koryŏ · màu trên lụa · Kagami-jinja, Saga · Tài sản Văn hóa Quan trọng</p><p>Cao hơn bốn mét, đây là một trong những tượng đài của Phật họa Koryŏ. Nhiều họa sĩ cung đình cùng tham gia thực hiện trên một tấm lụa khổng lồ. Vải áo trong suốt, trang sức và hoa văn tinh vi biến sự xa hoa thành biểu hiện trực quan của lòng từ bi Avalokiteśvara.</p></div></article>
+<article class="exhibit-report__work"><img src="https://collection.kyuhaku.jp/art_images/988/98775.LL.jpg" alt="地蔵菩薩遊戯坐像" loading="lazy"><div><h3>地蔵菩薩遊戯坐像 — Kṣitigarbha trong tư thế thư thái</h3><p class="exhibit-report__work-meta">Thế kỷ XI · Koryŏ · đồng đúc thếp vàng · Bảo tàng Quốc gia Kyushu · cao 49,2 cm</p><p>Tư thế thả lỏng và nét mặt dịu tạo nên một sự hiện diện gần gũi dù tượng có kích thước nhỏ. Quy mô ấy gợi một quan hệ gần giữa người lễ bái và thánh tượng, trái ngược rõ rệt với tranh treo khổng lồ.</p></div></article>
+<article class="exhibit-report__work"><img src="https://imagedb.narahaku.go.jp/artize-data/sr-thum/l/H063546L.jpg" alt="Lư hương Koryŏ khảm bạc" loading="lazy"><div><h3>梵字宝相華草文銀象嵌香炉 — Lư hương với chữ Phạn và hoa văn khảm bạc</h3><p class="exhibit-report__work-meta">Thế kỷ XIV · Koryŏ · đồng khảm bạc · Bảo tàng Quốc gia Nara</p><p>Chữ Phạn và dây hoa bằng bạc làm bề mặt đồng sẫm thay đổi theo ánh sáng. Tác phẩm cho thấy kỹ thuật kim loại không tách rời nghi lễ, đồng thời nhắc rằng kinh nghiệm Phật giáo còn bao gồm mùi hương, động tác và bầu không gian.</p></div></article>
+</div></div></div></section>
+
+<section class="exhibit-report__section" id="understand"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">05 · Nhận thức</div><h2>Triển lãm giúp chúng ta hiểu điều gì?</h2></div>
+<div class="exhibit-report__content">
+<ul class="exhibit-report__keypoints">
+<li><strong>Nghệ thuật Koryŏ không chỉ là Phật họa.</strong>Đồ đồng, men ngọc, kinh điển và sơn khảm tạo thành một hệ thống vật chất hoàn chỉnh phục vụ Phật giáo.</li>
+<li><strong>Chosŏn không phải khoảng trống Phật giáo.</strong>Dù bị hạn chế, tranh và pháp khí vẫn tiếp tục được sản xuất trong thế kỷ XV–XVI.</li>
+<li><strong>Nhật Bản là một địa điểm bảo tồn lớn.</strong>Vị trí hiện nay của tác phẩm là dữ liệu thiết yếu cho lịch sử lưu chuyển nghệ thuật Phật giáo Hàn Quốc.</li>
+<li><strong>Cầu nguyện tổ chức hình thức.</strong>Kích thước lớn, vàng, hương, sự lặp lại của chư Phật và chất cảm kim loại đều tham gia vào hiệu lực tôn giáo.</li>
+</ul>
+<div class="exhibit-report__research"><strong>Ý nghĩa đối với lịch sử nghệ thuật Phật giáo</strong><p>Điểm mạnh của triển lãm là đặt tác phẩm vào một không gian lưu chuyển Đông Á cụ thể. Lịch sử chính trị, lịch sử sưu tập, tính vật chất của nghi lễ và giao lưu hàng hải trở thành những phần của cùng một vấn đề. Cách tiếp cận này đặc biệt hữu ích cho nghiên cứu nghệ thuật Phật giáo từ Koryŏ đến đầu Chosŏn.</p></div>
+</div></div></section>
+
+<section class="exhibit-report__section" id="resources"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">06 · Tư liệu</div><h2>Đọc thêm</h2></div>
+<div class="exhibit-report__content"><ul class="exhibit-report__resources">
+<li><strong>Danh mục:</strong> 九州国立博物館, <em>うるわしき祈りの美 : 高麗・朝鮮時代の仏教美術</em>, Bảo tàng Quốc gia Kyushu, 2023, 128 tr.</li>
+<li><strong>Trang chính thức:</strong> <a href="https://www.kyuhaku.jp/exhibition/exhibition_pre186.html" target="_blank" rel="noopener">Bảo tàng Quốc gia Kyushu — giới thiệu triển lãm</a>.</li>
+<li><strong>Hiện vật:</strong> 48 số mục gồm hội họa, điêu khắc, kinh điển, kim loại, men ngọc và sơn khảm; một số tác phẩm được thay phiên trưng bày.</li>
+</ul></div></div></section>
+
+<section class="exhibit-report__section" id="verdict"><div class="exhibit-report__shell">
+<div class="exhibit-report__section-head"><div class="exhibit-report__number">07 · Kết luận</div><h2>Đánh giá</h2></div>
+<div class="exhibit-report__content"><div class="exhibit-report__verdict"><div class="exhibit-report__verdict-label">Nhận định</div><strong>Rất đáng xem để hiểu Koryŏ và những tiếp nối sang Chosŏn</strong><p><em>うるわしき祈りの美</em> đặt các kiệt tác Phật họa nổi tiếng bên cạnh những pháp khí khiêm nhường hơn, nhờ đó không thu hẹp nghệ thuật Phật giáo Hàn Quốc vào lịch sử phong cách. Giá trị lớn nhất nằm ở việc nối kết vẻ đẹp, vật chất, công năng và sự lưu chuyển.</p></div></div>
+</div></section>
+<div class="exhibit-report__shell exhibit-report__backtop"><a href="#top">↑ Lên đầu trang</a></div>
+</main>
+```
