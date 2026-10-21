@@ -36,7 +36,7 @@ The great stupas of Sāñcī and Bhārhut show how a reliquary could become an a
 
 Circumambulation turns the stupa into the centre of a ritual field. Devotees move around the monument clockwise, keeping it on their right. This practice, pradakṣiṇā, predates Buddhism and expresses respect for a sacred person or object. Early texts already describe disciples circling the living Buddha several times; after his parinirvāṇa the same gesture was transferred to his reliquary. Bodily movement thus gives devotion a spatial form. At the same time, the stupa acquired cosmological interpretations. The main mass could evoke the world, the harmikā Mount Sumeru, and the mast with its parasols an axis linking earth and heaven. The monument became a condensed representation of the Buddhist universe. This helps explain the increasing importance of verticality and superposed crowning elements. In rock-cut caitya halls, the plan is specifically designed to permit walking around the stupa at the end of the apse. Later, when statues became major cult objects, circumambulation was also transferred to the image and the hall. The practice therefore provides a continuous thread between the Indian stupa and many East Asian buildings: the sacred centre changes form, but the devotee’s body continues to establish its centrality through movement.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-6-en.webp" alt="Circumambulation and cosmology" loading="lazy" decoding="async"></figure>
 
 ### 7. From the Buddha’s stupa to the master’s stupa {#ii-7}
 

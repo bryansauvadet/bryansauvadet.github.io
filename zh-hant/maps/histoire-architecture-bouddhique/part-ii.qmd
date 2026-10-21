@@ -36,7 +36,7 @@ stūpa 原本指土堆、墳丘或葬禮紀念物。佛教沿用這一傳統，�
 
 繞塔使窣堵波成為儀式空間的中心。信眾讓聖物保持在右手側，以順時針方向繞行，這種 pradakṣiṇā 在佛教以前即已存在。早期經典也描述弟子繞著在世佛陀數圈後離去；涅槃後，同一身體動作轉移到舍利塔。身體移動本身成為禮拜的空間形式。同時，窣堵波獲得宇宙論解釋：覆鉢可象徵世界，平頭可聯繫須彌山，剎柱與傘蓋則如連接天地的宇宙軸。石窟支提堂的平面正是為了讓人能繞過後端的塔而設計。佛像成為主要禮拜對象之後，同樣的繞行原理又移向佛像與佛殿。形式改變了，但身體建立神聖中心的方式延續下來。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-6-zh-hant.webp" alt="繞塔與宇宙觀" loading="lazy" decoding="async"></figure>
 
 ### 7. 從佛陀之塔到高僧之塔 {#ii-7}
 
