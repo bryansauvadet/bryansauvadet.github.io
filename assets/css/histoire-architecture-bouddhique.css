@@ -427,3 +427,18 @@
   .hab-map-legend{gap:8px 14px}
 }
 /* End Buddhist architecture sites map */
+
+
+/* Buddhist architecture subsection illustrations */
+.hab-illustration-image{
+  max-width:900px;
+  margin:24px 0 6px;
+}
+.hab-illustration-image img{
+  display:block;
+  width:100%;
+  height:auto;
+  border:1px solid #d8cfc4;
+  background:#fff;
+}
+/* End Buddhist architecture subsection illustrations */

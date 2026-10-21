@@ -6,7 +6,7 @@
 
 At the beginnings of Buddhism, monks did not live in permanent monasteries. Renunciation of home, possessions, and material attachments was instead a fundamental principle of religious life. The climate of northern India allowed a relatively mobile existence: practitioners lived on alms, wore garments made from discarded cloth, stayed under trees or in caves, and relied on the simplest medicines. The Buddha and his first disciples therefore travelled constantly, stopping temporarily in forests, parks, and natural shelters. The caves of Gṛdhrakūṭa near Rājagṛha evoke this first relationship to space, before a clear separation existed between religious architecture and landscape. As the number of disciples grew, collective practice required places for teaching, discipline, and extended residence, especially during the rainy season. Kings and lay donors began to offer land, gardens, and buildings. The monastery was thus born from a productive tension: Buddhism valued material detachment, yet recognised that a stable framework made practice, transmission, and the cohesion of the saṃgha (僧伽) more sustainable. Monastic architecture was therefore not an original doctrinal given. It emerged gradually as an infrastructure for making durable a community that had initially defined itself through mobility, voluntary poverty, and the absence of a fixed home.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-1-en.webp" alt="Buddhism before monasteries" loading="lazy" decoding="async"></figure>
 
 ### 2. Names of the monastery and their meanings {#i-2}
 
