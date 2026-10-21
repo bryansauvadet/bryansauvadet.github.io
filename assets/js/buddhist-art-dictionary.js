@@ -130,7 +130,14 @@
   };
 
   const activeSort = sortConfig[locale] || sortConfig.fr;
-  const collator = new Intl.Collator(activeSort.locale, {
+  const primaryCollator = new Intl.Collator(activeSort.locale, {
+    usage: "sort",
+    sensitivity: "base",
+    ignorePunctuation: true,
+    numeric: true
+  });
+
+  const secondaryCollator = new Intl.Collator(activeSort.locale, {
     usage: "sort",
     sensitivity: "variant",
     ignorePunctuation: true,
@@ -139,13 +146,15 @@
 
   function sortRows(data) {
     return data.sort((a, b) => {
-      const av = String(a[activeSort.key] || "");
-      const bv = String(b[activeSort.key] || "");
+      const av = String(a[activeSort.key] || "").normalize("NFC").trim();
+      const bv = String(b[activeSort.key] || "").normalize("NFC").trim();
       if (!av && !bv) return Number(a.id) - Number(b.id);
       if (!av) return 1;
       if (!bv) return -1;
-      const primary = collator.compare(av, bv);
+      const primary = primaryCollator.compare(av, bv);
       if (primary !== 0) return primary;
+      const secondary = secondaryCollator.compare(av, bv);
+      if (secondary !== 0) return secondary;
       return Number(a.id) - Number(b.id);
     });
   }
