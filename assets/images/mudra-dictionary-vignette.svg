@@ -1,12 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
-<title id="title">Mudrā dictionary</title><desc id="desc">Schematic line drawing of two hands joined in añjali mudrā.</desc>
+<title id="title">Dictionnaire des mudrā</title>
+<desc id="desc">Deux mains anatomiques jointes en añjali mudrā.</desc>
 <rect width="1200" height="675" fill="#f2ede5"/>
-<g fill="none" stroke="#6d5230" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
-<path d="M475 520 C445 455 432 375 438 292 L452 160 C455 128 480 124 487 157 L500 282 L505 114 C507 82 535 82 540 113 L550 276 L558 100 C560 68 588 69 592 101 L597 278 L612 132 C615 102 642 105 645 136 L642 304 C641 352 627 401 604 445"/>
-<path d="M725 520 C755 455 768 375 762 292 L748 160 C745 128 720 124 713 157 L700 282 L695 114 C693 82 665 82 660 113 L650 276 L642 100 C640 68 612 69 608 101 L603 278 L588 132 C585 102 558 105 555 136 L558 304 C559 352 573 401 596 445"/>
-<path d="M475 520 C515 548 557 560 600 560 C643 560 685 548 725 520"/>
-<path d="M500 282 C521 306 539 323 560 337"/>
-<path d="M700 282 C679 306 661 323 640 337"/>
+<g transform="translate(600 345)">
+  <g transform="translate(-92 0)">
+    <path d="M-44 205 L-38 135 C-18 122 20 122 39 136 L45 205 Z" fill="#eadfce" stroke="#5c4935" stroke-width="10"/>
+    <path d="M-42 140 C-57 100 -58 54 -50 13 L-36 -116 C-32 -151 -7 -152 -2 -116 L2 -27 L8 -176 C11 -212 39 -216 46 -178 L50 -25 L60 -195 C64 -233 94 -232 100 -190 L99 -23 L112 -171 C116 -205 145 -200 148 -164 L140 -7 L156 -124 C162 -156 189 -146 185 -114 L170 34 C166 83 153 120 129 150 C100 188 62 205 17 205 C-10 205 -30 176 -42 140 Z" fill="#fffaf2" stroke="#5c4935" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M-48 38 C-74 24 -96 28 -110 45 C-126 65 -115 91 -94 93 C-74 95 -60 76 -44 60 L-3 24" fill="#fffaf2" stroke="#5c4935" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M-14 76 C18 54 58 53 93 72 M-5 111 C28 93 65 96 96 114 M12 143 C36 132 62 134 85 145" fill="none" stroke="#b4a28d" stroke-width="7" stroke-linecap="round"/>
+    <path d="M5 -92 H37 M64 -112 H96 M108 -94 H136 M142 -62 H169" fill="none" stroke="#c4b5a2" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(92 0) scale(-1 1)">
+    <path d="M-44 205 L-38 135 C-18 122 20 122 39 136 L45 205 Z" fill="#eadfce" stroke="#5c4935" stroke-width="10"/>
+    <path d="M-42 140 C-57 100 -58 54 -50 13 L-36 -116 C-32 -151 -7 -152 -2 -116 L2 -27 L8 -176 C11 -212 39 -216 46 -178 L50 -25 L60 -195 C64 -233 94 -232 100 -190 L99 -23 L112 -171 C116 -205 145 -200 148 -164 L140 -7 L156 -124 C162 -156 189 -146 185 -114 L170 34 C166 83 153 120 129 150 C100 188 62 205 17 205 C-10 205 -30 176 -42 140 Z" fill="#fffaf2" stroke="#5c4935" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M-48 38 C-74 24 -96 28 -110 45 C-126 65 -115 91 -94 93 C-74 95 -60 76 -44 60 L-3 24" fill="#fffaf2" stroke="#5c4935" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M-14 76 C18 54 58 53 93 72 M-5 111 C28 93 65 96 96 114 M12 143 C36 132 62 134 85 145" fill="none" stroke="#b4a28d" stroke-width="7" stroke-linecap="round"/>
+    <path d="M5 -92 H37 M64 -112 H96 M108 -94 H136 M142 -62 H169" fill="none" stroke="#c4b5a2" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <line x1="0" y1="-190" x2="0" y2="185" stroke="#a28a69" stroke-width="5" stroke-dasharray="12 14"/>
+  <circle cx="0" cy="28" r="15" fill="#9a8059" stroke="#fff" stroke-width="5"/>
 </g>
-<circle cx="600" cy="337" r="10" fill="#9a8059"/>
 </svg>
