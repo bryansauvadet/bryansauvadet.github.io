@@ -18,7 +18,7 @@ format:
 <main class="content">
   <div class="content-inner database-detail buddhist-dictionary-page">
     <section class="dictionary-intro">
-      <p>Ce répertoire met en regard 3 000 termes fondamentaux de l’art bouddhique en français, anglais, sanskrit, tibétain, coréen, japonais, chinois et vietnamien, avec leurs principales écritures et romanisations.</p>
+      <p>Ce répertoire met en regard 2 188 termes d’art bouddhique, d’histoire de l’art et d’archéologie disposant d’au moins un équivalent en coréen, japonais, chinois ou vietnamien, avec les principales écritures et romanisations.</p>
       <p class="dictionary-method">La recherche peut porter sur l’ensemble du tableau ou être limitée à une langue ou à un système d’écriture. Les cellules laissées vides ne sont pas complétées artificiellement lorsqu’aucun équivalent normalisé n’a été retenu à ce stade.</p>
     </section>
 
