@@ -110,6 +110,16 @@ function replaceEntry(id,data){
  if(i>=0) entries[i]={...entries[i],...data};
 }
 
+replaceEntry("miracles",{canonical:"Prātihārya-mudrā"});
+replaceEntry("blessing",{canonical:"Vyākhyāna-mudrā"});
+replaceEntry("mida-join",{canonical:"弥陀定印 · Mida jō-in"});
+replaceEntry("seppo-in",{canonical:"説法印 · Seppō-in"});
+replaceEntry("vajra-wisdom",{canonical:"Bodhyaṅgī-mudrā · 智拳印"});
+replaceEntry("vajra-embrace",{canonical:"Vajrahūṃkāra-mudrā"});
+replaceEntry("demon-subduing",{canonical:"Bhūtadāmara-mudrā"});
+replaceEntry("tarjani",{canonical:"Tarjanī-mudrā"});
+replaceEntry("mandala-offering",{canonical:"Maṇḍala-mudrā"});
+
 // Replace entries whose previous labels were too speculative for a photographic database.
 replaceEntry("raigo",{
  canonical:"Pṛthvī-mudrā",
@@ -248,16 +258,14 @@ const traditionalTerms={
  dharmachakra:"Dharmacakra-mudrā",
  vitarka:"Vitarka-mudrā · Vyākhyāna-mudrā",
  anjali:"Añjali-mudrā",
- raigo:"来迎印 · raigō-in",
  "mida-join":"弥陀定印 · mida-no-jōin",
  "seppo-in":"説法印 · seppō-in",
  "vajra-wisdom":"智拳印 · chiken-in",
  "vajra-embrace":"Vajrahūṃkāra",
  tarjani:"Tarjanī-mudrā",
- humkara:"Hūṃkāra",
  "mandala-offering":"Maṇḍala-mudrā"
 };
-function traditionalTerm(e){return e.traditional||traditionalTerms[e.id]||"";}
+function traditionalTerm(e){return e.traditional||traditionalTerms[e.id]||e.canonical||"";}
 function localName(e){return e.displayName||e.names[locale]||e.canonical;}
 function meaning(e){return e.meaningText?.[locale]||(e.dynamicMeaning?e.dynamicMeaning():(TEXT[e.meaning]?.[locale]||""));}
 function gesture(e){return e.gestureText?.[locale]||(GESTURE[e.gesture]?.[locale]||"");}
