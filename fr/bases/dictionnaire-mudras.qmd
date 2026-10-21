@@ -1,0 +1,17 @@
+---
+title: "Dictionnaire des mudrā"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/mudra-dictionary.css">
+<script defer src="/assets/js/mudra-dictionary.js"></script>
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/fr/bases.html">Bases de données</a></div><h1>Dictionnaire des mudrā</h1></section>
+<main class="content"><div class="content-inner database-detail mudra-dictionary-page">
+<section class="mudra-intro"><p>Ce dictionnaire réunit 30 gestes bouddhiques : mudrā iconographiques fondamentaux, gestes tantriques et ésotériques, ainsi que les neuf sceaux japonais d’Amida (九品印). Chaque fiche suit le même modèle afin de comparer clairement la position des mains, la signification et le contexte iconographique.</p><p class="mudra-method">Les illustrations sont des schémas vectoriels normalisés destinés à la lecture iconographique. Les formes rituelles peuvent varier selon les textes, les lignées, les régions et les périodes ; les variantes ne sont donc pas présentées comme des prescriptions universelles.</p></section>
+<section aria-label="Dictionnaire des mudrā"><div id="mudra-dictionary" data-locale="fr"></div></section>
+</div></main>
+```
