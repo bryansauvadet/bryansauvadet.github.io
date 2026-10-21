@@ -1,0 +1,17 @@
+---
+title: "불교 수인 사전"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/mudra-dictionary.css">
+<script defer src="/assets/js/mudra-dictionary.js"></script>
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/ko/databases.html">데이터베이스</a></div><h1>불교 수인 사전</h1></section>
+<main class="content"><div class="content-inner database-detail mudra-dictionary-page">
+<section class="mudra-intro"><p>이 사전은 불교 도상의 기본 수인, 밀교·탄트라 계통의 손짓, 일본 아미타불의 구품인(九品印)을 포함한 30개의 손 자세를 같은 형식으로 정리합니다. 손의 위치, 상징적 의미, 도상적 맥락을 서로 비교할 수 있도록 구성했습니다.</p><p class="mudra-method">그림은 도상 판독을 위한 표준화된 벡터 도식입니다. 실제 의례의 형태는 문헌·전승·지역·시대에 따라 달라질 수 있으므로 보편적인 의례 지침으로 이해해서는 안 됩니다.</p></section>
+<section aria-label="불교 수인 사전"><div id="mudra-dictionary" data-locale="ko"></div></section>
+</div></main>
+```
