@@ -165,163 +165,8 @@ gradeData.forEach((k,i)=>entries.push({
 }));
 
 
-const openHand=(x,y,s=1,mirror=1,rotate=0,contact=null,back=false)=>{
-  const cls=back?"mudra-hand-back":"mudra-hand";
-  const tips={
-    index:{x:-8,y:-84},
-    middle:{x:14,y:-100},
-    ring:{x:35,y:-91},
-    little:{x:54,y:-68}
-  };
-  const p=tips[contact]||tips.index;
-  const contactMarkup=contact
-    ? '<path class="mudra-line" style="stroke:#9a8059;stroke-width:4.5" d="M-58 2 Q-42 -26 '+p.x+' '+p.y+'"/>'+
-      '<circle class="mudra-contact" cx="-58" cy="2" r="6"/>'+
-      '<circle class="mudra-contact" cx="'+p.x+'" cy="'+p.y+'" r="6"/>'
-    : "";
-  return '<g transform="translate('+x+' '+y+') rotate('+rotate+') scale('+(s*mirror)+' '+s+')">'+
-    '<path class="mudra-wrist" d="M-27 72 L-26 48 C-17 43 18 43 31 49 L31 72 Z"/>'+
-    '<path class="'+cls+'" d="M-27 51 C-38 35 -42 15 -38 -5 L-31 -58 C-29 -73 -18 -74 -15 -59 L-11 -17 L-8 -85 C-7 -102 5 -105 9 -87 L12 -15 L17 -98 C19 -116 32 -116 36 -96 L36 -13 L43 -88 C45 -104 58 -102 60 -84 L56 -8 L64 -68 C67 -82 79 -77 78 -62 L71 2 C69 21 64 39 52 54 C37 73 22 82 1 82 C-12 82 -21 68 -27 51 Z"/>'+
-    '<path class="mudra-hand" d="M-34 7 C-43 0 -52 -2 -61 4 C-72 12 -70 25 -61 29 C-52 33 -45 26 -37 18 L-18 0"/>'+
-    '<path class="mudra-crease" d="M-18 26 C-3 15 19 14 38 23 M-13 42 C4 34 22 35 38 43 M-3 55 C9 51 22 52 32 57"/>'+
-    '<path class="mudra-joint" d="M-8 -45 L7 -45 M18 -55 L34 -55 M40 -47 L55 -47 M59 -32 L72 -31"/>'+
-    (back
-      ? '<ellipse class="mudra-nail" cx="-1" cy="-70" rx="6" ry="10"/><ellipse class="mudra-nail" cx="27" cy="-82" rx="6" ry="10"/><ellipse class="mudra-nail" cx="50" cy="-72" rx="5.5" ry="9"/>'
-      : '<path class="mudra-crease" d="M-22 12 C-11 2 -2 -4 7 -5"/>')+
-    contactMarkup+
-  '</g>';
-};
-
-const fist=(x,y,s=1,mirror=1,index=false,rotate=0)=>{
-  return '<g transform="translate('+x+' '+y+') rotate('+rotate+') scale('+(s*mirror)+' '+s+')">'+
-    '<path class="mudra-wrist" d="M-31 54 L-28 31 L29 31 L34 56 Z"/>'+
-    '<path class="mudra-hand" d="M-34 26 C-40 9 -36 -8 -24 -18 C-12 -28 4 -30 20 -26 C36 -22 46 -12 45 2 C44 16 38 27 30 35 C18 47 -20 47 -34 26 Z"/>'+
-    '<path class="mudra-hand-back" d="M-26 -13 C-17 -24 -7 -24 1 -17 C8 -26 19 -25 26 -18 C35 -22 44 -16 44 -7 C44 3 37 9 29 12 L-18 12 C-27 8 -31 0 -26 -13 Z"/>'+
-    '<path class="mudra-joint" d="M-18 -10 L-17 8 M1 -13 L1 9 M20 -11 L19 9 M35 -5 L32 10"/>'+
-    '<path class="mudra-crease" d="M-24 19 C-5 13 14 14 30 21"/>'+
-    (index
-      ? '<path class="mudra-hand" d="M-9 -18 L-8 -86 C-8 -103 5 -105 9 -88 L12 -18 Z"/><path class="mudra-joint" d="M-7 -54 L10 -54"/>'
-      : "")+
-  '</g>';
-};
-
-const sideHand=(x,y,s=1,mirror=1,rotate=0)=>{
-  return '<g transform="translate('+x+' '+y+') rotate('+rotate+') scale('+(s*mirror)+' '+s+')">'+
-   '<path class="mudra-wrist" d="M-19 68 L-18 45 L18 45 L20 68 Z"/>'+
-   '<path class="mudra-hand" d="M-18 47 C-23 28 -22 5 -18 -18 L-11 -83 C-9 -99 4 -99 7 -83 L11 -31 L15 -88 C17 -102 29 -99 30 -84 L28 -20 L34 -71 C36 -84 47 -81 47 -67 L43 -8 C42 15 38 35 29 50 C20 64 -11 64 -18 47 Z"/>'+
-   '<path class="mudra-hand" d="M-14 10 C-28 4 -34 12 -31 22 C-29 31 -20 32 -11 26 L5 15"/>'+
-   '<path class="mudra-crease" d="M-10 31 C1 25 13 25 24 31"/>'+
-  '</g>';
-};
-
-const cuppedHand=(x,y,s=1,mirror=1,upper=false)=>{
- return '<g transform="translate('+x+' '+y+') scale('+(s*mirror)+' '+s+')">'+
-  '<path class="mudra-wrist" d="M-78 20 L-58 8 L-42 35 L-64 47 Z"/>'+
-  '<path class="mudra-hand" d="M-60 8 C-40 -4 -17 -10 7 -9 L70 -7 C88 -6 91 7 74 11 L28 18 L78 23 C95 25 95 39 77 42 L9 41 C-13 41 -35 36 -55 27 C-67 22 -70 14 -60 8 Z"/>'+
-  '<path class="mudra-hand" d="M-37 7 C-27 -7 -15 -18 -3 -23 C7 -27 14 -20 10 -11 L-1 7"/>'+
-  '<path class="mudra-crease" d="M-24 20 C2 12 31 13 55 20 M-18 30 C4 25 27 26 47 31"/>'+
-  (upper?'<path class="mudra-guide" d="M-46 0 Q0 -20 54 -5"/>':'')+
- '</g>';
-};
-
-const interlockedHands=(x,y,s=1)=>{
- let fingers="";
- const xs=[-42,-18,6,30];
- xs.forEach((px,i)=>{
-   fingers+='<rect class="'+(i%2===0?'mudra-hand':'mudra-hand-back')+'" x="'+px+'" y="'+(-58+i*4)+'" width="17" height="78" rx="8" transform="rotate('+(i%2===0?10:-10)+' '+(px+8)+' -18)"/>';
-   fingers+='<rect class="'+(i%2===0?'mudra-hand-back':'mudra-hand')+'" x="'+(px+10)+'" y="-8" width="17" height="78" rx="8" transform="rotate('+(i%2===0?-12:12)+' '+(px+18)+' 25)"/>';
- });
- return '<g transform="translate('+x+' '+y+') scale('+s+')">'+
-   '<path class="mudra-wrist" d="M-78 50 L-55 25 L-23 47 L-43 69 Z"/>'+
-   '<path class="mudra-wrist" d="M78 50 L55 25 L23 47 L43 69 Z"/>'+
-   fingers+
-   '<path class="mudra-crease" d="M-55 22 Q0 52 55 22"/>'+
- '</g>';
-};
-
-function svg(body){
- return '<svg viewBox="0 0 300 250" aria-hidden="true" focusable="false">'+body+'</svg>';
-}
-
-function renderDiagram(d){
- const f=d.finger||"index";
- if(d.kind==="open")return svg(openHand(150,126,1.05,1,0,null,false));
- if(d.kind==="down")return svg(openHand(150,126,1.05,1,180,null,false));
- if(d.kind==="earth")return svg(
-   '<path class="mudra-guide" d="M28 211 H272"/>'+
-   '<path class="mudra-arrow" d="M248 205 l13 6 -13 6 z"/>'+
-   openHand(168,128,.92,1,145,null,false)
- );
- if(d.kind==="circle")return svg(openHand(150,127,1.03,1,0,f,false));
- if(d.kind==="miracle")return svg(openHand(151,130,1.0,1,-16,null,false));
- if(d.kind==="prayer")return svg(
-   sideHand(126,126,.92,1,-3)+
-   sideHand(174,126,.92,-1,3)+
-   '<path class="mudra-guide" d="M150 45 V198"/>'+
-   '<circle class="mudra-contact" cx="150" cy="114" r="6"/>'
- );
- if(d.kind==="meditation"||d.kind==="kuhon-meditation"){
-   const contact=d.kind==="kuhon-meditation"?f:null;
-   const cx=contact==="index"?118:contact==="middle"?150:182;
-   return svg(
-     cuppedHand(134,130,.80,1,false)+
-     cuppedHand(166,147,.80,-1,true)+
-     (contact?'<circle class="mudra-contact" cx="'+cx+'" cy="143" r="7"/><circle class="mudra-contact" cx="'+(300-cx)+'" cy="143" r="7"/>':"")
-   );
- }
- if(d.kind==="teaching"||d.kind==="kuhon-teaching")return svg(
-   openHand(105,135,.78,1,-12,f,false)+
-   openHand(195,135,.78,-1,12,f,false)+
-   '<path class="mudra-guide" d="M138 122 Q150 110 162 122"/>'
- );
- if(d.kind==="raigo"||d.kind==="kuhon-raigo")return svg(
-   openHand(105,100,.76,1,-7,f,false)+
-   openHand(203,163,.72,1,165,f,false)+
-   '<path class="mudra-guide" d="M145 112 Q172 132 187 150"/>'
- );
- if(d.kind==="wisdom")return svg(
-   fist(140,157,.96,1,true,0)+
-   fist(166,158,.80,-1,false,0)+
-   '<circle class="mudra-contact" cx="144" cy="73" r="7"/>'
- );
- if(d.kind==="cross")return svg(
-   '<path class="mudra-wrist" d="M46 204 L91 155 L115 178 L70 224 Z"/>'+
-   '<path class="mudra-wrist" d="M254 204 L209 155 L185 178 L230 224 Z"/>'+
-   fist(203,98,.62,1,false,-38)+
-   fist(97,98,.62,-1,false,38)+
-   '<path class="mudra-guide" d="M82 184 L218 55 M218 184 L82 55"/>'
- );
- if(d.kind==="interlock")return svg(
-   interlockedHands(150,137,1.02)+
-   '<circle class="mudra-contact" cx="150" cy="132" r="7"/>'
- );
- if(d.kind==="flame")return svg(
-   openHand(109,142,.72,1,-9,"index",false)+
-   openHand(191,142,.72,-1,9,"index",false)+
-   '<path class="mudra-line" style="fill:#f4e7d5;stroke:#9a8059" d="M150 34 C132 58 137 72 150 88 C167 68 166 51 150 34 Z"/>'
- );
- if(d.kind==="nagaraja")return svg(
-   fist(111,162,.82,1,true,0)+
-   fist(189,162,.82,-1,true,0)+
-   '<path class="mudra-guide" d="M150 55 V185"/>'
- );
- if(d.kind==="point")return svg(
-   fist(151,134,1.02,1,true,86)+
-   '<path class="mudra-arrow" d="M260 121 l17 9 -17 9 z"/>'
- );
- if(d.kind==="embrace")return svg(
-   '<path class="mudra-wrist" d="M35 214 Q78 150 135 100 L151 122 Q94 169 58 230 Z"/>'+
-   '<path class="mudra-wrist" d="M265 214 Q222 150 165 100 L149 122 Q206 169 242 230 Z"/>'+
-   openHand(186,90,.50,1,56,null,false)+
-   openHand(114,90,.50,-1,-56,null,false)
- );
- if(d.kind==="mandala")return svg(
-   interlockedHands(150,150,.92)+
-   '<path class="mudra-hand" d="M132 142 L137 58 C138 43 149 42 151 58 L151 142 Z"/>'+
-   '<path class="mudra-hand" d="M149 142 L153 58 C154 43 165 43 166 59 L165 142 Z"/>'+
-   '<circle class="mudra-contact" cx="150" cy="143" r="7"/>'
- );
- return svg(openHand(150,126,1.05,1,0,null,false));
+function renderDiagram(e){
+ return '<svg viewBox="0 0 600 500" aria-hidden="true" focusable="false"><use href="/assets/images/mudra-sprite.svg#'+e.id+'"></use></svg>';
 }
 
 const traditionalTerms={
@@ -378,7 +223,7 @@ function showEntry(index){
  const s=sources[e.source];
  dialogContent.innerHTML=`<div class="mudra-dialog-shell">
  <button class="mudra-dialog-close" type="button" aria-label="${UI.close}">×</button>
- <div class="mudra-dialog-visual">${renderDiagram(e.diagram)}</div>
+ <div class="mudra-dialog-visual">${renderDiagram(e)}</div>
  <div class="mudra-dialog-copy">
   <div class="mudra-dialog-kicker">${UI.cats[e.category]} · ${UI.trad[e.tradition]}</div>
   <h2>${esc(localName(e))}</h2>
@@ -395,7 +240,7 @@ dialog.addEventListener("click",e=>{if(e.target===dialog)dialog.close();});
 
 function render(list){
  grid.innerHTML=list.map(({e,index},i)=>`<button class="mudra-card" type="button" data-index="${index}">
-  <div class="mudra-figure">${renderDiagram(e.diagram)}</div>
+  <div class="mudra-figure">${renderDiagram(e)}</div>
   <div class="mudra-card-body">
    <div class="mudra-card-top"><div><h2>${esc(localName(e))}</h2>${traditionalTerm(e)?`<p class="mudra-local-name">${esc(traditionalTerm(e))}</p>`:""}</div><span class="mudra-number">${String(index+1).padStart(2,"0")}</span></div>
    <p class="mudra-meaning">${esc(meaning(e))}</p>
