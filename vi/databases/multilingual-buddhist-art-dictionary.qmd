@@ -18,7 +18,7 @@ format:
 <main class="content">
   <div class="content-inner database-detail buddhist-dictionary-page">
     <section class="dictionary-intro">
-      <p>Bảng đối chiếu này tập hợp 1.500 thuật ngữ cốt lõi của nghệ thuật Phật giáo bằng tiếng Pháp, Anh, Phạn, Tạng, Hàn, Nhật, Trung và Việt, kèm các hệ chữ và cách chuyển tự chính.</p>
+      <p>Bảng đối chiếu này tập hợp 3.000 thuật ngữ cốt lõi của nghệ thuật Phật giáo bằng tiếng Pháp, Anh, Phạn, Tạng, Hàn, Nhật, Trung và Việt, kèm các hệ chữ và cách chuyển tự chính.</p>
       <p class="dictionary-method">Có thể tìm kiếm toàn bộ bảng hoặc giới hạn theo từng ngôn ngữ hay hệ chữ. Những ô chưa có tương đương chuẩn hóa được xác nhận ở giai đoạn này được để trống thay vì bổ sung bằng suy đoán.</p>
     </section>
 
