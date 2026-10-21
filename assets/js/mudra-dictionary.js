@@ -252,7 +252,7 @@ function renderPhoto(e,full=false){
  if(!p)return "";
  const src=commonsFile(p.file);
  if(full)return '<img class="mudra-full-image" src="'+src+'" alt="" loading="lazy">';
- return '<div class="mudra-photo-crop"><img src="'+src+'" alt="" loading="lazy" style="object-position:'+p.x+'% '+p.y+'%;transform:scale('+p.z+')"></div>';
+ return '<div class="mudra-photo-crop"><img src="'+src+'" alt="" loading="lazy" style="object-position:'+p.x+'% '+p.y+'%;transform-origin:'+p.x+'% '+p.y+'%;transform:scale('+p.z+')"></div>';
 }
 function sourceLink(e){
  const p=photoFor(e);
