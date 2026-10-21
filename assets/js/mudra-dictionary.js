@@ -78,6 +78,8 @@ jaanus:{label:"JAANUS — Amida kubon-in / kuhon-in",url:"https://www.aisf.or.jp
 mandala:{label:"Study Buddhism — Mandala hand mudra",url:"https://studybuddhism.com/en/advanced-studies/prayers-rituals/preliminaries/explanation-of-the-six-preparatory-practices/six-preparatory-practices-the-last-two-practices"}
 };
 
+const L=(fr,en,ko,ja,zh,vi)=>({fr,en,ko,ja,"zh-hant":zh,vi});
+
 const entries=[
 {id:"abhaya",canonical:"Abhaya-mudrā",names:{fr:"Geste d’absence de crainte",en:"Fearlessness gesture",ko:"시무외인 · 施無畏印",ja:"施無畏印 · semui-in","zh-hant":"施無畏印",vi:"Ấn vô úy"},category:"core",tradition:"pan",diagram:{kind:"open"},meaning:"fearlessness",gesture:"open",context:"shakyamuni",source:"smithAbhaya"},
 {id:"varada",canonical:"Varada-mudrā",names:{fr:"Geste du don",en:"Gift-giving gesture",ko:"여원인 · 與願印",ja:"与願印 · yogan-in","zh-hant":"與願印",vi:"Ấn thí nguyện"},category:"core",tradition:"pan",diagram:{kind:"down"},meaning:"generosity",gesture:"down",context:"five",source:"met"},
@@ -102,71 +104,140 @@ const entries=[
 {id:"mandala-offering",canonical:"Maṇḍala-offering mudrā",names:{fr:"Mudrā d’offrande du maṇḍala",en:"Mandala-offering mudra",ko:"만다라 공양 수인",ja:"曼荼羅供養の印","zh-hant":"曼荼羅供養手印",vi:"Thủ ấn cúng dường maṇḍala"},category:"tantric",tradition:"vajrayana",diagram:{kind:"mandala"},meaning:"mandala",gesture:"mandala",context:"mandala",source:"mandala"}
 ];
 
-const gradeData=[
-{g:"upper",b:"upper",jp:"上品上生",base:"meditation",finger:"index"},
-{g:"upper",b:"middle",jp:"上品中生",base:"meditation",finger:"middle"},
-{g:"upper",b:"lower",jp:"上品下生",base:"meditation",finger:"ring"},
-{g:"middle",b:"upper",jp:"中品上生",base:"teaching",finger:"index"},
-{g:"middle",b:"middle",jp:"中品中生",base:"teaching",finger:"middle"},
-{g:"middle",b:"lower",jp:"中品下生",base:"teaching",finger:"ring"},
-{g:"lower",b:"upper",jp:"下品上生",base:"raigo",finger:"index"},
-{g:"lower",b:"middle",jp:"下品中生",base:"raigo",finger:"middle"},
-{g:"lower",b:"lower",jp:"下品下生",base:"raigo",finger:"ring"}
-];
 
-const levels={
-fr:{upper:"supérieur",middle:"moyen",lower:"inférieur",grade:"grade",birth:"naissance",name:"Amida kuhon-in"},
-en:{upper:"upper",middle:"middle",lower:"lower",grade:"grade",birth:"birth",name:"Amida kuhon-in"},
-ko:{upper:"상",middle:"중",lower:"하",grade:"품",birth:"생",name:"아미타 구품인"},
-ja:{upper:"上",middle:"中",lower:"下",grade:"品",birth:"生",name:"阿弥陀九品印"},
-"zh-hant":{upper:"上",middle:"中",lower:"下",grade:"品",birth:"生",name:"阿彌陀九品印"},
-vi:{upper:"thượng",middle:"trung",lower:"hạ",grade:"phẩm",birth:"sinh",name:"Cửu phẩm ấn A Di Đà"}
+function replaceEntry(id,data){
+ const i=entries.findIndex(e=>e.id===id);
+ if(i>=0) entries[i]={...entries[i],...data};
+}
+
+// Replace entries whose previous labels were too speculative for a photographic database.
+replaceEntry("raigo",{
+ canonical:"Pṛthvī-mudrā",
+ names:L("Geste de la terre","Earth gesture","지인 · 地印","地印 · chi-in","地印","Địa ấn"),
+ displayName:null, category:"regional", tradition:"vajrayana",
+ meaningText:L("Stabilité, enracinement et contact avec l’élément terre.","Stability, grounding, and connection with the earth element.","안정·기반·대지 요소와의 연결.","安定・大地との結びつき。","穩定、扎根與大地元素的連結。","Sự ổn định, tiếp đất và liên hệ với yếu tố đất."),
+ gestureText:L("Le pouce et l’annulaire se rejoignent tandis que les autres doigts restent étendus.","Thumb and ring finger meet while the other fingers remain extended.","엄지와 약지를 맞대고 나머지 손가락은 편다.","親指と薬指を合わせ、他の指を伸ばす。","拇指與無名指相接，其餘手指伸展。","Ngón cái chạm ngón áp út, các ngón còn lại duỗi."),
+ contextText:L("Geste attesté dans des contextes bouddhiques himalayens et dans des pratiques méditatives indiennes.","Attested in Himalayan Buddhist contexts and Indian meditative practice.","히말라야 불교와 인도 명상 전통에서 확인된다.","ヒマラヤ仏教とインドの瞑想実践に見られる。","見於喜馬拉雅佛教與印度冥想實踐。","Gặp trong bối cảnh Phật giáo Himalaya và thực hành thiền Ấn Độ.")
+});
+replaceEntry("flaming",{
+ canonical:"Karaṇa-mudrā",
+ names:L("Geste d’expulsion des obstacles","Gesture for dispelling obstacles","가라나 수인","迦羅拏印 · karana-in","迦羅拏印","Karaṇa ấn"),
+ displayName:null, category:"tantric", tradition:"vajrayana",
+ meaningText:L("Éloignement des obstacles et des influences nuisibles.","Dispelling obstacles and harmful influences.","장애와 해로운 영향을 물리침.","障碍や有害な影響を退ける。","驅除障礙與有害影響。","Xua đuổi chướng ngại và ảnh hưởng bất lợi."),
+ gestureText:L("L’index et l’auriculaire sont dressés ; les autres doigts sont repliés selon la variante.","Index and little finger are raised while the other fingers fold according to the variant.","검지와 새끼손가락을 세우고 나머지 손가락은 접는다.","人差し指と小指を立て、他の指を折る。","食指與小指豎起，其餘手指屈曲。","Ngón trỏ và ngón út dựng lên, các ngón khác gập lại."),
+ contextText:L("Fréquent dans l’iconographie protectrice et courroucée du bouddhisme tantrique.","Common in protective and wrathful tantric Buddhist iconography.","밀교의 수호·분노존 도상에 자주 나타난다.","密教の守護尊・忿怒尊図像に多い。","常見於密教護法與忿怒尊圖像。","Thường gặp trong hình tượng hộ pháp và phẫn nộ tôn Mật giáo.")
+});
+replaceEntry("nagaraja",{
+ canonical:"Buddhaśramaṇa-mudrā",
+ names:L("Geste du renonçant bouddhique","Buddhist ascetic gesture","불교 수행자 수인","仏教沙門印","佛教沙門印","Ấn sa-môn Phật giáo"),
+ displayName:null, category:"regional", tradition:"mahayana",
+ meaningText:L("Geste associé à la figure du renonçant et à certains bodhisattva.","Gesture associated with the renunciant and certain bodhisattvas.","출가 수행자와 일부 보살의 도상에 관련된다.","出家修行者や一部の菩薩に結びつく。","與出家修行者及部分菩薩相關。","Gắn với hình tượng người xuất gia và một số Bồ-tát."),
+ gestureText:L("La main est levée près de la tête, paume tournée vers le haut, doigts joints et étendus.","The hand is raised near the head, palm upward, fingers extended and joined.","손을 머리 가까이 들고 손바닥을 위로 향하며 손가락을 모아 편다.","手を頭部近くに上げ、掌を上へ向け、指をそろえて伸ばす。","手舉至頭部附近，掌心向上，手指併攏伸展。","Tay giơ gần đầu, lòng bàn tay hướng lên, các ngón duỗi và khép."),
+ contextText:L("Attesté notamment dans l’iconographie népalaise de Vasudhārā et d’autres figures mahāyāna.","Attested especially in Nepalese images of Vasudhara and other Mahayana figures.","특히 네팔의 바수다라 및 대승 도상에서 확인된다.","特にネパールのヴァスダーラーなどの大乗図像に見られる。","尤見於尼泊爾財續母等大乘圖像。","Đặc biệt gặp trong hình tượng Vasudhārā Nepal và các hình tượng Đại thừa.")
+});
+replaceEntry("embrace",{
+ canonical:"Mettākaruṇā-mudrā",
+ names:L("Geste de bienveillance et compassion","Loving-kindness and compassion gesture","자비 수인","慈悲印","慈悲印","Từ bi ấn"),
+ displayName:null, category:"regional", tradition:"mahayana",
+ meaningText:L("Bienveillance (maitrī/metta) et compassion (karuṇā).","Loving-kindness (maitri/metta) and compassion (karuna).","자애와 자비.","慈愛と慈悲。","慈愛與慈悲。","Từ ái và từ bi."),
+ gestureText:L("Les bras tombent de part et d’autre du corps ; les mains sont ouvertes, légèrement détachées, paumes vers l’intérieur.","The arms hang at the sides; hands are open, slightly away from the body, palms inward.","두 팔을 몸 옆에 내리고 손을 펴서 약간 벌리며 손바닥을 안쪽으로 향한다.","両腕を体側に下ろし、手を開いてやや離し、掌を内側へ向ける。","雙臂垂於身側，手掌張開稍離身體，掌心向內。","Hai tay buông hai bên thân, bàn tay mở và hơi tách khỏi cơ thể, lòng bàn tay hướng vào."),
+ contextText:L("Particulièrement attesté dans la statuaire bouddhique d’Asie du Sud-Est.","Especially attested in Southeast Asian Buddhist sculpture.","동남아시아 불교 조각에서 특히 확인된다.","東南アジアの仏教彫刻に特に見られる。","尤見於東南亞佛教造像。","Đặc biệt gặp trong điêu khắc Phật giáo Đông Nam Á.")
+});
+replaceEntry("humkara",{
+ canonical:"Uttarabodhi-mudrā",
+ names:L("Geste de l’éveil suprême","Gesture of supreme awakening","최상보리 수인","最上菩提印","最上菩提印","Ấn tối thượng bồ-đề"),
+ displayName:null, category:"tantric", tradition:"vajrayana",
+ meaningText:L("Éveil suprême et accomplissement de la connaissance éveillée.","Supreme awakening and fulfillment of awakened knowledge.","최상의 깨달음과 지혜의 성취.","最上の覚りと智慧の成就。","最高覺悟與覺智成就。","Giác ngộ tối thượng và thành tựu trí giác."),
+ gestureText:L("Les deux mains se rejoignent ; certains doigts sont entrelacés tandis que les index sont dressés ensemble selon la variante.","The hands join; selected fingers interlace while the index fingers rise together according to the variant.","두 손을 합치고 일부 손가락을 엮으며 검지를 함께 세운다.","両手を合わせ、指を組み、人差し指をそろえて立てる。","雙手相合，部分手指交纏，食指並列豎起。","Hai tay kết lại, một số ngón đan nhau, hai ngón trỏ cùng dựng lên."),
+ contextText:L("Geste ésotérique associé notamment à Vairocana dans certaines traditions d’Asie orientale.","Esoteric gesture associated especially with Vairochana in some East Asian traditions.","동아시아 밀교 전통에서 비로자나불과 관련된다.","東アジア密教で大日如来などに結びつく。","在東亞密教中尤與毘盧遮那佛相關。","Trong Mật giáo Đông Á, đặc biệt gắn với Đại Nhật Như Lai.")
+});
+
+const supplementalEntries=[
+ {id:"mahakaruna",canonical:"Mahākaruṇā-mudrā",names:L("Geste de grande compassion","Great-compassion gesture","대비 수인","大悲印","大悲印","Đại bi ấn"),category:"regional",tradition:"mahayana",
+  meaningText:L("Expression de la grande compassion bouddhique.","Expression of great Buddhist compassion.","불교의 대비를 나타낸다.","仏教の大悲を表す。","表現佛教的大悲。","Biểu hiện lòng đại bi Phật giáo."),
+  gestureText:L("Configuration de main codifiée dans des traditions régionales ; la forme exacte doit être lue avec la source iconographique.","A codified hand configuration in regional traditions; the exact form should be read with the iconographic source.","지역 전통의 정형화된 손모양으로 도상 자료와 함께 판독해야 한다.","地域伝承の定型的な手形で、図像資料と併読する必要がある。","地域傳統中的規範手勢，需配合圖像來源判讀。","Thủ thế quy phạm trong các truyền thống khu vực; cần đọc cùng nguồn hình tượng."),
+  contextText:L("Présent dans des corpus bouddhiques d’Asie du Sud et du Sud-Est.","Found in South and Southeast Asian Buddhist corpora.","남아시아·동남아시아 불교 자료에 나타난다.","南アジア・東南アジアの仏教資料に見られる。","見於南亞與東南亞佛教資料。","Gặp trong tư liệu Phật giáo Nam Á và Đông Nam Á.")},
+ {id:"patra",canonical:"Pātra-mudrā",names:L("Geste de la feuille / paume ouverte","Leaf / open-palm gesture","파트라 수인","葉印","葉印","Pātra ấn"),category:"regional",tradition:"pan",
+  meaningText:L("Geste descriptif fondé sur l’ouverture de la main.","Descriptive gesture based on the opening of the hand.","손바닥을 펼치는 형태에 기초한 수인.","開いた掌を基本とする手勢。","以張開手掌為基礎的手勢。","Thủ thế dựa trên lòng bàn tay mở."),
+  gestureText:L("Les doigts s’écartent et forment une silhouette en feuille.","The fingers spread to form a leaf-like silhouette.","손가락을 벌려 잎과 같은 형태를 만든다.","指を広げ、葉のような形を作る。","手指張開，形成葉片般輪廓。","Các ngón xòe ra tạo hình giống chiếc lá."),
+  contextText:L("Terme attesté dans des répertoires gestuels indiens et bouddhiques régionaux.","Attested in Indian and regional Buddhist gesture repertoires.","인도 및 지역 불교 손짓 체계에서 확인된다.","インドおよび地域的な仏教の手勢体系に見られる。","見於印度與地區佛教手勢體系。","Gặp trong các hệ thống thủ thế Ấn Độ và Phật giáo khu vực.")},
+ {id:"vismaya",canonical:"Vismaya-mudrā",names:L("Geste d’émerveillement","Wonder gesture","경이 수인","驚嘆印","驚嘆印","Ấn kinh ngạc"),category:"regional",tradition:"pan",
+  meaningText:L("Émerveillement, étonnement ou manifestation d’une réaction.","Wonder, astonishment, or the display of a reaction.","경이·놀람의 표현.","驚き・感嘆の表現。","驚異、驚嘆的表現。","Biểu hiện kinh ngạc hoặc thán phục."),
+  gestureText:L("Geste expressif dont la configuration dépend du corpus iconographique.","An expressive gesture whose exact configuration depends on the iconographic corpus.","도상 자료에 따라 형태가 달라지는 표현적 손짓.","図像資料によって形が異なる表現的な手勢。","形態依圖像資料而異的表現性手勢。","Thủ thế biểu cảm, hình thức thay đổi theo corpus hình tượng."),
+  contextText:L("Partagé par plusieurs traditions artistiques de l’Inde.","Shared across several Indian artistic traditions.","여러 인도 미술 전통에 공유된다.","複数のインド美術伝統に共有される。","為多種印度藝術傳統所共有。","Được dùng trong nhiều truyền thống nghệ thuật Ấn Độ.")},
+ {id:"jnana",canonical:"Jñāna-mudrā",names:L("Geste de connaissance","Knowledge gesture","지혜 수인","智慧印","智慧印","Trí ấn"),category:"regional",tradition:"pan",
+  meaningText:L("Connaissance, contemplation et discipline méditative.","Knowledge, contemplation, and meditative discipline.","지혜·관조·명상 수행.","智慧・観想・瞑想実践。","智慧、觀想與冥想修持。","Trí tuệ, quán chiếu và thực hành thiền."),
+  gestureText:L("Le pouce et l’index se rejoignent ; les autres doigts restent étendus.","Thumb and index finger meet while the other fingers remain extended.","엄지와 검지를 맞대고 나머지 손가락은 편다.","親指と人差し指を合わせ、他の指を伸ばす。","拇指與食指相接，其餘手指伸展。","Ngón cái chạm ngón trỏ, các ngón còn lại duỗi."),
+  contextText:L("Geste transversal aux traditions méditatives indiennes ; à distinguer des emplois iconographiques spécifiquement bouddhiques.","Shared across Indian meditative traditions; distinguish from specifically Buddhist iconographic uses.","인도 명상 전통 전반에 걸쳐 나타나며 불교 도상 용례와 구분해야 한다.","インドの瞑想伝統に広く見られ、仏教図像上の用法とは区別が必要。","廣見於印度冥想傳統，需與特定佛教圖像用法區分。","Phổ biến trong các truyền thống thiền Ấn Độ; cần phân biệt với cách dùng riêng trong hình tượng Phật giáo.")},
+ {id:"sarvatathagata",canonical:"Sarvatathāgatajñāna-mudrā",names:L("Sceau de la connaissance de tous les Tathāgata","Seal of the knowledge of all Tathagatas","일체여래지인 · 一切如來智印","一切如来智印","一切如來智印","Nhất thiết Như Lai trí ấn"),category:"tantric",tradition:"vajrayana",
+  meaningText:L("Connaissance de l’ensemble des Tathāgata dans l’ésotérisme bouddhique.","Knowledge of all Tathagatas in esoteric Buddhism.","밀교에서 일체여래의 지혜를 상징한다.","密教で一切如来の智慧を象徴する。","密教中象徵一切如來之智慧。","Biểu trưng trí của tất cả Như Lai trong Mật giáo."),
+  gestureText:L("Sceau ésotérique codifié ; sa forme doit être lue dans son mandala et son rituel.","A codified esoteric seal whose form must be read in its mandala and ritual context.","만다라와 의례 맥락에서 판독해야 하는 밀교 인계.","曼荼羅と儀礼の文脈で読むべき密教の印。","需在曼荼羅與儀軌脈絡中判讀的密教手印。","Ấn Mật giáo có quy phạm, cần đọc trong bối cảnh maṇḍala và nghi quỹ."),
+  contextText:L("Associé notamment au mandala de la Matrice dans l’ésotérisme est-asiatique.","Associated especially with the Womb Realm Mandala in East Asian esotericism.","동아시아 밀교의 태장계 만다라와 관련된다.","東アジア密教の胎蔵界曼荼羅などに関わる。","尤與東亞密教胎藏界曼荼羅相關。","Đặc biệt liên hệ với Thai Tạng giới maṇḍala trong Mật giáo Đông Á.")},
+ {id:"kataka",canonical:"Kataka-mudrā",names:L("Geste de saisie / tenue","Holding gesture","카타카 수인","持物印","持物印","Ấn cầm giữ"),category:"regional",tradition:"pan",
+  meaningText:L("Tenue d’un attribut, d’une fleur ou d’une offrande.","Holding an attribute, flower, or offering.","지물·꽃·공양물을 드는 손짓.","持物・花・供物を持つ手勢。","持握法器、花或供物的手勢。","Thủ thế cầm pháp khí, hoa hoặc vật cúng."),
+  gestureText:L("Les doigts se courbent pour saisir délicatement un petit attribut.","The fingers curve to hold a small attribute delicately.","손가락을 구부려 작은 지물을 가볍게 잡는다.","指を曲げ、小さな持物を軽く保持する。","手指彎曲，輕握小型法器或花。","Các ngón cong để giữ nhẹ một vật nhỏ."),
+  contextText:L("Geste partagé par l’iconographie bouddhique et d’autres traditions indiennes.","Shared by Buddhist iconography and other Indian traditions.","불교 도상과 다른 인도 전통에 공유된다.","仏教図像と他のインド伝統に共有される。","佛教圖像與其他印度傳統皆可見。","Gặp trong hình tượng Phật giáo và các truyền thống Ấn Độ khác.")},
+ {id:"gajahasta",canonical:"Gajahasta-mudrā",names:L("Geste de la trompe d’éléphant","Elephant-trunk gesture","가자하스타 수인","象鼻印","象鼻印","Tượng tỵ ấn"),category:"regional",tradition:"pan",
+  meaningText:L("Geste dont la ligne du bras et de la main évoque une trompe d’éléphant.","Gesture whose arm-and-hand line evokes an elephant trunk.","팔과 손의 선이 코끼리 코를 연상시키는 손짓.","腕と手の線が象の鼻を思わせる手勢。","手臂與手的線條如象鼻。","Thủ thế có đường tay và cánh tay gợi vòi voi."),
+  gestureText:L("Le bras descend en courbe, la main prolongeant le mouvement.","The arm descends in a curve and the hand continues the line.","팔을 곡선으로 내리고 손이 그 흐름을 잇는다.","腕を曲線状に下ろし、手がその流れを延長する。","手臂呈曲線下垂，手掌延續其線條。","Cánh tay hạ theo đường cong, bàn tay nối tiếp chuyển động."),
+  contextText:L("Geste issu de l’iconographie indienne, parfois rencontré dans des contextes tantriques.","An Indian iconographic gesture also encountered in some tantric contexts.","인도 도상에서 유래하며 일부 탄트라 맥락에서도 보인다.","インド図像に由来し、一部の密教文脈にも見られる。","源於印度圖像，也見於部分密教脈絡。","Gốc từ hình tượng Ấn Độ, đôi khi gặp trong bối cảnh Mật giáo.")},
+ {id:"lalitakshepa",canonical:"Lalitakṣepa-mudrā",names:L("Geste de détente gracieuse","Graceful relaxed gesture","라리타크셰파 수인","優美垂手印","優美垂手印","Ấn buông tay uyển chuyển"),category:"regional",tradition:"pan",
+  meaningText:L("Détente, aisance et élégance de la pose.","Relaxation, ease, and elegance of pose.","이완·여유·우아한 자세.","くつろぎ・余裕・優雅な姿勢。","放鬆、從容與優雅姿態。","Sự thư thái và thanh nhã của tư thế."),
+  gestureText:L("La main est relâchée, avec un mouvement souple des doigts.","The hand is relaxed with a gentle movement of the fingers.","손을 이완하고 손가락을 부드럽게 둔다.","手を緩め、指を柔らかく保つ。","手掌放鬆，手指柔和下垂。","Bàn tay thư giãn, các ngón buông mềm."),
+  contextText:L("Geste descriptif de l’iconographie indienne et bouddhique régionale.","A descriptive gesture in Indian and regional Buddhist iconography.","인도 및 지역 불교 도상의 묘사적 손짓.","インドおよび地域的仏教図像の記述的な手勢。","印度與地區佛教圖像中的描述性手勢。","Thủ thế mô tả trong hình tượng Ấn Độ và Phật giáo khu vực.")},
+ {id:"yoga",canonical:"Yoga-mudrā",names:L("Geste de concentration yogique","Yogic concentration gesture","요가 수인","瑜伽印","瑜伽印","Du-già ấn"),category:"regional",tradition:"pan",
+  meaningText:L("Concentration corporelle et méditative dans des traditions yogiques.","Bodily and meditative concentration in yogic traditions.","요가 전통의 신체적·명상적 집중.","ヨーガ伝統における身体的・瞑想的集中。","瑜伽傳統中的身體與冥想專注。","Sự tập trung thân-tâm trong truyền thống yoga."),
+  gestureText:L("Configuration de mains liée à la discipline méditative ; la forme varie selon la tradition.","A hand configuration tied to meditative discipline; the form varies by tradition.","명상 수행과 관련된 손모양으로 전통에 따라 형태가 다르다.","瞑想修行に関わる手形で、伝統により形が異なる。","與冥想修持相關，形態依傳統而異。","Thủ thế liên quan kỷ luật thiền định, hình thức thay đổi theo truyền thống."),
+  contextText:L("Entrée comparative : usage transversal à plusieurs traditions indiennes, y compris certains contextes bouddhiques.","Comparative entry: shared across several Indian traditions, including some Buddhist contexts.","비교 항목으로 여러 인도 전통과 일부 불교 맥락에 걸쳐 사용된다.","比較項目として複数のインド伝統、一部の仏教文脈にまたがる。","比較性條目，跨越多種印度傳統及部分佛教脈絡。","Mục so sánh, dùng trong nhiều truyền thống Ấn Độ, kể cả một số bối cảnh Phật giáo.")}
+];
+entries.push(...supplementalEntries);
+
+
+const commonsFile=name=>"https://commons.wikimedia.org/wiki/Special:Redirect/file/"+encodeURIComponent(name);
+const commonsPage=name=>"https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(name.replace(/ /g,"_"));
+const PHOTO={
+ abhaya:{file:"Standing Buddha in Abhaya Mudra and Head Enriched by Halo with Scalloped Border - Govind Nagar - Early Kushan Period - ACCN 71-105 - Government Museum - Mathura 2013-02-24 5967.JPG",x:38,y:52,z:1.75},
+ varada:{file:"039-Ratnasambhava-Vara-Mudra-Original.jpg",x:43,y:68,z:1.8},
+ bhumisparsha:{file:"Buddha in Bhumisparsha Mudra - Pala School - Circa 10th Century AD - Bihar - Indian Museum - Kolkata 2012-11-16 2054.JPG",x:42,y:70,z:1.9},
+ dhyana:{file:"Buddha Shakyamuni Seated in Meditation (Dhyanamudra).jpg",x:50,y:72,z:1.85},
+ dharmachakra:{file:"Buddha in Dharmacakra mudra MAO Torino.jpg",x:50,y:56,z:2.05},
+ vitarka:{file:"Buddha Amida (Amitābha), M.C. 2078(8).jpg",x:41,y:57,z:1.9},
+ anjali:{file:"Buddha anjali mudra.JPG",x:50,y:58,z:1.9},
+ raigo:{file:"Green Tara, Tibet, 1644-1911 AD, gilt copper - Sichuan Provincial Museum - Chengdu, China - DSC04470.jpg",x:55,y:63,z:1.9},
+ miracles:{file:"ပြာဋိဟာရိယမုဒြာ (Pratiharya Mudra).jpg",x:50,y:55,z:1.55},
+ blessing:{file:"P1060701 ellora cave number 10 ASI number N-MH-A51.jpg",x:50,y:55,z:1.75},
+ "mida-join":{file:"Hands of Amida Buddha at Kōtoku-in.jpg",x:50,y:50,z:1.12},
+ "seppo-in":{file:"Dharmachakra Mudra of Buddha.jpg",x:50,y:48,z:2.1},
+ "vajra-wisdom":{file:"VajraMudra.JPG",x:50,y:55,z:2.0},
+ "vajra-embrace":{file:"Clevelandart 1985.92.1.jpg",x:50,y:46,z:1.85},
+ "demon-subduing":{file:"Bruxelles Vajrapani 18ème siècle 02 10 2011.jpg",x:50,y:48,z:1.85},
+ flaming:{file:"Karana.png",x:48,y:55,z:1.7},
+ nagaraja:{file:"ဗုဒ္ဓသမဏမုဒြာ (Buddha-sramaņa Mudrā).jpg",x:50,y:50,z:1.55},
+ tarjani:{file:"တဇ္ဇနီမုဒြာ (Tarjani Mudra).jpg",x:50,y:50,z:1.55},
+ embrace:{file:"Calling for rain 2.jpg",x:50,y:52,z:1.7},
+ humkara:{file:"Vairochana copper statue 1 CAC.JPG",x:50,y:50,z:1.9},
+ "mandala-offering":{file:"Wonderlane, Mandala Offering Mudra (2).jpg",x:50,y:52,z:1.2},
+ mahakaruna:{file:"မဟာကရုဏာမုဒြာ (Mahā karuņā Mudrā).jpg",x:50,y:52,z:1.55},
+ patra:{file:"ပတ္တမုဒြာ = ပတ္တဟတ္ထ (Patra Mudrā-Patra Hasta).jpg",x:50,y:50,z:1.55},
+ vismaya:{file:"Big temple - stone work - 3.JPG",x:50,y:55,z:1.65},
+ jnana:{file:"Gyana (jnana) mudra and rudraksha.jpg",x:50,y:50,z:1.25},
+ sarvatathagata:{file:"The Lotus gospel - or, Mahayana Buddhism and its symbolic teachings compared historically and geographically with those of Catholic Christianity (1911) (14579420198).jpg",x:50,y:50,z:1.2},
+ kataka:{file:"Vasudhara, Goddess of Abundance, view 2, Nepal, 1082 AD, gilded copper inlaid with semiprecious stones, traces of vermilion - Arthur M. Sackler Gallery - DSC06053.JPG",x:52,y:56,z:1.85},
+ gajahasta:{file:"A Tantric Goddess LACMA M.82.42.1 (2 of 5).jpg",x:52,y:58,z:1.75},
+ lalitakshepa:{file:"လလိတခေပမုဒြာ (Lalitakshepa Mudra).jpg",x:50,y:52,z:1.55},
+ yoga:{file:"ယောဂမုဒြာ (Yoga Mudrā).jpg",x:50,y:50,z:1.35}
 };
-
-function kuhonMeaning(g,b){
- const l=levels[locale];
- if(locale==="fr")return `Grade ${l[g]}, naissance ${l[b]} : l’un des neuf niveaux de renaissance dans la Terre pure d’Amida.`;
- if(locale==="en")return `${l[g][0].toUpperCase()+l[g].slice(1)} grade, ${l[b]} birth: one of the nine grades of rebirth in Amida's Pure Land.`;
- if(locale==="ko")return `${l[g]}${l.grade}${l[b]}${l.birth}: 아미타 정토의 구품왕생 가운데 하나.`;
- if(locale==="ja")return `${l[g]}${l.grade}${l[b]}${l.birth}：阿弥陀浄土への九品往生の一つ。`;
- if(locale==="zh-hant")return `${l[g]}${l.grade}${l[b]}${l.birth}：阿彌陀淨土九品往生之一。`;
- return `${l.grade} ${l[g]}, ${l.birth} ${l[b]}: một trong chín bậc vãng sinh về Tịnh độ A Di Đà.`;
+function photoFor(e){return PHOTO[e.id]||null;}
+function renderPhoto(e,full=false){
+ const p=photoFor(e);
+ if(!p)return "";
+ const src=commonsFile(p.file);
+ if(full)return '<img class="mudra-full-image" src="'+src+'" alt="" loading="lazy">';
+ return '<div class="mudra-photo-crop"><img src="'+src+'" alt="" loading="lazy" style="object-position:'+p.x+'% '+p.y+'%;transform:scale('+p.z+')"></div>';
 }
-
-function kuhonName(g,b,jp){
- const l=levels[locale];
- if(locale==="fr")return `Grade ${l[g]}, naissance ${l[b]}`;
- if(locale==="en")return `${l[g][0].toUpperCase()+l[g].slice(1)} grade, ${l[b]} birth`;
- if(locale==="ko")return `${l[g]}${l.grade}${l[b]}${l.birth}인`;
- if(locale==="ja")return `${jp}印`;
- if(locale==="zh-hant")return `${jp}印`;
- return `Ấn ${l[g]} ${l.grade}, ${l[b]} ${l.birth}`;
-}
-
-const kuhonRoman=[
- "jōbon jōshō-in","jōbon chūshō-in","jōbon geshō-in",
- "chūbon jōshō-in","chūbon chūshō-in","chūbon geshō-in",
- "gebon jōshō-in","gebon chūshō-in","gebon geshō-in"
-];
-
-gradeData.forEach((k,i)=>entries.push({
- id:`kuhon-${i+1}`,
- canonical:k.jp+"印",
- names:{fr:k.jp,en:k.jp,ko:k.jp,ja:k.jp,"zh-hant":k.jp,vi:k.jp},
- displayName:kuhonName(k.g,k.b,k.jp),
- traditional:k.jp+"印 · "+kuhonRoman[i],
- category:"pureland",
- tradition:"japan",
- diagram:{kind:`kuhon-${k.base}`,finger:k.finger},
- dynamicMeaning:()=>kuhonMeaning(k.g,k.b),
- gesture:k.base==="meditation"?"meditation":k.base==="teaching"?"teaching":"raigo",
- context:"kuhon",
- source:"jaanus"
-}));
-
-
-function renderDiagram(e){
- return '<svg viewBox="0 0 600 500" aria-hidden="true" focusable="false"><use href="/assets/images/mudra-sprite.svg#'+e.id+'"></use></svg>';
+function sourceLink(e){
+ const p=photoFor(e);
+ return p?commonsPage(p.file):"";
 }
 
 const traditionalTerms={
@@ -188,9 +259,9 @@ const traditionalTerms={
 };
 function traditionalTerm(e){return e.traditional||traditionalTerms[e.id]||"";}
 function localName(e){return e.displayName||e.names[locale]||e.canonical;}
-function meaning(e){return e.dynamicMeaning?e.dynamicMeaning():(TEXT[e.meaning]?.[locale]||"");}
-function gesture(e){return GESTURE[e.gesture]?.[locale]||"";}
-function context(e){return CONTEXT[e.context]?.[locale]||"";}
+function meaning(e){return e.meaningText?.[locale]||(e.dynamicMeaning?e.dynamicMeaning():(TEXT[e.meaning]?.[locale]||""));}
+function gesture(e){return e.gestureText?.[locale]||(GESTURE[e.gesture]?.[locale]||"");}
+function context(e){return e.contextText?.[locale]||(CONTEXT[e.context]?.[locale]||"");}
 const esc=s=>String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 const norm=s=>String(s??"").toLocaleLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[’ʻʼ]/g,"'").trim();
 
@@ -223,7 +294,7 @@ function showEntry(index){
  const s=sources[e.source];
  dialogContent.innerHTML=`<div class="mudra-dialog-shell">
  <button class="mudra-dialog-close" type="button" aria-label="${UI.close}">×</button>
- <div class="mudra-dialog-visual">${renderDiagram(e)}</div>
+ <div class="mudra-dialog-visual">${renderPhoto(e)}</div>
  <div class="mudra-dialog-copy">
   <div class="mudra-dialog-kicker">${UI.cats[e.category]} · ${UI.trad[e.tradition]}</div>
   <h2>${esc(localName(e))}</h2>
@@ -231,7 +302,8 @@ function showEntry(index){
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.meaning}</span><p>${esc(meaning(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.gesture}</span><p>${esc(gesture(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.context}</span><p>${esc(context(e))}</p></div>
-  <div class="mudra-detail-row mudra-source"><span class="mudra-detail-label">${UI.source}</span><p><a href="${s.url}" target="_blank" rel="noopener">${esc(s.label)} ↗</a></p></div>
+  <div class="mudra-detail-row mudra-source"><span class="mudra-detail-label">${UI.source}</span><p><a href="${sourceLink(e)}" target="_blank" rel="noopener">Wikimedia Commons · image libre / domaine public ↗</a></p><p class="mudra-license-note">Recadrage visuel pour mettre le geste en évidence. La licence et l’attribution exactes sont indiquées sur la fiche source.</p></div>
+  <div class="mudra-full-work">${renderPhoto(e,true)}</div>
  </div></div>`;
  dialogContent.querySelector(".mudra-dialog-close").addEventListener("click",()=>dialog.close());
  dialog.showModal();
@@ -240,7 +312,7 @@ dialog.addEventListener("click",e=>{if(e.target===dialog)dialog.close();});
 
 function render(list){
  grid.innerHTML=list.map(({e,index},i)=>`<button class="mudra-card" type="button" data-index="${index}">
-  <div class="mudra-figure">${renderDiagram(e)}</div>
+  <div class="mudra-figure">${renderPhoto(e)}</div>
   <div class="mudra-card-body">
    <div class="mudra-card-top"><div><h2>${esc(localName(e))}</h2>${traditionalTerm(e)?`<p class="mudra-local-name">${esc(traditionalTerm(e))}</p>`:""}</div><span class="mudra-number">${String(index+1).padStart(2,"0")}</span></div>
    <p class="mudra-meaning">${esc(meaning(e))}</p>
