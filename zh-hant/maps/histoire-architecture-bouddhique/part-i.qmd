@@ -24,6 +24,6 @@
 
 早期印度僧院未必位於深山。相反，它們常在城市或村落邊緣，以兼顧禪修所需的安靜與托鉢所需的可達性。律藏建議僧院與聚落之間保持「不太近也不太遠」的距離。托鉢不只是獲取食物，也是連結僧團與在家的交換關係：信眾供養食物與物資，僧侶則提供佛法、儀式與倫理典範。這也解釋了為何早期僧院並不需要大型廚房。當共同體擴大、固定供養增加後，烹飪與儲藏設施逐漸發展，像那爛陀這種巨大機構已不可能單靠個人托鉢維生。這一變化對理解後來東亞山寺非常重要。山中僧院並不是佛教最初的建築原型，而是在經濟基礎、社會條件、氣候與托鉢文化改變之後形成的歷史結果。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-4-zh-hant.webp" alt="僧院、城市與托鉢" loading="lazy" decoding="async"></figure>
 :::
 :::
