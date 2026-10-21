@@ -41,7 +41,20 @@ format:
 <section class="portal-grid"><a class="portal-card" href="/zh-hant/research.html"><div class="portal-image"><img src="https://cdn.4travel.jp/img/thumbnails/imk/tips_pict/17/97/80/650x450_17978016.jpg?updated_at=1621181641" alt="日本滋賀縣百濟寺的青苔參道" loading="lazy"></div><h3>研究</h3><p>研究方向、進行中的計畫與主要主題。</p><span class="arrow">→</span></a><a class="portal-card" href="/zh-hant/publications.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tripitaka_Koreana_02.jpg/1280px-Tripitaka_Koreana_02.jpg" alt="" loading="lazy"></div><h3>出版物</h3><p>論文、專書章節、學術報告與線上文本。</p><span class="arrow">→</span></a><a class="portal-card" href="/zh-hant/databases.html"><div class="portal-image"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Quan_%C3%A2m_ch%C3%B9a_B%C3%BAt_Th%C3%A1p_01.jpg" alt="北寧筆塔寺千手千眼觀音" loading="lazy"></div><h3>資料庫</h3><p>韓國佛塔資料庫與佛教藝術多語辭典。</p><span class="arrow">→</span></a><a class="portal-card" href="/zh-hant/maps.html"><div class="portal-image"><img src="https://rubinmuseum.org/wp-content/uploads/works/C2004/C2004.29.1/C2004.29.1_Recto-1600x1196.jpg" alt="1846年五臺山全景圖，大白塔周邊細部" loading="lazy" class="map-tile-image" style="object-position:38% 57%;"></div><h3>專題研究</h3><p>結合分析、史料、地圖、年表與視覺化的深入專題研究。</p><span class="arrow">→</span></a><a class="portal-card" href="/zh-hant/notebook.html"><div class="portal-image"><img src="/assets/images/carnet-recherche-build.jpg" alt="" loading="lazy"></div><h3>研究札記</h3><p>筆記、發現、閱讀與進行中的工作。</p><span class="arrow">→</span></a><a class="portal-card" href="/zh-hant/about.html"><div class="portal-image"><img src="/assets/images/about-bryan-build.jpg" alt="Bryan Sauvadet 提供的個人照片" loading="lazy"></div><h3>關於</h3><p>研究經歷、履歷、所屬與聯絡方式。</p><span class="arrow">→</span></a></section>
 <section class="updates">
   <div class="updates-head"><h2>最新更新</h2><a href="/zh-hant/notebook.html">查看全部更新 →</a></div>
-  <div class="updates-grid"><article class="update-card"><img class="update-thumb" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="" loading="lazy"><div><div class="update-type">專題研究</div><h3>Samguk Yusa</h3><p>依主題研究Samguk Yusa中的敘事、人物、場所與母題。</p><a class="update-link" href="/zh-hant/maps.html">查看研究 →</a></div></article><article class="update-card"><img class="update-thumb" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Seokgatap_Pagoda.jpg" alt="" loading="lazy"><div><div class="update-type">專題研究</div><h3>寺院與佛塔史</h3><p>研究佛教建築的遺存、類型、功能與歷史變化。</p><a class="update-link" href="/zh-hant/maps.html">查看研究 →</a></div></article><article class="update-card"><img class="update-thumb" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Daedongyeojido_1861.jpg" alt="" loading="lazy"><div><div class="update-type">資料庫</div><h3>佛教遺存語料庫</h3><p>逐步公開條目、史料、圖像與結構化資料。</p><a class="update-link" href="/zh-hant/databases.html">瀏覽資料庫 →</a></div></article></div>
+  <div class="updates-grid">
+    <article class="update-card">
+      <img class="update-thumb" src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="印度與東亞佛教建築" loading="lazy">
+      <div><div class="update-type">專題研究</div><h3>佛教建築史</h3><p>以八大部分比較印度、中國、韓國、日本與越南佛教建築的形制、功能、材料與神聖景觀。</p><a class="update-link" href="/zh-hant/maps/histoire-architecture-bouddhique.html">查看專題 →</a></div>
+    </article>
+    <article class="update-card">
+      <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="佛教藝術多語辭典" loading="lazy">
+      <div><div class="update-type">資料庫</div><h3>佛教藝術多語辭典</h3><p>對照1,500個佛教藝術核心術語，涵蓋法語、英語、梵語、藏語、韓語、日語、中文與越南語。</p><a class="update-link" href="/zh-hant/databases/multilingual-buddhist-art-dictionary.html">瀏覽辭典 →</a></div>
+    </article>
+    <article class="update-card">
+      <img class="update-thumb" src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州佛國寺多寶塔" loading="lazy">
+      <div><div class="update-type">資料庫</div><h3>韓國佛塔</h3><p>以互動地圖、年代、篩選、位置與個別遺存條目組成的韓國佛塔結構化資料庫。</p><a class="update-link" href="/zh-hant/databases/korean-stupas.html">瀏覽資料庫 →</a></div>
+    </article>
+  </div>
 </section>
 </div>
 ```
