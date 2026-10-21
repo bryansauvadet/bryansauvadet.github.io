@@ -18,7 +18,7 @@ format:
 <main class="content">
   <div class="content-inner database-detail buddhist-dictionary-page">
     <section class="dictionary-intro">
-      <p>本辞典は、仏教美術の基本用語300語を、フランス語、英語、サンスクリット語、チベット語、韓国語、日本語、中国語、ベトナム語の主要な文字体系とローマ字表記で対照します。</p>
+      <p>本辞典は、仏教美術の基本用語1,500語を、フランス語、英語、サンスクリット語、チベット語、韓国語、日本語、中国語、ベトナム語の主要な文字体系とローマ字表記で対照します。</p>
       <p class="dictionary-method">表全体を検索するほか、言語・表記体系ごとに検索範囲を限定できます。現段階で標準的な対応語を確定できない場合は、空欄を推測で補っていません。</p>
     </section>
 
