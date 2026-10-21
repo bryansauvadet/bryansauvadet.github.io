@@ -12,7 +12,7 @@
       field: "Champ de recherche",
       all: "Toutes les langues",
       reset: "Réinitialiser",
-      loading: "Chargement des 300 entrées…",
+      loading: "Chargement des 1 500 entrées…",
       one: "1 entrée",
       many: "{n} entrées",
       empty: "Aucune entrée ne correspond à cette recherche.",
@@ -24,7 +24,7 @@
       field: "Search field",
       all: "All languages",
       reset: "Reset",
-      loading: "Loading 300 entries…",
+      loading: "Loading 1,500 entries…",
       one: "1 entry",
       many: "{n} entries",
       empty: "No entries match this search.",
@@ -36,7 +36,7 @@
       field: "검색 범위",
       all: "모든 언어",
       reset: "초기화",
-      loading: "300개 항목 불러오는 중…",
+      loading: "1,500개 항목 불러오는 중…",
       one: "1개 항목",
       many: "{n}개 항목",
       empty: "검색 결과가 없습니다.",
@@ -48,7 +48,7 @@
       field: "検索対象",
       all: "すべての言語",
       reset: "リセット",
-      loading: "300項目を読み込み中…",
+      loading: "1,500項目を読み込み中…",
       one: "1項目",
       many: "{n}項目",
       empty: "該当する項目はありません。",
@@ -60,7 +60,7 @@
       field: "搜尋欄位",
       all: "所有語言",
       reset: "重設",
-      loading: "正在載入300筆條目…",
+      loading: "正在載入1,500筆條目…",
       one: "1筆條目",
       many: "{n}筆條目",
       empty: "沒有符合搜尋條件的條目。",
@@ -72,7 +72,7 @@
       field: "Phạm vi tìm kiếm",
       all: "Tất cả ngôn ngữ",
       reset: "Đặt lại",
-      loading: "Đang tải 300 mục…",
+      loading: "Đang tải 1.500 mục…",
       one: "1 mục",
       many: "{n} mục",
       empty: "Không có mục nào phù hợp.",
@@ -240,7 +240,7 @@
     search.focus();
   });
 
-  const files = Array.from({ length: 10 }, (_, i) => i + 1).map(n =>
+  const files = Array.from({ length: 50 }, (_, i) => i + 1).map(n =>
     `/data/buddhist-art-dictionary-${String(n).padStart(2, "0")}.json`
   );
 
