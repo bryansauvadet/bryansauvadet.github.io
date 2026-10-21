@@ -135,19 +135,26 @@ function kuhonMeaning(g,b){
 
 function kuhonName(g,b,jp){
  const l=levels[locale];
- if(locale==="fr")return `${l.name} · ${jp}`;
- if(locale==="en")return `${l.name} · ${jp}`;
- if(locale==="ko")return `${jp} · ${l[g]}${l.grade}${l[b]}${l.birth}`;
- if(locale==="ja")return `${jp} · ${l.name}`;
- if(locale==="zh-hant")return `${jp} · ${l.name}`;
- return `${l.name} · ${jp}`;
+ if(locale==="fr")return `Grade ${l[g]}, naissance ${l[b]}`;
+ if(locale==="en")return `${l[g][0].toUpperCase()+l[g].slice(1)} grade, ${l[b]} birth`;
+ if(locale==="ko")return `${l[g]}${l.grade}${l[b]}${l.birth}인`;
+ if(locale==="ja")return `${jp}印`;
+ if(locale==="zh-hant")return `${jp}印`;
+ return `Ấn ${l[g]} ${l.grade}, ${l[b]} ${l.birth}`;
 }
+
+const kuhonRoman=[
+ "jōbon jōshō-in","jōbon chūshō-in","jōbon geshō-in",
+ "chūbon jōshō-in","chūbon chūshō-in","chūbon geshō-in",
+ "gebon jōshō-in","gebon chūshō-in","gebon geshō-in"
+];
 
 gradeData.forEach((k,i)=>entries.push({
  id:`kuhon-${i+1}`,
- canonical:`Amida kuhon-in · ${k.jp}`,
+ canonical:k.jp+"印",
  names:{fr:k.jp,en:k.jp,ko:k.jp,ja:k.jp,"zh-hant":k.jp,vi:k.jp},
  displayName:kuhonName(k.g,k.b,k.jp),
+ traditional:k.jp+"印 · "+kuhonRoman[i],
  category:"pureland",
  tradition:"japan",
  diagram:{kind:`kuhon-${k.base}`,finger:k.finger},
@@ -317,6 +324,24 @@ function renderDiagram(d){
  return svg(openHand(150,126,1.05,1,0,null,false));
 }
 
+const traditionalTerms={
+ abhaya:"Abhaya-mudrā",
+ varada:"Varada-mudrā",
+ bhumisparsha:"Bhūmisparśa-mudrā",
+ dhyana:"Dhyāna-mudrā",
+ dharmachakra:"Dharmacakra-mudrā",
+ vitarka:"Vitarka-mudrā · Vyākhyāna-mudrā",
+ anjali:"Añjali-mudrā",
+ raigo:"来迎印 · raigō-in",
+ "mida-join":"弥陀定印 · mida-no-jōin",
+ "seppo-in":"説法印 · seppō-in",
+ "vajra-wisdom":"智拳印 · chiken-in",
+ "vajra-embrace":"Vajrahūṃkāra",
+ tarjani:"Tarjanī-mudrā",
+ humkara:"Hūṃkāra",
+ "mandala-offering":"Maṇḍala-mudrā"
+};
+function traditionalTerm(e){return e.traditional||traditionalTerms[e.id]||"";}
 function localName(e){return e.displayName||e.names[locale]||e.canonical;}
 function meaning(e){return e.dynamicMeaning?e.dynamicMeaning():(TEXT[e.meaning]?.[locale]||"");}
 function gesture(e){return GESTURE[e.gesture]?.[locale]||"";}
@@ -356,8 +381,8 @@ function showEntry(index){
  <div class="mudra-dialog-visual">${renderDiagram(e.diagram)}</div>
  <div class="mudra-dialog-copy">
   <div class="mudra-dialog-kicker">${UI.cats[e.category]} · ${UI.trad[e.tradition]}</div>
-  <h2>${esc(e.canonical)}</h2>
-  <p class="mudra-dialog-local">${esc(localName(e))}</p>
+  <h2>${esc(localName(e))}</h2>
+  ${traditionalTerm(e)?`<p class="mudra-dialog-local">${esc(traditionalTerm(e))}</p>`:""}
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.meaning}</span><p>${esc(meaning(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.gesture}</span><p>${esc(gesture(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.context}</span><p>${esc(context(e))}</p></div>
@@ -372,7 +397,7 @@ function render(list){
  grid.innerHTML=list.map(({e,index},i)=>`<button class="mudra-card" type="button" data-index="${index}">
   <div class="mudra-figure">${renderDiagram(e.diagram)}</div>
   <div class="mudra-card-body">
-   <div class="mudra-card-top"><div><h2>${esc(e.canonical)}</h2><p class="mudra-local-name">${esc(localName(e))}</p></div><span class="mudra-number">${String(index+1).padStart(2,"0")}</span></div>
+   <div class="mudra-card-top"><div><h2>${esc(localName(e))}</h2>${traditionalTerm(e)?`<p class="mudra-local-name">${esc(traditionalTerm(e))}</p>`:""}</div><span class="mudra-number">${String(index+1).padStart(2,"0")}</span></div>
    <p class="mudra-meaning">${esc(meaning(e))}</p>
    <div class="mudra-tags"><span class="mudra-tag">${UI.cats[e.category]}</span><span class="mudra-tag">${UI.trad[e.tradition]}</span></div>
    <div class="mudra-open">${UI.open} →</div>
@@ -392,7 +417,7 @@ function apply(){
    if(cat&&e.category!==cat)return false;
    if(tr&&e.tradition!==tr)return false;
    if(!q)return true;
-   const hay=[e.canonical,localName(e),meaning(e),gesture(e),context(e),UI.cats[e.category],UI.trad[e.tradition]].map(norm).join(" ");
+   const hay=[e.canonical,localName(e),traditionalTerm(e),meaning(e),gesture(e),context(e),UI.cats[e.category],UI.trad[e.tradition]].map(norm).join(" ");
    return hay.includes(q);
  });
  render(list);
