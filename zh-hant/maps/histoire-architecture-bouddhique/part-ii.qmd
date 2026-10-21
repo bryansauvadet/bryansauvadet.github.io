@@ -30,7 +30,7 @@ stūpa 原本指土堆、墳丘或葬禮紀念物。佛教沿用這一傳統，�
 
 桑奇與巴爾胡特的大塔顯示，舍利容器如何轉化為敘事建築。塔內舍利不可見，因此欄楯與門上逐漸刻出佛陀生平與前世故事。本生譚使塔不再只是神聖墓塚，而成為無數生命修行歷程的終點。桑奇大塔的核心可追溯至阿育王時代，後世持續擴建，四方塔門上形成豐富的敘事雕刻。欄楯一方面劃定聖域，一方面組織繞行。巴爾胡特保存的欄楯、銘文、故事、守護像與佛教符號也具有相似作用。這些遺址清楚說明佛教建築並非純粹的結構形式，而是行走、圖像、故事與記憶的綜合。信眾在繞塔時同時觀看與學習，這種方式後來延續到石窟、佛塔與佛殿的圖像計畫。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-5-zh-hant.webp" alt="桑奇與婆爾胡特：窣堵波成為敘事性紀念碑" loading="lazy" decoding="async"></figure>
 
 ### 6. 繞塔與宇宙論 {#ii-6}
 

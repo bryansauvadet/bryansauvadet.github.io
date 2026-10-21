@@ -30,7 +30,7 @@ Những stūpa đầu tiên không hoàn toàn thuộc cơ cấu hành chính c�
 
 Những đại stūpa ở Sāñcī và Bhārhut cho thấy một bảo vật xá-lợi có thể trở thành kiến trúc kể chuyện như thế nào. Xá-lợi bên trong không nhìn thấy được, vì vậy lan can và cổng dần được phủ bằng hình ảnh về cuộc đời Đức Phật và các tiền kiếp. Jātaka biến tháp từ một mộ thiêng thành đích đến của một hành trình tu tập trải qua vô số kiếp. Đại tháp Sāñcī có lõi từ thời Aśoka, về sau được mở rộng và trang trí bằng bốn torana ở bốn hướng. Lan can vừa xác định khu vực thiêng vừa tổ chức lối đi nhiễu. Tại Bhārhut, những mảnh lan can, cổng, minh văn, truyện kể và hình hộ pháp tạo nên một kinh nghiệm vừa giáo dục vừa sùng kính. Hai di tích này chứng minh kiến trúc Phật giáo không chỉ là hình thức xây dựng: nó kết hợp chuyển động, hình ảnh, truyện kể và ký ức. Tín đồ vừa đi vừa “đọc” công trình.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-5-vi.webp" alt="Sāñcī và Bhārhut: stūpa trở thành đài tưởng niệm tự sự" loading="lazy" decoding="async"></figure>
 
 ### 6. Nhiễu tháp và vũ trụ quan {#ii-6}
 

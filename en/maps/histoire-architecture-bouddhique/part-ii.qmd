@@ -30,7 +30,7 @@ The earliest stupas were not directly part of monastic administration. Narrative
 
 The great stupas of Sāñcī and Bhārhut show how a reliquary could become an architecture of narrative. The relics sealed inside were invisible; to make the Buddha perceptible, the surfaces around the monument were increasingly covered with images relating his life and previous existences. Jātaka stories gave the monument narrative depth, presenting the stupa not merely as a sacred tomb but as the culmination of a spiritual path extending across innumerable lives. The Great Stupa at Sāñcī, whose core dates to Aśoka (阿育王)’s reign in the third century BCE, was enlarged and decorated over time. Its four torana gateways, placed at the cardinal points, carry rich sculptural programs. The railing defines sacred space and organises ritual circulation. At Bhārhut, surviving fragments of the fence and gateways show a comparable logic: inscriptions, narratives, protective figures, and Buddhist symbols turn the approach to the monument into a pedagogical and devotional experience. These sites demonstrate that Buddhist architecture is never only built form. It combines movement, story, image, and memory. Around the stupa, devotees learn while walking. Sculpture accompanies circumambulation and transforms architecture into a narrative sequence, anticipating the iconographic programs later developed in caves, pagodas, and halls across Asia.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-5-en.webp" alt="Sāñcī and Bhārhut: the stupa becomes a narrative monument" loading="lazy" decoding="async"></figure>
 
 ### 6. Circumambulation and cosmology {#ii-6}
 
