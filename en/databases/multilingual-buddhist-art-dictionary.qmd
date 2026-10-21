@@ -18,7 +18,7 @@ format:
 <main class="content">
   <div class="content-inner database-detail buddhist-dictionary-page">
     <section class="dictionary-intro">
-      <p>This reference table compares 300 core terms from Buddhist art across French, English, Sanskrit, Tibetan, Korean, Japanese, Chinese, and Vietnamese, together with their principal scripts and romanizations.</p>
+      <p>This reference table compares 1,500 core terms from Buddhist art across French, English, Sanskrit, Tibetan, Korean, Japanese, Chinese, and Vietnamese, together with their principal scripts and romanizations.</p>
       <p class="dictionary-method">Search the entire table or restrict the query to a language or writing system. Blank cells are not filled artificially when no standardized equivalent has been retained at this stage.</p>
     </section>
 
