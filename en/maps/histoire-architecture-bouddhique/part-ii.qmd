@@ -24,7 +24,7 @@ The Buddha’s parinirvāṇa at Kuśinagara marks the foundational event of the
 
 The earliest stupas were not directly part of monastic administration. Narratives about the parinirvāṇa assign laypeople responsibility for relics and monument building, while monks are expected to continue practice and teaching. This helps explain why stupas were often placed in highly visible public locations. The Buddha is said to have recommended crossroads, where many people could see the monument, pay homage, and generate merit. The stupa initially belonged to a public devotional sphere, whereas the monastery was the space of residence and discipline for the saṃgha (僧伽). Donors, rulers, merchants, and urban communities therefore played a major role in construction and decoration. This encouraged a monumental material Buddhism alongside ascetic life. Before anthropomorphic images of the Buddha became widespread, the stupa was one of the principal visible forms able to stand for his presence. It could be saluted, circumambulated, and adorned with flowers, banners, and lamps. Its position on roads and in settlements made it accessible to a far broader public than monastic institutions alone. Later Buddhist architectural history would largely be the story of bringing these two spheres together: the lay monument of devotion and the monastery organised around the religious community.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-4-en.webp" alt="Who builds stupas, and where?" loading="lazy" decoding="async"></figure>
 
 ### 5. Sāñcī and Bhārhut: the stupa becomes narrative {#ii-5}
 

@@ -24,7 +24,7 @@ Parinirvāṇa của Đức Phật tại Kuśinagara là sự kiện nền tản
 
 Những stūpa đầu tiên không hoàn toàn thuộc cơ cấu hành chính của tu viện. Các truyện về parinirvāṇa giao việc chăm sóc xá-lợi và xây tháp cho cư sĩ, còn tăng sĩ tiếp tục tu tập và giảng dạy. Truyền thống còn nói stūpa nên được dựng ở ngã tư — nơi nhiều người có thể nhìn thấy, lễ bái và tạo công đức. Tháp ban đầu vì thế thuộc phạm vi tín ngưỡng công cộng, trong khi tu viện là nơi cư trú và trì giới của saṃgha. Vua, thương nhân và cộng đồng đô thị đóng vai trò lớn trong việc xây và trang trí tháp. Trước khi tượng Phật nhân hình trở nên phổ biến, stūpa là một trong những vật thể hữu hình mạnh nhất đại diện cho sự hiện diện của Đức Phật. Người ta lễ, đi nhiễu, dâng hoa, cờ và đèn. Một phần quan trọng của lịch sử kiến trúc Phật giáo về sau chính là quá trình đưa hai thế giới này — tháp của tín đồ và tu viện của tăng đoàn — vào cùng một khuôn viên.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-4-vi.webp" alt="Ai xây stūpa, và xây ở đâu?" loading="lazy" decoding="async"></figure>
 
 ### 5. Sāñcī và Bhārhut: stūpa trở thành công trình kể chuyện {#ii-5}
 

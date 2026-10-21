@@ -24,7 +24,7 @@ stūpa 原本指土堆、墳丘或葬禮紀念物。佛教沿用這一傳統，�
 
 最初的窣堵波並不完全隸屬僧院行政。涅槃敘事中，處理舍利與建塔被交給在家信眾，僧侶則應繼續修行與教學。傳統甚至主張將塔建於十字路口等多人可見之處，顯示其公開性。佛塔是廣大信眾的禮拜中心，僧院則是僧團居住與持戒的空間。國王、商人、城市共同體和捐獻者因此在建塔與裝飾上扮演重要角色。在擬人化佛像尚未普及之前，窣堵波是最能代表不可見佛陀現前的可視物之一。人們禮拜、繞行，並供獻花、幡與燈。後來的佛教建築史，很大一部分就是將這種公共佛塔崇拜與僧團僧院逐漸納入同一境域的過程。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-4-zh-hant.webp" alt="誰建造窣堵波，又建在哪裡？" loading="lazy" decoding="async"></figure>
 
 ### 5. 桑奇與巴爾胡特 {#ii-5}
 
