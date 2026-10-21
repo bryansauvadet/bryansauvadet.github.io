@@ -1,0 +1,17 @@
+---
+title: "佛教手印辭典"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/mudra-dictionary.css">
+<script defer src="/assets/js/mudra-dictionary.js"></script>
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/zh-hant/databases.html">資料庫</a></div><h1>佛教手印辭典</h1></section>
+<main class="content"><div class="content-inner database-detail mudra-dictionary-page">
+<section class="mudra-intro"><p>本辭典以統一格式整理30種佛教手勢，包括主要佛教圖像中的基本手印、密教與金剛乘手勢，以及日本阿彌陀佛的九品印。每一條目均可比較手部姿勢、象徵意義與圖像脈絡。</p><p class="mudra-method">插圖為供圖像判讀使用的標準化向量示意圖。實際儀軌可能隨經典、傳承、地域與時代而異，因此不應視為普遍適用的儀式操作規範。</p></section>
+<section aria-label="佛教手印辭典"><div id="mudra-dictionary" data-locale="zh-hant"></div></section>
+</div></main>
+```
