@@ -18,7 +18,7 @@ format:
 <main class="content">
   <div class="content-inner database-detail buddhist-dictionary-page">
     <section class="dictionary-intro">
-      <p>本辭典對照3,000個佛教藝術核心術語，涵蓋法語、英語、梵語、藏語、韓語、日語、中文與越南語，並並列主要文字與羅馬字轉寫。</p>
+      <p>本辭典收錄2,188個佛教藝術、藝術史與考古學術語；每一詞條至少具有韓語、日語、中文或越南語中的一項對應詞，並列主要文字與羅馬字轉寫。</p>
       <p class="dictionary-method">可搜尋整個表格，也可限定特定語言或文字系統。現階段未能確認標準對應詞的欄位維持空白，不以推測補入。</p>
     </section>
 
