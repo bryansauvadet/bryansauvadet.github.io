@@ -1,0 +1,17 @@
+---
+title: "Dictionary of Buddhist Mudras"
+lang: en
+format:
+  html:
+    include-before-body: _includes/en-header.html
+    include-after-body: _includes/en-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/mudra-dictionary.css">
+<script defer src="/assets/js/mudra-dictionary.js"></script>
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/en/databases.html">Databases</a></div><h1>Dictionary of Buddhist Mudras</h1></section>
+<main class="content"><div class="content-inner database-detail mudra-dictionary-page">
+<section class="mudra-intro"><p>This dictionary brings together 30 Buddhist hand gestures: major iconographic mudras, tantric and esoteric gestures, and the nine Japanese Amida seals (九品印). Every entry follows the same model so that hand position, meaning, and iconographic context can be compared consistently.</p><p class="mudra-method">The illustrations are normalized vector diagrams for iconographic reading. Ritual forms vary across texts, lineages, regions, and periods; the diagrams should therefore not be read as universal ritual prescriptions.</p></section>
+<section aria-label="Dictionary of Buddhist mudras"><div id="mudra-dictionary" data-locale="en"></div></section>
+</div></main>
+```
