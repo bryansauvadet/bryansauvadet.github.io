@@ -12,7 +12,7 @@ Từ stūpa vốn chỉ một gò đất, mô mộ hoặc công trình tang lễ
 
 Truyền thống Phật giáo đưa một số stūpa về tận thời Đức Phật còn tại thế. Hai thương nhân Trapuṣa và Bhallika được kể là đã nhận tóc và móng từ Ngài rồi dựng một công trình để thờ khi trở về quê. Những văn bản muộn hơn còn kể Đức Phật xếp một tấm y, đặt bát úp lên trên rồi dựng gậy để minh họa hình thức của stūpa. Câu chuyện này có thể là một kiến tạo giáo lý hậu kỳ, nhưng nó cho thấy mong muốn nối dạng tháp chuẩn với chính thẩm quyền của Đức Phật. Tóc và những xá-lợi nhỏ cũng từng được hiểu như vật hộ thân. Hàng rào quanh các công trình sớm có thể ban đầu chỉ để ngăn gia súc, rồi dần trở thành ranh giới nghi lễ giữa không gian thường và không gian thiêng. Sau parinirvāṇa, bát, y và gậy của Đức Phật cũng trở thành vật tưởng niệm. Như vậy, trước khi Ngài qua đời, truyền thống nhấn mạnh phần thân thể nhỏ và khả năng bảo hộ; sau đó, việc thờ xá-lợi và di vật được thể chế hóa.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-2-vi.webp" alt="Stūpa vào thời Đức Phật" loading="lazy" decoding="async"></figure>
 
 ### 3. Parinirvāṇa và sự phân chia xá-lợi {#ii-3}
 

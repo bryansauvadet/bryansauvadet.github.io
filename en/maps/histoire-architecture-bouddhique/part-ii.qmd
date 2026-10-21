@@ -12,7 +12,7 @@ The word stūpa originally referred to a heap, mound, or funerary monument. In a
 
 Buddhist tradition traces some stupas back to the Buddha’s own lifetime. After his awakening, the merchants Trapuṣa and Bhallika are said to have received hairs and nail fragments to preserve as protective objects, later enshrining them in a monument. Later narratives even claim that the Buddha demonstrated the form of a stupa by stacking a folded robe, an upturned bowl, and a staff. This scene is probably a later doctrinal reconstruction, but it reveals a desire to anchor the canonical monument in the Buddha’s own authority. Other traditions mention portable relics, especially hair, given to travellers or warriors as protective talismans. Before the Buddha’s death, the stupa thus appears above all as an extension of a living sacred presence. Fences erected to keep animals away from early monuments gradually acquired ritual significance by separating ordinary from sacred space. After the parinirvāṇa, the Buddha’s personal objects—bowl, robe, staff—were also invested with memorial power. A chronological distinction emerges: traditions about the living Buddha stress hair, nails, and protection, while posthumous traditions institutionalise bodily relics and associated objects. The stupa became one of the primary means of making a person permanently present after physical absence.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-2-en.webp" alt="Stupas in the Buddha’s lifetime" loading="lazy" decoding="async"></figure>
 
 ### 3. Parinirvāṇa and the division of the relics {#ii-3}
 
