@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Mudrā dictionary</title><desc id="desc">Schematic line drawing of two hands joined in añjali mudrā.</desc>
+<rect width="1200" height="675" fill="#f2ede5"/>
+<g fill="none" stroke="#6d5230" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M475 520 C445 455 432 375 438 292 L452 160 C455 128 480 124 487 157 L500 282 L505 114 C507 82 535 82 540 113 L550 276 L558 100 C560 68 588 69 592 101 L597 278 L612 132 C615 102 642 105 645 136 L642 304 C641 352 627 401 604 445"/>
+<path d="M725 520 C755 455 768 375 762 292 L748 160 C745 128 720 124 713 157 L700 282 L695 114 C693 82 665 82 660 113 L650 276 L642 100 C640 68 612 69 608 101 L603 278 L588 132 C585 102 558 105 555 136 L558 304 C559 352 573 401 596 445"/>
+<path d="M475 520 C515 548 557 560 600 560 C643 560 685 548 725 520"/>
+<path d="M500 282 C521 306 539 323 560 337"/>
+<path d="M700 282 C679 306 661 323 640 337"/>
+</g>
+<circle cx="600" cy="337" r="10" fill="#9a8059"/>
+</svg>
