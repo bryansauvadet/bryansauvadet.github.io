@@ -40,16 +40,19 @@ format:
 </section>
 <section class="portal-grid"><a class="portal-card" href="/fr/recherche.html"><div class="portal-image"><img src="https://cdn.4travel.jp/img/thumbnails/imk/tips_pict/17/97/80/650x450_17978016.jpg?updated_at=1621181641" alt="Allée moussue de Hyakusai-ji 百済寺, Shiga, Japon" loading="lazy"></div><h3>Recherche</h3><p>Axes de recherche, projets actuels et thématiques principales.</p><span class="arrow">→</span></a><a class="portal-card" href="/fr/publications.html"><div class="portal-image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tripitaka_Koreana_02.jpg/1280px-Tripitaka_Koreana_02.jpg" alt="" loading="lazy"></div><h3>Publications</h3><p>Articles, chapitres, communications et textes en ligne.</p><span class="arrow">→</span></a><a class="portal-card" href="/fr/bases.html"><div class="portal-image"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Quan_%C3%A2m_ch%C3%B9a_B%C3%BAt_Th%C3%A1p_01.jpg" alt="Quan Âm aux mille yeux et mille bras, chùa Bút Tháp, Bắc Ninh" loading="lazy"></div><h3>Bases de données</h3><p>Base de données des stoupas de Corée et dictionnaire multilingue de l’art bouddhique.</p><span class="arrow">→</span></a><a class="portal-card" href="/fr/cartes.html"><div class="portal-image"><img src="https://rubinmuseum.org/wp-content/uploads/works/C2004/C2004.29.1/C2004.29.1_Recto-1600x1196.jpg" alt="Carte panoramique du mont Wutai, 1846, détail autour du grand stoupa blanc" loading="lazy" class="map-tile-image" style="object-position:38% 57%;"></div><h3>Dossiers thématiques</h3><p>Études thématiques sur des figures, monuments et problématiques de l’art bouddhique en Asie Orientale, associant analyses, sources, chronologies, cartes et visualisations.</p><span class="arrow">→</span></a><a class="portal-card" href="/fr/carnet.html"><div class="portal-image"><img src="/assets/images/carnet-recherche-build.jpg" alt="" loading="lazy"></div><h3>Carnet de recherche</h3><p>Notes, découvertes, lectures et travaux en cours.</p><span class="arrow">→</span></a><a class="portal-card" href="/fr/a-propos.html"><div class="portal-image"><img src="/assets/images/about-bryan-build.jpg" alt="Photographie personnelle fournie par Bryan Sauvadet" loading="lazy"></div><h3>À propos</h3><p>Parcours, CV, affiliations et contact.</p><span class="arrow">→</span></a></section>
 <section class="updates">
-  <div class="updates-head"><h2>Dernières nouveautés</h2></div>
+  <div class="updates-head"><h2>Dernières nouveautés</h2><a href="/fr/carnet.html">Voir toutes les nouveautés →</a></div>
   <div class="updates-grid">
     <article class="update-card">
+      <img class="update-thumb" src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="Monuments bouddhiques d’Inde et d’Asie orientale" loading="lazy">
+      <div><div class="update-type">Dossier thématique</div><h3>Histoire de l’architecture bouddhique</h3><p>Une histoire visuelle et comparée de l’architecture bouddhique en Inde, en Chine, en Corée, au Japon et au Vietnam, organisée en huit grandes parties.</p><a class="update-link" href="/fr/cartes/histoire-architecture-bouddhique.html">Voir le dossier →</a></div>
+    </article>
+    <article class="update-card">
+      <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="Dictionnaire multilingue de l’art bouddhique" loading="lazy">
+      <div><div class="update-type">Base de données</div><h3>Dictionnaire multilingue de l’art bouddhique</h3><p>1 500 termes fondamentaux comparés en français, anglais, sanskrit, tibétain, coréen, japonais, chinois et vietnamien.</p><a class="update-link" href="/fr/bases/dictionnaire-multilingue-art-bouddhique.html">Explorer le dictionnaire →</a></div>
+    </article>
+    <article class="update-card">
       <img class="update-thumb" src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap au monastère Pulguksa, Kyŏngju" loading="lazy">
-      <div>
-        <div class="update-type">Base de données</div>
-        <h3>Stoupas coréens</h3>
-        <p>Répertoire des stoupas coréens avec carte interactive, filtres, datations, localisations et galerie chronologique.</p>
-        <a class="update-link" href="/fr/bases/stoupas-coreens.html">Explorer la base →</a>
-      </div>
+      <div><div class="update-type">Base de données</div><h3>Stoupas coréens</h3><p>Un corpus structuré des stoupas coréens avec carte interactive, chronologie, filtres, localisations et notices de monuments.</p><a class="update-link" href="/fr/bases/stoupas-coreens.html">Explorer la base →</a></div>
     </article>
   </div>
 </section>
