@@ -12,7 +12,7 @@ At the beginnings of Buddhism, monks did not live in permanent monasteries. Renu
 
 The vocabulary used for monasteries reveals their changing functions. In India, ārāma originally meant a “garden” or “park”: early communities often settled in wooded areas donated by wealthy laypeople, close enough to towns for contact but quiet enough for practice. Saṃghārāma combines saṃgha (僧伽), the monastic community, with ārāma, literally producing the idea of a “garden of the community”; in East Asia the term was transcribed as karam (伽藍). Vihāra places greater emphasis on residence and gradually came to describe monks’ cells organised around a shared hall. Caitya refers more directly to a commemorative or cultic space, often associated with the stupa. These functional distinctions became crucial once residence and worship were combined in a single complex. In China, the terminology was reinterpreted. The word si (寺), originally denoting an imperial administrative office, became a standard term for a Buddhist monastery, while siyuan (寺院) emphasised an organised enclosure. In Korea, the everyday term chŏl (寺) became dominant, although karam (伽藍) survived in scholarly and architectural usage. There was therefore never one universal and immutable “monastery.” As Buddhism entered new cultural environments, the words themselves registered changes in function, status, and architectural form.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-2-en.webp" alt="Names of the monastery and their meanings" loading="lazy" decoding="async"></figure>
 
 ### 3. The first major monasteries of India {#i-3}
 

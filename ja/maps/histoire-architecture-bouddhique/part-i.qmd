@@ -12,7 +12,7 @@
 
 僧院を表す語彙は、その機能の違いを示している。ārāma は本来「園」「公園」を意味し、初期共同体が都市近郊の樹林や寄進された園林に滞在したことを反映する。saṃghārāma は saṃgha と ārāma を結び、「僧伽の園」を意味し、東アジアでは伽藍という語につながった。vihāra は居住機能を強調し、僧房と共同空間を備えた施設を指すようになる。caitya は記念・礼拝空間、とりわけストゥーパとの結びつきが強い。中国では本来官署を意味した寺が仏教寺院の一般名称となり、寺院という語は囲われた組織空間を示した。韓国では日常語として 절（寺） が広く用いられ、伽藍は学術・建築用語として残った。こうした名称の変化は、僧院が一つの不変な建築型ではなく、仏教の移動に伴って居住・礼拝・行政・社会的地位の関係を変えてきたことを示す。
 
-<div class="hab-illustration-slot">図版予定</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-2-ja.webp" alt="僧院の名称と意味" loading="lazy" decoding="async"></figure>
 
 ### 3. インド最初期の大僧院 {#i-3}
 

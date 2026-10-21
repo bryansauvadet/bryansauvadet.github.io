@@ -12,7 +12,7 @@ Thuở ban đầu, các tu sĩ Phật giáo không sống trong những tu việ
 
 Những từ dùng để chỉ tu viện phản ánh các chức năng khác nhau của nó. Trong tiếng Phạn, ārāma trước hết có nghĩa là “vườn” hay “công viên”, cho thấy các cộng đồng sớm thường sống trong những khu cây xanh do cư sĩ cúng dường gần đô thị. Saṃghārāma kết hợp saṃgha với ārāma, tức “khu vườn của tăng đoàn”, và được phiên sang Đông Á thành già lam 伽藍. Vihāra nhấn mạnh chức năng cư trú, với các tăng phòng tổ chức quanh không gian chung; caitya thiên về nơi tưởng niệm và thờ phụng, thường gắn với stūpa. Ở Trung Quốc, chữ 寺 vốn chỉ cơ quan hành chính dần trở thành từ thông dụng cho chùa Phật giáo; 寺院 nhấn mạnh một khuôn viên được tổ chức và bao bọc. Ở Triều Tiên, từ thông dụng 절, nghĩa là “chùa”, được dùng trong đời sống thường nhật, còn karam 伽藍 tồn tại trong ngôn ngữ học thuật. Lịch sử từ vựng này cho thấy “tu viện” chưa bao giờ là một loại hình cố định duy nhất: khi Phật giáo chuyển sang môi trường mới, quan hệ giữa cư trú, thờ phụng và tổ chức cộng đồng cũng thay đổi.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-2-vi.webp" alt="Các tên gọi của tu viện và ý nghĩa" loading="lazy" decoding="async"></figure>
 
 ### 3. Những tu viện lớn đầu tiên ở Ấn Độ {#i-3}
 
