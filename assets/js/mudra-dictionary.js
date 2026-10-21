@@ -12,6 +12,15 @@ ja:{search:"検索",placeholder:"名称・意味・図像文脈…",category:"�
 "zh-hant":{search:"搜尋",placeholder:"名稱、意義、圖像脈絡…",category:"類別",tradition:"傳統",all:"全部",reset:"重設",one:"1種手印",many:"{n}種手印",open:"查看條目",meaning:"意義",gesture:"手勢說明",context:"圖像脈絡",source:"參考資料",close:"關閉",legend:"30個條目 · 標準化向量示意圖",empty:"沒有符合條件的手印。",sourceNote:"名稱與形式可能隨文獻與傳承而異。本辭典區分一般圖像手印、密教用法與日本地區性體系。",cats:{core:"基本圖像",regional:"東亞",tantric:"密教 / 金剛乘",pureland:"阿彌陀 · 九品印"},trad:{pan:"早期佛教 / 大乘",mahayana:"大乘佛教",vajrayana:"金剛乘",japan:"日本 · 淨土教"}},
 vi:{search:"Tìm kiếm",placeholder:"Tên, ý nghĩa, bối cảnh…",category:"Phân loại",tradition:"Truyền thống",all:"Tất cả",reset:"Đặt lại",one:"1 thủ ấn",many:"{n} thủ ấn",open:"Xem chi tiết",meaning:"Ý nghĩa",gesture:"Mô tả thủ thế",context:"Bối cảnh hình tượng",source:"Nguồn tham khảo",close:"Đóng",legend:"30 mục · sơ đồ vector chuẩn hóa",empty:"Không có thủ ấn phù hợp với bộ lọc.",sourceNote:"Thuật ngữ và hình thức có thể thay đổi theo văn bản và truyền thừa. Từ điển phân biệt các thủ ấn hình tượng phổ quát, cách dùng Mật giáo và các hệ thống khu vực của Nhật Bản.",cats:{core:"Căn bản",regional:"Đông Á",tantric:"Mật giáo / Kim Cương thừa",pureland:"A Di Đà · 九品印"},trad:{pan:"Phật giáo sớm / Đại thừa",mahayana:"Đại thừa",vajrayana:"Kim Cương thừa",japan:"Nhật Bản · Tịnh độ"}}
 }[locale]||null;
+const PHOTO_UI={
+fr:{source:"Wikimedia Commons · image libre / domaine public",note:"Recadrage visuel pour mettre le geste en évidence. La licence et l’attribution exactes sont indiquées sur la fiche source."},
+en:{source:"Wikimedia Commons · freely licensed / public domain",note:"The image is visually cropped to emphasize the gesture. Exact licence and attribution are provided on the source page."},
+ko:{source:"Wikimedia Commons · 자유 이용 / 퍼블릭 도메인",note:"수인을 명확히 보기 위해 화면상 확대·재구성했습니다. 정확한 라이선스와 출처 표기는 원본 파일 페이지에서 확인할 수 있습니다."},
+ja:{source:"Wikimedia Commons · 自由利用／パブリックドメイン",note:"印相を見やすくするため画面上でトリミング・拡大しています。正確なライセンスと帰属表示は元ファイルのページに記載されています。"},
+"zh-hant":{source:"Wikimedia Commons · 自由授權／公有領域",note:"畫面經裁切放大以突顯手印。確切授權與署名資訊請參閱原始檔案頁面。"},
+vi:{source:"Wikimedia Commons · giấy phép tự do / phạm vi công cộng",note:"Ảnh được cắt và phóng trên màn hình để nhấn mạnh thủ ấn. Giấy phép và thông tin ghi công chính xác nằm trên trang nguồn."}
+}[locale];
+
 
 const TEXT={
 fearlessness:{fr:"Protection et absence de crainte.",en:"Protection and fearlessness.",ko:"보호와 두려움 없음.",ja:"守護と畏れのなさ。","zh-hant":"守護與無畏。",vi:"Che chở và vô úy."},
