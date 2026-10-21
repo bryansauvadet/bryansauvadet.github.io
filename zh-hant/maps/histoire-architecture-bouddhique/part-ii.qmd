@@ -6,7 +6,7 @@
 
 stūpa 原本指土堆、墳丘或葬禮紀念物。佛教沿用這一傳統，卻將其轉化為奉安證悟者舍利的宗教中心。基座上置半球形覆鉢，其上有平頭、剎柱與傘蓋，周圍可設欄楯與繞行通道。窣堵波因此同時是墓、舍利容器、紀念碑與儀式中心。它可與不一定含有身體舍利的 caitya 加以區分，但隨著時間推移，界線逐漸模糊。由於肉身舍利數量有限，經典、陀羅尼、緣起偈等文字也可作為法身舍利奉入塔中。這一轉變對建築史非常重要：佛塔不再只依賴有限的肉身遺物，也可以收藏佛法本身，因此能在廣大地域中不斷複製與建立。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-1-zh-hant.webp" alt="什麼是窣堵波？" loading="lazy" decoding="async"></figure>
 
 ### 2. 佛陀在世時的窣堵波 {#ii-2}
 
