@@ -184,7 +184,7 @@ function renderDiagram(d){
  if(d.kind==="prayer")return svg(`${handOpen(104,112,.88,1,0,null)}${handOpen(156,112,.88,-1,0,null)}<circle class="mudra-contact" cx="130" cy="93" r="5"/>`);
  if(d.kind==="meditation"||d.kind==="kuhon-meditation"){
    const contact=d.kind==="kuhon-meditation"?f:null;
-   return svg(`<g transform="translate(130 125)"><path class="mudra-line" d="M-92 18 Q-46 48 0 26 Q46 48 92 18"/><path class="mudra-line" d="M-78 5 Q-39 28 0 12 Q39 28 78 5"/>${contact?`<circle class="mudra-contact" cx="${contact==="index"?-36:contact==="middle"?0:36}" cy="${contact==="index"?13:contact==="middle"?18:13}" r="5"/><circle class="mudra-contact" cx="${contact==="index"?36:contact==="middle"?0:-36}" cy="${contact==="index"?13:contact==="middle"?18:13}" r="5"/>`:""}</g>`);
+   return svg(`<g transform="translate(130 125)"><path class="mudra-line" d="M-92 18 Q-46 48 0 26 Q46 48 92 18"/><path class="mudra-line" d="M-78 5 Q-39 28 0 12 Q39 28 78 5"/>${contact?`<circle class="mudra-contact" cx="${contact==="index"?-30:contact==="middle"?-45:-60}" cy="${contact==="index"?12:contact==="middle"?8:4}" r="5"/><circle class="mudra-contact" cx="${contact==="index"?30:contact==="middle"?45:60}" cy="${contact==="index"?12:contact==="middle"?8:4}" r="5"/>`:""}</g>`);
  }
  if(d.kind==="teaching"||d.kind==="kuhon-teaching")return svg(`${handOpen(92,118,.78,1,-18,f)}${handOpen(168,118,.78,-1,18,f)}`);
  if(d.kind==="raigo"||d.kind==="kuhon-raigo")return svg(`${handOpen(92,88,.74,1,-8,f)}${handOpen(174,145,.72,1,165,f)}`);
