@@ -18,7 +18,7 @@ stūpa 原本指土堆、墳丘或葬禮紀念物。佛教沿用這一傳統，�
 
 佛陀在拘尸那揭羅涅槃與火化，是大規模舍利崇拜的關鍵起點。多個國家要求分得舍利，婆羅門 Droṇa 據說將之分成八份，各地據此建塔。他自己保留分配舍利用的器皿而建第九塔，後到的 Moriya 族則收集火葬灰建立第十塔，形成「十塔」傳統。這一故事首先顯示舍利從一開始就具有政治與領土價值。擁有佛陀的身體遺物，等於讓佛陀的現前落實於某一地區，並吸引巡禮與功德實踐。同時，藍毘尼、菩提伽耶、鹿野苑、拘尸那揭羅等佛陀生涯的重要地點也成為聖地。物質舍利與事件記憶這兩種神聖性逐漸結合，使塔、故事與巡禮共同形成佛教的神聖地理。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-3-zh-hant.webp" alt="涅槃與舍利分配" loading="lazy" decoding="async"></figure>
 
 ### 4. 誰建塔，又建在哪裡？ {#ii-4}
 
