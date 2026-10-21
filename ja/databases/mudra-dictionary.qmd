@@ -1,0 +1,17 @@
+---
+title: "仏教印相辞典"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+```{=html}
+<link rel="stylesheet" href="/assets/css/mudra-dictionary.css">
+<script defer src="/assets/js/mudra-dictionary.js"></script>
+<section class="page-hero database-subhero"><div class="eyebrow"><a href="/ja/databases.html">データベース</a></div><h1>仏教印相辞典</h1></section>
+<main class="content"><div class="content-inner database-detail mudra-dictionary-page">
+<section class="mudra-intro"><p>本辞典は、仏教図像の基本的な印相、密教・タントラ系の身振り、そして阿弥陀の九品印を含む30種を同一の形式で整理したものです。手の位置、意味、図像上の文脈を比較して読むことができます。</p><p class="mudra-method">図は図像読解のために正規化したベクター模式図です。儀礼上の形は経典・伝承・地域・時代によって異なるため、普遍的な作法を示すものではありません。</p></section>
+<section aria-label="仏教印相辞典"><div id="mudra-dictionary" data-locale="ja"></div></section>
+</div></main>
+```
