@@ -276,8 +276,8 @@ const norm=s=>String(s??"").toLocaleLowerCase().normalize("NFD").replace(/[\u030
 root.innerHTML=`
 <div class="mudra-toolbar">
 <label class="mudra-control"><span>${UI.search}</span><input id="mudra-search" type="search" autocomplete="off" placeholder="${UI.placeholder}"></label>
-<label class="mudra-control"><span>${UI.category}</span><select id="mudra-category"><option value="">${UI.all}</option>${Object.entries(UI.cats).map(([k,v])=>`<option value="${k}">${v}</option>`).join("")}</select></label>
-<label class="mudra-control"><span>${UI.tradition}</span><select id="mudra-tradition"><option value="">${UI.all}</option>${Object.entries(UI.trad).map(([k,v])=>`<option value="${k}">${v}</option>`).join("")}</select></label>
+<label class="mudra-control"><span>${UI.category}</span><select id="mudra-category"><option value="">${UI.all}</option>${Object.entries(UI.cats).filter(([k])=>entries.some(e=>e.category===k)).map(([k,v])=>`<option value="${k}">${v}</option>`).join("")}</select></label>
+<label class="mudra-control"><span>${UI.tradition}</span><select id="mudra-tradition"><option value="">${UI.all}</option>${Object.entries(UI.trad).filter(([k])=>entries.some(e=>e.tradition===k)).map(([k,v])=>`<option value="${k}">${v}</option>`).join("")}</select></label>
 <button class="mudra-reset" id="mudra-reset" type="button">${UI.reset}</button>
 </div>
 <div class="mudra-results-head"><div class="mudra-count" id="mudra-count"></div><div class="mudra-legend">${UI.legend}</div></div>
@@ -310,7 +310,7 @@ function showEntry(index){
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.meaning}</span><p>${esc(meaning(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.gesture}</span><p>${esc(gesture(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.context}</span><p>${esc(context(e))}</p></div>
-  <div class="mudra-detail-row mudra-source"><span class="mudra-detail-label">${UI.source}</span><p><a href="${sourceLink(e)}" target="_blank" rel="noopener">Wikimedia Commons · image libre / domaine public ↗</a></p><p class="mudra-license-note">Recadrage visuel pour mettre le geste en évidence. La licence et l’attribution exactes sont indiquées sur la fiche source.</p></div>
+  <div class="mudra-detail-row mudra-source"><span class="mudra-detail-label">${UI.source}</span><p><a href="${sourceLink(e)}" target="_blank" rel="noopener">${PHOTO_UI.source} ↗</a></p><p class="mudra-license-note">${PHOTO_UI.note}</p></div>
   <div class="mudra-full-work">${renderPhoto(e,true)}</div>
  </div></div>`;
  dialogContent.querySelector(".mudra-dialog-close").addEventListener("click",()=>dialog.close());
