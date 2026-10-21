@@ -212,7 +212,7 @@ const supplementalEntries=[
 entries.push(...supplementalEntries);
 
 
-const commonsFile=name=>"https://commons.wikimedia.org/wiki/Special:Redirect/file/"+encodeURIComponent(name);
+const commonsFile=name=>"https://commons.wikimedia.org/wiki/Special:Redirect/file/"+encodeURIComponent(name)+"?width=1200";
 const commonsPage=name=>"https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(name.replace(/ /g,"_"));
 const PHOTO={
  abhaya:{file:"Standing Buddha in Abhaya Mudra and Head Enriched by Halo with Scalloped Border - Govind Nagar - Early Kushan Period - ACCN 71-105 - Government Museum - Mathura 2013-02-24 5967.JPG",x:25,y:40,z:3.45},
