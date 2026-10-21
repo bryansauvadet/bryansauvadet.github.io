@@ -18,7 +18,7 @@ Những từ dùng để chỉ tu viện phản ánh các chức năng khác nha
 
 Các tu viện lớn đầu tiên phát triển gần những trung tâm chính trị và đô thị của Bắc Ấn. Tại Rājagṛha, kinh đô Magadha, Trúc Lâm được vua Bimbisāra hiến cho Đức Phật và dần biến từ một khu vườn thành nơi cư trú cộng đồng. Gần đó, Gṛdhrakūṭa vẫn là địa điểm ẩn tu và thuyết pháp, cho thấy tu viện xây dựng và cảnh quan thiêng vẫn hoạt động song song. Ở Śrāvastī, Jetavana đánh dấu một bước phát triển khác: trưởng giả Anāthapiṇḍika mua khu vườn của thái tử Jeta và tổ chức tăng phòng, nơi giảng dạy, thiền định, tắm rửa, ăn uống và chăm sóc người bệnh. Tại Vaiśālī, Đại Lâm và vườn xoài của Ambapālī cũng cho thấy vai trò căn bản của sự cúng dường từ cư sĩ. Tu viện lúc này không còn chỉ là chỗ nghỉ mà trở thành một cơ sở phức hợp cho tu tập, giáo dục, chăm sóc và gặp gỡ với xã hội. Kiến trúc vật chất hóa quá trình Phật giáo chuyển từ một phong trào du hành sang một cộng đồng thể chế có thể tồn tại lâu dài.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-3-vi.webp" alt="Những tu viện lớn đầu tiên ở Ấn Độ" loading="lazy" decoding="async"></figure>
 
 ### 4. Tu viện, đô thị và khất thực {#i-4}
 
