@@ -11,7 +11,7 @@ format:
 <script defer src="/assets/js/mudra-dictionary.js"></script>
 <section class="page-hero database-subhero"><div class="eyebrow"><a href="/ja/databases.html">データベース</a></div><h1>仏教印相辞典</h1></section>
 <main class="content"><div class="content-inner database-detail mudra-dictionary-page">
-<section class="mudra-intro"><p>本辞典は、アジアの仏教図像・儀礼・実践に用いられる30種の印相と定型的な手勢を整理したものです。各項目では、サンスクリット語または伝統的名称、翻訳、意味、図像上の文脈に加え、自由利用可能またはパブリックドメインの画像から手元を拡大した写真を示します。</p><p class="mudra-method">写真は手の形をすぐ判読できるようにトリミング・拡大しています。各項目から元画像全体、出典、ライセンスを確認でき、地域的・儀礼的な異形を普遍的な規範として扱いません。</p></section>
+<section class="mudra-intro"><p>本辞典は、アジアの仏教図像に用いられる30種の印相と定型的な手勢を整理したものです。各カードでは日本語の名称を見出しとし、その下にサンスクリット名と漢字表記を示します。詳細項目では、サンスクリット・漢字・韓国語・日本語・ベトナム語・中国語・フランス語・英語の名称を表にまとめ、続いて意味、手の形、図像上の文脈、美術作品の例を解説します。</p><p class="mudra-method">カードの写真は手の形をすぐ判読できるようにトリミング・拡大しています。詳細項目では小さな作品画像によって、その印相が実際の仏教美術でどのように表されるかを示します。地域的・儀礼的な異形を普遍的な規範として扱いません。</p></section>
 <section aria-label="仏教印相辞典"><div id="mudra-dictionary" data-locale="ja"></div></section>
 </div></main>
 ```
