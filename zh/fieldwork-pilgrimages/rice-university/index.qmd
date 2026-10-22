@@ -1,0 +1,42 @@
+---
+title: "Rice University, Houston, Texas"
+lang: zh
+format:
+  html:
+    include-before-body: _includes/zh-header.html
+    include-after-body: _includes/zh-footer.html
+---
+<section class="page-hero"><h1>Rice University, Houston, Texas</h1><p class="lead">Houston, Texas · United States</p></section>
+<main class="content"><div class="content-inner fieldwork-story rice-story">
+
+<figure class="fieldwork-hero"><img src="/assets/images/rice-02.webp" alt="Rice University, Houston" loading="eager"><figcaption>与莱斯大学的师生同仁在一起：一次将教学、研究与交流紧密结合的访问。</figcaption></figure>
+
+<p class="lead">在莱斯大学的这段时间，是我美国之行中最富启发性的经历之一。应 <strong>Shih-shan Susan Huang</strong> 教授和 <strong>Eric Huntington</strong> 教授邀请，我以客座教师身份参加了两门与我研究高度相关的研讨课，内容涉及东亚佛教的视觉文化与物质文化。比课程本身更令我印象深刻的，是莱斯大学开放的学术环境：艺术史、佛教研究、宗教史与跨国亚洲研究能够在这里真正形成对话。</p>
+
+<p>在 Susan Huang 教授的 <em>Art and Heritage of East Asia</em> 研讨课中，我讲授了韩国与越南艺术史。对我而言，这也是一次重新思考东亚艺术史框架的机会：不再只以中国和日本为中心，而是同时考察形式、技术、作品与宗教模式的流动，以及它们在不同地区发生的本土转化。</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/rice-05.webp" alt="Rice University campus" loading="lazy"><figcaption>莱斯大学的砖石建筑构成了极具辨识度的校园景观。</figcaption></figure>
+
+<p>在 Eric Huntington 教授的 <em>Buddhism and Gender</em> 研讨课中，我讨论了女性在韩国佛教艺术作品营造与订制中的作用。把目光从作品本身转向促成作品产生的人，就能看到王后、宫廷女性、尼众与在家女性如何作为主动的委托者，影响图像选择、仪式功能以及作品所承载的记忆。</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-06.webp" alt="Rice University visit" loading="lazy"><figcaption>校园中的一段更具个人色彩的访问记忆。</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-07.webp" alt="Rice University architecture" loading="lazy"><figcaption>莱斯大学的拱廊：建筑本身也是日常学术生活的一部分。</figcaption></figure></div>
+
+<p>与学生和教师的讨论使这些课程获得了更丰富的意义。在莱斯教学并不是单向传递已经准备好的内容；学生的提问促使我重新组织问题，更精确地比较韩国、越南、中国和日本，并进一步思考艺术史如何与宗教史和社会史展开对话。</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-01.webp" alt="Teaching at Rice University" loading="lazy"><figcaption>在越南艺术史课程中介绍越南的关羽祠。</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-04.webp" alt="Teaching Vietnamese art history at Rice University" loading="lazy"><figcaption>讲解 Nghệ An 的 đền Độc Lôi Sơn 及其绘画群。</figcaption></figure></div>
+
+<p>莱斯大学的制度环境也使这些交流格外富有成效。莱斯是一所私立研究型大学，1891年获准设立，1912年在首任校长 Edgar Odell Lovett 主持下正式开学。如今，这座位于休斯敦市中心、拥有大片绿地的大学已成为美国重要的高等教育机构之一；在2026年 <a href="https://news.rice.edu/news/2026/rice-rises-no-16-us-news-rankings-engineering-business-programs-climb" target="_blank" rel="noopener">U.S. News &amp; World Report 排名中位列全美第16</a>，本科教学与教育价值也获得高度评价。</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/rice-09.webp" alt="Seminar classroom at Rice University" loading="lazy"><figcaption>研讨课全景：观看图像与展开讨论具有同等重要性。</figcaption></figure>
+
+<p>休斯敦本身也是讨论亚洲问题极有意义的城市背景。莱斯大学 Kinder Institute 的近期研究显示，2023年大休斯敦地区的亚裔人口约占9.9%，超过65.5万人，至少包含24个不同族裔群体。印度裔、越南裔以及华裔或台湾裔社区尤其重要；仅研究覆盖的四个县中，越南裔人口就超过14万。因此，在休斯敦进行亚洲研究，与校园之外的社会现实有着直接联系。</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-08.webp" alt="Guest teaching at Rice University" loading="lazy"><figcaption>从图像出发，把作品、宗教实践、地点与社群联系起来。</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-03.webp" alt="Rice University colleagues" loading="lazy"><figcaption>访问期间与同事们共度的一段轻松时光。</figcaption></figure></div>
+
+<p>学术研究与跨国现实之间的这种联系，正是莱斯大学 <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener"><strong>Department of Transnational Asian Studies</strong></a> 的核心。该系汇集历史、艺术史、宗教研究、文学、语言与社会科学，并与 Chao Center for Asian Studies 保持紧密合作。对于研究东亚艺术与宗教流动的我而言，这里是一个极具启发性的环境。</p>
+
+<p>最后，我要衷心感谢 Susan Huang 教授和 Eric Huntington 教授的邀请、信任与慷慨交流。没有他们，这次访问不可能实现。我也感谢所有教师以及 Transnational Asian Studies 整个团队的热情接待。美国之行结束时，留给我最深的感受，是自己并非只是作为一名访客被接待，而是作为一个能够共同思考、教学和讨论的同事。</p>
+
+<div class="fieldwork-notes"><h2>基本信息</h2><p><strong>大学：</strong> Rice University, Houston, Texas。<br><strong>历史：</strong> 1891年获准设立；1912年开学。<br><strong>院系：</strong> <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener">Department of Transnational Asian Studies</a>。<br><strong>教学：</strong> <em>Art and Heritage of East Asia</em>；<em>Buddhism and Gender</em>。<br><strong>邀请：</strong> Shih-shan Susan Huang、Eric Huntington。</p></div>
+
+</div></main>
