@@ -1,0 +1,29 @@
+---
+title: "Rice University, Houston, Texas"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="page-hero"><h1>Rice University, Houston, Texas</h1><p class="lead">초청 강의 · Department of Transnational Asian Studies</p></section>
+<main class="content"><div class="content-inner fieldwork-story rice-story">
+<figure class="fieldwork-hero"><img src="/assets/images/rice-houston-01.svg" alt="휴스턴 라이스대학교 캠퍼스" loading="eager"><figcaption>휴스턴의 Rice University. 벽돌과 석재가 어우러진 건축은 이 대학의 독특한 캠퍼스 풍경을 만든다.</figcaption></figure>
+<p class="lead">휴스턴의 Rice University에서 보낸 시간은 미국 체류 가운데 가장 인상 깊은 경험 중 하나였다. <a href="https://profiles.rice.edu/faculty/shih-shan-susan-huang" target="_blank" rel="noopener">Shih-shan Susan Huang</a> 교수와 <a href="https://profiles.rice.edu/faculty/eric-huntington" target="_blank" rel="noopener">Eric Huntington</a> 교수의 초청으로 학생들을 가르치고 토론하며, 미술사·불교학·초국가적 아시아 연구가 긴밀하게 만나는 환경에서 나의 연구를 소개할 수 있었다. 체류가 끝날 무렵에는 이 경험을 가능하게 해 준 두 멘토이자 소중한 대화 상대와 너무 빨리 헤어지는 듯한 아쉬움이 컸다.</p>
+<h2>Rice, Houston, 그리고 아시아 연구</h2>
+<p>1891년 William M. Rice Institute로 인가되고 1912년 학생들에게 문을 연 이 학교는 1960년 Rice University로 이름을 바꾸었다. 오늘날 미국의 대표적인 사립 연구대학 가운데 하나이며, 대학의 공식 소개에 따르면 <em>U.S. News</em>에서 지속적으로 미국 상위 20개 대학에 포함되어 왔다. 레지덴셜 칼리지 제도와 Texas Medical Center에 인접한 캠퍼스는 국제도시 휴스턴 안에서 Rice만의 독특한 성격을 형성한다.</p>
+<div class="rice-pair"><figure><img src="/assets/images/rice-houston-08.svg" alt="Rice University 캠퍼스의 아케이드" loading="lazy"><figcaption>Rice 캠퍼스를 특징짓는 아케이드와 벽돌 건축.</figcaption></figure><figure><img src="/assets/images/rice-houston-02.svg" alt="Rice University 동료들과 함께한 단체 사진" loading="lazy"><figcaption>Rice의 동료들과 함께. 중요한 대화의 상당수는 강의실 밖에서도 이어졌다.</figcaption></figure></div>
+<p>휴스턴이라는 도시 자체도 이러한 수업에 특별한 의미를 더했다. Rice의 Kinder Institute에 따르면 2023년 휴스턴 대도시권의 주요 네 카운티에는 65만 5천 명이 넘는 아시아계 주민이 살았으며, 전체 인구의 9.9%를 차지했다. 1980년의 1.8%에 비하면 큰 증가이고, 특히 베트남계 공동체의 규모가 매우 크다. 따라서 휴스턴에서 베트남 미술사를 가르친다는 것은 멀고 추상적인 지역을 설명하는 일이 아니었다. 수업에서 다룬 이주, 종교 유산, 문화적 이동의 역사는 이 도시의 사회적 현실과도 연결되어 있었다.</p>
+<h2>한국과 베트남 미술사를 가르치다</h2>
+<p>Susan Huang 교수의 <em>Art and Heritage of East Asia</em> 세미나에서는 한국과 베트남의 미술사를 중심으로 강의했다. 중국이나 일본만을 중심으로 동아시아 미술사를 구성하기보다, 이동과 지역적 재해석, 불교 네트워크, 궁정 문화, 문화유산의 형성을 추적함으로써 한국과 베트남이 이미지의 생산과 순환에 능동적으로 참여해 온 역사를 보여 주고자 했다.</p>
+<div class="rice-pair rice-lecture-pair"><figure><img src="/assets/images/rice-houston-03.svg" alt="사이공의 관우 사당에 관한 강의" loading="lazy"><figcaption>베트남 수업의 한 장면. 사이공의 관우 사당을 통해 동아시아를 가로지른 종교·시각문화의 이동을 살펴보았다.</figcaption></figure><figure><img src="/assets/images/rice-houston-04.svg" alt="응에안의 Độc Lôi Sơn 사당에 관한 강의" loading="lazy"><figcaption>Nghệ An의 đền Độc Lôi Sơn을 중심으로 베트남 자료를 소개하는 시간.</figcaption></figure></div>
+<p>이 수업은 국가라는 범주만으로 충분히 설명하기 어려운 작품을 어떻게 가르칠 것인가를 생각하는 기회이기도 했다. 사원, 회화, 조각, 의례는 특정 지역의 역사에 깊이 뿌리내리면서도 장거리 이동을 거친 형식, 문헌, 도상을 함께 품고 있다. 이러한 ‘지역적 정착’과 ‘이동’ 사이의 긴장이야말로 동아시아 미술사를 풍부하게 만드는 핵심이라고 생각한다.</p>
+<div class="rice-pair rice-classroom-pair"><figure><img src="/assets/images/rice-houston-05.svg" alt="뒤에서 본 Rice University 세미나 수업" loading="lazy"><figcaption>Rice에서의 세미나. 학생들과의 토론은 체류의 핵심이었다.</figcaption></figure><figure><img src="/assets/images/rice-houston-09.svg" alt="Rice University 세미나 발표 장면" loading="lazy"><figcaption>시각 자료를 함께 보며 형식 분석과 종교·사회·정치적 맥락을 끊임없이 오갔다.</figcaption></figure></div>
+<h2>불교, 젠더, 그리고 여성 발원자</h2>
+<p>Eric Huntington 교수의 초청으로 <em>Buddhism and Gender</em> 세미나에도 참여하여 한국 불교미술에서 여성의 조성 및 발원 역할을 발표했다. 이것은 주변적인 주제가 아니라 미술 생산의 역사를 다시 쓰게 하는 질문이다. 명문, 발원문, 궁정의 맥락을 통해 여성 발원자와 시주자의 흔적을 복원하면, 불교 이미지가 어떻게 재원을 마련하고 봉헌되며 의례적으로 활성화되고 전승되었는지를 가능하게 한 가족적·종교적·정치적 네트워크를 파악할 수 있다.</p>
+<p>이 관점은 내가 연구해 온 고려와 조선 초기의 궁정 불교미술과도 직접 연결된다. 작품을 양식과 유파의 연속으로만 보지 않고 발원자와 주문자의 관점에서 읽으면, 작품은 신앙 실천, 사회적 관계, 가족의 기억, 궁정 내 위치를 드러내는 물질적 흔적이 된다. 젠더를 중심 주제로 삼은 세미나에서 이러한 문제를 토론한 경험은 다른 불교 전통과의 비교에도 매우 유익했다.</p>
+<h2>학문적이면서도 인간적인 경험</h2>
+<div class="rice-pair"><figure><img src="/assets/images/rice-houston-06.svg" alt="Rice University 동료들과 함께한 편안한 시간" loading="lazy"><figcaption>토론은 강의실 밖에서도 자연스럽게 이어졌다.</figcaption></figure><figure><img src="/assets/images/rice-houston-07.svg" alt="Rice University 세미나실 앞에서 남긴 사진" loading="lazy"><figcaption>여러 날의 강의와 토론을 마친 뒤 세미나실 앞에서 남긴 기억.</figcaption></figure></div>
+<p>Rice에서 가장 오래 남은 것은 따뜻한 환대와 대화의 깊이다. 이 체류는 Susan Huang 교수와 Eric Huntington 교수의 초청과 신뢰, 아낌없는 시간 없이는 가능하지 않았을 것이다. 두 분께 깊이 감사드리며, 나를 따뜻하게 맞아 준 모든 교수진과 Department of Transnational Asian Studies 팀 전체에도 진심으로 감사드린다. 이 경험은 대학의 초청이 단순한 몇 차례의 강의를 넘어, 귀국 이후에도 연구를 계속 자극하는 대화와 비교, 지적 우정의 공간이 될 수 있음을 다시 확인시켜 주었다.</p>
+<div class="fieldwork-notes"><h2>정보 및 링크</h2><p><strong>장소:</strong> Rice University, Houston, Texas.<br><strong>초청:</strong> Shih-shan Susan Huang, Eric Huntington.<br><strong>세미나:</strong> <em>Art and Heritage of East Asia</em>; <em>Buddhism and Gender</em>.<br><strong>학과:</strong> <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener">Department of Transnational Asian Studies — Rice University</a>.<br><strong>Rice 역사:</strong> <a href="https://www.rice.edu/about" target="_blank" rel="noopener">Rice University — About / A Brief History</a>.</p></div>
+</div></main>
