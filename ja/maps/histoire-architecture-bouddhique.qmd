@@ -30,8 +30,8 @@ format:
       <div class="hab-map-head">
         <div class="hab-section-head">
           <div class="hab-kicker" data-hab-map-copy="kicker">ドシエの地理</div>
-          <h2 id="hab-sites-map-title" data-hab-map-copy="title">本文に登場する遺跡のインタラクティブ地図</h2>
-          <p data-hab-map-copy="intro">本文で言及する建築、寺院、考古遺跡、石窟、聖地景観を地図上で確認できます。同一境内の複数の建築は一つの地点にまとめています。</p>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">仏教建築遺跡のインタラクティブ地図</h2>
+          <p data-hab-map-copy="intro">インド、中国、韓国、日本、ベトナムの建築、寺院、考古遺跡、石窟、聖地景観を地図上で確認できます。同一境内の複数の建築は一つの地点にまとめています。</p>
         </div>
         <div class="hab-map-count" id="buddhist-architecture-sites-count">46地点</div>
       </div>
