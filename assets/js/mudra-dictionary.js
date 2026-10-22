@@ -441,7 +441,21 @@ const ILLUSTRATION={
  "vajra-wisdom":"/assets/images/mudras/jnanamusti.svg",
  "vajra-embrace":"/assets/images/mudras/vajrahumkara.svg",
  "demon-subduing":"/assets/images/mudras/bhutadamara.svg",
- flaming:"/assets/images/mudras/karana.svg"
+ flaming:"/assets/images/mudras/karana.svg",
+ nagaraja:"/assets/images/mudras/nagaraja.svg",
+ tarjani:"/assets/images/mudras/tarjani.svg",
+ embrace:"/assets/images/mudras/embrace.svg",
+ humkara:"/assets/images/mudras/humkara.svg",
+ "mandala-offering":"/assets/images/mudras/mandala-offering.svg",
+ mahakaruna:"/assets/images/mudras/mahakaruna.svg",
+ patra:"/assets/images/mudras/patra.svg",
+ vismaya:"/assets/images/mudras/vismaya.svg",
+ jnana:"/assets/images/mudras/jnana.svg",
+ sarvatathagata:"/assets/images/mudras/sarvatathagata.svg",
+ kataka:"/assets/images/mudras/kataka.svg",
+ gajahasta:"/assets/images/mudras/gajahasta.svg",
+ lalitakshepa:"/assets/images/mudras/lalitakshepa.svg",
+ yoga:"/assets/images/mudras/yoga.svg"
 };
 function illustrationFor(e){return ILLUSTRATION[e.id]||"";}
 function renderIllustration(e){
