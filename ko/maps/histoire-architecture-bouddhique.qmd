@@ -36,8 +36,8 @@ format:
       <div class="hab-map-head">
         <div class="hab-section-head">
           <div class="hab-kicker" data-hab-map-copy="kicker">자료의 지리</div>
-          <h2 id="hab-sites-map-title" data-hab-map-copy="title">본문에 언급된 유적 인터랙티브 지도</h2>
-          <p data-hab-map-copy="intro">본문에 언급된 기념물·사찰·고고유적·석굴·성지 경관을 지도에서 살펴볼 수 있습니다. 같은 사찰 경내의 건축물은 하나의 지점으로 묶었습니다.</p>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">불교 건축 유적 인터랙티브 지도</h2>
+          <p data-hab-map-copy="intro">인도·중국·한국·일본·베트남의 기념물·사찰·고고유적·석굴·성지 경관을 지도에서 살펴볼 수 있습니다. 같은 사찰 경내의 건축물은 하나의 지점으로 묶었습니다.</p>
         </div>
         <div class="hab-map-count" id="buddhist-architecture-sites-count">46곳</div>
       </div>
