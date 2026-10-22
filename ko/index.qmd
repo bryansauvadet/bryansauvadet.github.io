@@ -48,7 +48,7 @@ format:
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="불교미술 다국어 사전" loading="lazy">
-      <div><div class="update-type">데이터베이스</div><h3>불교미술 다국어 사전</h3><p>불교미술 핵심 용어 1,500개를 프랑스어·영어·산스크리트어·티베트어·한국어·일본어·중국어·베트남어로 대조합니다.</p><a class="update-link" href="/ko/databases/multilingual-buddhist-art-dictionary.html">사전 보기 →</a></div>
+      <div><div class="update-type">데이터베이스</div><h3>불교미술 다국어 사전</h3><p>불교미술·미술사·고고학 2,207개 항목을 프랑스어·영어·산스크리트어·티베트어·한국어·일본어·중국어·베트남어로 대조합니다.</p><a class="update-link" href="/ko/databases/multilingual-buddhist-art-dictionary.html">사전 보기 →</a></div>
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/tabotap-pulguksa-vignette.png" alt="경주 불국사 다보탑" loading="lazy">
