@@ -5,12 +5,12 @@ if(!root)return;
 const locale=root.dataset.locale||"fr";
 
 const UI={
-fr:{search:"Recherche",placeholder:"Nom, signification, contexte…",category:"Catégorie",tradition:"Tradition",all:"Tous",reset:"Réinitialiser",one:"1 mudrā",many:"{n} mudrā",open:"Voir la fiche",meaning:"Signification",gesture:"Description du geste",context:"Contexte iconographique",source:"Source de référence",close:"Fermer",legend:"30 fiches · schémas vectoriels normalisés",empty:"Aucun mudrā ne correspond à ces filtres.",sourceNote:"Terminologie et formes varient selon les corpus. Les fiches distinguent les gestes iconographiques généraux, les usages tantriques et les systèmes régionaux japonais.",cats:{core:"Fondamental",regional:"Asie orientale",tantric:"Tantrique / Vajrayāna",pureland:"Amida · 九品印"},trad:{pan:"Bouddhisme ancien / Mahāyāna",mahayana:"Mahāyāna",vajrayana:"Vajrayāna",japan:"Japon · Terre pure"}},
-en:{search:"Search",placeholder:"Name, meaning, context…",category:"Category",tradition:"Tradition",all:"All",reset:"Reset",one:"1 mudra",many:"{n} mudras",open:"View entry",meaning:"Meaning",gesture:"Gesture description",context:"Iconographic context",source:"Reference source",close:"Close",legend:"30 entries · normalized vector diagrams",empty:"No mudra matches these filters.",sourceNote:"Terminology and forms vary across corpora. Entries distinguish general iconographic gestures, tantric uses, and regional Japanese systems.",cats:{core:"Foundational",regional:"East Asian",tantric:"Tantric / Vajrayana",pureland:"Amida · 九品印"},trad:{pan:"Early Buddhism / Mahayana",mahayana:"Mahayana",vajrayana:"Vajrayana",japan:"Japan · Pure Land"}},
-ko:{search:"검색",placeholder:"명칭, 의미, 도상 맥락…",category:"분류",tradition:"전통",all:"전체",reset:"초기화",one:"1개 수인",many:"{n}개 수인",open:"상세 보기",meaning:"의미",gesture:"손 자세",context:"도상적 맥락",source:"참고 자료",close:"닫기",legend:"30개 항목 · 표준화 벡터 도식",empty:"조건에 맞는 수인이 없습니다.",sourceNote:"명칭과 형태는 자료와 전승에 따라 달라질 수 있습니다. 이 사전은 일반 도상 수인, 탄트라 계통의 용례, 일본의 지역적 체계를 구분합니다.",cats:{core:"기본 도상",regional:"동아시아",tantric:"밀교 / 금강승",pureland:"아미타 · 九品印"},trad:{pan:"초기불교 / 대승",mahayana:"대승불교",vajrayana:"금강승",japan:"일본 · 정토교"}},
-ja:{search:"検索",placeholder:"名称・意味・図像文脈…",category:"分類",tradition:"伝統",all:"すべて",reset:"リセット",one:"1件",many:"{n}件",open:"詳細を見る",meaning:"意味",gesture:"手の形",context:"図像上の文脈",source:"参考資料",close:"閉じる",legend:"30項目 · 正規化ベクター模式図",empty:"条件に一致する印相はありません。",sourceNote:"名称と形は資料・伝承によって異なります。本辞典では一般的な図像の印相、密教的用法、日本の地域的体系を区別しています。",cats:{core:"基本図像",regional:"東アジア",tantric:"密教 / 金剛乗",pureland:"阿弥陀 · 九品印"},trad:{pan:"初期仏教 / 大乗",mahayana:"大乗仏教",vajrayana:"金剛乗",japan:"日本 · 浄土教"}},
-"zh-hant":{search:"搜尋",placeholder:"名稱、意義、圖像脈絡…",category:"類別",tradition:"傳統",all:"全部",reset:"重設",one:"1種手印",many:"{n}種手印",open:"查看條目",meaning:"意義",gesture:"手勢說明",context:"圖像脈絡",source:"參考資料",close:"關閉",legend:"30個條目 · 標準化向量示意圖",empty:"沒有符合條件的手印。",sourceNote:"名稱與形式可能隨文獻與傳承而異。本辭典區分一般圖像手印、密教用法與日本地區性體系。",cats:{core:"基本圖像",regional:"東亞",tantric:"密教 / 金剛乘",pureland:"阿彌陀 · 九品印"},trad:{pan:"早期佛教 / 大乘",mahayana:"大乘佛教",vajrayana:"金剛乘",japan:"日本 · 淨土教"}},
-vi:{search:"Tìm kiếm",placeholder:"Tên, ý nghĩa, bối cảnh…",category:"Phân loại",tradition:"Truyền thống",all:"Tất cả",reset:"Đặt lại",one:"1 thủ ấn",many:"{n} thủ ấn",open:"Xem chi tiết",meaning:"Ý nghĩa",gesture:"Mô tả thủ thế",context:"Bối cảnh hình tượng",source:"Nguồn tham khảo",close:"Đóng",legend:"30 mục · sơ đồ vector chuẩn hóa",empty:"Không có thủ ấn phù hợp với bộ lọc.",sourceNote:"Thuật ngữ và hình thức có thể thay đổi theo văn bản và truyền thừa. Từ điển phân biệt các thủ ấn hình tượng phổ quát, cách dùng Mật giáo và các hệ thống khu vực của Nhật Bản.",cats:{core:"Căn bản",regional:"Đông Á",tantric:"Mật giáo / Kim Cương thừa",pureland:"A Di Đà · 九品印"},trad:{pan:"Phật giáo sớm / Đại thừa",mahayana:"Đại thừa",vajrayana:"Kim Cương thừa",japan:"Nhật Bản · Tịnh độ"}}
+fr:{search:"Recherche",placeholder:"Nom, signification, contexte…",category:"Catégorie",tradition:"Tradition",all:"Tous",reset:"Réinitialiser",one:"1 mudrā",many:"{n} mudrā",open:"Voir la fiche",meaning:"Signification",gesture:"Description du geste",context:"Contexte iconographique",source:"Source de référence",close:"Fermer",legend:"30 fiches · noms multilingues · exemples iconographiques",empty:"Aucun mudrā ne correspond à ces filtres.",sourceNote:"Terminologie et formes varient selon les corpus. Les fiches distinguent les gestes iconographiques généraux, les usages tantriques et les systèmes régionaux japonais.",cats:{core:"Fondamental",regional:"Asie orientale",tantric:"Tantrique / Vajrayāna",pureland:"Amida · 九品印"},trad:{pan:"Bouddhisme ancien / Mahāyāna",mahayana:"Mahāyāna",vajrayana:"Vajrayāna",japan:"Japon · Terre pure"}},
+en:{search:"Search",placeholder:"Name, meaning, context…",category:"Category",tradition:"Tradition",all:"All",reset:"Reset",one:"1 mudra",many:"{n} mudras",open:"View entry",meaning:"Meaning",gesture:"Gesture description",context:"Iconographic context",source:"Reference source",close:"Close",legend:"30 entries · multilingual names · iconographic examples",empty:"No mudra matches these filters.",sourceNote:"Terminology and forms vary across corpora. Entries distinguish general iconographic gestures, tantric uses, and regional Japanese systems.",cats:{core:"Foundational",regional:"East Asian",tantric:"Tantric / Vajrayana",pureland:"Amida · 九品印"},trad:{pan:"Early Buddhism / Mahayana",mahayana:"Mahayana",vajrayana:"Vajrayana",japan:"Japan · Pure Land"}},
+ko:{search:"검색",placeholder:"명칭, 의미, 도상 맥락…",category:"분류",tradition:"전통",all:"전체",reset:"초기화",one:"1개 수인",many:"{n}개 수인",open:"상세 보기",meaning:"의미",gesture:"손 자세",context:"도상적 맥락",source:"참고 자료",close:"닫기",legend:"30개 항목 · 다국어 명칭 · 도상 예시",empty:"조건에 맞는 수인이 없습니다.",sourceNote:"명칭과 형태는 자료와 전승에 따라 달라질 수 있습니다. 이 사전은 일반 도상 수인, 탄트라 계통의 용례, 일본의 지역적 체계를 구분합니다.",cats:{core:"기본 도상",regional:"동아시아",tantric:"밀교 / 금강승",pureland:"아미타 · 九品印"},trad:{pan:"초기불교 / 대승",mahayana:"대승불교",vajrayana:"금강승",japan:"일본 · 정토교"}},
+ja:{search:"検索",placeholder:"名称・意味・図像文脈…",category:"分類",tradition:"伝統",all:"すべて",reset:"リセット",one:"1件",many:"{n}件",open:"詳細を見る",meaning:"意味",gesture:"手の形",context:"図像上の文脈",source:"参考資料",close:"閉じる",legend:"30項目 · 多言語名称 · 図像例",empty:"条件に一致する印相はありません。",sourceNote:"名称と形は資料・伝承によって異なります。本辞典では一般的な図像の印相、密教的用法、日本の地域的体系を区別しています。",cats:{core:"基本図像",regional:"東アジア",tantric:"密教 / 金剛乗",pureland:"阿弥陀 · 九品印"},trad:{pan:"初期仏教 / 大乗",mahayana:"大乗仏教",vajrayana:"金剛乗",japan:"日本 · 浄土教"}},
+"zh-hant":{search:"搜尋",placeholder:"名稱、意義、圖像脈絡…",category:"類別",tradition:"傳統",all:"全部",reset:"重設",one:"1種手印",many:"{n}種手印",open:"查看條目",meaning:"意義",gesture:"手勢說明",context:"圖像脈絡",source:"參考資料",close:"關閉",legend:"30個條目 · 多語名稱 · 圖像實例",empty:"沒有符合條件的手印。",sourceNote:"名稱與形式可能隨文獻與傳承而異。本辭典區分一般圖像手印、密教用法與日本地區性體系。",cats:{core:"基本圖像",regional:"東亞",tantric:"密教 / 金剛乘",pureland:"阿彌陀 · 九品印"},trad:{pan:"早期佛教 / 大乘",mahayana:"大乘佛教",vajrayana:"金剛乘",japan:"日本 · 淨土教"}},
+vi:{search:"Tìm kiếm",placeholder:"Tên, ý nghĩa, bối cảnh…",category:"Phân loại",tradition:"Truyền thống",all:"Tất cả",reset:"Đặt lại",one:"1 thủ ấn",many:"{n} thủ ấn",open:"Xem chi tiết",meaning:"Ý nghĩa",gesture:"Mô tả thủ thế",context:"Bối cảnh hình tượng",source:"Nguồn tham khảo",close:"Đóng",legend:"30 mục · tên đa ngôn ngữ · ví dụ hình tượng",empty:"Không có thủ ấn phù hợp với bộ lọc.",sourceNote:"Thuật ngữ và hình thức có thể thay đổi theo văn bản và truyền thừa. Từ điển phân biệt các thủ ấn hình tượng phổ quát, cách dùng Mật giáo và các hệ thống khu vực của Nhật Bản.",cats:{core:"Căn bản",regional:"Đông Á",tantric:"Mật giáo / Kim Cương thừa",pureland:"A Di Đà · 九品印"},trad:{pan:"Phật giáo sớm / Đại thừa",mahayana:"Đại thừa",vajrayana:"Kim Cương thừa",japan:"Nhật Bản · Tịnh độ"}}
 }[locale]||null;
 const PHOTO_UI={
 fr:{source:"Wikimedia Commons · image libre / domaine public",note:"Recadrage visuel pour mettre le geste en évidence. La licence et l’attribution exactes sont indiquées sur la fiche source."},
@@ -345,7 +345,23 @@ const traditionalTerms={
  "mandala-offering":"Maṇḍala-mudrā"
 };
 function traditionalTerm(e){return e.traditional||traditionalTerms[e.id]||e.canonical||"";}
-function localName(e){return e.displayName||e.names[locale]||e.canonical;}
+function localName(e){
+ const raw=e.names?.[locale]||e.displayName||e.canonical;
+ if(locale==="ko"||locale==="ja")return String(raw).split(" · ")[0];
+ return raw;
+}
+function lex(e){return LEXICON[e.id]||{sa:e.canonical||"—",han:"—",ja:"—",py:"—"};}
+function koReading(e){return String(e.names?.ko||"—").split(" · ")[0];}
+function subtitle(e){const l=lex(e);return [l.sa,l.han].filter(Boolean).join(" · ");}
+function lexTable(e){
+ const l=lex(e);
+ const rows=[
+  [TABLE_UI.sa,l.sa],[TABLE_UI.han,l.han],[TABLE_UI.ko,koReading(e)],[TABLE_UI.ja,l.ja],
+  [TABLE_UI.vi,e.names?.vi||"—"],[TABLE_UI.py,l.py],[TABLE_UI.fr,e.names?.fr||"—"],[TABLE_UI.en,e.names?.en||"—"]
+ ];
+ return '<div class="mudra-lexicon"><h3>'+esc(TABLE_UI.title)+'</h3><table><tbody>'+rows.map(([k,v])=>'<tr><th>'+esc(k)+'</th><td>'+esc(v)+'</td></tr>').join("")+'</tbody></table></div>';
+}
+function exampleNote(e){return TABLE_UI.exampleIntro+" "+context(e);}
 function meaning(e){return e.meaningText?.[locale]||(e.dynamicMeaning?e.dynamicMeaning():(TEXT[e.meaning]?.[locale]||""));}
 function gesture(e){return e.gestureText?.[locale]||(GESTURE[e.gesture]?.[locale]||"");}
 function context(e){return e.contextText?.[locale]||(CONTEXT[e.context]?.[locale]||"");}
@@ -378,19 +394,23 @@ const dialogContent=document.getElementById("mudra-dialog-content");
 
 function showEntry(index){
  const e=entries[index];
- const s=sources[e.source];
  dialogContent.innerHTML=`<div class="mudra-dialog-shell">
  <button class="mudra-dialog-close" type="button" aria-label="${UI.close}">×</button>
- <div class="mudra-dialog-visual">${renderPhoto(e)}</div>
  <div class="mudra-dialog-copy">
   <div class="mudra-dialog-kicker">${UI.cats[e.category]} · ${UI.trad[e.tradition]}</div>
   <h2>${esc(localName(e))}</h2>
-  ${traditionalTerm(e)?`<p class="mudra-dialog-local">${esc(traditionalTerm(e))}</p>`:""}
+  <p class="mudra-dialog-local">${esc(subtitle(e))}</p>
+  ${lexTable(e)}
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.meaning}</span><p>${esc(meaning(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.gesture}</span><p>${esc(gesture(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.context}</span><p>${esc(context(e))}</p></div>
-  <div class="mudra-detail-row mudra-source"><span class="mudra-detail-label">${UI.source}</span><p><a href="${sourceLink(e)}" target="_blank" rel="noopener">${PHOTO_UI.source} ↗</a></p><p class="mudra-license-note">${PHOTO_UI.note}</p></div>
-  <div class="mudra-full-work">${renderPhoto(e,true)}</div>
+  <div class="mudra-example">
+   <span class="mudra-detail-label">${TABLE_UI.example}</span>
+   <div class="mudra-example-grid">
+    <a class="mudra-example-image" href="${sourceLink(e)}" target="_blank" rel="noopener">${renderPhoto(e,true)}</a>
+    <div class="mudra-example-copy"><h3>${esc(EXAMPLE_WORK[e.id]||localName(e))}</h3><p>${esc(exampleNote(e))}</p></div>
+   </div>
+  </div>
  </div></div>`;
  dialogContent.querySelector(".mudra-dialog-close").addEventListener("click",()=>dialog.close());
  dialog.showModal();
@@ -401,7 +421,7 @@ function render(list){
  grid.innerHTML=list.map(({e,index},i)=>`<button class="mudra-card" type="button" data-index="${index}">
   <div class="mudra-figure">${renderPhoto(e)}</div>
   <div class="mudra-card-body">
-   <div class="mudra-card-top"><div><h2>${esc(localName(e))}</h2>${traditionalTerm(e)?`<p class="mudra-local-name">${esc(traditionalTerm(e))}</p>`:""}</div><span class="mudra-number">${String(index+1).padStart(2,"0")}</span></div>
+   <div class="mudra-card-top"><div><h2>${esc(localName(e))}</h2><p class="mudra-local-name">${esc(subtitle(e))}</p></div><span class="mudra-number">${String(index+1).padStart(2,"0")}</span></div>
    <p class="mudra-meaning">${esc(meaning(e))}</p>
    <div class="mudra-tags"><span class="mudra-tag">${UI.cats[e.category]}</span><span class="mudra-tag">${UI.trad[e.tradition]}</span></div>
    <div class="mudra-open">${UI.open} →</div>
@@ -421,7 +441,7 @@ function apply(){
    if(cat&&e.category!==cat)return false;
    if(tr&&e.tradition!==tr)return false;
    if(!q)return true;
-   const hay=[e.canonical,localName(e),traditionalTerm(e),meaning(e),gesture(e),context(e),UI.cats[e.category],UI.trad[e.tradition]].map(norm).join(" ");
+   const l=lex(e); const hay=[e.canonical,localName(e),l.sa,l.han,l.ja,l.py,koReading(e),e.names?.vi,e.names?.fr,e.names?.en,meaning(e),gesture(e),context(e),UI.cats[e.category],UI.trad[e.tradition]].map(norm).join(" ");
    return hay.includes(q);
  });
  render(list);
