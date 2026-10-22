@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">仏教美術史、仏教、アジア史、考古学、建築をより深く理解するために読む価値のある書籍を紹介します。</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/ja/readings/buddhist-pilgrim-monks.html">
+<div class="reading-book-cover"><img src="https://nuspress.nus.edu.sg/cdn/shop/products/Buddhist_Pilg_cvr_final_hires.jpg?v=1516265905" alt="Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission 表紙" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">東アジア仏教美術 · 交流 · Tang · Nara · 668年以後のSilla</div>
+<h2>Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission</h2>
+<p class="reading-book-author">Dorothy C. Wong · NUS Press · 2018</p>
+<p>645–770年頃、巡礼僧・大寺院・宮廷を通じて仏教美術の形式が移動・変容し、「国際的」な視覚言語となる過程を示す。</p>
+<span class="reading-book-link">書評を読む →</span>
+</a>
 <a class="reading-book-card" href="/ja/readings/choson-buddhist-painting.html">
 <div class="reading-book-cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="조선의 불교회화" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">朝鮮王朝の仏教絵画 · 儀礼 · 三壇 · 寺院空間</div>
