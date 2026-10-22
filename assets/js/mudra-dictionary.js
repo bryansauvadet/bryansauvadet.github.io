@@ -433,7 +433,15 @@ const ILLUSTRATION={
  dharmachakra:"/assets/images/mudras/dharmachakra.svg",
  vitarka:"/assets/images/mudras/vitarka.svg",
  anjali:"/assets/images/mudras/anjali.svg",
- raigo:"/assets/images/mudras/raigo.svg"
+ raigo:"/assets/images/mudras/raigo.svg",
+ miracles:"/assets/images/mudras/pratiharya.svg",
+ blessing:"/assets/images/mudras/vyakhyana-blessing.svg",
+ "mida-join":"/assets/images/mudras/mida-join.svg",
+ "seppo-in":"/assets/images/mudras/seppo-in.svg",
+ "vajra-wisdom":"/assets/images/mudras/jnanamusti.svg",
+ "vajra-embrace":"/assets/images/mudras/vajrahumkara.svg",
+ "demon-subduing":"/assets/images/mudras/bhutadamara.svg",
+ flaming:"/assets/images/mudras/karana.svg"
 };
 function illustrationFor(e){return ILLUSTRATION[e.id]||"";}
 function renderIllustration(e){
