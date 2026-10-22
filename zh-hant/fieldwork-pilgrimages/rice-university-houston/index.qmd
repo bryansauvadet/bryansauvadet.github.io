@@ -6,25 +6,37 @@ format:
     include-before-body: _includes/zh-hant-header.html
     include-after-body: _includes/zh-hant-footer.html
 ---
-<section class="page-hero"><h1>Rice University, Houston, Texas</h1><p class="lead">受邀授課 · Department of Transnational Asian Studies</p></section>
+<section class="page-hero"><h1>Rice University, Houston, Texas</h1><p class="lead">Houston, Texas · United States</p></section>
 <main class="content"><div class="content-inner fieldwork-story rice-story">
-<figure class="fieldwork-hero"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="01" alt="休士頓萊斯大學校園" loading="eager"><figcaption>休士頓的 Rice University：磚石建築構成了極具辨識度的校園景觀。</figcaption></figure>
-<p class="lead">在休士頓 Rice University 的停留，是我美國之行中最重要的經歷之一。應 <a href="https://profiles.rice.edu/faculty/shih-shan-susan-huang" target="_blank" rel="noopener">Shih-shan Susan Huang</a> 教授與 <a href="https://profiles.rice.edu/faculty/eric-huntington" target="_blank" rel="noopener">Eric Huntington</a> 教授邀請，我有機會在此授課、與學生討論，並在一個將藝術史、佛教研究與跨國亞洲研究緊密結合的環境中介紹自己的研究。行程結束時，我已經感到自己太早離開了兩位導師與珍貴的學術對話者。</p>
-<h2>Rice、休士頓與亞洲研究</h2>
-<p>學校於1891年以 William M. Rice Institute 的名義獲得特許，1912年正式開學，1960年更名為 Rice University。今天，它是美國重要的私立研究型大學之一；Rice 的官方介紹指出，學校長期位列 <em>U.S. News</em> 全美前二十。獨特的 residential college 制度、校園環境以及毗鄰 Texas Medical Center 的位置，使它在高度國際化的休士頓擁有鮮明的學術與城市身分。</p>
-<div class="rice-pair"><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="08" alt="萊斯大學校園拱廊" loading="lazy"><figcaption>校園拱廊是 Rice 最具辨識度的建築景觀之一。</figcaption></figure><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="02" alt="與萊斯大學同事合影" loading="lazy"><figcaption>與 Rice 的同事們在一起；許多最有價值的討論都延續到了課堂之外。</figcaption></figure></div>
-<p>休士頓本身也讓這些課程具有特別的現實意義。Rice 的 Kinder Institute 估計，2023年休士頓都會區四個主要郡共有超過65.5萬名亞裔居民，占人口9.9%，而1980年僅為1.8%。其中越南裔社群尤其重要。因此，在休士頓教授越南藝術史，並不是討論一個遙遠而抽象的地區：課堂上關於遷徙、宗教遺產與文化流動的歷史，也屬於這座城市自身的社會結構。</p>
-<h2>教授韓國與越南藝術史</h2>
-<p>在 Susan Huang 教授的 <em>Art and Heritage of East Asia</em> 研討課中，我主要講授韓國與越南藝術史。我的目標是將兩者置於一種不只以中國或日本為中心的東亞歷史之中：追蹤傳播、地方化、佛教網絡、宮廷文化與遺產形成，可以讓我們看到韓國與越南如何主動參與圖像和物質文化的生產與流通。</p>
-<div class="rice-pair rice-lecture-pair"><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="03" alt="關於西貢關羽廟的課程" loading="lazy"><figcaption>越南課程的一幕：以西貢關羽廟為例討論跨越東亞的宗教與視覺文化流動。</figcaption></figure><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="04" alt="關於乂安Độc Lôi Sơn廟的課程" loading="lazy"><figcaption>介紹乂安（Nghệ An）đền Độc Lôi Sơn 的越南材料。</figcaption></figure></div>
-<p>這些課程也讓我再次思考：如何教授那些無法被國家邊界充分解釋的作品。寺廟、繪畫、雕像或儀式可以深深植根於地方歷史，同時又承載著經過長距離傳播的形式、文本與圖像。正是這種「扎根」與「流動」之間的張力，使東亞藝術史如此豐富。</p>
-<div class="rice-pair rice-classroom-pair"><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="05" alt="從教室後方拍攝的萊斯大學研討課" loading="lazy"><figcaption>Rice 的研討課現場；與學生的討論是此次停留的重要組成部分。</figcaption></figure><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="09" alt="在萊斯大學研討課中授課" loading="lazy"><figcaption>透過視覺材料不斷在形式分析與宗教、社會、政治語境之間往返。</figcaption></figure></div>
-<h2>佛教、性別與女性施主</h2>
-<p>應 Eric Huntington 教授邀請，我也參加了他的 <em>Buddhism and Gender</em> 研討課，介紹女性在韓國佛教藝術作品營造、訂製與供養中的作用。這並非邊緣議題，而是一個迫使我們重新思考藝術生產史如何書寫的問題。銘文、發願文與宮廷語境能夠幫助我們重新發現女性施主，並追蹤佛教圖像得以獲得資助、奉獻、儀式化並傳承的家庭、宗教與政治網絡。</p>
-<p>這一視角與我對韓國宮廷佛教藝術的研究直接相連。從施主和發願者出發重新閱讀作品，可以避免把它們簡化為風格與流派的連續演變；作品由此成為信仰實踐、社會關係、家族記憶與宮廷位置的物質痕跡。在以性別為主題的研討課中討論這些問題，也開啟了與其他佛教傳統之間很有啟發性的比較。</p>
-<h2>同樣重要的人際經驗</h2>
-<div class="rice-pair"><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="06" alt="與萊斯大學同事相聚" loading="lazy"><figcaption>課堂之外，討論仍然自然地延續著。</figcaption></figure><figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="07" alt="萊斯大學研討課教室前的留影" loading="lazy"><figcaption>幾天授課與討論之後，在研討課教室前留下的紀念。</figcaption></figure></div>
-<p>我對 Rice 最深的記憶，是這裡熱情的接待與高品質的學術交流。沒有 Susan Huang 和 Eric Huntington 的邀請、信任與慷慨投入，這次停留不會具有同樣的意義。我向兩位教授致以最誠摯的感謝，也感謝所有教師以及 Department of Transnational Asian Studies 整個團隊的熱情歡迎。這次經歷再次讓我感到，一次學術邀請可以遠遠超過幾堂課程：它可以成為對話、比較與學術友誼的空間，並在回到自己的研究之後繼續產生影響。</p>
-<div class="fieldwork-notes"><h2>資訊與連結</h2><p><strong>地點：</strong> Rice University, Houston, Texas.<br><strong>邀請：</strong> Shih-shan Susan Huang、Eric Huntington.<br><strong>研討課：</strong> <em>Art and Heritage of East Asia</em>；<em>Buddhism and Gender</em>。<br><strong>系：</strong> <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener">Department of Transnational Asian Studies — Rice University</a>。<br><strong>Rice 校史：</strong> <a href="https://www.rice.edu/about" target="_blank" rel="noopener">Rice University — About / A Brief History</a>。</p></div>
-<script src="/assets/js/rice-images.js"></script>
+
+<figure class="fieldwork-hero"><img src="/assets/images/rice-02.webp" alt="Rice University, Houston" loading="eager"><figcaption>與萊斯大學的師生同仁在一起：一次將教學、研究與交流緊密結合的訪問。</figcaption></figure>
+
+<p class="lead">在萊斯大學的這段時間，是我美國之行中最富啟發性的經歷之一。應 <strong>Shih-shan Susan Huang</strong> 教授和 <strong>Eric Huntington</strong> 教授邀請，我以客座教師身分參加了兩門與我研究高度相關的研討課，內容涉及東亞佛教的視覺文化與物質文化。比課程本身更令我印象深刻的，是萊斯大學開放的學術環境：藝術史、佛教研究、宗教史與跨國亞洲研究能夠在這裡真正形成對話。</p>
+
+<p>在 Susan Huang 教授的 <em>Art and Heritage of East Asia</em> 研討課中，我講授了韓國與越南藝術史。對我而言，這也是一次重新思考東亞藝術史框架的機會：不再只以中國和日本為中心，而是同時考察形式、技術、作品與宗教模式的流動，以及它們在不同地區發生的在地轉化。</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/rice-05.webp" alt="Rice University campus" loading="lazy"><figcaption>萊斯大學的磚石建築構成了極具辨識度的校園景觀。</figcaption></figure>
+
+<p>在 Eric Huntington 教授的 <em>Buddhism and Gender</em> 研討課中，我討論了女性在韓國佛教藝術作品營造與訂製中的作用。把目光從作品本身轉向促成作品產生的人，就能看到王后、宮廷女性、尼眾與在家女性如何作為主動的委託者，影響圖像選擇、儀式功能以及作品所承載的記憶。</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-06.webp" alt="Rice University visit" loading="lazy"><figcaption>校園中的一段更具個人色彩的訪問記憶。</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-07.webp" alt="Rice University architecture" loading="lazy"><figcaption>萊斯大學的拱廊：建築本身也是日常學術生活的一部分。</figcaption></figure></div>
+
+<p>與學生和教師的討論使這些課程獲得了更豐富的意義。在萊斯教學並不是單向傳遞已經準備好的內容；學生的提問促使我重新組織問題，更精確地比較韓國、越南、中國和日本，並進一步思考藝術史如何與宗教史和社會史展開對話。</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-01.webp" alt="Teaching at Rice University" loading="lazy"><figcaption>在越南藝術史課程中介紹越南的關羽祠。</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-04.webp" alt="Teaching Vietnamese art history at Rice University" loading="lazy"><figcaption>講解 Nghệ An 的 đền Độc Lôi Sơn 及其繪畫群。</figcaption></figure></div>
+
+<p>萊斯大學的制度環境也使這些交流格外富有成效。萊斯是一所私立研究型大學，1891年獲准設立，1912年在首任校長 Edgar Odell Lovett 主持下正式開學。如今，這座位於休士頓市中心、擁有大片綠地的大學已成為美國重要的高等教育機構之一；在2026年 <a href="https://news.rice.edu/news/2026/rice-rises-no-16-us-news-rankings-engineering-business-programs-climb" target="_blank" rel="noopener">U.S. News &amp; World Report 排名中位列全美第16</a>，大學部教學與教育價值也獲得高度評價。</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/rice-09.webp" alt="Seminar classroom at Rice University" loading="lazy"><figcaption>研討課全景：觀看圖像與展開討論具有同等重要性。</figcaption></figure>
+
+<p>休士頓本身也是討論亞洲問題極有意義的城市背景。萊斯大學 Kinder Institute 的近期研究顯示，2023年大休士頓地區的亞裔人口約占9.9%，超過65.5萬人，至少包含24個不同族裔群體。印度裔、越南裔以及華裔或臺灣裔社群尤其重要；僅研究涵蓋的四個郡中，越南裔人口就超過14萬。因此，在休士頓進行亞洲研究，與校園之外的社會現實有著直接聯繫。</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-08.webp" alt="Guest teaching at Rice University" loading="lazy"><figcaption>從圖像出發，把作品、宗教實踐、地點與社群聯繫起來。</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-03.webp" alt="Rice University colleagues" loading="lazy"><figcaption>訪問期間與同事們共度的一段輕鬆時光。</figcaption></figure></div>
+
+<p>學術研究與跨國現實之間的這種聯繫，正是萊斯大學 <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener"><strong>Department of Transnational Asian Studies</strong></a> 的核心。該系匯集歷史、藝術史、宗教研究、文學、語言與社會科學，並與 Chao Center for Asian Studies 保持緊密合作。對於研究東亞藝術與宗教流動的我而言，這裡是一個極具啟發性的環境。</p>
+
+<p>最後，我要衷心感謝 Susan Huang 教授和 Eric Huntington 教授的邀請、信任與慷慨交流。沒有他們，這次訪問不可能實現。我也感謝所有教師以及 Transnational Asian Studies 整個團隊的熱情接待。美國之行結束時，留給我最深的感受，是自己並非只是作為一名訪客被接待，而是作為一個能夠共同思考、教學和討論的同事。</p>
+
+<div class="fieldwork-notes"><h2>基本資訊</h2><p><strong>大學：</strong> Rice University, Houston, Texas。<br><strong>歷史：</strong> 1891年獲准設立；1912年開學。<br><strong>院系：</strong> <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener">Department of Transnational Asian Studies</a>。<br><strong>教學：</strong> <em>Art and Heritage of East Asia</em>；<em>Buddhism and Gender</em>。<br><strong>邀請：</strong> Shih-shan Susan Huang、Eric Huntington。</p></div>
+
 </div></main>
