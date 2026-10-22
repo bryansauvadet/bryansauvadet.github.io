@@ -10,7 +10,7 @@ format:
 
 <main class="content"><div class="content-inner fieldwork-story rice-story">
 
-<figure class="fieldwork-hero"><img src="/assets/images/rice-houston-01.svg" alt="Campus de Rice University à Houston" loading="eager"><figcaption>Rice University à Houston : un campus dont l'architecture de brique et de pierre accompagne une institution profondément liée à l'histoire intellectuelle de la ville.</figcaption></figure>
+<figure class="fieldwork-hero"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="01" alt="Campus de Rice University à Houston" loading="eager"><figcaption>Rice University à Houston : un campus dont l'architecture de brique et de pierre accompagne une institution profondément liée à l'histoire intellectuelle de la ville.</figcaption></figure>
 
 <p class="lead">Mon séjour à Rice University, à Houston, a été l'un des temps forts de mon parcours aux États-Unis. Invité par les professeurs <a href="https://profiles.rice.edu/faculty/shih-shan-susan-huang" target="_blank" rel="noopener">Shih-shan Susan Huang</a> et <a href="https://profiles.rice.edu/faculty/eric-huntington" target="_blank" rel="noopener">Eric Huntington</a>, j'ai eu la chance d'y enseigner, d'échanger avec les étudiants et de présenter mes recherches dans un environnement où l'histoire de l'art, les études bouddhiques et les approches transnationales de l'Asie dialoguent constamment. À la fin du séjour, le sentiment dominant était simple : j'avais déjà le sentiment de quitter trop tôt deux mentors et interlocuteurs dont l'accueil avait rendu cette expérience possible.</p>
 
@@ -19,8 +19,8 @@ format:
 <p>Fondée juridiquement en 1891 comme William M. Rice Institute et ouverte aux étudiants en 1912, Rice est devenue Rice University en 1960. Cette université privée de recherche occupe aujourd'hui une place importante dans le paysage académique américain ; la présentation institutionnelle de Rice rappelle notamment qu'elle est régulièrement classée parmi les vingt premières universités des États-Unis par <em>U.S. News</em>. Son campus, son système de residential colleges et la proximité du Texas Medical Center contribuent à lui donner une identité très particulière dans une métropole elle-même profondément internationale.</p>
 
 <div class="rice-pair">
-<figure><img src="/assets/images/rice-houston-08.svg" alt="Arcades sur le campus de Rice University" loading="lazy"><figcaption>Les arcades du campus : un cadre architectural immédiatement reconnaissable de Rice.</figcaption></figure>
-<figure><img src="/assets/images/rice-houston-02.svg" alt="Photographie de groupe avec des collègues à Rice University" loading="lazy"><figcaption>Avec des collègues et membres de l'équipe de Rice : le séjour a aussi été fait de discussions prolongées bien au-delà des salles de cours.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="08" alt="Arcades sur le campus de Rice University" loading="lazy"><figcaption>Les arcades du campus : un cadre architectural immédiatement reconnaissable de Rice.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="02" alt="Photographie de groupe avec des collègues à Rice University" loading="lazy"><figcaption>Avec des collègues et membres de l'équipe de Rice : le séjour a aussi été fait de discussions prolongées bien au-delà des salles de cours.</figcaption></figure>
 </div>
 
 <p>Houston donne à cet enseignement une résonance particulière. Le Kinder Institute de Rice estime qu'en 2023 plus de 655 000 personnes d'origine asiatique vivaient dans les quatre principaux comtés de la région métropolitaine, soit 9,9 % de leur population, contre 1,8 % en 1980. La communauté vietnamienne y est particulièrement importante. Enseigner l'histoire de l'art du Viêt Nam dans cette ville ne revenait donc pas à parler d'un espace lointain et abstrait : les histoires de migrations, de patrimoines religieux et de circulations culturelles étudiées en classe appartiennent aussi au tissu social de Houston.</p>
@@ -30,15 +30,15 @@ format:
 <p>Dans le séminaire <em>Art and Heritage of East Asia</em> de Susan Huang, j'ai consacré mes interventions à l'histoire de l'art de la Corée et du Viêt Nam. L'enjeu était de replacer ces deux traditions dans une histoire est-asiatique qui ne soit pas organisée uniquement depuis la Chine ou le Japon : suivre les transferts, les appropriations locales, les réseaux bouddhiques, les cultures de cour et les formes de patrimoine permet de restituer à la Corée et au Viêt Nam leur rôle actif dans la production et la circulation des images.</p>
 
 <div class="rice-pair rice-lecture-pair">
-<figure><img src="/assets/images/rice-houston-03.svg" alt="Cours sur un sanctuaire de Guan Yu à Saigon" loading="lazy"><figcaption>Une séance consacrée au Viêt Nam, ici autour d'un sanctuaire de Guan Yu à Saigon et des circulations religieuses et visuelles qui traversent l'Asie orientale.</figcaption></figure>
-<figure><img src="/assets/images/rice-houston-04.svg" alt="Cours sur le temple Độc Lôi Sơn à Nghệ An" loading="lazy"><figcaption>Présentation de matériaux vietnamiens autour du đền Độc Lôi Sơn à Nghệ An.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="03" alt="Cours sur un sanctuaire de Guan Yu à Saigon" loading="lazy"><figcaption>Une séance consacrée au Viêt Nam, ici autour d'un sanctuaire de Guan Yu à Saigon et des circulations religieuses et visuelles qui traversent l'Asie orientale.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="04" alt="Cours sur le temple Độc Lôi Sơn à Nghệ An" loading="lazy"><figcaption>Présentation de matériaux vietnamiens autour du đền Độc Lôi Sơn à Nghệ An.</figcaption></figure>
 </div>
 
 <p>Ces séances ont également été l'occasion de réfléchir à la manière d'enseigner des objets que les catégories nationales expliquent imparfaitement. Un temple, une peinture, une statue ou une pratique rituelle peuvent être profondément situés dans une histoire locale tout en portant les traces de modèles, de textes et d'iconographies qui ont circulé sur de très longues distances. C'est précisément cette tension entre ancrage et circulation qui rend l'histoire de l'art de l'Asie orientale si féconde.</p>
 
 <div class="rice-pair rice-classroom-pair">
-<figure><img src="/assets/images/rice-houston-05.svg" alt="Séminaire à Rice University vu depuis le fond de la salle" loading="lazy"><figcaption>En séminaire à Rice : les échanges avec les étudiants ont constitué une part essentielle du séjour.</figcaption></figure>
-<figure><img src="/assets/images/rice-houston-09.svg" alt="Présentation devant un séminaire à Rice University" loading="lazy"><figcaption>Présenter des dossiers visuels en classe permettait de passer constamment de l'analyse formelle aux contextes religieux, sociaux et politiques.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="05" alt="Séminaire à Rice University vu depuis le fond de la salle" loading="lazy"><figcaption>En séminaire à Rice : les échanges avec les étudiants ont constitué une part essentielle du séjour.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="09" alt="Présentation devant un séminaire à Rice University" loading="lazy"><figcaption>Présenter des dossiers visuels en classe permettait de passer constamment de l'analyse formelle aux contextes religieux, sociaux et politiques.</figcaption></figure>
 </div>
 
 <h2>Bouddhisme, genre et commande artistique</h2>
@@ -50,12 +50,13 @@ format:
 <h2>Une expérience humaine autant qu'académique</h2>
 
 <div class="rice-pair">
-<figure><img src="/assets/images/rice-houston-06.svg" alt="Moment convivial avec des collègues à Rice University" loading="lazy"><figcaption>Les discussions se poursuivaient naturellement hors de la salle de cours.</figcaption></figure>
-<figure><img src="/assets/images/rice-houston-07.svg" alt="Souvenir devant une salle de séminaire à Rice University" loading="lazy"><figcaption>Un souvenir du séjour devant la salle de séminaire, après plusieurs journées d'enseignement et d'échanges.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="06" alt="Moment convivial avec des collègues à Rice University" loading="lazy"><figcaption>Les discussions se poursuivaient naturellement hors de la salle de cours.</figcaption></figure>
+<figure><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" data-rice-img="07" alt="Souvenir devant une salle de séminaire à Rice University" loading="lazy"><figcaption>Un souvenir du séjour devant la salle de séminaire, après plusieurs journées d'enseignement et d'échanges.</figcaption></figure>
 </div>
 
 <p>Je garde surtout de Rice la qualité de l'accueil et des échanges. Rien de ce séjour n'aurait eu la même portée sans Susan Huang et Eric Huntington, que je remercie très chaleureusement pour leur invitation, leur confiance et le temps qu'ils m'ont accordé. Je remercie également toute l'équipe enseignante et toute la <em>team</em> du Department of Transnational Asian Studies pour son accueil généreux. Ce séjour m'a rappelé à quel point une invitation académique peut devenir davantage qu'une série de cours : un espace de dialogue, de comparaison et d'amitié intellectuelle qui continue de nourrir la recherche longtemps après le retour.</p>
 
 <div class="fieldwork-notes"><h2>Repères et liens</h2><p><strong>Lieu :</strong> Rice University, Houston, Texas.<br><strong>Invitation :</strong> Shih-shan Susan Huang et Eric Huntington.<br><strong>Enseignements :</strong> <em>Art and Heritage of East Asia</em> ; <em>Buddhism and Gender</em>.<br><strong>Département :</strong> <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener">Department of Transnational Asian Studies — Rice University</a>.<br><strong>Histoire de Rice :</strong> <a href="https://www.rice.edu/about" target="_blank" rel="noopener">Rice University — About / A Brief History</a>.</p></div>
 
+<script src="/assets/js/rice-images.js"></script>
 </div></main>
