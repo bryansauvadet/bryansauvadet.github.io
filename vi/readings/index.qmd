@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">Một tuyển chọn những cuốn sách đáng đọc để hiểu sâu hơn về lịch sử mỹ thuật Phật giáo, Phật giáo, lịch sử châu Á, khảo cổ học và kiến trúc.</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/vi/readings/buddhist-pilgrim-monks.html">
+<div class="reading-book-cover"><img src="https://nuspress.nus.edu.sg/cdn/shop/products/Buddhist_Pilg_cvr_final_hires.jpg?v=1516265905" alt="Bìa Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">Mỹ thuật Phật giáo Đông Á · giao lưu · Tang · Nara · Silla sau năm 668</div>
+<h2>Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission</h2>
+<p class="reading-book-author">Dorothy C. Wong · NUS Press · 2018</p>
+<p>Vì sao tăng sĩ hành hương, đại tự viện và triều đình là chìa khóa để hiểu các hình thức Phật giáo lưu chuyển, biến đổi và trở thành ngôn ngữ “quốc tế” khoảng 645–770.</p>
+<span class="reading-book-link">Đọc bài điểm sách →</span>
+</a>
 <a class="reading-book-card" href="/vi/readings/choson-buddhist-painting.html">
 <div class="reading-book-cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="조선의 불교회화" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">Hội họa Phật giáo Chosŏn · nghi lễ · ba đàn · không gian tự viện</div>
