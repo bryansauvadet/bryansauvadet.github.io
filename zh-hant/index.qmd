@@ -48,7 +48,7 @@ format:
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="佛教藝術多語辭典" loading="lazy">
-      <div><div class="update-type">資料庫</div><h3>佛教藝術多語辭典</h3><p>對照1,500個佛教藝術核心術語，涵蓋法語、英語、梵語、藏語、韓語、日語、中文與越南語。</p><a class="update-link" href="/zh-hant/databases/multilingual-buddhist-art-dictionary.html">瀏覽辭典 →</a></div>
+      <div><div class="update-type">資料庫</div><h3>佛教藝術多語辭典</h3><p>對照2,207筆佛教藝術、藝術史與考古學條目，涵蓋法語、英語、梵語、藏語、韓語、日語、中文與越南語。</p><a class="update-link" href="/zh-hant/databases/multilingual-buddhist-art-dictionary.html">瀏覽辭典 →</a></div>
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州佛國寺多寶塔" loading="lazy">
