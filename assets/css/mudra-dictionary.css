@@ -86,3 +86,26 @@
 .mudra-entry-illustration{margin:18px 0 26px;border:1px solid var(--line);background:#fff}
 .mudra-entry-illustration .mudra-line-art{display:block;width:100%;height:auto;max-height:430px;object-fit:contain;background:#fff;padding:12px;box-sizing:border-box}
 @media(max-width:700px){.mudra-entry-illustration .mudra-line-art{max-height:300px;padding:8px}}
+
+
+.mudra-example-meta{
+  margin:.35rem 0;
+  font-size:.92rem;
+  line-height:1.45;
+  color:var(--bs-secondary-color,#5f6368);
+}
+.mudra-example-meta strong{
+  color:var(--bs-body-color,#212529);
+  font-weight:600;
+}
+.mudra-example-source{
+  margin:.5rem 0 .8rem;
+  font-size:.9rem;
+}
+.mudra-example-source a{
+  text-decoration:none;
+  font-weight:600;
+}
+.mudra-example-source a:hover{
+  text-decoration:underline;
+}
