@@ -232,3 +232,16 @@
   scrollbar-width:auto;
   scrollbar-color:#9f907c #eee7dd;
 }
+
+
+.dictionary-mudra-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.dictionary-mudra-link:hover,
+.dictionary-mudra-link:focus-visible {
+  text-decoration-thickness: 2px;
+}
