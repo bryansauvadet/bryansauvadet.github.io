@@ -48,7 +48,7 @@ format:
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="仏教美術多言語辞典" loading="lazy">
-      <div><div class="update-type">データベース</div><h3>仏教美術多言語辞典</h3><p>仏教美術の基本用語1,500語を、フランス語・英語・サンスクリット語・チベット語・韓国語・日本語・中国語・ベトナム語で対照します。</p><a class="update-link" href="/ja/databases/multilingual-buddhist-art-dictionary.html">辞典を見る →</a></div>
+      <div><div class="update-type">データベース</div><h3>仏教美術多言語辞典</h3><p>仏教美術・美術史・考古学の2,207項目を、フランス語・英語・サンスクリット語・チベット語・韓国語・日本語・中国語・ベトナム語で対照します。</p><a class="update-link" href="/ja/databases/multilingual-buddhist-art-dictionary.html">辞典を見る →</a></div>
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/tabotap-pulguksa-vignette.png" alt="慶州・仏国寺の多宝塔" loading="lazy">
