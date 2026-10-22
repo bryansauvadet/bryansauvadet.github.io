@@ -11,7 +11,7 @@ format:
 <script defer src="/assets/js/mudra-dictionary.js"></script>
 <section class="page-hero database-subhero"><div class="eyebrow"><a href="/vi/databases.html">Cơ sở dữ liệu</a></div><h1>Từ điển thủ ấn Phật giáo</h1></section>
 <main class="content"><div class="content-inner database-detail mudra-dictionary-page">
-<section class="mudra-intro"><p>Từ điển này tập hợp 30 mudrā và thủ thế quy phạm dùng trong hình tượng, nghi lễ và thực hành Phật giáo tại châu Á. Mỗi mục gồm tên Sanskrit hoặc tên truyền thống, bản dịch, ý nghĩa, bối cảnh tạo hình và một chi tiết ảnh phóng lớn từ hình ảnh có giấy phép tự do hoặc thuộc phạm vi công cộng.</p><p class="mudra-method">Ảnh được cắt và phóng lớn để cấu hình bàn tay có thể đọc ngay. Từ mỗi mục vẫn có thể mở ảnh gốc đầy đủ cùng nguồn và giấy phép; các biến thể theo vùng hay nghi lễ không được coi là quy chuẩn phổ quát.</p></section>
+<section class="mudra-intro"><p>Từ điển này tập hợp 30 mudrā và thủ thế quy phạm dùng trong hình tượng Phật giáo châu Á. Mỗi thẻ dùng tên tiếng Việt làm tiêu đề, bên dưới ghi tên Sanskrit và Hán tự. Trong mỗi mục chi tiết, bảng đối chiếu trình bày Sanskrit, Hán tự, tiếng Hàn, tiếng Nhật, tiếng Việt, pinyin, tiếng Pháp và tiếng Anh; tiếp đó là ý nghĩa, mô tả thủ thế, bối cảnh hình tượng và một ví dụ từ tác phẩm nghệ thuật.</p><p class="mudra-method">Ảnh được cắt và phóng lớn để cấu hình bàn tay có thể đọc ngay. Từ mỗi mục vẫn có thể mở ảnh gốc đầy đủ cùng nguồn và giấy phép; các biến thể theo vùng hay nghi lễ không được coi là quy chuẩn phổ quát.</p></section>
 <section aria-label="Từ điển thủ ấn Phật giáo"><div id="mudra-dictionary" data-locale="vi"></div></section>
 </div></main>
 ```
