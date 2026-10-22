@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">精選值得閱讀的書籍，以更深入理解佛教藝術史、佛教、亞洲史、考古學與建築。</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/zh-hant/readings/buddhist-pilgrim-monks.html">
+<div class="reading-book-cover"><img src="https://nuspress.nus.edu.sg/cdn/shop/products/Buddhist_Pilg_cvr_final_hires.jpg?v=1516265905" alt="Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission 封面" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">東亞佛教藝術 · 跨區域交流 · Tang · Nara · 668年後的Silla</div>
+<h2>Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission</h2>
+<p class="reading-book-author">Dorothy C. Wong · NUS Press · 2018</p>
+<p>說明約645–770年間，巡禮僧、大寺院與宮廷如何推動佛教藝術形式跨境流通、轉化並成為「國際性」視覺語言。</p>
+<span class="reading-book-link">閱讀書評 →</span>
+</a>
 <a class="reading-book-card" href="/zh-hant/readings/choson-buddhist-painting.html">
 <div class="reading-book-cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="조선의 불교회화" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">朝鮮王朝佛教繪畫 · 儀式 · 三壇 · 寺院空間</div>
