@@ -303,6 +303,39 @@ lalitakshepa:{sa:"Lalitakṣepa-mudrā",han:"優美垂手印",ja:"yūbi suishu-i
 yoga:{sa:"Yoga-mudrā",han:"瑜伽印",ja:"yuga-in",py:"yújiā yìn"}
 };
 
+const ASSOCIATED={
+abhaya:"Śākyamuni · Bhaiṣajyaguru / Yakushi · Maitreya · Amoghasiddhi",
+varada:"Tathāgata · bodhisattva",
+bhumisparsha:"Śākyamuni · Akṣobhya",
+dhyana:"Śākyamuni · Amitābha / Amida · Mahāvairocana / Dainichi",
+dharmachakra:"Śākyamuni · Tathāgata",
+vitarka:"Śākyamuni · Tathāgata · ācārya",
+anjali:"bodhisattva · śrāvaka · upāsaka / upāsikā",
+raigo:"Amitābha / Amida · Avalokiteśvara / Kannon · Mahāsthāmaprāpta / Seishi",
+miracles:"Śākyamuni",
+blessing:"Buddha · bodhisattva · ācārya",
+"mida-join":"Amitābha / Amida",
+"seppo-in":"Amitābha / Amida · Śākyamuni · Bhaiṣajyaguru / Yakushi",
+"vajra-wisdom":"Mahāvairocana / Dainichi · Ichijikinrin Butchō · Sonshō Butchō",
+"vajra-embrace":"Vajradhara · Vajrayāna yidam",
+"demon-subduing":"Bhūtadāmara · Vajrapāṇi · dharmapāla",
+flaming:"Padmasambhava · dharmapāla",
+nagaraja:"Vasudhārā · Mahāyāna bodhisattva",
+tarjani:"Vajrapāṇi · dharmapāla",
+embrace:"Buddha · bodhisattva",
+humkara:"Mahāvairocana / Vairocana",
+"mandala-offering":"lama · sādhaka",
+mahakaruna:"Avalokiteśvara · bodhisattva",
+patra:"Buddha · bodhisattva · śramaṇa",
+vismaya:"figures narratives",
+jnana:"ācārya · yogin",
+sarvatathagata:"Mahāvairocana · Tathāgata du maṇḍala",
+kataka:"Vasudhārā · bodhisattva",
+gajahasta:"tantric goddess · bodhisattva",
+lalitakshepa:"bodhisattva · deity in lalitāsana",
+yoga:"yogin · ācārya"
+};
+
 const EXAMPLE_WORK={
 abhaya:"Standing Buddha — Government Museum, Mathurā",varada:"Buddha — Archaeological Museum, Bodh Gayā",
 bhumisparsha:"Buddha in bhūmisparśa-mudrā — Indian Museum, Kolkata",dhyana:"Buddha Śākyamuni seated in meditation",
@@ -321,12 +354,12 @@ gajahasta:"Tantric goddess — Los Angeles County Museum of Art",lalitakshepa:"F
 };
 
 const TABLE_UI={
-fr:{title:"Équivalences linguistiques",sa:"Sanskrit",han:"Sinogrammes",ko:"Coréen (hangŭl)",ja:"Japonais (rōmaji)",vi:"Vietnamien",py:"Chinois (pinyin)",fr:"Français",en:"Anglais",example:"Exemple iconographique",exampleIntro:"Dans cette œuvre, le geste se reconnaît par la configuration des mains décrite ci-dessus."},
-en:{title:"Linguistic equivalents",sa:"Sanskrit",han:"Sinographs",ko:"Korean (Hangul)",ja:"Japanese (rōmaji)",vi:"Vietnamese",py:"Chinese (pinyin)",fr:"French",en:"English",example:"Iconographic example",exampleIntro:"In this work, the gesture can be identified from the hand configuration described above."},
-ko:{title:"언어별 명칭",sa:"산스크리트어",han:"한자",ko:"한국어 (한글)",ja:"일본어 (로마자)",vi:"베트남어",py:"중국어 (병음)",fr:"프랑스어",en:"영어",example:"도상 예시",exampleIntro:"이 작품에서는 위에서 설명한 손의 구성으로 수인을 확인할 수 있다."},
-ja:{title:"各言語の名称",sa:"サンスクリット",han:"漢字",ko:"韓国語（ハングル）",ja:"日本語（ローマ字）",vi:"ベトナム語",py:"中国語（拼音）",fr:"フランス語",en:"英語",example:"図像例",exampleIntro:"この作品では、上記の手指の構成によって印相を確認できる。"},
-"zh-hant":{title:"各語言名稱",sa:"梵語",han:"漢字",ko:"韓語（諺文）",ja:"日語（羅馬字）",vi:"越南語",py:"漢語（拼音）",fr:"法語",en:"英語",example:"圖像實例",exampleIntro:"在這件作品中，可依上述手部構型辨識此手印。"},
-vi:{title:"Tên gọi theo ngôn ngữ",sa:"Sanskrit",han:"Hán tự",ko:"Tiếng Hàn (Hangul)",ja:"Tiếng Nhật (rōmaji)",vi:"Tiếng Việt",py:"Tiếng Trung (pinyin)",fr:"Tiếng Pháp",en:"Tiếng Anh",example:"Ví dụ hình tượng",exampleIntro:"Trong tác phẩm này, thủ ấn được nhận biết qua cấu hình bàn tay mô tả ở trên."}
+fr:{title:"Équivalences linguistiques",sa:"Sanskrit",han:"Sinogrammes",ko:"Coréen (hangŭl)",ja:"Japonais (rōmaji)",vi:"Vietnamien",py:"Chinois (pinyin)",fr:"Français",en:"Anglais",figures:"Êtres / figures associés",example:"Exemple iconographique",exampleIntro:"Dans cette œuvre, le geste se reconnaît par la configuration des mains décrite ci-dessus."},
+en:{title:"Linguistic equivalents",sa:"Sanskrit",han:"Sinographs",ko:"Korean (Hangul)",ja:"Japanese (rōmaji)",vi:"Vietnamese",py:"Chinese (pinyin)",fr:"French",en:"English",figures:"Associated beings / figures",example:"Iconographic example",exampleIntro:"In this work, the gesture can be identified from the hand configuration described above."},
+ko:{title:"언어별 명칭",sa:"산스크리트어",han:"한자",ko:"한국어 (한글)",ja:"일본어 (로마자)",vi:"베트남어",py:"중국어 (병음)",fr:"프랑스어",en:"영어",figures:"관련 존재 / 인물",example:"도상 예시",exampleIntro:"이 작품에서는 위에서 설명한 손의 구성으로 수인을 확인할 수 있다."},
+ja:{title:"各言語の名称",sa:"サンスクリット",han:"漢字",ko:"韓国語（ハングル）",ja:"日本語（ローマ字）",vi:"ベトナム語",py:"中国語（拼音）",fr:"フランス語",en:"英語",figures:"関連する尊格・人物",example:"図像例",exampleIntro:"この作品では、上記の手指の構成によって印相を確認できる。"},
+"zh-hant":{title:"各語言名稱",sa:"梵語",han:"漢字",ko:"韓語（諺文）",ja:"日語（羅馬字）",vi:"越南語",py:"漢語（拼音）",fr:"法語",en:"英語",figures:"相關佛教尊格／人物",example:"圖像實例",exampleIntro:"在這件作品中，可依上述手部構型辨識此手印。"},
+vi:{title:"Tên gọi theo ngôn ngữ",sa:"Sanskrit",han:"Hán tự",ko:"Tiếng Hàn (Hangul)",ja:"Tiếng Nhật (rōmaji)",vi:"Tiếng Việt",py:"Tiếng Trung (pinyin)",fr:"Tiếng Pháp",en:"Tiếng Anh",figures:"Nhân vật / tôn tượng liên quan",example:"Ví dụ hình tượng",exampleIntro:"Trong tác phẩm này, thủ ấn được nhận biết qua cấu hình bàn tay mô tả ở trên."}
 }[locale];
 
 const traditionalTerms={
@@ -403,7 +436,7 @@ function showEntry(index){
   ${lexTable(e)}
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.meaning}</span><p>${esc(meaning(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.gesture}</span><p>${esc(gesture(e))}</p></div>
-  <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.context}</span><p>${esc(context(e))}</p></div>
+  <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.context}</span><p>${esc(context(e))}</p>${ASSOCIATED[e.id]?`<p class="mudra-associated"><strong>${esc(TABLE_UI.figures)} :</strong> ${esc(ASSOCIATED[e.id])}</p>`:""}</div>
   <div class="mudra-example">
    <span class="mudra-detail-label">${TABLE_UI.example}</span>
    <div class="mudra-example-grid">
