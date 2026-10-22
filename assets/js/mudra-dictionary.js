@@ -171,6 +171,16 @@ replaceEntry("humkara",{
  contextText:L("Geste ésotérique associé notamment à Vairocana dans certaines traditions d’Asie orientale.","Esoteric gesture associated especially with Vairochana in some East Asian traditions.","동아시아 밀교 전통에서 비로자나불과 관련된다.","東アジア密教で大日如来などに結びつく。","在東亞密教中尤與毘盧遮那佛相關。","Trong Mật giáo Đông Á, đặc biệt gắn với Đại Nhật Như Lai.")
 });
 
+
+replaceEntry("raigo",{
+ canonical:"Raigō-in",
+ names:L("Geste d’accueil d’Amida","Amida welcoming gesture","내영인","来迎印","來迎印","Lai nghinh ấn"),
+ displayName:null, category:"regional", tradition:"japan",
+ meaningText:L("Accueil du fidèle par Amitābha au moment de la venue vers la Terre pure.","Amitabha welcoming the devotee at the moment of rebirth in the Pure Land.","아미타불이 왕생자를 정토로 맞이하는 뜻.","阿弥陀が往生者を浄土へ迎えることを表す。","表示阿彌陀佛迎接往生者進入淨土。","Biểu thị Phật A Di Đà tiếp dẫn người vãng sinh về Tịnh độ."),
+ gestureText:L("Une main est levée et l’autre abaissée ; le pouce touche un doigt déterminé selon la variante.","One hand is raised and the other lowered; the thumb touches a selected finger according to the variant.","한 손은 들고 다른 손은 내리며 엄지가 전승에 따라 정해진 손가락과 맞닿는다.","一方の手を上げ、他方を下げ、親指を所定の指に接する。","一手上舉、一手下垂，拇指依不同形式與指定手指相接。","Một tay giơ lên, tay kia hạ xuống; ngón cái chạm một ngón quy định tùy biến thể."),
+ contextText:L("Spécifique à l’iconographie japonaise d’Amida et aux images de la descente d’Amitābha (raigō), particulièrement dans le bouddhisme de la Terre pure.","Specific to Japanese Amida iconography and images of Amitabha's welcoming descent (raigo), especially in Pure Land Buddhism.","일본 정토교의 아미타불과 내영도 도상에 특징적이다.","日本浄土教の阿弥陀像・来迎図に特徴的な印相。","日本淨土教阿彌陀佛像與來迎圖中的代表性手印。","Đặc trưng cho hình tượng A Di Đà và tranh lai nghinh trong Tịnh độ tông Nhật Bản.")
+});
+
 const supplementalEntries=[
  {id:"mahakaruna",canonical:"Mahākaruṇā-mudrā",names:L("Geste de grande compassion","Great-compassion gesture","대비 수인","大悲印","大悲印","Đại bi ấn"),category:"regional",tradition:"mahayana",
   meaningText:L("Expression de la grande compassion bouddhique.","Expression of great Buddhist compassion.","불교의 대비를 나타낸다.","仏教の大悲を表す。","表現佛教的大悲。","Biểu hiện lòng đại bi Phật giáo."),
@@ -222,7 +232,7 @@ const PHOTO={
  dharmachakra:{file:"Buddha in Dharmacakra mudra MAO Torino.jpg",x:50,y:49,z:3.45},
  vitarka:{file:"Buddha Amida (Amitābha), M.C. 2078(8).jpg",x:48,y:51,z:3.45},
  anjali:{file:"Buddha anjali mudra.JPG",x:50,y:52,z:3.25},
- raigo:{file:"Prithvi mudra.jpg",x:55,y:64,z:1.7},
+ raigo:{file:"Buddha Amida-IMG 1028.JPG",x:50,y:58,z:3.2},
  miracles:{file:"ပြာဋိဟာရိယမုဒြာ (Pratiharya Mudra).jpg",x:50,y:48,z:3.25},
  blessing:{file:"ဗျာချာနမုဒြာ (Vyakhyāna Mudra).jpg",x:47,y:28,z:4.15},
  "mida-join":{file:"Hands of Amida Buddha at Kōtoku-in.jpg",x:50,y:50,z:1.38},
@@ -258,6 +268,66 @@ function sourceLink(e){
  const p=photoFor(e);
  return p?commonsPage(p.file):"";
 }
+
+
+const LEXICON={
+abhaya:{sa:"Abhaya-mudrā",han:"施無畏印",ja:"semui-in",py:"shī wúwèi yìn"},
+varada:{sa:"Varada-mudrā",han:"與願印",ja:"yogan-in",py:"yǔyuàn yìn"},
+bhumisparsha:{sa:"Bhūmisparśa-mudrā",han:"觸地印",ja:"shokuchi-in",py:"chùdì yìn"},
+dhyana:{sa:"Dhyāna-mudrā",han:"禪定印",ja:"zenjō-in",py:"chándìng yìn"},
+dharmachakra:{sa:"Dharmacakra-mudrā",han:"轉法輪印",ja:"tenbōrin-in",py:"zhuǎn fǎlún yìn"},
+vitarka:{sa:"Vitarka-mudrā / Vyākhyāna-mudrā",han:"說法印",ja:"seppō-in",py:"shuōfǎ yìn"},
+anjali:{sa:"Añjali-mudrā",han:"合掌印",ja:"gasshō-in",py:"hézhǎng yìn"},
+raigo:{sa:"—",han:"來迎印",ja:"raigō-in",py:"láiyíng yìn"},
+miracles:{sa:"Prātihārya-mudrā",han:"神變示現印",ja:"shinpen jigen-in",py:"shénbiàn shìxiàn yìn"},
+blessing:{sa:"Vyākhyāna-mudrā",han:"加持印",ja:"kaji-in",py:"jiāchí yìn"},
+"mida-join":{sa:"Dhyāna-mudrā",han:"彌陀定印",ja:"mida no jōin",py:"Mítuó dìng yìn"},
+"seppo-in":{sa:"Vyākhyāna-mudrā",han:"說法印",ja:"seppō-in",py:"shuōfǎ yìn"},
+"vajra-wisdom":{sa:"Jñānamuṣṭi-mudrā / Bodhyagrī-mudrā",han:"智拳印",ja:"chiken-in",py:"zhìquán yìn"},
+"vajra-embrace":{sa:"Vajrahūṃkāra-mudrā",han:"金剛抱擁印",ja:"kongō hōyō-in",py:"jīngāng bàoyōng yìn"},
+"demon-subduing":{sa:"Bhūtadāmara-mudrā",han:"降魔調伏印",ja:"gōma chōbuku-in",py:"xiángmó tiáofú yìn"},
+flaming:{sa:"Karaṇa-mudrā",han:"迦羅拏印",ja:"karana-in",py:"jiāluóná yìn"},
+nagaraja:{sa:"Buddhaśramaṇa-mudrā",han:"佛教沙門印",ja:"bukkyō shamon-in",py:"fójiào shāmén yìn"},
+tarjani:{sa:"Tarjanī-mudrā",han:"忿怒指示印",ja:"fundo shiji-in",py:"fènnù zhǐshì yìn"},
+embrace:{sa:"Maitrīkaruṇā-mudrā",han:"慈悲印",ja:"jihi-in",py:"cíbēi yìn"},
+humkara:{sa:"Uttarabodhi-mudrā",han:"最上菩提印",ja:"saijō bodai-in",py:"zuìshàng pútí yìn"},
+"mandala-offering":{sa:"Maṇḍala-mudrā",han:"曼荼羅供養印",ja:"mandara kuyō-in",py:"màntúluó gòngyǎng yìn"},
+mahakaruna:{sa:"Mahākaruṇā-mudrā",han:"大悲印",ja:"daihi-in",py:"dàbēi yìn"},
+patra:{sa:"Pātra-mudrā",han:"葉印",ja:"yō-in",py:"yè yìn"},
+vismaya:{sa:"Vismaya-mudrā",han:"驚嘆印",ja:"kyōtan-in",py:"jīngtàn yìn"},
+jnana:{sa:"Jñāna-mudrā",han:"智慧印",ja:"chie-in",py:"zhìhuì yìn"},
+sarvatathagata:{sa:"Sarvatathāgatajñāna-mudrā",han:"一切如來智印",ja:"issai nyorai chi-in",py:"yīqiè rúlái zhì yìn"},
+kataka:{sa:"Kaṭaka-mudrā",han:"持物印",ja:"jimotsu-in",py:"chíwù yìn"},
+gajahasta:{sa:"Gajahasta-mudrā",han:"象鼻印",ja:"zōbi-in",py:"xiàngbí yìn"},
+lalitakshepa:{sa:"Lalitakṣepa-mudrā",han:"優美垂手印",ja:"yūbi suishu-in",py:"yōuměi chuíshǒu yìn"},
+yoga:{sa:"Yoga-mudrā",han:"瑜伽印",ja:"yuga-in",py:"yújiā yìn"}
+};
+
+const EXAMPLE_WORK={
+abhaya:"Standing Buddha — Government Museum, Mathurā",varada:"Buddha — Archaeological Museum, Bodh Gayā",
+bhumisparsha:"Buddha in bhūmisparśa-mudrā — Indian Museum, Kolkata",dhyana:"Buddha Śākyamuni seated in meditation",
+dharmachakra:"Buddha in dharmacakra-mudrā — Museo d’Arte Orientale, Turin",vitarka:"Buddha Amida (Amitābha)",
+anjali:"Buddha in añjali-mudrā",raigo:"Amida making the raigō gesture — Bern Historical Museum",
+miracles:"Buddha displaying Prātihārya-mudrā",blessing:"Buddha displaying Vyākhyāna-mudrā",
+"mida-join":"Hands of the Great Buddha Amida — Kōtoku-in, Kamakura","seppo-in":"Buddha displaying the preaching gesture",
+"vajra-wisdom":"Buddha Vairocana displaying the wisdom-fist seal","vajra-embrace":"Tantric Buddhist figure — Cleveland Museum of Art",
+"demon-subduing":"Figure displaying Bhūtadāmara-mudrā",flaming:"Buddhist sculpture displaying Karaṇa-mudrā — Dr. Ambedkar National Memorial",
+nagaraja:"Figure displaying Buddhaśramaṇa-mudrā",tarjani:"Figure displaying Tarjanī-mudrā",
+embrace:"Buddhist figure displaying the compassion gesture",humkara:"Vairocana, copper sculpture",
+"mandala-offering":"Maṇḍala-offering gesture",mahakaruna:"Figure displaying Mahākaruṇā-mudrā",
+patra:"Figure displaying Pātra-mudrā",vismaya:"Sculptural figure displaying Vismaya-mudrā",jnana:"Jñāna-mudrā",
+sarvatathagata:"Sarvatathāgatajñāna-mudrā — historical illustration",kataka:"Vasudhārā — Nepal, 1082, National Museum of Asian Art",
+gajahasta:"Tantric goddess — Los Angeles County Museum of Art",lalitakshepa:"Figure displaying Lalitakṣepa-mudrā",yoga:"Yoga-mudrā"
+};
+
+const TABLE_UI={
+fr:{title:"Équivalences linguistiques",sa:"Sanskrit",han:"Sinogrammes",ko:"Coréen (hangŭl)",ja:"Japonais (rōmaji)",vi:"Vietnamien",py:"Chinois (pinyin)",fr:"Français",en:"Anglais",example:"Exemple iconographique",exampleIntro:"Dans cette œuvre, le geste se reconnaît par la configuration des mains décrite ci-dessus."},
+en:{title:"Linguistic equivalents",sa:"Sanskrit",han:"Sinographs",ko:"Korean (Hangul)",ja:"Japanese (rōmaji)",vi:"Vietnamese",py:"Chinese (pinyin)",fr:"French",en:"English",example:"Iconographic example",exampleIntro:"In this work, the gesture can be identified from the hand configuration described above."},
+ko:{title:"언어별 명칭",sa:"산스크리트어",han:"한자",ko:"한국어 (한글)",ja:"일본어 (로마자)",vi:"베트남어",py:"중국어 (병음)",fr:"프랑스어",en:"영어",example:"도상 예시",exampleIntro:"이 작품에서는 위에서 설명한 손의 구성으로 수인을 확인할 수 있다."},
+ja:{title:"各言語の名称",sa:"サンスクリット",han:"漢字",ko:"韓国語（ハングル）",ja:"日本語（ローマ字）",vi:"ベトナム語",py:"中国語（拼音）",fr:"フランス語",en:"英語",example:"図像例",exampleIntro:"この作品では、上記の手指の構成によって印相を確認できる。"},
+"zh-hant":{title:"各語言名稱",sa:"梵語",han:"漢字",ko:"韓語（諺文）",ja:"日語（羅馬字）",vi:"越南語",py:"漢語（拼音）",fr:"法語",en:"英語",example:"圖像實例",exampleIntro:"在這件作品中，可依上述手部構型辨識此手印。"},
+vi:{title:"Tên gọi theo ngôn ngữ",sa:"Sanskrit",han:"Hán tự",ko:"Tiếng Hàn (Hangul)",ja:"Tiếng Nhật (rōmaji)",vi:"Tiếng Việt",py:"Tiếng Trung (pinyin)",fr:"Tiếng Pháp",en:"Tiếng Anh",example:"Ví dụ hình tượng",exampleIntro:"Trong tác phẩm này, thủ ấn được nhận biết qua cấu hình bàn tay mô tả ở trên."}
+}[locale];
 
 const traditionalTerms={
  abhaya:"Abhaya-mudrā",
