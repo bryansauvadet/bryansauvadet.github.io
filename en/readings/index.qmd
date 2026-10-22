@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">A selection of books worth reading to better understand Buddhist art history, Buddhism, Asian history, archaeology and architecture.</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/en/readings/buddhist-pilgrim-monks.html">
+<div class="reading-book-cover"><img src="https://nuspress.nus.edu.sg/cdn/shop/products/Buddhist_Pilg_cvr_final_hires.jpg?v=1516265905" alt="Cover of Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">East Asian Buddhist art · mobility · Tang · Nara · Grand Silla</div>
+<h2>Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission</h2>
+<p class="reading-book-author">Dorothy C. Wong · NUS Press · 2018</p>
+<p>Why traveling monks, great monasteries and courts are essential for understanding how Buddhist forms circulated, changed and became “international” between ca. 645 and 770.</p>
+<span class="reading-book-link">Read the review →</span>
+</a>
 <a class="reading-book-card" href="/en/readings/choson-buddhist-painting.html">
 <div class="reading-book-cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="Cover of 조선의 불교회화" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">Korean Buddhist painting · Chosŏn dynasty · ritual · monastic space</div>
