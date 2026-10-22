@@ -274,27 +274,27 @@ const PHOTO={
  varada:{file:"Buddha - Varada Mudra - Bodh Gaya ASI Museum - AN - 1527.jpg",x:31,y:44,z:3.75,museum:"Archaeological Museum, Bodh Gayā — Archaeological Survey of India",rights:"CC BY-SA 4.0"},
  bhumisparsha:{file:"Buddha in Bhumisparsha Mudra - Pala School - Circa 10th Century AD - Bihar - Indian Museum - Kolkata 2012-11-16 2054.JPG",x:31,y:59,z:3.55,museum:"Indian Museum, Kolkata",rights:"Photographie libre — Wikimedia Commons"},
  dhyana:{file:"Buddha Shakyamuni Seated in Meditation (Dhyanamudra).jpg",x:50,y:73,z:3.35,museum:"Art Institute of Chicago",rights:"Image Open Access / domaine public"},
- dharmachakra:{file:"Buddha in Dharmacakra mudra MAO Torino.jpg",x:50,y:49,z:3.45,museum:"Museo d’Arte Orientale (MAO), Turin",rights:"Œuvre dans le domaine public · photographie CC BY 4.0"},
+ dharmachakra:{file:"Buddha in Dharmachakra Mudra - Bronze - ca 9th-10th Century CE - Pala Period - Nalanda - ACCN 9440-A24784 - Indian Museum - Kolkata 2016-03-06 1728.JPG",x:50,y:48,z:2.35,museum:"Indian Museum, Kolkata",rights:"CC BY 3.0 — photographie de Biswarup Ganguly",match:"Dharmacakra-mudrā"},
  vitarka:{file:"Buddha Amida (Amitābha), M.C. 2078(8).jpg",x:48,y:51,z:3.45,museum:"Musée Cernuschi, Paris",rights:"CC0 — Paris Musées"},
  anjali:{src:"https://art.thewalters.org/images/art/PS1_54.2991_Fnt_DD_T17-tms.jpg",page:"https://art.thewalters.org/object/54.2991/",x:50,y:50,z:1,museum:"The Walters Art Museum, Baltimore",rights:"CC0 — The Walters Art Museum"},
  raigo:{file:"Buddha Amida-IMG 1028.JPG",x:50,y:58,z:3.2,museum:"Bernisches Historisches Museum / Bern Historical Museum",rights:"Photographie libre — Wikimedia Commons"},
  miracles:{file:"ပြာဋိဟာရိယမုဒြာ (Pratiharya Mudra).jpg",x:50,y:48,z:3.25,museum:"Photographie documentaire — sans collection muséale identifiée",rights:"Licence libre — Wikimedia Commons"},
- blessing:{src:"https://collectionapi.metmuseum.org/api/collection/v1/iiif/38987/154262/main-image",page:"https://www.metmuseum.org/art/collection/search/38987",x:50,y:50,z:1,museum:"The Metropolitan Museum of Art, New York",rights:"Open Access · domaine public — The Met"},
+ blessing:{file:"ဗျာချာနမုဒြာ (Vyakhyāna Mudra).jpg",x:50,y:39,z:3.05,museum:"Photographie documentaire d’une œuvre bouddhique — collection non identifiée avec certitude",rights:"Licence libre — Wikimedia Commons",match:"Vyākhyāna-mudrā"},
  "mida-join":{file:"Hands of Amida Buddha at Kōtoku-in.jpg",x:50,y:50,z:1.38,museum:"Kōtoku-in, Kamakura (œuvre in situ)",rights:"Photographie CC BY-SA 4.0 — Wikimedia Commons"},
  "seppo-in":{src:"https://upload.wikimedia.org/wikipedia/commons/e/e5/Japan%2C_Nara_Period_-_A_Preaching_Buddha_-_1985.87_-_Cleveland_Museum_of_Art.jpg",page:"https://www.clevelandart.org/art/1985.87",x:50,y:50,z:1,museum:"Cleveland Museum of Art",rights:"Open Access · CC0 — Cleveland Museum of Art"},
  "vajra-wisdom":{src:"https://openaccess-cdn.clevelandart.org/alternate/1989.104/1989.104_alt4_print.jpg",page:"https://www.clevelandart.org/art/1989.104",x:50,y:50,z:1,museum:"Cleveland Museum of Art",rights:"Open Access · CC0 — Cleveland Museum of Art"},
  "vajra-embrace":{file:"Clevelandart 1985.92.1.jpg",x:50,y:46,z:3.35,museum:"Cleveland Museum of Art",rights:"Open Access · CC0 — Cleveland Museum of Art"},
  "demon-subduing":{file:"ဘူတဒါမရ မုဒြာ (Bhútadāmara Mudrā).jpg",x:50,y:45,z:3.45,museum:"Photographie documentaire — sans collection muséale identifiée",rights:"CC BY-SA 4.0 — Wikimedia Commons"},
- flaming:{file:"Karana.png",x:50,y:42,z:1.34,museum:"Dr. Ambedkar National Memorial, New Delhi",rights:"Image libre — Wikimedia Commons"},
- nagaraja:{file:"ဗုဒ္ဓသမဏမုဒြာ (Buddha-sramaņa Mudrā).jpg",x:62,y:38,z:3.85,museum:"Photographie documentaire — sans collection muséale identifiée",rights:"Licence libre — Wikimedia Commons"},
+ flaming:{file:"Vajrapani from Rig Sum Gonpo (Lords of the Three Families), view 1, collected by Sven Hedin in 1930, Efi Khalkha temple, Chahar, Inner Mongolia - Östasiatiska museet, Stockholm - DSC09310.JPG",x:44,y:35,z:2.15,museum:"Östasiatiska museet, Stockholm",rights:"Image libre / domaine public — Wikimedia Commons",match:"Karaṇa-mudrā"},
+ nagaraja:{file:"Clevelandart 1947.493.jpg",x:37,y:28,z:2.4,museum:"Cleveland Museum of Art",rights:"Open Access · CC0 — Cleveland Museum of Art",match:"Buddhaśramaṇa-mudrā"},
  tarjani:{file:"တဇ္ဇနီမုဒြာ (Tarjani Mudra).jpg",x:69,y:34,z:4.35,museum:"Photographie documentaire — sans collection muséale identifiée",rights:"CC BY-SA 4.0 — Wikimedia Commons"},
- embrace:{file:"Calling for rain 2.jpg",x:50,y:52,z:2.35,museum:"Haw Phra Kaew, Vientiane",rights:"Photographie libre — Wikimedia Commons"},
+ embrace:{file:"Bouddha Mettakaruna-Mudra.JPG",x:50,y:48,z:1.55,museum:"Œuvre bouddhique — photographie classée explicitement comme Mettākaruṇā-mudrā",rights:"Licence libre — Wikimedia Commons",match:"Mettākaruṇā-mudrā"},
  humkara:{file:"Vairochana copper statue 1 CAC.JPG",x:50,y:34,z:3.55,museum:"Iris & B. Gerald Cantor Center for Visual Arts, Stanford University",rights:"CC BY-SA 3.0 — Wikimedia Commons"},
  "mandala-offering":{file:"Artemas Liu, Mandala Offering Mudra.jpg",x:50,y:50,z:1.15,museum:"Photographie documentaire — pratique rituelle tibétaine",rights:"CC BY 2.0 — Artemas Liu / Wikimedia Commons"},
  mahakaruna:{file:"မဟာကရုဏာမုဒြာ (Mahā karuņā Mudrā).jpg",x:55,y:38,z:4.05,museum:"Photographie documentaire — sans collection muséale identifiée",rights:"Licence libre — Wikimedia Commons"},
  patra:{file:"ပတ္တမုဒြာ = ပတ္တဟတ္ထ (Patra Mudrā-Patra Hasta).jpg",x:50,y:69,z:3.25,museum:"Photographie documentaire — sans collection muséale identifiée",rights:"Licence libre — Wikimedia Commons"},
- vismaya:{file:"Railing Pillar with Woman and Onlookers LACMA M.85.2.2 (6 of 7).jpg",x:50,y:50,z:1,museum:"Los Angeles County Museum of Art (LACMA)",rights:"Domaine public — image diffusée par LACMA"},
- jnana:{file:"Gyana (jnana) mudra and rudraksha.jpg",x:50,y:38,z:1.38,museum:"Photographie documentaire — sans collection muséale identifiée",rights:"CC BY-SA 4.0 — Wikimedia Commons"},
+ vismaya:{src:"https://collections-images.lacma.org/images/49119/49119-5-primary.webp",page:"https://collections.lacma.org/object/49119",x:50,y:50,z:1,museum:"Los Angeles County Museum of Art (LACMA)",rights:"Domaine public — LACMA",match:"Vismaya-mudrā (variante explicitement identifiée par la notice du musée)"},
+ jnana:{file:"Gyana.png",x:50,y:43,z:1.35,museum:"Dr. Ambedkar National Memorial, New Delhi",rights:"CC0 — Wikimedia Commons",match:"Jñāna-mudrā"},
  sarvatathagata:{file:"The Lotus gospel - or, Mahayana Buddhism and its symbolic teachings compared historically and geographically with those of Catholic Christianity (1911) (14579420198).jpg",x:50,y:50,z:2.6,museum:"Illustration historique — The Lotus Gospel (1911), pas de collection muséale",rights:"Domaine public"},
  kataka:{file:"Vasudhara, Goddess of Abundance, view 2, Nepal, 1082 AD, gilded copper inlaid with semiprecious stones, traces of vermilion - Arthur M. Sackler Gallery - DSC06053.JPG",x:22,y:34,z:3.75,museum:"National Museum of Asian Art — Arthur M. Sackler Gallery, Smithsonian Institution",rights:"Œuvre dans le domaine public · photographie libre — Wikimedia Commons"},
  gajahasta:{file:"A Tantric Goddess LACMA M.82.42.1 (2 of 5).jpg",x:31,y:57,z:3.35,museum:"Los Angeles County Museum of Art (LACMA)",rights:"Domaine public — LACMA"},
@@ -402,16 +402,16 @@ yoga:"yogin · ācārya"
 const EXAMPLE_WORK={
 abhaya:"Standing Buddha in abhaya-mudrā — early Kushan period",varada:"Buddha in varada-mudrā — 10th–11th century",
 bhumisparsha:"Buddha in bhūmisparśa-mudrā — Pāla school, c. 10th century",dhyana:"Buddha Śākyamuni seated in meditation — Chola period, c. 12th century",
-dharmachakra:"Buddha in dharmacakra-mudrā — Gandhāra, 2nd century",vitarka:"Buddha Amida (Amitābha) — Edo period",
+dharmachakra:"Buddha in dharmacakra-mudrā — Nālandā, période Pāla, IXe–Xe siècle",vitarka:"Buddha Amida (Amitābha) — Edo period",
 anjali:"Monk Devotee — Thailand, Rattanakosin period, 19th century",raigo:"Amida making the raigō gesture",
-miracles:"Buddha displaying Prātihārya-mudrā",blessing:"Preaching Buddha — Kashmir or Swat Valley, 8th century",
+miracles:"Buddha displaying Prātihārya-mudrā",blessing:"Œuvre bouddhique présentant explicitement Vyākhyāna-mudrā",
 "mida-join":"Hands of the Great Buddha Amida","seppo-in":"A Preaching Buddha — Japan, Nara period, 700s",
 "vajra-wisdom":"Tantric Buddha Vairochana as Vajrasattva — Central Tibet, c. 1150–1200","vajra-embrace":"Śaṃvara — Cambodia, Angkor period",
-"demon-subduing":"Figure displaying Bhūtadāmara-mudrā",flaming:"Buddhist sculpture displaying Karaṇa-mudrā",
-nagaraja:"Figure displaying Buddhaśramaṇa-mudrā",tarjani:"Figure displaying Tarjanī-mudrā",
-embrace:"Buddha in the « calling for rain » posture",humkara:"Vairocana — Ming dynasty, copper alloy",
+"demon-subduing":"Figure displaying Bhūtadāmara-mudrā",flaming:"Vajrapāṇi — Efi Khalkha, Chahar, Mongolie-Intérieure",
+nagaraja:"Vasudhārā, déesse de l’abondance — Népal, XIVe–XVe siècle",tarjani:"Figure displaying Tarjanī-mudrā",
+embrace:"Buddha présentant Mettākaruṇā-mudrā",humkara:"Vairocana — Ming dynasty, copper alloy",
 "mandala-offering":"Maṇḍala-offering mudrā — documentary photograph",mahakaruna:"Figure displaying Mahākaruṇā-mudrā",
-patra:"Figure displaying Pātra-mudrā",vismaya:"Railing Pillar with Woman and Onlookers — Mathurā, c. 50–25 BCE",jnana:"Jñāna-mudrā — documentary photograph",
+patra:"Figure displaying Pātra-mudrā",vismaya:"Railing Pillar with Woman and Onlookers — Mathurā, vers 50–25 av. n. è.",jnana:"Sculpture présentant Jñāna-mudrā — Dr. Ambedkar National Memorial",
 sarvatathagata:"Sarvatathāgatajñāna-mudrā — historical illustration, 1911",kataka:"Vasudhārā — Nepal, 1082",
 gajahasta:"A Tantric Goddess — Rajasthan, c. 500–550",lalitakshepa:"Figure displaying Lalitakṣepa-mudrā",yoga:"Yoga-mudrā — documentary photograph"
 };
@@ -426,12 +426,12 @@ vi:{title:"Tên gọi theo ngôn ngữ",sa:"Sanskrit",han:"Hán tự",ko:"Tiến
 }[locale];
 
 const EXAMPLE_UI={
-fr:{institution:"Musée / lieu de conservation",rights:"Droits de l’image",source:"Notice de l’œuvre / image source"},
-en:{institution:"Museum / holding institution",rights:"Image rights",source:"Artwork record / image source"},
-ko:{institution:"박물관 / 소장처",rights:"이미지 이용 조건",source:"작품 정보 / 이미지 출처"},
-ja:{institution:"所蔵館・所蔵先",rights:"画像利用条件",source:"作品情報・画像出典"},
-"zh-hant":{institution:"博物館／收藏機構",rights:"圖像權利",source:"作品資料／圖像來源"},
-vi:{institution:"Bảo tàng / nơi lưu giữ",rights:"Quyền sử dụng ảnh",source:"Hồ sơ tác phẩm / nguồn ảnh"}
+fr:{institution:"Musée / lieu de conservation",rights:"Droits de l’image",source:"Notice de l’œuvre / image source",identified:"Identification du geste"},
+en:{institution:"Museum / holding institution",rights:"Image rights",source:"Artwork record / image source",identified:"Gesture identification"},
+ko:{institution:"박물관 / 소장처",rights:"이미지 이용 조건",source:"작품 정보 / 이미지 출처",identified:"수인 식별"},
+ja:{institution:"所蔵館・所蔵先",rights:"画像利用条件",source:"作品情報・画像出典",identified:"印相の同定"},
+"zh-hant":{institution:"博物館／收藏機構",rights:"圖像權利",source:"作品資料／圖像來源",identified:"手印識別"},
+vi:{institution:"Bảo tàng / nơi lưu giữ",rights:"Quyền sử dụng ảnh",source:"Hồ sơ tác phẩm / nguồn ảnh",identified:"Nhận diện thủ ấn"}
 }[locale];
 
 const ILLUSTRATION={
@@ -569,6 +569,7 @@ function showEntry(index,{syncHash=true}={}){
     <div class="mudra-example-copy"><h3>${esc(EXAMPLE_WORK[e.id]||localName(e))}</h3>
      ${photoFor(e)?.museum?`<p class="mudra-example-meta"><strong>${esc(EXAMPLE_UI.institution)} :</strong> ${esc(photoFor(e).museum)}</p>`:""}
      ${photoFor(e)?.rights?`<p class="mudra-example-meta"><strong>${esc(EXAMPLE_UI.rights)} :</strong> ${esc(photoFor(e).rights)}</p>`:""}
+     ${photoFor(e)?.match?`<p class="mudra-example-meta"><strong>${esc(EXAMPLE_UI.identified)} :</strong> ${esc(photoFor(e).match)}</p>`:""}
      ${sourceLink(e)?`<p class="mudra-example-source"><a href="${sourceLink(e)}" target="_blank" rel="noopener">${esc(EXAMPLE_UI.source)} ↗</a></p>`:""}
      <p>${esc(exampleNote(e))}</p></div>
    </div>
