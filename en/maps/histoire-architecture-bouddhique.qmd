@@ -84,8 +84,8 @@ format:
       <div class="hab-map-head">
         <div class="hab-section-head">
           <div class="hab-kicker" data-hab-map-copy="kicker">Dossier geography</div>
-          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Interactive map of cited sites</h2>
-          <p data-hab-map-copy="intro">Explore the monuments, monasteries, archaeological sites, caves, and sacred landscapes mentioned in the dossier. Monuments within the same precinct are grouped under a single point.</p>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Interactive map of Buddhist sites</h2>
+          <p data-hab-map-copy="intro">Explore monuments, monasteries, archaeological sites, caves, and sacred landscapes across India, China, Korea, Japan, and Vietnam. Monuments within the same precinct are grouped under a single point.</p>
         </div>
         <div class="hab-map-count" id="buddhist-architecture-sites-count">46 sites</div>
       </div>
