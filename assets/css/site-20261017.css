@@ -960,8 +960,8 @@ html.site-intro-skip .site-intro{display:none!important}
 
 /* Rice University fieldwork narrative */
 .rice-story figure.fieldwork-hero{
-  width:min(68%,620px);
-  max-width:620px;
+  width:min(68%,420px);
+  max-width:420px;
 }
 .rice-story .rice-pair{
   clear:both;
@@ -992,7 +992,7 @@ html.site-intro-skip .site-intro{display:none!important}
 }
 @media(max-width:760px){
   .rice-story figure.fieldwork-hero{
-    width:min(90%,620px);
+    width:min(90%,420px);
   }
   .rice-story .rice-pair,
   .rice-story .rice-lecture-pair,
