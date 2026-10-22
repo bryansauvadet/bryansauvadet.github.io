@@ -78,3 +78,6 @@
 .mudra-example-image{display:block;width:220px;max-width:100%;border:1px solid var(--line);background:#f5f1ea;text-decoration:none}
 .mudra-example-image .mudra-full-image{display:block;width:100%;height:170px;object-fit:contain;background:#f5f1ea;border:0}
 .mudra-example-copy p{margin:0;font-size:12.5px;line-height:1.65;color:#403a34}
+
+.mudra-associated{margin-top:8px!important;padding-top:7px;border-top:1px dotted #ddd3c7;font-size:11.5px!important;color:#655d54!important}
+.mudra-associated strong{font-weight:600;color:#4f473f}
