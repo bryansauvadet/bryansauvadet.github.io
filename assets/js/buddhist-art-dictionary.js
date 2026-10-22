@@ -12,7 +12,7 @@
       field: "Champ de recherche",
       all: "Toutes les langues",
       reset: "Réinitialiser",
-      loading: "Chargement des 2 188 entrées…",
+      loading: "Chargement des 2 207 entrées…",
       one: "1 entrée",
       many: "{n} entrées",
       empty: "Aucune entrée ne correspond à cette recherche.",
@@ -24,7 +24,7 @@
       field: "Search field",
       all: "All languages",
       reset: "Reset",
-      loading: "Loading 2,188 entries…",
+      loading: "Loading 2,207 entries…",
       one: "1 entry",
       many: "{n} entries",
       empty: "No entries match this search.",
@@ -36,7 +36,7 @@
       field: "검색 범위",
       all: "모든 언어",
       reset: "초기화",
-      loading: "2,188개 항목 불러오는 중…",
+      loading: "2,207개 항목 불러오는 중…",
       one: "1개 항목",
       many: "{n}개 항목",
       empty: "검색 결과가 없습니다.",
@@ -48,7 +48,7 @@
       field: "検索対象",
       all: "すべての言語",
       reset: "リセット",
-      loading: "2,188項目を読み込み中…",
+      loading: "2,207項目を読み込み中…",
       one: "1項目",
       many: "{n}項目",
       empty: "該当する項目はありません。",
@@ -60,7 +60,7 @@
       field: "搜尋欄位",
       all: "所有語言",
       reset: "重設",
-      loading: "正在載入2,188筆條目…",
+      loading: "正在載入2,207筆條目…",
       one: "1筆條目",
       many: "{n}筆條目",
       empty: "沒有符合搜尋條件的條目。",
@@ -72,7 +72,7 @@
       field: "Phạm vi tìm kiếm",
       all: "Tất cả ngôn ngữ",
       reset: "Đặt lại",
-      loading: "Đang tải 2.188 mục…",
+      loading: "Đang tải 2.207 mục…",
       one: "1 mục",
       many: "{n} mục",
       empty: "Không có mục nào phù hợp.",
@@ -216,10 +216,26 @@
     count.textContent = n === 1 ? ui.one : ui.many.replace("{n}", String(n));
   }
 
+  const mudraBase = {
+    fr: "/fr/bases/dictionnaire-mudras.html",
+    en: "/en/databases/mudra-dictionary.html",
+    ko: "/ko/databases/mudra-dictionary.html",
+    ja: "/ja/databases/mudra-dictionary.html",
+    "zh-hant": "/zh-hant/databases/mudra-dictionary.html",
+    vi: "/vi/databases/mudra-dictionary.html"
+  }[locale] || "/fr/bases/dictionnaire-mudras.html";
+
+  function mudraEntryUrl(id) {
+    return mudraBase + "#mudra=" + encodeURIComponent(id);
+  }
+
   function render(data) {
     body.innerHTML = data.map(row => `<tr>${columns.map((col, i) => {
       const raw = row[col.key] || "";
-      const value = raw ? escapeHtml(raw) : "—";
+      const escaped = raw ? escapeHtml(raw) : "—";
+      const value = raw && row.mudra_id
+        ? `<a class="dictionary-mudra-link" href="${mudraEntryUrl(row.mudra_id)}">${escaped}</a>`
+        : escaped;
       const classes = [i === 0 ? "dictionary-sticky-col" : "", col.cls || "", raw ? "" : "dictionary-cell-empty"].filter(Boolean).join(" ");
       return `<td class="${classes}" lang="${col.lang}">${value}</td>`;
     }).join("")}</tr>`).join("");
@@ -249,7 +265,7 @@
     search.focus();
   });
 
-  const files = Array.from({ length: 80 }, (_, i) => i + 1).map(n =>
+  const files = Array.from({ length: 81 }, (_, i) => i + 1).map(n =>
     `/data/buddhist-art-dictionary-${String(n).padStart(2, "0")}.json`
   );
 
