@@ -1,0 +1,29 @@
+---
+title: "Rice University, Houston, Texas"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+<section class="page-hero"><h1>Rice University, Houston, Texas</h1><p class="lead">客員授業 · Department of Transnational Asian Studies</p></section>
+<main class="content"><div class="content-inner fieldwork-story rice-story">
+<figure class="fieldwork-hero"><img src="/assets/images/rice-houston-01.svg" alt="ヒューストンのライス大学キャンパス" loading="eager"><figcaption>ヒューストンのライス大学。煉瓦と石を組み合わせた建築が、大学独自のキャンパス景観を形づくっている。</figcaption></figure>
+<p class="lead">ヒューストンのライス大学で過ごした時間は、アメリカ滞在の中でも特に印象深い経験となった。<a href="https://profiles.rice.edu/faculty/shih-shan-susan-huang" target="_blank" rel="noopener">Shih-shan Susan Huang</a> 教授と <a href="https://profiles.rice.edu/faculty/eric-huntington" target="_blank" rel="noopener">Eric Huntington</a> 教授の招きにより、授業を担当し、学生たちと議論し、自分の研究を紹介する機会を得た。そこでは美術史、仏教研究、そしてトランスナショナルなアジア研究が絶えず交差していた。滞在を終える頃には、この経験を可能にしてくれた二人のメンターと対話者のもとを、あまりにも早く離れるように感じていた。</p>
+<h2>ライス大学、ヒューストン、そしてアジア研究</h2>
+<p>1891年に William M. Rice Institute として認可され、1912年に開校した同校は、1960年に Rice University へと改称された。現在はアメリカを代表する私立研究大学の一つであり、大学の公式紹介によれば <em>U.S. News</em> で継続的に全米トップ20に位置づけられている。レジデンシャル・カレッジ制度をもつキャンパスと Texas Medical Center に隣接する立地は、国際都市ヒューストンの中でライス独自の性格を生み出している。</p>
+<div class="rice-pair"><figure><img src="/assets/images/rice-houston-08.svg" alt="ライス大学キャンパスの回廊" loading="lazy"><figcaption>ライス大学を象徴する建築景観の一つである回廊。</figcaption></figure><figure><img src="/assets/images/rice-houston-02.svg" alt="ライス大学の同僚との集合写真" loading="lazy"><figcaption>ライスの研究者たちと。重要な対話の多くは教室の外でも続いた。</figcaption></figure></div>
+<p>ヒューストンという都市は、この授業に特別な意味を与えていた。ライス大学 Kinder Institute の調査によれば、2023年には都市圏の主要4郡に65万5千人を超えるアジア系住民が暮らし、人口の9.9％を占めた。1980年の1.8％から大きく増加しており、なかでもベトナム系コミュニティは非常に重要である。したがってヒューストンでベトナム美術史を教えることは、遠い地域について抽象的に語ることではなかった。授業で扱う移住、宗教遺産、文化的移動の歴史は、この都市の社会そのものにも刻まれている。</p>
+<h2>韓国とベトナムの美術史を教える</h2>
+<p>Susan Huang 教授のセミナー <em>Art and Heritage of East Asia</em> では、韓国とベトナムの美術史を担当した。中国や日本だけを中心に据えた東アジア史ではなく、移動、地域的な再解釈、仏教ネットワーク、宮廷文化、文化遺産を追うことによって、韓国とベトナムを図像や造形文化の生産と流通に積極的に関与した地域として捉えることを目指した。</p>
+<div class="rice-pair rice-lecture-pair"><figure><img src="/assets/images/rice-houston-03.svg" alt="サイゴンの関羽廟についての授業" loading="lazy"><figcaption>ベトナムを扱った授業。サイゴンの関羽廟を通じ、東アジアを横断する宗教・視覚文化の移動を考えた。</figcaption></figure><figure><img src="/assets/images/rice-houston-04.svg" alt="ゲアンのĐộc Lôi Sơn廟についての授業" loading="lazy"><figcaption>ゲアン（Nghệ An）の đền Độc Lôi Sơn をめぐるベトナムの資料を紹介。</figcaption></figure></div>
+<p>こうした授業は、国民国家という枠組みだけでは十分に説明できない作品をどのように教えるかを考える機会でもあった。寺院、絵画、彫像、儀礼は地域史に深く根ざしながら、遠距離を移動した造形モデル、テクスト、図像を同時に宿している。この「地域への定着」と「移動」の緊張関係こそ、東アジア美術史の豊かさを生むものだと感じている。</p>
+<div class="rice-pair rice-classroom-pair"><figure><img src="/assets/images/rice-houston-05.svg" alt="ライス大学のセミナー教室" loading="lazy"><figcaption>ライスでのセミナー。学生との議論は滞在の中心的な経験だった。</figcaption></figure><figure><img src="/assets/images/rice-houston-09.svg" alt="ライス大学での発表" loading="lazy"><figcaption>視覚資料を検討しながら、形式分析と宗教・社会・政治的文脈を往復した。</figcaption></figure></div>
+<h2>仏教、ジェンダー、造像の施主</h2>
+<p>Eric Huntington 教授の招きにより、セミナー <em>Buddhism and Gender</em> にも参加し、韓国における女性による仏教美術の造営・奉納について発表した。これは周辺的なテーマではなく、美術制作の歴史そのものを書き直す問いである。銘文、発願文、宮廷の文脈を通じて女性の施主を捉え直すことで、像が資金提供され、奉納され、開眼され、伝えられていく家族的・宗教的・政治的ネットワークが見えてくる。</p>
+<p>この視点は、私自身の韓国宮廷仏教美術研究とも直接結びついている。作品を様式や流派の連続としてのみ見るのではなく、施主から読み直すことで、作品は信仰実践、社会関係、家族の記憶、宮廷内の位置を伝える物質的痕跡となる。ジェンダーを主題とするセミナーでこの問題を議論したことは、他地域の仏教伝統との比較にもつながった。</p>
+<h2>学術交流であると同時に、人との出会い</h2>
+<div class="rice-pair"><figure><img src="/assets/images/rice-houston-06.svg" alt="ライス大学の同僚との交流" loading="lazy"><figcaption>議論は教室の外でも自然に続いた。</figcaption></figure><figure><img src="/assets/images/rice-houston-07.svg" alt="ライス大学のセミナー室前での記念写真" loading="lazy"><figcaption>数日間の授業と議論を終え、セミナー室の前で残した一枚。</figcaption></figure></div>
+<p>ライスで最も強く記憶に残っているのは、温かな歓迎と対話の質である。Susan Huang 教授と Eric Huntington 教授には、招待、信頼、そして惜しみなく時間を割いてくださったことに心から感謝している。また、教員の皆さんと Department of Transnational Asian Studies のチーム全体にも、温かな受け入れに深く感謝したい。この滞在は、大学での招待が単なる一連の授業を超え、帰国後も研究を育て続ける対話、比較、そして知的友情の場になり得ることを改めて教えてくれた。</p>
+<div class="fieldwork-notes"><h2>基本情報・リンク</h2><p><strong>場所：</strong> Rice University, Houston, Texas.<br><strong>招待：</strong> Shih-shan Susan Huang / Eric Huntington.<br><strong>セミナー：</strong> <em>Art and Heritage of East Asia</em> / <em>Buddhism and Gender</em>.<br><strong>学科：</strong> <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener">Department of Transnational Asian Studies — Rice University</a>.<br><strong>大学史：</strong> <a href="https://www.rice.edu/about" target="_blank" rel="noopener">Rice University — About / A Brief History</a>.</p></div>
+</div></main>
