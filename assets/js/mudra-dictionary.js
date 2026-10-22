@@ -380,6 +380,22 @@ ja:{title:"各言語の名称",sa:"サンスクリット",han:"漢字",ko:"韓�
 vi:{title:"Tên gọi theo ngôn ngữ",sa:"Sanskrit",han:"Hán tự",ko:"Tiếng Hàn (Hangul)",ja:"Tiếng Nhật (rōmaji)",vi:"Tiếng Việt",py:"Tiếng Trung (pinyin)",fr:"Tiếng Pháp",en:"Tiếng Anh",figures:"Nhân vật / tôn tượng liên quan",example:"Ví dụ hình tượng",exampleIntro:"Trong tác phẩm này, thủ ấn được nhận biết qua cấu hình bàn tay mô tả ở trên."}
 }[locale];
 
+const ILLUSTRATION={
+ abhaya:"/assets/images/mudras/abhaya.svg",
+ varada:"/assets/images/mudras/varada.svg",
+ bhumisparsha:"/assets/images/mudras/bhumisparsha.svg",
+ dhyana:"/assets/images/mudras/dhyana.svg",
+ dharmachakra:"/assets/images/mudras/dharmachakra.svg",
+ vitarka:"/assets/images/mudras/vitarka.svg",
+ anjali:"/assets/images/mudras/anjali.svg",
+ raigo:"/assets/images/mudras/raigo.svg"
+};
+function illustrationFor(e){return ILLUSTRATION[e.id]||"";}
+function renderIllustration(e){
+ const src=illustrationFor(e);
+ return src?'<img class="mudra-line-art" src="'+src+'" alt="" loading="lazy">':"";
+}
+
 const traditionalTerms={
  abhaya:"Abhaya-mudrā",
  varada:"Varada-mudrā",
@@ -471,7 +487,7 @@ dialog.addEventListener("click",e=>{if(e.target===dialog)dialog.close();});
 
 function render(list){
  grid.innerHTML=list.map(({e,index},i)=>`<button class="mudra-card" type="button" data-index="${index}">
-  <div class="mudra-figure">${renderPhoto(e)}</div>
+  <div class="mudra-figure">${renderIllustration(e)||renderPhoto(e)}</div>
   <div class="mudra-card-body">
    <div class="mudra-card-top"><div><h2>${esc(localName(e))}</h2><p class="mudra-local-name">${esc(subtitle(e))}</p></div><span class="mudra-number">${String(index+1).padStart(2,"0")}</span></div>
    <p class="mudra-meaning">${esc(meaning(e))}</p>
