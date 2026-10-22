@@ -11,7 +11,7 @@ format:
 <script defer src="/assets/js/mudra-dictionary.js"></script>
 <section class="page-hero database-subhero"><div class="eyebrow"><a href="/zh-hant/databases.html">資料庫</a></div><h1>佛教手印辭典</h1></section>
 <main class="content"><div class="content-inner database-detail mudra-dictionary-page">
-<section class="mudra-intro"><p>本辭典整理亞洲佛教圖像、儀軌與修持中使用的30種手印與規範化手勢。每一條目包含梵語或傳統名稱、翻譯、意義與圖像脈絡，並使用自由授權或公有領域影像裁切放大手部細節。</p><p class="mudra-method">照片經裁切與放大，使手部構型可立即辨識。每一條目仍可查看完整原圖、來源與授權；地域與儀式上的差異不被視為普遍規範。</p></section>
+<section class="mudra-intro"><p>本辭典整理亞洲佛教圖像中使用的30種手印與規範化手勢。每張卡片以中文名稱為標題，下方列出梵語名稱與漢字。詳細條目先以表格列出梵語、漢字、韓語、日語、越南語、漢語拼音、法語與英語名稱，之後依次說明意義、手勢構型、圖像脈絡與一件美術作品的實例。</p><p class="mudra-method">卡片照片經裁切與放大，使手部構型可立即辨識。詳細條目以尺寸較小的作品圖像，說明該手印在實際佛教美術中的呈現方式；地域與儀式上的差異不被視為普遍規範。</p></section>
 <section aria-label="佛教手印辭典"><div id="mudra-dictionary" data-locale="zh-hant"></div></section>
 </div></main>
 ```
