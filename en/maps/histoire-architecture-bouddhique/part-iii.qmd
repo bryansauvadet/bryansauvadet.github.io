@@ -6,7 +6,7 @@
 
 Originally, monastery and stupa answered different needs: the monastery served residence, discipline, and teaching, whereas the stupa organised lay devotion around relics. Their convergence occurred gradually, especially from the age of Aśoka (阿育王) onward. Tradition credits this ruler with opening ancient stupas and redistributing the Buddha’s relics into a very large number of new monuments. The famous “84,000 stupas” is conventional, but it expresses the idea of a vast policy of diffusion. Such multiplication required administration, maintenance, and communities capable of caring for reliquaries over the long term. The saṃgha (僧伽) naturally became the institution best placed to perform this role. In some cases a pre-existing stupa was absorbed into a monastery; elsewhere a monastery developed around an already sacred site. The spatial result was similar: monastic residence and devotional centre came to share one enclosure. This fusion was fundamental. The monastery became not only a place of ascetic practice and teaching but also a destination for pilgrimage, offerings, and ceremony. Conversely, the stupa ceased to be entirely external to monastic life. Buddhist architecture began to organise two forms of presence together: the living community of monks and the memorial or reliquary presence of Buddhas and saints.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-1-en.webp" alt="Integrating the stupa into the Indian monastery" loading="lazy" decoding="async"></figure>
 
 ### 2. Caitya and vihāra: two complementary functions {#iii-2}
 

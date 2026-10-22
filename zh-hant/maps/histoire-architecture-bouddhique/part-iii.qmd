@@ -6,7 +6,7 @@
 
 最初，僧院與窣堵波承擔不同功能：僧院用於居住、戒律與教學，窣堵波則承載在家信眾圍繞舍利的崇拜。阿育王時代以後，兩者逐漸靠近。傳說阿育王開啟古塔、重新分配佛陀舍利，並建立大量新塔；「八萬四千塔」雖屬象徵數字，卻表達了大規模擴散的概念。如此龐大的塔群需要長期維護與管理，僧團自然成為最適合承擔此任務的制度。有些地方是原有佛塔被納入僧院，有些地方則是僧院圍繞既有聖塔生長。最終，僧侶生活與在家崇拜共享同一境域。僧院不再只是修行與教學空間，也成為巡禮、供養與儀式中心；佛塔同樣不再完全外在於僧團生活。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-1-zh-hant.webp" alt="窣堵波融入印度僧院" loading="lazy" decoding="async"></figure>
 
 ### 2. 支提與毘訶羅 {#iii-2}
 

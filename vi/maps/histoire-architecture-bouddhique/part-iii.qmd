@@ -6,7 +6,7 @@
 
 Ban đầu, tu viện và stūpa đáp ứng hai logic khác nhau: tu viện dành cho cư trú, giới luật và giảng dạy của saṃgha, còn stūpa là trọng tâm sùng kính xá-lợi của cư sĩ. Hai không gian dần xích lại gần nhau, đặc biệt từ thời Aśoka. Truyền thống kể rằng Aśoka đã mở những stūpa cổ, phân phối lại xá-lợi Đức Phật và dựng một số lượng rất lớn tháp mới. Con số “84.000 tháp” mang tính quy ước, nhưng diễn đạt ý tưởng về sự phổ biến quy mô lớn. Một hệ thống như vậy đòi hỏi tổ chức, bảo trì và cộng đồng có khả năng chăm sóc xá-lợi lâu dài; saṃgha tự nhiên trở thành thiết chế phù hợp. Có nơi một stūpa có trước được đưa vào tu viện; có nơi tu viện phát triển quanh một thánh tích. Kết quả là cư trú của tăng sĩ và tín ngưỡng của cư sĩ cùng tồn tại trong một khuôn viên. Tu viện từ đó không chỉ là nơi tu tập và học tập mà còn là nơi hành hương, cúng dường và nghi lễ.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-1-vi.webp" alt="Sự tích hợp của stūpa vào tu viện Ấn Độ" loading="lazy" decoding="async"></figure>
 
 ### 2. Caitya và vihāra: hai chức năng bổ sung {#iii-2}
 
