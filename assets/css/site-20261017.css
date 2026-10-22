@@ -956,3 +956,54 @@ html.site-intro-skip .site-intro{display:none!important}
     max-width:190px;
   }
 }
+
+
+/* Rice University fieldwork narrative */
+.rice-story figure.fieldwork-hero{
+  width:min(68%,620px);
+  max-width:620px;
+}
+.rice-story .rice-pair{
+  clear:both;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:1.25rem;
+  width:min(84%,760px);
+  max-width:760px;
+  margin:2.3rem auto 2.75rem;
+  align-items:start;
+}
+.rice-story .rice-pair figure{
+  width:100%;
+  max-width:none;
+  margin:0;
+}
+.rice-story .rice-pair figure img{
+  width:auto;
+  max-width:100%;
+  height:auto;
+  margin:0 auto;
+}
+.rice-story .rice-lecture-pair{
+  width:min(78%,700px);
+}
+.rice-story .rice-classroom-pair{
+  width:min(80%,720px);
+}
+@media(max-width:760px){
+  .rice-story figure.fieldwork-hero{
+    width:min(90%,620px);
+  }
+  .rice-story .rice-pair,
+  .rice-story .rice-lecture-pair,
+  .rice-story .rice-classroom-pair{
+    width:min(92%,620px);
+  }
+}
+@media(max-width:560px){
+  .rice-story .rice-pair{
+    grid-template-columns:1fr;
+    width:min(88%,390px);
+    gap:1.8rem;
+  }
+}
