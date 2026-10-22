@@ -18,7 +18,7 @@ format:
 <main class="content">
   <div class="content-inner database-detail buddhist-dictionary-page">
     <section class="dictionary-intro">
-      <p>Bảng đối chiếu này tập hợp 2.188 thuật ngữ về nghệ thuật Phật giáo, lịch sử nghệ thuật và khảo cổ học; mỗi mục có ít nhất một đối ứng bằng tiếng Hàn, Nhật, Trung hoặc Việt, kèm các hệ chữ và cách chuyển tự chính.</p>
+      <p>Bảng đối chiếu này tập hợp 2.207 thuật ngữ về nghệ thuật Phật giáo, lịch sử nghệ thuật và khảo cổ học; mỗi mục có ít nhất một đối ứng bằng tiếng Hàn, Nhật, Trung hoặc Việt, kèm các hệ chữ và cách chuyển tự chính.</p>
       <p class="dictionary-method">Có thể tìm kiếm toàn bộ bảng hoặc giới hạn theo từng ngôn ngữ hay hệ chữ. Những ô chưa có tương đương chuẩn hóa được xác nhận ở giai đoạn này được để trống thay vì bổ sung bằng suy đoán.</p>
     </section>
 
