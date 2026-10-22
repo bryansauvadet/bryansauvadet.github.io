@@ -1,0 +1,27 @@
+---
+title: "Chùa Bút Tháp (Ninh Phúc tự 寧福寺)"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+<section class="page-hero"><h1>Chùa Bút Tháp (Ninh Phúc tự 寧福寺)</h1><p class="lead">筆塔寺 · 越南北寧</p></section>
+<main class="content"><div class="content-inner fieldwork-story sakya-story but-thap-story">
+<figure class="fieldwork-hero"><img src="/assets/images/but-thap-01.webp" alt="門框之中，可見寺院鋪磚的長廊通道。" loading="lazy"><figcaption>門框之中，可見寺院鋪磚的長廊通道。</figcaption></figure>
+<p class="lead">筆塔寺（正式寺名 Ninh Phúc tự 寧福寺）是越南北部保存至今最重要的佛教建築與雕刻群之一。寺院的起源傳統上可追溯至陳朝，但今日所見的主要格局與藝術面貌，主要形成於十七世紀的大規模重建。這一點十分重要：筆塔寺並非單純保存原貌的中世紀寺院，而是一處更古老的聖地在黎中興時期被重新塑造的場所。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-09.webp" alt="石造 Bảo Nghiêm 塔，筆塔寺最鮮明的景觀標誌之一。" loading="lazy"><figcaption>石造 Bảo Nghiêm 塔，筆塔寺最鮮明的景觀標誌之一。</figcaption></figure>
+<p>十七世紀時，筆塔寺因禪師 Chuyết Chuyết（1590–1644）而聲名尤著。他是越南臨濟系統的重要人物；其住持時期之後，貴族的贊助推動了大規模重建。現存伽藍仍具有高度整體性：山門、殿堂、庭院、鐘樓、禮拜空間與後部建築沿長軸排列，並由延伸的廊道彼此連接。與 Chuyết Chuyết 相關的石造 Bảo Nghiêm 塔，構成寺院景觀最鮮明的垂直標誌之一。</p>
+<div class="figure-pair"><figure><img src="/assets/images/but-thap-10.webp" alt="寺院內的木構建築與瓦頂。" loading="lazy"><figcaption>寺院內的木構建築與瓦頂。</figcaption></figure><figure><img src="/assets/images/but-thap-11.webp" alt="石橋、蓮池與長形木構殿堂。" loading="lazy"><figcaption>石橋、蓮池與長形木構殿堂。</figcaption></figure></div>
+<p>在筆塔寺，建築與雕刻密不可分。木雕、石欄、供桌、儀式器物與造像共同形成高度密集的視覺環境，以罕見的規模保存十七世紀工藝。官方文化遺產資料記錄近百尊造像，其中包括佛像組群、乘獅的文殊（Văn Thù）、乘象的普賢（Phổ Hiền）、護法像以及帶有肖像性質的人物像。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-08.webp" alt="古樹下的庭院、香爐與木構殿堂。" loading="lazy"><figcaption>古樹下的庭院、香爐與木構殿堂。</figcaption></figure>
+<p>長廊與層層門檻也改變了觀看造像的方式。這些雕像並非像博物館作品那樣被孤立陳列，而是在儀式空間、香煙、幽暗木構內部與受控制的光線中逐步出現。因此，筆塔寺保存的不只是個別傑作，也保存了賦予它們宗教意義的空間脈絡。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-04.webp" alt="1656年完成的千手千眼 Quan Âm 像。" loading="lazy"><figcaption>1656年完成的千手千眼 Quan Âm 像。</figcaption></figure>
+<p>筆塔寺最著名的作品，是「千手千眼」Quan Âm（觀音／Avalokiteśvara）像。此像由雕刻家 Trương Thọ Nam 於1656年完成，高約3.7公尺；正面而沉靜的主體與向外放射的眾多手臂和眼睛結合成極具張力的整體。其技術難度、圖像複雜度與保存狀況，使它成為越南木雕史最具代表性的傑作之一，現已被認定為國寶。</p>
+<div class="figure-pair"><figure><img src="/assets/images/but-thap-02.webp" alt="筆塔寺雕刻群中的大型護法像。" loading="lazy"><figcaption>筆塔寺雕刻群中的大型護法像。</figcaption></figure><figure><img src="/assets/images/but-thap-06.webp" alt="殿內成列的鍍金佛像。" loading="lazy"><figcaption>殿內成列的鍍金佛像。</figcaption></figure></div>
+<p>綜觀全寺造像，可以看出筆塔寺造像體系的廣度。寧靜的佛像、動勢強烈的護法、菩薩、肖像式人物與精緻的禮拜雕刻同處一座伽藍。鍍金、髹漆、因年代而轉暗的表面，以及間歇照入的光線，都顯示佛教美術的觀看經驗如何深受建築與光線條件影響。</p>
+<div class="figure-pair"><figure><img src="/assets/images/but-thap-03.webp" alt="幽暗室內保存的坐像。" loading="lazy"><figcaption>幽暗室內保存的坐像。</figcaption></figure><figure><img src="/assets/images/but-thap-05.webp" alt="側光照明下帶有肖像性質的坐像。" loading="lazy"><figcaption>側光照明下帶有肖像性質的坐像。</figcaption></figure></div>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-07.webp" alt="寺內歷史造像中的鍍金坐像。" loading="lazy"><figcaption>寺內歷史造像中的鍍金坐像。</figcaption></figure>
+<p>因此，筆塔寺在佛教美術史上的價值具有多重層次：它是一處起源可追溯至陳朝的寺院，是十七世紀黎中興時期大規模重建的代表，也是與 Chuyết Chuyết 密切相關的佛教中心；更難得的是，建築、雕刻與儀式空間至今仍可作為一個整體來理解。此地集中呈現了十七世紀越南佛教美術在技術與信仰表達上的高度成熟。</p>
+<section class="fieldwork-notes"><h2>基本資料</h2><ul><li><strong>起源:</strong> 陳朝；十七世紀大規模重建。</li><li><strong>所在地:</strong> 越南北寧 Bút Tháp，Đuống 河（棟江）南岸。</li><li><strong>重要人物:</strong> 禪師 Chuyết Chuyết（1590–1644）。</li><li><strong>代表作品:</strong> 千手千眼 Quan Âm，1656年，Trương Thọ Nam。</li><li><strong>座標:</strong> 約 21.06103° N, 106.02225° E.</li></ul></section>
+</div></main>
