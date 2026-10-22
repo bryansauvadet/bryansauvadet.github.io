@@ -468,6 +468,7 @@ function showEntry(index){
   <div class="mudra-dialog-kicker">${UI.cats[e.category]} · ${UI.trad[e.tradition]}</div>
   <h2>${esc(localName(e))}</h2>
   <p class="mudra-dialog-local">${esc(subtitle(e))}</p>
+  ${illustrationFor(e)?`<div class="mudra-entry-illustration">${renderIllustration(e)}</div>`:""}
   ${lexTable(e)}
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.meaning}</span><p>${esc(meaning(e))}</p></div>
   <div class="mudra-detail-row"><span class="mudra-detail-label">${UI.gesture}</span><p>${esc(gesture(e))}</p></div>
