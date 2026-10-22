@@ -48,7 +48,7 @@ format:
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="Dictionnaire multilingue de l’art bouddhique" loading="lazy">
-      <div><div class="update-type">Base de données</div><h3>Dictionnaire multilingue de l’art bouddhique</h3><p>1 500 termes fondamentaux comparés en français, anglais, sanskrit, tibétain, coréen, japonais, chinois et vietnamien.</p><a class="update-link" href="/fr/bases/dictionnaire-multilingue-art-bouddhique.html">Explorer le dictionnaire →</a></div>
+      <div><div class="update-type">Base de données</div><h3>Dictionnaire multilingue de l’art bouddhique</h3><p>2 207 entrées comparées en français, anglais, sanskrit, tibétain, coréen, japonais, chinois et vietnamien.</p><a class="update-link" href="/fr/bases/dictionnaire-multilingue-art-bouddhique.html">Explorer le dictionnaire →</a></div>
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap au monastère Pulguksa, Kyŏngju" loading="lazy">
