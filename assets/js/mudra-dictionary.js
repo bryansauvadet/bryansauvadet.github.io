@@ -345,12 +345,12 @@ humkara:"Mahāvairocana / Vairocana",
 "mandala-offering":"lama · sādhaka",
 mahakaruna:"Avalokiteśvara · bodhisattva",
 patra:"Buddha · bodhisattva · śramaṇa",
-vismaya:"figures narratives",
+vismaya:"Buddha · bodhisattva · śrāvaka",
 jnana:"ācārya · yogin",
-sarvatathagata:"Mahāvairocana · Tathāgata du maṇḍala",
+sarvatathagata:"Mahāvairocana · Tathāgata",
 kataka:"Vasudhārā · bodhisattva",
-gajahasta:"tantric goddess · bodhisattva",
-lalitakshepa:"bodhisattva · deity in lalitāsana",
+gajahasta:"yidam · bodhisattva",
+lalitakshepa:"bodhisattva · yidam",
 yoga:"yogin · ācārya"
 };
 
