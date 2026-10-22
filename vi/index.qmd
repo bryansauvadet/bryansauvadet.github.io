@@ -48,7 +48,7 @@ format:
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="Từ điển đa ngữ về nghệ thuật Phật giáo" loading="lazy">
-      <div><div class="update-type">Cơ sở dữ liệu</div><h3>Từ điển đa ngữ về nghệ thuật Phật giáo</h3><p>Đối chiếu 1.500 thuật ngữ cốt lõi bằng tiếng Pháp, Anh, Phạn, Tạng, Hàn, Nhật, Trung và Việt.</p><a class="update-link" href="/vi/databases/multilingual-buddhist-art-dictionary.html">Khám phá từ điển →</a></div>
+      <div><div class="update-type">Cơ sở dữ liệu</div><h3>Từ điển đa ngữ về nghệ thuật Phật giáo</h3><p>Đối chiếu 2.207 mục về nghệ thuật Phật giáo, lịch sử nghệ thuật và khảo cổ học bằng tiếng Pháp, Anh, Phạn, Tạng, Hàn, Nhật, Trung và Việt.</p><a class="update-link" href="/vi/databases/multilingual-buddhist-art-dictionary.html">Khám phá từ điển →</a></div>
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/tabotap-pulguksa-vignette.png" alt="Tabot'ap tại chùa Pulguksa, Kyŏngju" loading="lazy">
