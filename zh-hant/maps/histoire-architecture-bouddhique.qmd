@@ -30,8 +30,8 @@ format:
       <div class="hab-map-head">
         <div class="hab-section-head">
           <div class="hab-kicker" data-hab-map-copy="kicker">專題地理</div>
-          <h2 id="hab-sites-map-title" data-hab-map-copy="title">文中所述遺址互動地圖</h2>
-          <p data-hab-map-copy="intro">在地圖上探索本文提到的建築、寺院、考古遺址、石窟與神聖景觀。同一寺院範圍內的多座建築合併為同一地點。</p>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">佛教建築遺址互動地圖</h2>
+          <p data-hab-map-copy="intro">在地圖上探索印度、中國、韓國、日本與越南的建築、寺院、考古遺址、石窟與神聖景觀。同一寺院範圍內的多座建築合併為同一地點。</p>
         </div>
         <div class="hab-map-count" id="buddhist-architecture-sites-count">46處</div>
       </div>
