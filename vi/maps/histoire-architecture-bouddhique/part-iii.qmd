@@ -12,7 +12,7 @@ Ban đầu, tu viện và stūpa đáp ứng hai logic khác nhau: tu viện dà
 
 Những tu viện hang động ở miền Tây Ấn Độ cho thấy rõ sự phân biệt giữa cư trú và thờ phụng. Vihāra phục vụ cộng đồng tu sĩ, với các tăng phòng mở quanh một không gian chung dùng cho họp, học và thiền. Caitya lại được tổ chức quanh stūpa để hành lễ tập thể. Trong các hang, mặt bằng thường kéo dài theo trục: gian chính dẫn tới stūpa ở cuối, còn hàng cột tạo lối nhiễu quanh tháp. Nghi lễ trực tiếp định hình kiến trúc: không gian không chỉ chứa người mà còn dẫn chuyển động, hướng ánh nhìn và quy định quan hệ với stūpa. Hàng trăm tổ hợp hang ở Deccan cho thấy Phật giáo có thể biến địa hình tự nhiên thành kiến trúc tu viện hoàn chỉnh. Đồng thời, chúng nhắc rằng “tu viện” không phải một tòa nhà đơn lẻ mà là một hệ thống gồm ở, học, thiền, tiếp khách và thờ phụng. Khi sang Trung Quốc, các chức năng này sẽ được phân phối lại trong tháp gỗ, điện Phật, giảng đường và tăng xá.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-2-vi.webp" alt="Caitya và vihāra: hai chức năng bổ sung" loading="lazy" decoding="async"></figure>
 
 ### 3. Phật giáo truyền vào Trung Quốc {#iii-3}
 

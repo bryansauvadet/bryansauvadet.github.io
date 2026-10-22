@@ -12,7 +12,7 @@
 
 印度西部石窟寺院最清楚展示禮拜空間與居住空間的差異。毘訶羅以僧眾生活為主，僧房圍繞共同大廳布置；支提則以窣堵波為中心，用於集體禮拜。石窟支提通常採縱深平面：中軸通往後方佛塔，柱列外側形成繞行通道。儀式直接決定平面，空間不只是容納人群，更引導視線與身體移動，規定人與佛塔的關係。德干地區大量石窟顯示，佛教能將天然山體轉變為複合僧院建築。它也說明「僧院」並非一棟單體，而是居住、學習、禪修、接待與禮拜等多種功能的系統。到了中國，這些功能將在木構塔、佛殿、講堂與僧房之間重新分配。
 
-<div class="hab-illustration-slot">圖像待補</div>
+<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-2-zh-hant.webp" alt="支提與毘訶羅：兩種互補的功能" loading="lazy" decoding="async"></figure>
 
 ### 3. 佛教傳入中國 {#iii-3}
 
