@@ -35,7 +35,7 @@ miracles:{fr:"Manifestation miraculeuse et affirmation de la puissance éveillé
 blessing:{fr:"Bénédiction ou explication d’un enseignement.",en:"Blessing or explication of a teaching.",ko:"가피 또는 가르침의 해설.",ja:"加持、または教えの解説。","zh-hant":"加持或教法解說。",vi:"Gia trì hoặc giảng giải giáo pháp."},
 amidaMeditation:{fr:"Concentration méditative d’Amitābha.",en:"Amitabha’s meditative concentration.",ko:"아미타불의 선정.",ja:"阿弥陀の禅定。","zh-hant":"阿彌陀佛的禪定。",vi:"Thiền định của Phật A Di Đà."},
 preaching:{fr:"Prédication et transmission de l’enseignement.",en:"Preaching and transmission of the teaching.",ko:"설법과 가르침의 전승.",ja:"説法と教えの伝達。","zh-hant":"說法與教法傳授。",vi:"Thuyết pháp và truyền trao giáo pháp."},
-essence:{fr:"Sceau de l’essence de l’Éveil, associé à Vairocana.",en:"Seal of the essence of enlightenment, associated with Vairochana.",ko:"비로자나불과 관련된 깨달음의 본질을 나타내는 인.",ja:"大日如来に結びつく覚りの本質の印。","zh-hant":"與毘盧遮那佛相關的覺悟本質之印。",vi:"Ấn biểu thị bản thể giác ngộ, gắn với Đại Nhật Như Lai."},
+essence:{fr:"Geste exprimant l’essence de l’Éveil, associé à Vairocana.",en:"Seal of the essence of enlightenment, associated with Vairochana.",ko:"비로자나불과 관련된 깨달음의 본질을 나타내는 인.",ja:"大日如来に結びつく覚りの本質の印。","zh-hant":"與毘盧遮那佛相關的覺悟本質之印。",vi:"Ấn biểu thị bản thể giác ngộ, gắn với Đại Nhật Như Lai."},
 vajraUnion:{fr:"Union indissociable de la méthode et de la sagesse dans l’iconographie tantrique.",en:"Indivisible union of method and wisdom in tantric iconography.",ko:"탄트라 도상에서 방편과 지혜의 불가분한 결합.",ja:"密教図像における方便と智慧の不可分の結合。","zh-hant":"密教圖像中方便與智慧不可分的結合。",vi:"Sự hợp nhất bất khả phân của phương tiện và trí tuệ trong hình tượng Mật giáo."},
 subjugation:{fr:"Subjugation des forces hostiles dans un contexte tantrique.",en:"Subjugation of hostile forces in a tantric context.",ko:"밀교적 맥락에서 적대적 힘을 조복함.",ja:"密教的文脈における障碍・敵対力の調伏。","zh-hant":"密教脈絡中對障礙與敵對力量的降伏。",vi:"Hàng phục các lực cản trong bối cảnh Mật giáo."},
 flame:{fr:"Geste dynamique associé à certaines ḍākinī et cycles tantriques.",en:"Dynamic gesture associated with certain dakinis and tantric cycles.",ko:"일부 다키니와 탄트라 의궤에 관련된 역동적 수인.",ja:"一部のダーキニーと密教儀軌に関わる動的な印。","zh-hant":"與部分空行母及密續儀軌相關的動態手印。",vi:"Thủ thế động gắn với một số ḍākinī và chu kỳ tantra."},
@@ -200,7 +200,7 @@ const supplementalEntries=[
   contextText:L("Geste transversal aux traditions méditatives indiennes ; à distinguer des emplois iconographiques spécifiquement bouddhiques.","Shared across Indian meditative traditions; distinguish from specifically Buddhist iconographic uses.","인도 명상 전통 전반에 걸쳐 나타나며 불교 도상 용례와 구분해야 한다.","インドの瞑想伝統に広く見られ、仏教図像上の用法とは区別が必要。","廣見於印度冥想傳統，需與特定佛教圖像用法區分。","Phổ biến trong các truyền thống thiền Ấn Độ; cần phân biệt với cách dùng riêng trong hình tượng Phật giáo.")},
  {id:"sarvatathagata",canonical:"Sarvatathāgatajñāna-mudrā",names:L("Sceau de la connaissance de tous les Tathāgata","Seal of the knowledge of all Tathagatas","일체여래지인 · 一切如來智印","一切如来智印","一切如來智印","Nhất thiết Như Lai trí ấn"),category:"tantric",tradition:"vajrayana",
   meaningText:L("Connaissance de l’ensemble des Tathāgata dans l’ésotérisme bouddhique.","Knowledge of all Tathagatas in esoteric Buddhism.","밀교에서 일체여래의 지혜를 상징한다.","密教で一切如来の智慧を象徴する。","密教中象徵一切如來之智慧。","Biểu trưng trí của tất cả Như Lai trong Mật giáo."),
-  gestureText:L("Sceau ésotérique codifié ; sa forme doit être lue dans son mandala et son rituel.","A codified esoteric seal whose form must be read in its mandala and ritual context.","만다라와 의례 맥락에서 판독해야 하는 밀교 인계.","曼荼羅と儀礼の文脈で読むべき密教の印。","需在曼荼羅與儀軌脈絡中判讀的密教手印。","Ấn Mật giáo có quy phạm, cần đọc trong bối cảnh maṇḍala và nghi quỹ."),
+  gestureText:L("Geste ésotérique codifié ; sa forme doit être lue dans son maṇḍala et son rituel.","A codified esoteric seal whose form must be read in its mandala and ritual context.","만다라와 의례 맥락에서 판독해야 하는 밀교 인계.","曼荼羅と儀礼の文脈で読むべき密教の印。","需在曼荼羅與儀軌脈絡中判讀的密教手印。","Ấn Mật giáo có quy phạm, cần đọc trong bối cảnh maṇḍala và nghi quỹ."),
   contextText:L("Associé notamment au mandala de la Matrice dans l’ésotérisme est-asiatique.","Associated especially with the Womb Realm Mandala in East Asian esotericism.","동아시아 밀교의 태장계 만다라와 관련된다.","東アジア密教の胎蔵界曼荼羅などに関わる。","尤與東亞密教胎藏界曼荼羅相關。","Đặc biệt liên hệ với Thai Tạng giới maṇḍala trong Mật giáo Đông Á.")},
  {id:"kataka",canonical:"Kataka-mudrā",names:L("Geste de saisie / tenue","Holding gesture","카타카 수인","持物印","持物印","Ấn cầm giữ"),category:"regional",tradition:"pan",
   meaningText:L("Tenue d’un attribut, d’une fleur ou d’une offrande.","Holding an attribute, flower, or offering.","지물·꽃·공양물을 드는 손짓.","持物・花・供物を持つ手勢。","持握法器、花或供物的手勢。","Thủ thế cầm pháp khí, hoa hoặc vật cúng."),
@@ -220,6 +220,44 @@ const supplementalEntries=[
   contextText:L("Entrée comparative : usage transversal à plusieurs traditions indiennes, y compris certains contextes bouddhiques.","Comparative entry: shared across several Indian traditions, including some Buddhist contexts.","비교 항목으로 여러 인도 전통과 일부 불교 맥락에 걸쳐 사용된다.","比較項目として複数のインド伝統、一部の仏教文脈にまたがる。","比較性條目，跨越多種印度傳統及部分佛教脈絡。","Mục so sánh, dùng trong nhiều truyền thống Ấn Độ, kể cả một số bối cảnh Phật giáo.")}
 ];
 entries.push(...supplementalEntries);
+
+// Nomenclature française normalisée : tous les intitulés utilisent « Geste de… »
+// dans les cartes, les titres de fiches et la colonne française des tableaux.
+const FR_NAMES={
+ abhaya:"Geste d’absence de crainte",
+ varada:"Geste de don",
+ bhumisparsha:"Geste de prise de la terre à témoin",
+ dhyana:"Geste de méditation",
+ dharmachakra:"Geste de mise en mouvement de la roue du Dharma",
+ vitarka:"Geste d’exposition de l’enseignement",
+ anjali:"Geste d’hommage",
+ raigo:"Geste d’accueil d’Amida",
+ miracles:"Geste de manifestation miraculeuse",
+ blessing:"Geste de bénédiction et d’explication",
+ "mida-join":"Geste de méditation d’Amida",
+ "seppo-in":"Geste de prédication",
+ "vajra-wisdom":"Geste de l’essence de l’Éveil",
+ "vajra-embrace":"Geste d’étreinte vajra",
+ "demon-subduing":"Geste de subjugation des démons",
+ flaming:"Geste d’expulsion des obstacles",
+ nagaraja:"Geste de renoncement bouddhique",
+ tarjani:"Geste de menace courroucée",
+ embrace:"Geste de bienveillance et de compassion",
+ humkara:"Geste de l’éveil suprême",
+ "mandala-offering":"Geste d’offrande du maṇḍala",
+ mahakaruna:"Geste de grande compassion",
+ patra:"Geste de la paume ouverte",
+ vismaya:"Geste d’émerveillement",
+ jnana:"Geste de connaissance",
+ sarvatathagata:"Geste de connaissance de tous les Tathāgata",
+ kataka:"Geste de saisie",
+ gajahasta:"Geste de la trompe d’éléphant",
+ lalitakshepa:"Geste de détente gracieuse",
+ yoga:"Geste de concentration yogique"
+};
+entries.forEach(e=>{
+ if(FR_NAMES[e.id]) e.names={...(e.names||{}),fr:FR_NAMES[e.id]};
+});
 
 
 const commonsFile=name=>"https://commons.wikimedia.org/wiki/Special:Redirect/file/"+encodeURIComponent(name)+"?width=1200";
