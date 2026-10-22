@@ -177,8 +177,8 @@ format:
       <div class="hab-map-head">
         <div class="hab-section-head">
           <div class="hab-kicker" data-hab-map-copy="kicker">Géographie du dossier</div>
-          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Carte interactive des sites cités</h2>
-          <p data-hab-map-copy="intro">Explorez les monuments, monastères, sites archéologiques, grottes et paysages sacrés mentionnés dans le dossier. Les monuments appartenant à une même enceinte sont regroupés sous un même point.</p>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Carte interactive des sites bouddhiques</h2>
+          <p data-hab-map-copy="intro">Explorez les monuments, monastères, sites archéologiques, grottes et paysages sacrés à travers l’Inde, la Chine, la Corée, le Japon et le Vietnam. Les monuments appartenant à une même enceinte sont regroupés sous un même point.</p>
         </div>
         <div class="hab-map-count" id="buddhist-architecture-sites-count">46 sites</div>
       </div>
