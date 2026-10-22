@@ -18,7 +18,6 @@ format:
 <div class="hab-kicker">Chuyên đề trực quan · Ấn Độ · Trung Quốc · Triều Tiên · Nhật Bản · Việt Nam</div>
 <h1>Lịch sử kiến trúc Phật giáo</h1>
 <p class="hab-lead">Từ tu viện và stūpa ở Ấn Độ đến sự biến đổi của tháp tại Trung Quốc, rồi những phát triển riêng ở Triều Tiên, Nhật Bản và Việt Nam: một lịch sử so sánh về hình thức, công năng, vật liệu và cảnh quan thiêng của kiến trúc Phật giáo.</p>
-<p class="hab-note">Các phần I–V lấy bản dịch tiếng Pháp của <em>사찰과 불탑 이야기</em> làm khung chính. Phần VI–VII mở rộng sang Nhật Bản và Việt Nam dựa trên các nguồn di sản bổ sung. Phần VIII so sánh năm truyền thống khu vực.</p>
 <div class="hab-stats"><div><strong>8</strong><span>phần lớn</span></div><div><strong>69</strong><span>mục nhỏ</span></div><div><strong>5</strong><span>truyền thống khu vực</span></div></div>
 </div><div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="" loading="eager" decoding="async"></div></div></div></section>
 <section class="hab-intro" id="introduction"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">Mở đầu</div><h2>Đọc kiến trúc Phật giáo trong thời gian và không gian</h2><p>Một tôn giáo di chuyển dễ hơn một công trình kiến trúc. Kinh điển, xá-lợi, tượng và nghi lễ có thể vượt qua hàng nghìn kilômét; kiến trúc thì phải được dựng lại bằng vật liệu, kỹ thuật, khí hậu và truyền thống xây dựng của từng vùng. Vì vậy, trang này không theo dõi sự lan truyền của một “phong cách” duy nhất, mà khảo sát cách những chức năng căn bản — sống cộng đồng, gìn giữ xá-lợi, làm hiện diện Đức Phật, giảng dạy, hành lễ và tổ chức dòng di chuyển của tín đồ — được chuyển dịch từ nơi này sang nơi khác.</p><p>Hành trình bắt đầu ở Ấn Độ với sự hình thành của tu viện và stūpa, tiếp tục với sự kết hợp của hai yếu tố này và quá trình stūpa trở thành tháp tại Trung Quốc, rồi khảo sát những phát triển riêng tại Triều Tiên, Nhật Bản và Việt Nam. Mỗi mục nhỏ được thiết kế như một mô-đun độc lập để có thể bổ sung một minh họa hoàn chỉnh.</p></div></div></section>
@@ -36,8 +35,8 @@ format:
       <div class="hab-map-head">
         <div class="hab-section-head">
           <div class="hab-kicker" data-hab-map-copy="kicker">Địa lý của chuyên đề</div>
-          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Bản đồ tương tác các địa điểm được nhắc đến</h2>
-          <p data-hab-map-copy="intro">Khám phá các di tích, tự viện, địa điểm khảo cổ, hang động và cảnh quan thiêng được nhắc trong chuyên đề. Các công trình nằm trong cùng một khuôn viên được gộp vào một điểm.</p>
+          <h2 id="hab-sites-map-title" data-hab-map-copy="title">Bản đồ tương tác các địa điểm Phật giáo</h2>
+          <p data-hab-map-copy="intro">Khám phá trên bản đồ các di tích, tự viện, địa điểm khảo cổ, hang động và cảnh quan thiêng tại Ấn Độ, Trung Quốc, Triều Tiên, Nhật Bản và Việt Nam. Các công trình nằm trong cùng một khuôn viên được gộp vào một điểm.</p>
         </div>
         <div class="hab-map-count" id="buddhist-architecture-sites-count">46 địa điểm</div>
       </div>
