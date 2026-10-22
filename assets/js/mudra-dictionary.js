@@ -259,6 +259,13 @@ entries.forEach(e=>{
  if(FR_NAMES[e.id]) e.names={...(e.names||{}),fr:FR_NAMES[e.id]};
 });
 
+replaceEntry("raigo",{
+ canonical:"Raigō-in · 来迎印",
+ names:L("Geste d’accueil d’Amida","Gesture of Amida’s welcome","내영인 · 來迎印","来迎印 · raigō-in","來迎印","Lai nghinh ấn"),
+ category:"regional",tradition:"japan",meaning:"welcome",gesture:"raigo",context:"amida",
+ meaningText:null,gestureText:null,contextText:null
+});
+
 
 const commonsFile=name=>"https://commons.wikimedia.org/wiki/Special:Redirect/file/"+encodeURIComponent(name)+"?width=1200";
 const commonsPage=name=>"https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(name.replace(/ /g,"_"));
@@ -498,8 +505,21 @@ const empty=document.getElementById("mudra-empty");
 const dialog=document.getElementById("mudra-dialog");
 const dialogContent=document.getElementById("mudra-dialog-content");
 
-function showEntry(index){
+function setMudraHash(id){
+ history.replaceState(null,"",location.pathname+location.search+"#mudra="+encodeURIComponent(id));
+}
+function clearMudraHash(){
+ if(location.hash.startsWith("#mudra=")) history.replaceState(null,"",location.pathname+location.search);
+}
+function closeEntry(){
+ if(dialog.open) dialog.close();
+ clearMudraHash();
+}
+function showEntry(index,{syncHash=true}={}){
  const e=entries[index];
+ if(!e)return;
+ if(dialog.open)dialog.close();
+ if(syncHash)setMudraHash(e.id);
  dialogContent.innerHTML=`<div class="mudra-dialog-shell">
  <button class="mudra-dialog-close" type="button" aria-label="${UI.close}">×</button>
  <div class="mudra-dialog-copy">
@@ -519,10 +539,19 @@ function showEntry(index){
    </div>
   </div>
  </div></div>`;
- dialogContent.querySelector(".mudra-dialog-close").addEventListener("click",()=>dialog.close());
+ dialogContent.querySelector(".mudra-dialog-close").addEventListener("click",closeEntry);
  dialog.showModal();
 }
-dialog.addEventListener("click",e=>{if(e.target===dialog)dialog.close();});
+dialog.addEventListener("click",e=>{if(e.target===dialog)closeEntry();});
+dialog.addEventListener("cancel",()=>clearMudraHash());
+
+function openEntryFromHash(){
+ const match=location.hash.match(/^#mudra=(.+)$/);
+ if(!match)return;
+ const id=decodeURIComponent(match[1]);
+ const index=entries.findIndex(e=>e.id===id);
+ if(index>=0)showEntry(index,{syncHash:false});
+}
 
 function render(list){
  grid.innerHTML=list.map(({e,index},i)=>`<button class="mudra-card" type="button" data-index="${index}">
@@ -557,5 +586,7 @@ search.addEventListener("input",apply);
 category.addEventListener("change",apply);
 tradition.addEventListener("change",apply);
 reset.addEventListener("click",()=>{search.value="";category.value="";tradition.value="";apply();search.focus();});
+window.addEventListener("hashchange",openEntryFromHash);
 render(entries.map((e,index)=>({e,index})));
+openEntryFromHash();
 })();
