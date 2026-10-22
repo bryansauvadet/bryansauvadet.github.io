@@ -1,0 +1,42 @@
+---
+title: "Rice University, Houston, Texas"
+lang: fr
+format:
+  html:
+    include-before-body: _includes/fr-header.html
+    include-after-body: _includes/fr-footer.html
+---
+<section class="page-hero"><h1>Rice University, Houston, Texas</h1><p class="lead">Houston, Texas · United States</p></section>
+<main class="content"><div class="content-inner fieldwork-story rice-story">
+
+<figure class="fieldwork-hero"><img src="/assets/images/rice-02.webp" alt="Rice University, Houston" loading="eager"><figcaption>Avec des membres de l’équipe de Rice University : un séjour placé sous le signe de l’enseignement, de la recherche et des échanges.</figcaption></figure>
+
+<p class="lead">Ce séjour à Rice University a constitué l’un des moments les plus stimulants de mon voyage aux États-Unis. Invité par les professeurs <strong>Shih-shan Susan Huang</strong> et <strong>Eric Huntington</strong>, j’ai eu la chance d’intervenir comme enseignant invité dans deux séminaires qui correspondaient directement à mes recherches sur les cultures visuelles et matérielles du bouddhisme en Asie orientale. Au-delà des cours eux-mêmes, j’ai surtout trouvé à Rice un environnement intellectuel remarquablement ouvert, où l’histoire de l’art, les études bouddhiques, l’histoire des religions et les études transnationales pouvaient véritablement dialoguer.</p>
+
+<p>Dans le séminaire <em>Art et patrimoine de l’Asie orientale</em> de Susan Huang, j’ai présenté plusieurs séances consacrées à l’histoire de l’art de la Corée et du Viêt Nam. C’était pour moi l’occasion de replacer ces deux traditions dans une histoire de l’Asie orientale qui ne soit pas organisée uniquement autour de la Chine et du Japon : montrer les circulations de formes, de techniques, d’objets et de modèles religieux, mais aussi les transformations locales qui donnent à chaque tradition sa cohérence propre.</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/rice-05.webp" alt="Rice University campus" loading="lazy"><figcaption>Le campus de Rice University, dont l’architecture de brique et de pierre compose un paysage universitaire immédiatement reconnaissable.</figcaption></figure>
+
+<p>Dans le séminaire <em>Buddhism and Gender</em> d’Eric Huntington, j’ai développé un autre aspect essentiel de mes recherches : le rôle des femmes dans la commande des œuvres d’art bouddhiques en Corée. J’ai voulu déplacer le regard depuis l’objet seul vers les personnes qui le rendent possible : reines, femmes de cour, religieuses ou laïques apparaissent alors comme des actrices de la production artistique, capables d’orienter les choix iconographiques, les usages rituels et la mémoire attachée aux images.</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-06.webp" alt="Rice University visit" loading="lazy"><figcaption>Un souvenir plus personnel du séjour, au cœur du campus de Rice.</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-07.webp" alt="Rice University architecture" loading="lazy"><figcaption>Les arcades de Rice : l’architecture du campus accompagne constamment la vie intellectuelle quotidienne.</figcaption></figure></div>
+
+<p>Ces interventions ont pris tout leur sens dans les discussions avec les étudiants et avec l’équipe enseignante. Enseigner à Rice ne consistait pas simplement à transmettre un contenu déjà préparé : les questions posées obligeaient à reformuler certains problèmes, à préciser les comparaisons entre Corée, Viêt Nam, Chine et Japon, et à réfléchir à la manière dont l’histoire de l’art peut dialoguer avec l’histoire religieuse et sociale.</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-01.webp" alt="Teaching at Rice University" loading="lazy"><figcaption>Présentation consacrée aux sanctuaires de Guān Yǔ au Viêt Nam dans le cadre de l’enseignement sur l’histoire de l’art vietnamien.</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-04.webp" alt="Teaching Vietnamese art history at Rice University" loading="lazy"><figcaption>Discussion autour du đền Độc Lôi Sơn à Nghệ An et de ses ensembles peints.</figcaption></figure></div>
+
+<p>Le cadre institutionnel rendait ces échanges particulièrement féconds. Rice est une université privée de recherche dont la charte remonte à 1891 et qui ouvrit ses portes en 1912 sous la présidence d’Edgar Odell Lovett. Installée sur un vaste campus arboré au cœur de Houston, elle occupe aujourd’hui une place majeure dans l’enseignement supérieur américain : en 2026, <a href="https://news.rice.edu/news/2026/rice-rises-no-16-us-news-rankings-engineering-business-programs-climb" target="_blank" rel="noopener">U.S. News &amp; World Report la classe au 16e rang national</a>, avec des positions particulièrement fortes pour la qualité de l’enseignement et la valeur de la formation.</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/rice-09.webp" alt="Seminar classroom at Rice University" loading="lazy"><figcaption>Vue d’ensemble du séminaire : un enseignement fondé sur la discussion autant que sur les images.</figcaption></figure>
+
+<p>Houston formait également un contexte particulièrement pertinent pour parler d’Asie. Les travaux récents du Kinder Institute de Rice montrent qu’en 2023 les populations asiatiques représentaient environ 9,9 % de la région métropolitaine élargie, soit plus de 655 000 personnes appartenant à au moins vingt-quatre groupes d’origine différents. Les communautés indienne, vietnamienne et chinoise ou taïwanaise y sont particulièrement importantes ; la population vietnamienne dépasse à elle seule 140 000 personnes dans les quatre comtés étudiés. Cette présence donne aux études asiatiques à Houston une profondeur sociale qui dépasse largement le seul cadre universitaire.</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/rice-08.webp" alt="Guest teaching at Rice University" loading="lazy"><figcaption>Enseigner à partir des images : relier objets, pratiques religieuses, lieux et communautés.</figcaption></figure><figure class="figure-item"><img src="/assets/images/rice-03.webp" alt="Rice University colleagues" loading="lazy"><figcaption>Un moment informel partagé avec des collègues pendant le séjour.</figcaption></figure></div>
+
+<p>Cette articulation entre recherche académique et réalités transnationales est précisément au cœur du <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener"><strong>Department of Transnational Asian Studies</strong></a>. Le département réunit des approches venues de l’histoire, de l’histoire de l’art, des études religieuses, de la littérature, des langues et des sciences sociales, en dialogue étroit avec le Chao Center for Asian Studies. Pour un chercheur travaillant sur les circulations artistiques et religieuses en Asie orientale, cet environnement était particulièrement stimulant.</p>
+
+<p>Je tiens enfin à remercier très chaleureusement Susan Huang et Eric Huntington pour leur invitation, leur confiance et la générosité de nos échanges. Rien de ce séjour n’aurait été possible sans eux. Mes remerciements vont également à toute l’équipe enseignante et à l’ensemble de la <em>team</em> du Transnational Asian Studies pour leur accueil. À la fin de ce voyage aux États-Unis, c’est probablement ce qui me reste le plus fortement : le sentiment d’avoir été reçu non comme un simple visiteur, mais comme un collègue avec qui penser, enseigner et discuter.</p>
+
+<div class="fieldwork-notes"><h2>Repères</h2><p><strong>Université :</strong> Rice University, Houston, Texas.<br><strong>Fondation :</strong> charte en 1891 ; ouverture en 1912.<br><strong>Département :</strong> <a href="https://asianstudies.rice.edu/" target="_blank" rel="noopener">Department of Transnational Asian Studies</a>.<br><strong>Enseignements :</strong> <em>Art et patrimoine de l’Asie orientale</em> ; <em>Buddhism and Gender</em>.<br><strong>Invitation :</strong> Shih-shan Susan Huang et Eric Huntington.</p></div>
+
+</div></main>
