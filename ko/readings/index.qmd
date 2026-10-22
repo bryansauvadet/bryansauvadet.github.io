@@ -13,6 +13,14 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">불교미술사, 불교, 아시아사, 고고학, 건축을 더 깊이 이해하기 위해 읽을 가치가 있는 책들을 소개합니다.</p>
 <div class="reading-list"><div class="reading-list-grid">
+<a class="reading-book-card" href="/ko/readings/buddhist-pilgrim-monks.html">
+<div class="reading-book-cover"><img src="https://nuspress.nus.edu.sg/cdn/shop/products/Buddhist_Pilg_cvr_final_hires.jpg?v=1516265905" alt="Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission 표지" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">동아시아 불교미술 · 교류 · Tang · Nara · 668년 이후의 Silla</div>
+<h2>Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission</h2>
+<p class="reading-book-author">Dorothy C. Wong · NUS Press · 2018</p>
+<p>순례승, 대사찰, 왕실을 통해 645–770년 무렵 불교미술의 형식이 어떻게 이동하고 변형되며 ‘국제적’ 언어가 되었는지를 보여 준다.</p>
+<span class="reading-book-link">서평 읽기 →</span>
+</a>
 <a class="reading-book-card" href="/ko/readings/choson-buddhist-painting.html">
 <div class="reading-book-cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="조선의 불교회화" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">조선 불교회화 · 의례 · 삼단 · 사찰 공간</div>
