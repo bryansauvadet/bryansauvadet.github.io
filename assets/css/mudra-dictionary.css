@@ -40,13 +40,13 @@
 .mudra-empty{padding:28px;border:1px solid var(--line);background:var(--paper-2);font-size:13px;color:#645d55}
 .mudra-dialog{width:min(920px,calc(100vw - 32px));max-height:88vh;padding:0;border:1px solid #cfc4b5;background:#fff;box-shadow:0 22px 70px rgba(40,31,22,.22)}
 .mudra-dialog::backdrop{background:rgba(32,27,22,.42)}
-.mudra-dialog-shell{position:relative;display:grid;grid-template-columns:minmax(360px,43%) minmax(0,1fr);min-height:560px}
+.mudra-dialog-shell{position:relative;display:block;min-height:0}
 .mudra-dialog-visual{display:flex;align-items:center;justify-content:center;background:#f2ede5;border-right:1px solid var(--line);color:#66523a;padding:32px}
-.mudra-dialog-copy{padding:38px 38px 34px;overflow:auto}
+.mudra-dialog-copy{padding:38px 42px 40px;overflow:auto}
 .mudra-dialog-close{position:absolute;right:14px;top:12px;width:34px;height:34px;border:1px solid #d7cec2;background:#fff;cursor:pointer;font:20px/1 Arial,sans-serif;color:#544b42;z-index:2}
 .mudra-dialog-kicker{margin:0 0 7px;font:10px/1.3 Arial,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-dark)}
-.mudra-dialog h2{font-size:34px;line-height:1.15;font-weight:400;margin:0 0 4px}
-.mudra-dialog-local{margin:0 0 26px;color:#71685e;font-size:13px}
+.mudra-dialog h2{font-size:34px;line-height:1.15;font-weight:400;margin:0 0 6px}
+.mudra-dialog-local{margin:0 0 24px;color:#6b6258;font-size:13px;line-height:1.5}
 .mudra-detail-row{padding:15px 0;border-top:1px solid #e5ddd2}
 .mudra-detail-row:first-of-type{border-top:0}
 .mudra-detail-label{display:block;margin-bottom:6px;font:9.5px/1.3 Arial,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:#7b7166}
@@ -54,7 +54,7 @@
 .mudra-source a{text-decoration:underline;text-underline-offset:3px;color:var(--accent-dark)}
 .mudra-source-note{margin-top:32px;padding-top:20px;border-top:1px solid var(--line);font-size:11.5px;line-height:1.65;color:#71695f}
 @media(max-width:980px){.mudra-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.mudra-toolbar{grid-template-columns:1fr 1fr}.mudra-reset{width:100%}}
-@media(max-width:700px){.mudra-dictionary-page{padding-top:26px;padding-bottom:58px}.mudra-toolbar{grid-template-columns:1fr}.mudra-grid{grid-template-columns:1fr}.mudra-figure{height:280px}.mudra-results-head{align-items:flex-start;flex-direction:column;gap:4px}.mudra-dialog-shell{grid-template-columns:1fr}.mudra-dialog-visual{height:330px;min-height:330px;border-right:0;border-bottom:1px solid var(--line);padding:0}.mudra-dialog-copy{padding:26px 22px 28px}.mudra-dialog h2{font-size:28px}}
+@media(max-width:700px){.mudra-dictionary-page{padding-top:26px;padding-bottom:58px}.mudra-toolbar{grid-template-columns:1fr}.mudra-grid{grid-template-columns:1fr}.mudra-figure{height:280px}.mudra-results-head{align-items:flex-start;flex-direction:column;gap:4px}.mudra-dialog-copy{padding:26px 20px 28px}.mudra-dialog h2{font-size:28px}.mudra-lexicon th{width:118px;padding:8px}.mudra-lexicon td{padding:8px}.mudra-example-grid{grid-template-columns:1fr}.mudra-example-image{width:100%;max-width:260px}.mudra-example-image .mudra-full-image{height:auto;max-height:220px}}
 
 .mudra-photo-crop{position:absolute;inset:0;overflow:hidden;background:#ddd6cc}
 .mudra-photo-crop img{display:block;position:absolute;max-width:none!important;max-height:none!important;object-fit:initial;filter:saturate(.92) contrast(1.02);transition:filter .2s ease}
@@ -65,3 +65,16 @@
 .mudra-license-note{margin-top:6px!important;font-size:10.5px!important;line-height:1.5!important;color:#786f65!important}
 .mudra-full-work{margin-top:20px;padding-top:18px;border-top:1px solid #e5ddd2}
 .mudra-full-image{display:block;width:100%;max-height:430px;object-fit:contain;background:#f5f1ea;border:1px solid var(--line)}
+
+.mudra-lexicon{margin:0 0 28px}
+.mudra-lexicon h3,.mudra-example-copy h3{margin:0 0 10px;font-size:16px;line-height:1.35;font-weight:500}
+.mudra-lexicon table{width:100%;border-collapse:collapse;border:1px solid #ded5c9;background:#fff}
+.mudra-lexicon th,.mudra-lexicon td{padding:9px 11px;border-bottom:1px solid #e6ded3;vertical-align:top;text-align:left}
+.mudra-lexicon tr:last-child th,.mudra-lexicon tr:last-child td{border-bottom:0}
+.mudra-lexicon th{width:170px;background:#f7f3ed;font:9.5px/1.35 Arial,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#71675c}
+.mudra-lexicon td{font-size:13px;line-height:1.5;color:#312d28}
+.mudra-example{margin-top:8px;padding-top:18px;border-top:1px solid #e5ddd2}
+.mudra-example-grid{display:grid;grid-template-columns:220px minmax(0,1fr);gap:20px;align-items:start;margin-top:9px}
+.mudra-example-image{display:block;width:220px;max-width:100%;border:1px solid var(--line);background:#f5f1ea;text-decoration:none}
+.mudra-example-image .mudra-full-image{display:block;width:100%;height:170px;object-fit:contain;background:#f5f1ea;border:0}
+.mudra-example-copy p{margin:0;font-size:12.5px;line-height:1.65;color:#403a34}
