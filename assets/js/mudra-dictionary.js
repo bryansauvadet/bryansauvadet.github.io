@@ -303,6 +303,24 @@ lalitakshepa:{sa:"Lalitakṣepa-mudrā",han:"優美垂手印",ja:"yūbi suishu-i
 yoga:{sa:"Yoga-mudrā",han:"瑜伽印",ja:"yuga-in",py:"yújiā yìn"}
 };
 
+const READINGS={
+abhaya:{ko:"시무외인",vi:"Thí vô úy ấn"},varada:{ko:"여원인",vi:"Dữ nguyện ấn"},
+bhumisparsha:{ko:"촉지인",vi:"Xúc địa ấn"},dhyana:{ko:"선정인",vi:"Thiền định ấn"},
+dharmachakra:{ko:"전법륜인",vi:"Chuyển pháp luân ấn"},vitarka:{ko:"설법인",vi:"Thuyết pháp ấn"},
+anjali:{ko:"합장인",vi:"Hiệp chưởng ấn"},raigo:{ko:"내영인",vi:"Lai nghinh ấn"},
+miracles:{ko:"신변시현인",vi:"Thần biến thị hiện ấn"},blessing:{ko:"가지인",vi:"Gia trì ấn"},
+"mida-join":{ko:"미타정인",vi:"Di Đà định ấn"},"seppo-in":{ko:"설법인",vi:"Thuyết pháp ấn"},
+"vajra-wisdom":{ko:"지권인",vi:"Trí quyền ấn"},"vajra-embrace":{ko:"금강포옹인",vi:"Kim cương bão ủng ấn"},
+"demon-subduing":{ko:"항마조복인",vi:"Hàng ma điều phục ấn"},flaming:{ko:"가라나인",vi:"Ca-la-nã ấn"},
+nagaraja:{ko:"불교사문인",vi:"Phật giáo sa-môn ấn"},tarjani:{ko:"분노지시인",vi:"Phẫn nộ chỉ thị ấn"},
+embrace:{ko:"자비인",vi:"Từ bi ấn"},humkara:{ko:"최상보리인",vi:"Tối thượng bồ-đề ấn"},
+"mandala-offering":{ko:"만다라공양인",vi:"Mạn-đồ-la cúng dường ấn"},mahakaruna:{ko:"대비인",vi:"Đại bi ấn"},
+patra:{ko:"엽인",vi:"Diệp ấn"},vismaya:{ko:"경탄인",vi:"Kinh thán ấn"},jnana:{ko:"지혜인",vi:"Trí tuệ ấn"},
+sarvatathagata:{ko:"일체여래지인",vi:"Nhất thiết Như Lai trí ấn"},kataka:{ko:"지물인",vi:"Trì vật ấn"},
+gajahasta:{ko:"상비인",vi:"Tượng tỵ ấn"},lalitakshepa:{ko:"우미수수인",vi:"Ưu mỹ thùy thủ ấn"},
+yoga:{ko:"유가인",vi:"Du-già ấn"}
+};
+
 const ASSOCIATED={
 abhaya:"Śākyamuni · Bhaiṣajyaguru / Yakushi · Maitreya · Amoghasiddhi",
 varada:"Tathāgata · bodhisattva",
@@ -384,13 +402,14 @@ function localName(e){
  return raw;
 }
 function lex(e){return LEXICON[e.id]||{sa:e.canonical||"—",han:"—",ja:"—",py:"—"};}
-function koReading(e){return String(e.names?.ko||"—").split(" · ")[0];}
+function koReading(e){return READINGS[e.id]?.ko||String(e.names?.ko||"—").split(" · ")[0];}
+function viReading(e){return READINGS[e.id]?.vi||e.names?.vi||"—";}
 function subtitle(e){const l=lex(e);return [l.sa,l.han].filter(Boolean).join(" · ");}
 function lexTable(e){
  const l=lex(e);
  const rows=[
   [TABLE_UI.sa,l.sa],[TABLE_UI.han,l.han],[TABLE_UI.ko,koReading(e)],[TABLE_UI.ja,l.ja],
-  [TABLE_UI.vi,e.names?.vi||"—"],[TABLE_UI.py,l.py],[TABLE_UI.fr,e.names?.fr||"—"],[TABLE_UI.en,e.names?.en||"—"]
+  [TABLE_UI.vi,viReading(e)],[TABLE_UI.py,l.py],[TABLE_UI.fr,e.names?.fr||"—"],[TABLE_UI.en,e.names?.en||"—"]
  ];
  return '<div class="mudra-lexicon"><h3>'+esc(TABLE_UI.title)+'</h3><table><tbody>'+rows.map(([k,v])=>'<tr><th>'+esc(k)+'</th><td>'+esc(v)+'</td></tr>').join("")+'</tbody></table></div>';
 }
@@ -474,7 +493,7 @@ function apply(){
    if(cat&&e.category!==cat)return false;
    if(tr&&e.tradition!==tr)return false;
    if(!q)return true;
-   const l=lex(e); const hay=[e.canonical,localName(e),l.sa,l.han,l.ja,l.py,koReading(e),e.names?.vi,e.names?.fr,e.names?.en,meaning(e),gesture(e),context(e),UI.cats[e.category],UI.trad[e.tradition]].map(norm).join(" ");
+   const l=lex(e); const hay=[e.canonical,localName(e),l.sa,l.han,l.ja,l.py,koReading(e),viReading(e),e.names?.fr,e.names?.en,meaning(e),gesture(e),context(e),UI.cats[e.category],UI.trad[e.tradition]].map(norm).join(" ");
    return hay.includes(q);
  });
  render(list);
