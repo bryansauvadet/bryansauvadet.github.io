@@ -41,6 +41,20 @@ jobs:
           mv /tmp/koryo-choson-court-buddhist-art.jpg assets/images/koryo-choson-court-buddhist-art-20261019.jpg
       - name: Render
         run: quarto render
+
+      - name: Ensure fieldwork image assets
+        shell: bash
+        run: |
+          mkdir -p _site/assets/images
+          for img in assets/images/rice-{01..09}.webp; do
+            test -s "$img"
+            cp -f "$img" _site/assets/images/
+          done
+          for img in _site/assets/images/rice-{01..09}.webp; do
+            test -s "$img"
+            file "$img"
+          done
+
       - name: Ensure global navigation
         run: python3 scripts/ensure_global_header.py
       - uses: actions/configure-pages@v5
