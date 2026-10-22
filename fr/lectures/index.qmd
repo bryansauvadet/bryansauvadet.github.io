@@ -13,14 +13,6 @@ format:
 <main class="content"><div class="content-inner">
 <p class="lead">Une sélection d’ouvrages à lire pour mieux comprendre l’histoire de l’art bouddhique, le bouddhisme, l’histoire de l’Asie, l’archéologie et l’architecture.</p>
 <div class="reading-list"><div class="reading-list-grid">
-<a class="reading-book-card" href="/fr/lectures/buddhist-pilgrim-monks.html">
-<div class="reading-book-cover"><img src="https://nuspress.nus.edu.sg/cdn/shop/products/Buddhist_Pilg_cvr_final_hires.jpg?v=1516265905" alt="Couverture de Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission" loading="lazy" referrerpolicy="no-referrer"></div>
-<div class="reading-book-domain">Art bouddhique d’Asie orientale · circulations · Tang · Nara · Grand Silla</div>
-<h2>Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission</h2>
-<p class="reading-book-author">Dorothy C. Wong · NUS Press · 2018</p>
-<p>Pourquoi les moines voyageurs, les grands monastères et les cours sont essentiels pour comprendre comment les formes bouddhiques circulent, se transforment et deviennent « internationales » entre ca. 645 et 770.</p>
-<span class="reading-book-link">Lire la fiche →</span>
-</a>
 <a class="reading-book-card" href="/fr/lectures/choson-buddhist-painting.html">
 <div class="reading-book-cover"><img src="https://image.yes24.com/goods/126576285/XL" alt="Couverture de 조선의 불교회화" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">Peinture bouddhique coréenne du Chosŏn · rituel · espace monastique</div>
@@ -29,20 +21,28 @@ format:
 <p>Pourquoi les peintures bouddhiques du Chosŏn doivent être étudiées avec les autels, l’architecture et les rituels qui déterminaient leur fonction.</p>
 <span class="reading-book-link">Lire la fiche →</span>
 </a>
-<a class="reading-book-card" href="/fr/lectures/domesticating-the-dharma.html">
-<div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Couverture de Domesticating the Dharma" loading="lazy"></div>
-<div class="reading-book-domain">Bouddhisme coréen · le Silla · Hwaŏm · Cultes et rituels</div>
-<h2>Domesticating the Dharma</h2>
-<p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
-<p>Pourquoi les cultes, les images, les rituels et la sacralisation du territoire expliquent mieux l’implantation du bouddhisme au Silla que le récit classique des « écoles ».</p>
-<span class="reading-book-link">Lire la fiche →</span>
-</a>
 <a class="reading-book-card" href="/fr/lectures/the-dynamic-spread-of-buddhist-print-culture.html">
 <div class="reading-book-cover"><img src="https://asianstudies.rice.edu/sites/g/files/bxs3781/files/inline-images/Buddhist%20Print%20Culture.jpg" alt="Couverture de The Dynamic Spread of Buddhist Print Culture" loading="lazy" referrerpolicy="no-referrer"></div>
 <div class="reading-book-domain">Histoire de l’art bouddhique · Culture de l’imprimé · Histoire de l’Asie</div>
 <h2>The Dynamic Spread of Buddhist Print Culture</h2>
 <p class="reading-book-author">Shih-shan Susan Huang · Brill · 2024</p>
 <p>Pourquoi les imprimés bouddhiques doivent être étudiés comme des objets mobiles, circulant sur des « Buddhist Book Roads » reliant la Chine, l’Asie intérieure et l’Asie orientale.</p>
+<span class="reading-book-link">Lire la fiche →</span>
+</a>
+<a class="reading-book-card" href="/fr/lectures/buddhist-pilgrim-monks.html">
+<div class="reading-book-cover"><img src="https://nuspress.nus.edu.sg/cdn/shop/products/Buddhist_Pilg_cvr_final_hires.jpg?v=1516265905" alt="Couverture de Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission" loading="lazy" referrerpolicy="no-referrer"></div>
+<div class="reading-book-domain">Art bouddhique d’Asie orientale · circulations · Tang · Nara · Grand Silla</div>
+<h2>Buddhist Pilgrim-Monks as Agents of Cultural and Artistic Transmission</h2>
+<p class="reading-book-author">Dorothy C. Wong · NUS Press · 2018</p>
+<p>Pourquoi les moines voyageurs, les grands monastères et les cours sont essentiels pour comprendre comment les formes bouddhiques circulent, se transforment et deviennent « internationales » entre ca. 645 et 770.</p>
+<span class="reading-book-link">Lire la fiche →</span>
+</a>
+<a class="reading-book-card" href="/fr/lectures/domesticating-the-dharma.html">
+<div class="reading-book-cover"><img src="/assets/images/lectures/domesticating-the-dharma-cover.jpg" alt="Couverture de Domesticating the Dharma" loading="lazy"></div>
+<div class="reading-book-domain">Bouddhisme coréen · le Silla · Hwaŏm · Cultes et rituels</div>
+<h2>Domesticating the Dharma</h2>
+<p class="reading-book-author">Richard D. McBride, II · University of Hawai‘i Press · 2008</p>
+<p>Pourquoi les cultes, les images, les rituels et la sacralisation du territoire expliquent mieux l’implantation du bouddhisme au Silla que le récit classique des « écoles ».</p>
 <span class="reading-book-link">Lire la fiche →</span>
 </a>
 </div></div>
