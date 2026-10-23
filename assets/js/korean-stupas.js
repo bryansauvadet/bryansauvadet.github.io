@@ -1,7 +1,42 @@
 document.addEventListener('DOMContentLoaded', async () => {
   const mapEl = document.getElementById('korean-stupas-map');
   const galleryEl = document.getElementById('korean-stupas-gallery');
-  if (!mapEl || !galleryEl || typeof L === 'undefined') return;
+  if (!mapEl || !galleryEl) return;
+
+  const ensureLeaflet = async () => {
+    if (typeof L !== 'undefined') return true;
+
+    if (!document.querySelector('link[data-leaflet-fallback]')) {
+      const css = document.createElement('link');
+      css.rel = 'stylesheet';
+      css.href = 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css';
+      css.dataset.leafletFallback = 'true';
+      document.head.appendChild(css);
+    }
+
+    try {
+      await new Promise((resolve, reject) => {
+        const existing = document.querySelector('script[data-leaflet-fallback]');
+        if (existing) {
+          if (typeof L !== 'undefined') resolve();
+          else {
+            existing.addEventListener('load', resolve, {once:true});
+            existing.addEventListener('error', reject, {once:true});
+          }
+          return;
+        }
+        const script = document.createElement('script');
+        script.src = 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js';
+        script.dataset.leafletFallback = 'true';
+        script.onload = resolve;
+        script.onerror = reject;
+        document.head.appendChild(script);
+      });
+    } catch (_) {
+      return false;
+    }
+    return typeof L !== 'undefined';
+  };
 
   const rawLang = (document.documentElement.lang || 'fr').toLowerCase();
   const lang = rawLang.startsWith('zh') ? 'zh-hant' : rawLang.split('-')[0];
@@ -12,12 +47,12 @@ document.addEventListener('DOMContentLoaded', async () => {
   const resetEl = document.getElementById('stupa-reset');
 
   const ui = {
-    fr:{stupa:'stoupa',stupas:'stoupas',heritage:'Source patrimoniale ↗',photo:'Source photo ↗',map:'Carte ↗',error:'Impossible de charger les données du répertoire.',sheet:'Voir la fiche'},
-    en:{stupa:'stupa',stupas:'stupas',heritage:'Heritage source ↗',photo:'Photo source ↗',map:'Map ↗',error:'Unable to load the catalogue data.',sheet:'View entry'},
-    ko:{stupa:'불탑',stupas:'불탑',heritage:'문화유산 출처 ↗',photo:'사진 출처 ↗',map:'지도 ↗',error:'목록 데이터를 불러올 수 없습니다.',sheet:'항목 보기'},
-    ja:{stupa:'仏塔',stupas:'仏塔',heritage:'文化遺産資料 ↗',photo:'写真出典 ↗',map:'地図 ↗',error:'データを読み込めませんでした。',sheet:'項目を見る'},
-    'zh-hant':{stupa:'佛塔',stupas:'佛塔',heritage:'文化遺產來源 ↗',photo:'圖片來源 ↗',map:'地圖 ↗',error:'無法載入目錄資料。',sheet:'查看條目'},
-    vi:{stupa:'bảo tháp',stupas:'bảo tháp',heritage:'Nguồn di sản ↗',photo:'Nguồn ảnh ↗',map:'Bản đồ ↗',error:'Không thể tải dữ liệu danh mục.',sheet:'Xem mục'}
+    fr:{stupa:'stoupa',stupas:'stoupas',heritage:'Source patrimoniale ↗',photo:'Source photo ↗',map:'Carte ↗',error:'Impossible de charger les données du répertoire.',mapError:'La carte interactive est momentanément indisponible.',sheet:'Voir la fiche'},
+    en:{stupa:'stupa',stupas:'stupas',heritage:'Heritage source ↗',photo:'Photo source ↗',map:'Map ↗',error:'Unable to load the catalogue data.',mapError:'The interactive map is temporarily unavailable.',sheet:'View entry'},
+    ko:{stupa:'불탑',stupas:'불탑',heritage:'문화유산 출처 ↗',photo:'사진 출처 ↗',map:'지도 ↗',error:'목록 데이터를 불러올 수 없습니다.',mapError:'대화형 지도를 일시적으로 사용할 수 없습니다.',sheet:'항목 보기'},
+    ja:{stupa:'仏塔',stupas:'仏塔',heritage:'文化遺産資料 ↗',photo:'写真出典 ↗',map:'地図 ↗',error:'データを読み込めませんでした。',mapError:'インタラクティブ地図を一時的に利用できません。',sheet:'項目を見る'},
+    'zh-hant':{stupa:'佛塔',stupas:'佛塔',heritage:'文化遺產來源 ↗',photo:'圖片來源 ↗',map:'地圖 ↗',error:'無法載入目錄資料。',mapError:'互動地圖暫時無法使用。',sheet:'查看條目'},
+    vi:{stupa:'bảo tháp',stupas:'bảo tháp',heritage:'Nguồn di sản ↗',photo:'Nguồn ảnh ↗',map:'Bản đồ ↗',error:'Không thể tải dữ liệu danh mục.',mapError:'Bản đồ tương tác tạm thời không khả dụng.',sheet:'Xem mục'}
   };
   const T = ui[lang] || ui.fr;
 
@@ -161,11 +196,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (!s || lang === 'fr') return s || '';
     let x = String(s);
     const repl = {
-      en:[['Musée national de Corée','National Museum of Korea'],['Musée national de Kyŏngju','Kyŏngju National Museum'],['Musée d’Ulsan','Ulsan Museum'],['Musée national de Taegu','Taegu National Museum'],['Kyŏngsang du Nord','North Kyŏngsang'],['Chŏlla du Nord','North Chŏlla'],['Chŏlla du Sud','South Chŏlla'],["Ch'ungch'ŏng du Nord",'North Ch'ungch'ŏng'],["Ch'ungch'ŏng du Sud",'South Ch'ungch'ŏng'],['provenance :','provenance:']],
+      en:[['Musée national de Corée','National Museum of Korea'],['Musée national de Kyŏngju','Kyŏngju National Museum'],['Musée d’Ulsan','Ulsan Museum'],['Musée national de Taegu','Taegu National Museum'],['Kyŏngsang du Nord','North Kyŏngsang'],['Chŏlla du Nord','North Chŏlla'],['Chŏlla du Sud','South Chŏlla'],["Ch'ungch'ŏng du Nord","North Ch'ungch'ŏng"],["Ch'ungch'ŏng du Sud","South Ch'ungch'ŏng"],['provenance :','provenance:']],
       ko:[['Musée national de Corée','국립중앙박물관'],['Musée national de Kyŏngju','국립경주박물관'],['Musée d’Ulsan','울산박물관'],['Musée national de Taegu','국립대구박물관'],['Kyŏngsang du Nord','경상북도'],['Chŏlla du Nord','전북'],['Chŏlla du Sud','전남'],["Ch'ungch'ŏng du Nord",'충북'],["Ch'ungch'ŏng du Sud",'충남'],['provenance :','출토지:']],
       ja:[['Musée national de Corée','国立中央博物館'],['Musée national de Kyŏngju','国立慶州博物館'],['Musée d’Ulsan','蔚山博物館'],['Musée national de Taegu','国立大邱博物館'],['Kyŏngsang du Nord','慶尚北道'],['Chŏlla du Nord','全羅北道'],['Chŏlla du Sud','全羅南道'],["Ch'ungch'ŏng du Nord",'忠清北道'],["Ch'ungch'ŏng du Sud",'忠清南道'],['provenance :','旧所在地：']],
       'zh-hant':[['Musée national de Corée','韓國國立中央博物館'],['Musée national de Kyŏngju','國立慶州博物館'],['Musée d’Ulsan','蔚山博物館'],['Musée national de Taegu','國立大邱博物館'],['Kyŏngsang du Nord','慶尚北道'],['Chŏlla du Nord','全羅北道'],['Chŏlla du Sud','全羅南道'],["Ch'ungch'ŏng du Nord",'忠清北道'],["Ch'ungch'ŏng du Sud",'忠清南道'],['provenance :','原址：']],
-      vi:[['Musée national de Corée','Bảo tàng Quốc gia Hàn Quốc'],['Musée national de Kyŏngju','Bảo tàng Quốc gia Kyŏngju'],['Musée d’Ulsan','Bảo tàng Ulsan'],['Musée national de Taegu','Bảo tàng Quốc gia Taegu'],['Kyŏngsang du Nord','Bắc Kyŏngsang'],['Chŏlla du Nord','Bắc Chŏlla'],['Chŏlla du Sud','Nam Chŏlla'],["Ch'ungch'ŏng du Nord",'Bắc Ch'ungch'ŏng'],["Ch'ungch'ŏng du Sud",'Nam Ch'ungch'ŏng'],['provenance :','nguồn gốc:']]
+      vi:[['Musée national de Corée','Bảo tàng Quốc gia Hàn Quốc'],['Musée national de Kyŏngju','Bảo tàng Quốc gia Kyŏngju'],['Musée d’Ulsan','Bảo tàng Ulsan'],['Musée national de Taegu','Bảo tàng Quốc gia Taegu'],['Kyŏngsang du Nord','Bắc Kyŏngsang'],['Chŏlla du Nord','Bắc Chŏlla'],['Chŏlla du Sud','Nam Chŏlla'],["Ch'ungch'ŏng du Nord","Bắc Ch'ungch'ŏng"],["Ch'ungch'ŏng du Sud","Nam Ch'ungch'ŏng"],['provenance :','nguồn gốc:']]
     };
     for (const [a,b] of (repl[lang]||[])) x=x.replaceAll(a,b);
     return x;
@@ -177,16 +212,26 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (!response.ok) throw new Error('data request failed');
     payload = await response.json();
   } catch (error) {
-    mapEl.innerHTML = '<div class="stupa-data-error">'+esc(T.error)+'</div>';
+    const errorHtml = '<div class="stupa-data-error">'+esc(T.error)+'</div>';
+    mapEl.innerHTML = errorHtml;
+    galleryEl.innerHTML = errorHtml;
     return;
   }
 
   const items = Array.isArray(payload.items) ? payload.items : [];
-  const map = L.map(mapEl, {scrollWheelZoom:true, minZoom:5}).setView([36.25, 127.85], 7);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:18, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
-  L.control.scale({imperial:false}).addTo(map);
-  const markerLayer = L.layerGroup().addTo(map);
+  const leafletReady = await ensureLeaflet();
+  let map = null;
+  let markerLayer = null;
   const markerByNumber = new Map();
+
+  if (leafletReady) {
+    map = L.map(mapEl, {scrollWheelZoom:true, minZoom:5}).setView([36.25, 127.85], 7);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:18, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
+    L.control.scale({imperial:false}).addTo(map);
+    markerLayer = L.layerGroup().addTo(map);
+  } else {
+    mapEl.innerHTML = '<div class="stupa-data-error">'+esc(T.mapError)+'</div>';
+  }
 
   const populateSelect = (el, values, fn) => {
     [...new Set(values.filter(Boolean))].sort((a,b) => fn(a).localeCompare(fn(b), lang)).forEach(value => {
@@ -239,19 +284,22 @@ document.addEventListener('DOMContentLoaded', async () => {
     const visible=filters();
     galleryEl.innerHTML=visible.map(cardHtml).join('');
     countEl.textContent=`${visible.length} ${visible.length===1?T.stupa:T.stupas}`;
-    markerLayer.clearLayers(); markerByNumber.clear();
-    const bounds=[];
-    visible.forEach(item=>{
-      const lat=Number(item.latitude),lng=Number(item.longitude);
-      if(!Number.isFinite(lat)||!Number.isFinite(lng)) return;
-      const marker=L.marker([lat,lng]).bindPopup(popupHtml(item));
-      marker.addTo(markerLayer); markerByNumber.set(String(item.numero),marker); bounds.push([lat,lng]);
-    });
-    if(bounds.length) map.fitBounds(bounds,{padding:[28,28],maxZoom:9});
+    markerByNumber.clear();
+    if (markerLayer && map) {
+      markerLayer.clearLayers();
+      const bounds=[];
+      visible.forEach(item=>{
+        const lat=Number(item.latitude),lng=Number(item.longitude);
+        if(!Number.isFinite(lat)||!Number.isFinite(lng)) return;
+        const marker=L.marker([lat,lng]).bindPopup(popupHtml(item));
+        marker.addTo(markerLayer); markerByNumber.set(String(item.numero),marker); bounds.push([lat,lng]);
+      });
+      if(bounds.length) map.fitBounds(bounds,{padding:[28,28],maxZoom:9});
+    }
     galleryEl.querySelectorAll('.stupa-card').forEach(card=>{
       card.addEventListener('click',event=>{
         if(event.target.closest('a')) return;
-        const marker=markerByNumber.get(card.dataset.stupaNumber); if(!marker) return;
+        const marker=markerByNumber.get(card.dataset.stupaNumber); if(!marker || !map) return;
         const ll=marker.getLatLng(); map.setView(ll,Math.max(map.getZoom(),12),{animate:true}); marker.openPopup();
         mapEl.scrollIntoView({behavior:'smooth',block:'center'});
       });
