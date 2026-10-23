@@ -1,31 +1,56 @@
 ---
-title: "普林斯頓大學 [Princeton University] — Ritual and Materiality in Buddhism and Asian Religions"
+title: "普林斯頓大學 — Ritual and Materiality in Buddhism and Asian Religions"
 lang: zh-Hant
 format:
   html:
     include-before-body: _includes/zh-hant-header.html
     include-after-body: _includes/zh-hant-footer.html
 ---
-<section class="page-hero"><h1>普林斯頓大學 [Princeton University]</h1><p class="lead">美國 · 紐澤西州普林斯頓 · 2023年6月</p></section>
-<main class="content"><div class="content-inner fieldwork-story princeton-story">
-<figure class="fieldwork-hero"><img src="/assets/images/princeton-10.webp" alt="普林斯頓國際會議與會者" loading="eager"><figcaption>圍繞亞洲宗教中的儀式與物質性展開的一次普林斯頓研究訪問。</figcaption></figure>
-<p class="lead">2023年6月，我有幸入選在普林斯頓大學舉行的國際會議 <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>。我在普林斯頓停留約一週，其中核心學術活動是6月13日至15日的會議。全球僅有20名博士生獲選參加，申請者接近90人；遴選依據是研究品質以及與會議主題的相關性。我的博士論文計畫——關於14至16世紀朝鮮宮廷佛教藝術及其施主關係的研究——也列入官方與會博士生名單。</p>
-<h2>普林斯頓：具有深厚歷史的學術環境</h2>
-<p>普林斯頓大學創立於1746年，原名 <em>College of New Jersey</em>，是英屬北美第四所學院。1756年遷至普林斯頓並以Nassau Hall為核心，1896年正式改名為Princeton University，約1900年建立Graduate School。1783年，Nassau Hall還曾作為大陸會議的會址。置身這樣的歷史校園，參加一場橫跨佛教學、藝術史、東亞研究與宗教學的會議，使學術交流具有特別的空間感。<a href="https://profile.princeton.edu/about-princeton-university" target="_blank" rel="noopener">普林斯頓官方校史</a></p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-01.webp" alt="普林斯頓大學校園建築" loading="lazy"><figcaption>歷史建築構成了研究與討論的日常背景。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-08.webp" alt="普林斯頓大學建築" loading="lazy"><figcaption>在不同會場之間步行，也能直接感受到這所大學的歷史層次。</figcaption></figure></div>
-<h2>儀式、器物與身體</h2>
-<p>會議關注一個關鍵問題：如果研究佛教和亞洲宗教時，不只關注教義與文本，而把寫本、印刷儀軌、繪畫、造像、符籙、法器、儀式技術以及身體實踐納入分析，我們會得到怎樣不同的宗教史？來自亞洲、歐洲和北美的21位學者與20位入選博士生圍繞預先分發的論文展開討論，使藝術史、宗教史、人類學、文本研究、考古學與儀式研究真正進入同一場對話。</p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-02.webp" alt="關於阿彌陀佛信仰的會議場景" loading="lazy"><figcaption>圖像、銘文與信仰實踐被放在一起分析。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-03.webp" alt="佛教儀式器物的報告" loading="lazy"><figcaption>法器並非被當作說明性插圖，而是宗教實踐的組成部分。</figcaption></figure></div>
-<h2>Shu-fen Liu 劉淑芬的主題演講</h2>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-04.webp" alt="羅漢窟信仰主題演講螢幕" loading="lazy"><figcaption>主題演講討論羅漢窟信仰與大德寺五百羅漢圖。</figcaption></figure>
-<p>主題演講由Academia Sinica歷史語言研究所的<strong>Shu-fen Liu 劉淑芬</strong>擔任。她研究中古中國史與3至13世紀佛教社會史，尤其關注儀式、碑銘與羅漢信仰。演講 <em>The Arhat Cave Belief in Four Stele Inscriptions and the Daitokuji Paintings of Five Hundred Arhats</em> 將石刻銘文、洞窟禮拜空間與五百羅漢圖聯繫起來。把文本、空間、圖像和儀式行動放在同一分析框架中，對我的藝術史研究尤其具有啟發性。</p>
-<h2>與會學者與組織者</h2>
-<p>兩位主要討論人展現了會議的跨學科性。<strong>Laurel Kendall</strong>是American Museum of Natural History亞洲民族誌收藏策展人，長期研究韓國薩滿傳統以及圖像和器物的儀式生命。<strong>Justin McDaniel</strong>（University of Pennsylvania）研究東南亞佛教、巴利文和梵文、寫本、建築與宗教實踐。Wen-shing Chou、Seunghye Lee、Maya Stiller、Trent Walker等與會學者的研究也與我對東亞佛教藝術和物質文化的興趣形成直接呼應。</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-05.webp" alt="普林斯頓會議室" loading="lazy"><figcaption>幾天之中，這裡成為共同思考儀式與物質性的學術實驗室。</figcaption></figure>
-<p>會議由Princeton University的<strong>Stephen F. Teiser</strong>與Rice University的<strong>Shih-shan Susan Huang</strong>共同組織。Teiser以中國佛教、儀式、輪迴圖像和寫本傳統研究著稱；Huang研究道教視覺文化、佛教印刷文化以及圖像和書籍的跨區域流通。博士生Kentaro Ide與Sinae Kim擔任co-convenors，Junbin Tan負責協調。主要資助來自Glorisun Global Buddhist Network，同時得到Princeton的Tang Center for East Asian Art、Humanities Council、East Asian Studies Program、Center for Culture, Society &amp; Religion和Department of Religion支持。</p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-07.webp" alt="Princeton Department of East Asian Studies合影" loading="lazy"><figcaption>正式會議之外，交流繼續在East Asian Studies的學術共同體中展開。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-06.webp" alt="會議參加者晚餐" loading="lazy"><figcaption>共同晚餐也是博士生與資深學者進行非正式交流的重要時刻。</figcaption></figure></div>
-<h2>這次經歷對我的意義</h2>
-<p>成為20名入選博士生之一，對我而言真正重要的不是一個抽象的榮譽，而是進入一個高度集中的國際學術環境。我得以直接討論韓國佛教美術、施主、造像奉安與開光、跨區域傳播以及宗教圖像的物質性使用，並與研究不同地區的年輕學者互相檢驗研究方法。這一週幫助我把自己的工作重新放入更廣闊的佛教視覺與物質文化研究網絡。</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-09.webp" alt="普林斯頓大學哥德式建築" loading="lazy"><figcaption>會議間隙的校園行走，也成為這次研究訪問的重要記憶。</figcaption></figure>
-<div class="fieldwork-notes"><h2>基本資訊</h2><p><strong>地點：</strong>Princeton University, Princeton, New Jersey.<br><strong>會議日期：</strong>2023年6月13–15日。<br><strong>會議：</strong><a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>。<br><strong>入選博士生：</strong>近90份申請中20人。<br><strong>主題演講：</strong>Shu-fen Liu 劉淑芬。<br><strong>共同組織：</strong>Stephen F. Teiser / Shih-shan Susan Huang。<br><strong>主要資助：</strong>Glorisun Global Buddhist Network。<br><strong>與會者：</strong><a href="https://ritualmateriality2023.princeton.edu/participants" target="_blank" rel="noopener">官方簡介</a>。</p></div>
+<section class="page-hero"><h1>普林斯頓大學 [Princeton University]</h1><p class="lead">普林斯頓，新澤西州 · 美國 · 2023年6月13–15日</p></section>
+<main class="content"><div class="content-inner fieldwork-story rice-story princeton-story">
+
+<figure class="fieldwork-hero"><img src="/assets/images/princeton-09.webp" alt="普林斯頓大學校園建築" loading="eager"><figcaption>抵達普林斯頓大學校園，參加國際會議 <em>Ritual and Materiality in Buddhism and Asian Religions</em>。</figcaption></figure>
+
+<p class="lead">我很榮幸獲選參加在普林斯頓大學舉行的國際會議 <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>。會議本身於2023年6月13日至15日舉行，我在普林斯頓停留約一週。來自亞洲、歐洲與北美、近90份博士生申請中，只有20人獲選。這項競爭激烈的甄選，使這次停留成為我博士訓練中特別重要的一段經驗。</p>
+
+<p>學術計畫匯集21位學者、1位主旨演講者、2位評論人與20位受邀博士生。會議由 <strong>Princeton University Buddhist Studies Workshop</strong> 主辦，主要由 <strong>Glorisun Global Buddhist Network</strong> 贊助，並獲 Princeton 的 Tang Center for East Asian Art、Humanities Council、Program in East Asian Studies、Center for Culture, Society and Religion 與 Department of Religion 支持。重點不是把個案研究並列，而是讓宗教史、藝術史、文獻學、文學研究與人類學共同追問：儀式如何透過物件、圖像、文本、身體與空間而具體化？</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-02.webp" alt="佛教圖像相關會議發表" loading="lazy"><figcaption>各場次持續把圖像、碑銘、物件與儀式實踐放在同一分析框架中。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-03.webp" alt="佛教儀式器物相關發表" loading="lazy"><figcaption>法器、舍利、寫本與儀式裝置被視為儀式中的能動構成要素。</figcaption></figure></div>
+
+<h2>普林斯頓的歷史與學術重要性</h2>
+
+<p>普林斯頓於1746年以 <em>College of New Jersey</em> 之名創立，是美國第四古老的高等教育機構。學校最初設於 Elizabeth，後遷 Newark，1756年隨 Nassau Hall 落成而移至 Princeton。Nassau Hall 與1777年的 Princeton 戰役相關，1783年更曾短暫作為 Confederation Congress 的會議地點。1896年學校正式改名 Princeton University，Graduate School 則在20世紀之交逐步建立。這種歷史厚度至今仍可從校園建築中直接感受到。</p>
+
+<p>在佛教研究與東亞研究領域，Princeton 同樣是重要的學術中心。Department of Religion、Program in East Asian Studies、Tang Center for East Asian Art 與 Buddhist Studies Workshop 共同形成可同時研究文本、物件、實踐與圖像的環境。這種制度配置與我理解佛教藝術的方法高度契合：藝術品並非孤立的造形產物，而是與發願者、儀式用途及流通網絡相連的物質文化。</p>
+
+<h2>儀式與物質性</h2>
+
+<p>各篇論文聚焦宗教的具體物質性：寫本與印刷儀軌、繪畫、雕塑、符籙、舍利、法器、儀式技術以及身體參與。論文事先傳閱，因此現場能把大量時間投入討論。這種方式迫使我們把每一件物品重新置入由動作、移動、誦念、供養與操作所構成的行動鏈條中。</p>
+
+<p>在博士生參與者的官方名單中，我的研究以 <em>The Evolution of Buddhist Art at the Korean Court in Connection with its Donors (14th to 16th Centuries)</em> 為題介紹。這正好把我的研究置於會議核心問題之中：從發願與贊助者、作品產生的具體情境，以及賦予圖像宗教與政治效力的實踐來理解佛教圖像。</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-04.webp" alt="Shu-fen Liu在普林斯頓的主旨演講" loading="lazy"><figcaption>Shu-fen Liu 主旨演講：<em>The Arhat Cave Belief in Four Stele Inscriptions and the Daitokuji Paintings of Five Hundred Arhats</em>。</figcaption></figure>
+
+<h2>Shu-fen Liu與羅漢信仰主旨演講</h2>
+
+<p>主旨演講由 Academia Sinica Institute of History and Philology 的 <strong>Shu-fen Liu</strong> 擔任。她是中國中古社會史與宗教史的重要學者。演講把碑銘、羅漢洞窟信仰，以及1178至1188年間在寧波繪製的大德寺五百羅漢圖聯繫起來。其論證尤其清楚地說明，一種信仰如何同時在聖地景觀、碑銘、圖像與禮拜實踐中獲得物質形態。</p>
+
+<h2>組織者與主要與會學者</h2>
+
+<p>會議由 <strong>Stephen F. Teiser</strong> 與 <strong>Shih-shan Susan Huang</strong> 共同組織。Teiser 當時任 Princeton 宗教學教授，現為 D. T. Suzuki Professor in Buddhist Studies and Professor of Religion Emeritus，長期研究佛教經典、寫本、儀式及中國石窟寺院。Rice University 的 T. T. and W. F. Chao Professor Susan Huang 則研究中國與東亞佛教、道教的視覺與物質文化，尤其關注繪畫、印刷文化與圖像流通。兩人的合作使宗教史與藝術史、文本與物件之間保持了極好的平衡。</p>
+
+<p>兩位評論人進一步拓展了這一框架。American Museum of Natural History 的人類學家兼策展人 <strong>Laurel Kendall</strong> 長期研究韓國、越南與東南亞的民間宗教、薩滿信仰與神聖物件的物質性。University of Pennsylvania 的 <strong>Justin McDaniel</strong> 則研究東南亞宗教、寫本、佛教藝術與建築，以及生活世界中的宗教實踐。</p>
+
+<p>另有多位與我的研究領域尤其接近的學者：<strong>Youn-mi Kim</strong> 研究韓國佛教藝術與儀式；Leeum Museum of Art 的 <strong>Seunghye Lee</strong> 研究中國與韓國佛教藝術及建築；<strong>Sujung Kim</strong> 透過文本與物質資料研究日本與韓國佛教；<strong>Maya Stiller</strong> 研究韓國藝術、視覺文化與聖地景觀。與這些學者交流，對我研究高麗與朝鮮初期佛教藝術尤其具有直接意義。</p>
+
+<p>Princeton 的年輕研究者也在組織工作中扮演重要角色。<strong>Kentaro Ide</strong>、<strong>Sinae Kim</strong> 與 <strong>Junbin Tan</strong> 參與會議籌備與學術協調。這也強化了會議最有價值的一點：受邀博士生不是被動聽眾，而是被納入一個圍繞進行中研究而形成的討論共同體。</p>
+
+<h2>一週的訓練與交流</h2>
+
+<p>這一週給我最深的印象，是能夠聆聽研究不同地區、時代與材料的專家，並比較他們的方法。對藝術史研究者而言，聽人類學家說明儀式物件的效力、歷史學家解讀碑銘、宗教學者重構儀式程序，都會改變觀看藝術品的方式。物質性不再只是物件的一項屬性，而成為物件得以發生作用的條件。</p>
+
+<p>從近90名申請者中成為20位獲選博士生之一，因此不只是一項抽象榮譽，更是一個真正進入亞洲宗教與物質文化國際研究網絡的機會。對我的研究而言，這次停留進一步鞏固了一個方法論信念：佛教藝術史若能同時追蹤圖像、發願者、空間、動作與儀式用途之間的關係，就能得到更完整的書寫。</p>
+
+<div class="fieldwork-notes"><h2>基本資料</h2><p><strong>大學：</strong> Princeton University, Princeton, New Jersey.<br><strong>會議：</strong> <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>.<br><strong>日期：</strong> 2023年6月13–15日；在校停留約一週。<br><strong>博士生甄選：</strong> 近90份申請中錄取20人。<br><strong>學術計畫：</strong> 21位學者、1場主旨演講、2位評論人。<br><strong>主旨演講：</strong> Shu-fen Liu, Academia Sinica.<br><strong>評論人：</strong> Laurel Kendall、Justin McDaniel.<br><strong>共同組織：</strong> Stephen F. Teiser、Shih-shan Susan Huang.<br><strong>主要贊助：</strong> Glorisun Global Buddhist Network.<br><strong>會場：</strong> McCosh Hall 50、Frist Campus Center 302.</p></div>
+
 </div></main>

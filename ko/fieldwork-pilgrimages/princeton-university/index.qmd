@@ -1,31 +1,56 @@
 ---
-title: "프린스턴 대학교 [Princeton University] — Ritual and Materiality in Buddhism and Asian Religions"
+title: "프린스턴 대학교 — Ritual and Materiality in Buddhism and Asian Religions"
 lang: ko
 format:
   html:
     include-before-body: _includes/ko-header.html
     include-after-body: _includes/ko-footer.html
 ---
-<section class="page-hero"><h1>프린스턴 대학교 [Princeton University]</h1><p class="lead">미국 · 뉴저지주 프린스턴 · 2023년 6월</p></section>
-<main class="content"><div class="content-inner fieldwork-story princeton-story">
-<figure class="fieldwork-hero"><img src="/assets/images/princeton-10.webp" alt="프린스턴에서 열린 국제학술대회 참가자" loading="eager"><figcaption>아시아 종교의 의례와 물질성의 관계를 논의한 국제학술대회를 중심으로 이루어진 프린스턴 연구 체류.</figcaption></figure>
-<p class="lead">2023년 6월 프린스턴 대학교에서 열린 국제학술대회 <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>에 박사과정 참가자로 선발되는 영예를 얻었다. 약 일주일간의 프린스턴 체류에서 핵심 일정은 6월 13일부터 15일까지의 학술대회였으며, 전 세계에서 선발된 박사과정 학생은 20명뿐이었다. 약 90건의 지원서 가운데 연구의 질과 학술대회 주제와의 관련성을 기준으로 선발되었고, 나의 ‘14–16세기 고려 말–조선 초 왕실 불교미술의 변화와 시주자’에 관한 연구도 공식 프로그램에 소개되었다.</p>
-<h2>프린스턴의 역사적 연구 환경</h2>
-<p>프린스턴 대학교는 1746년 <em>College of New Jersey</em>로 설립된 북미 영국 식민지의 네 번째 대학이었다. 1756년 프린스턴의 Nassau Hall로 이전했고, 1896년 Princeton University로 개칭했으며, 1900년 무렵 Graduate School이 설립되었다. 1783년에는 Nassau Hall에서 대륙회의가 열리기도 했다. 이런 역사적 캠퍼스에서 불교학·미술사·동아시아학·종교학을 가로지르는 학술대회에 참여한다는 사실 자체가 특별한 의미를 지녔다. <a href="https://profile.princeton.edu/about-princeton-university" target="_blank" rel="noopener">프린스턴의 역사 보기</a></p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-01.webp" alt="프린스턴 대학교 캠퍼스 건축" loading="lazy"><figcaption>역사적 건축이 연구와 토론의 일상적 배경을 이루는 캠퍼스.</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-08.webp" alt="프린스턴 대학교 건물" loading="lazy"><figcaption>세션 사이를 이동하며 대학의 오랜 역사를 공간적으로 체감할 수 있었다.</figcaption></figure></div>
-<h2>의례, 사물, 몸</h2>
-<p>학술대회는 불교와 아시아 종교를 교리와 문헌만이 아니라 필사본, 인쇄 의례서, 회화, 불상, 부적, 의례 도구, 기술, 그리고 신체적 실천을 통해 어떻게 새롭게 이해할 수 있는가를 질문했다. 21명의 연구자와 선발된 20명의 박사과정 학생이 참여했으며, 논문을 사전에 읽고 토론하는 형식 덕분에 미술사·종교사·인류학·문헌학·고고학·의례연구가 실제로 맞물렸다.</p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-02.webp" alt="아미타불 신앙 관련 학술대회 세션" loading="lazy"><figcaption>이미지, 명문, 신앙 실천을 함께 분석한 세션.</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-03.webp" alt="불교 의례 도구 발표" loading="lazy"><figcaption>의례 도구를 종교 실천을 구성하는 물질적 행위자로 바라보았다.</figcaption></figure></div>
-<h2>Shu-fen Liu 劉淑芬의 기조강연</h2>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-04.webp" alt="나한굴 신앙 기조강연 화면" loading="lazy"><figcaption>나한굴 신앙과 다이토쿠지 오백나한도를 다룬 기조강연.</figcaption></figure>
-<p>기조강연은 Academia Sinica, Institute of History and Philology의 <strong>Shu-fen Liu 劉淑芬</strong>가 맡았다. 그는 중세 중국사와 3–13세기 불교 사회사를 연구하며 의례, 비문, 나한 신앙을 주요 주제로 다룬다. <em>The Arhat Cave Belief in Four Stele Inscriptions and the Daitokuji Paintings of Five Hundred Arhats</em>라는 강연은 석각 명문, 동굴 예배 공간, 오백나한도를 하나의 문제로 연결했다. 텍스트·공간·이미지·의례 행위를 함께 읽는 방식은 내 미술사 연구에도 강한 자극을 주었다.</p>
-<h2>참여 연구자와 조직자</h2>
-<p>토론자인 <strong>Laurel Kendall</strong>은 American Museum of Natural History의 아시아 민족지 컬렉션 큐레이터로 한국 무속과 종교적 물질문화를 연구한다. <strong>Justin McDaniel</strong>(University of Pennsylvania)은 동남아시아 불교, 팔리어·산스크리트어, 필사본, 건축과 종교 실천을 연구한다. 발표자 중에는 중국·내륙아시아 불교미술의 Wen-shing Chou, 중국·한국 불교미술과 복장·점안 등 봉안 의례를 연구하는 Seunghye Lee, 한국 불교 시각문화를 연구하는 Maya Stiller 등 내 연구와 직접 접점을 가진 연구자들도 있었다.</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-05.webp" alt="프린스턴 학술대회 강의실" loading="lazy"><figcaption>며칠 동안 이 공간은 의례와 물질성을 함께 사고하는 집단 연구실이 되었다.</figcaption></figure>
-<p>학술대회는 Princeton University의 <strong>Stephen F. Teiser</strong>와 Rice University의 <strong>Shih-shan Susan Huang</strong>이 공동 조직했다. Teiser는 중국 불교, 의례, 윤회·사후세계의 시각문화와 필사본 전통 연구로 잘 알려져 있고, Huang은 도교 시각문화, 불교 인쇄문화, 이미지와 서적의 초지역적 이동을 연구한다. 박사과정 Kentaro Ide와 Sinae Kim이 공동 convenor, Junbin Tan이 coordinator를 맡았다. Glorisun Global Buddhist Network가 중심 후원기관이었고 Princeton의 Tang Center for East Asian Art, Humanities Council, East Asian Studies Program, Center for Culture, Society &amp; Religion, Department of Religion도 지원했다.</p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-07.webp" alt="Princeton Department of East Asian Studies 앞 단체 사진" loading="lazy"><figcaption>공식 세션 밖에서도 East Asian Studies 공동체 안에서 토론이 이어졌다.</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-06.webp" alt="학술대회 참가자 저녁 식사" loading="lazy"><figcaption>공동 식사는 박사과정 학생과 연구자들이 보다 자유롭게 교류하는 중요한 시간이었다.</figcaption></figure></div>
-<h2>나에게 이 경험이 지닌 의미</h2>
-<p>20명의 박사과정 참가자 가운데 한 명으로 선발되었다는 사실보다 더 중요한 것은, 내 연구를 국제적이고 학제적인 환경에서 집중적으로 검토할 기회를 얻었다는 점이다. 한국 불교미술, 발원과 시주, 봉안 의례, 지역 간 전파, 물질적 실천에 관한 질문을 서로 다른 지역을 연구하는 학자들과 직접 논의하면서 내 연구가 더 넓은 불교 물질문화 연구 속에서 어디에 놓이는지를 다시 생각할 수 있었다.</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-09.webp" alt="프린스턴 대학교 고딕 건축" loading="lazy"><figcaption>세션 사이의 캠퍼스 풍경 역시 이 연구 체류의 중요한 기억으로 남았다.</figcaption></figure>
-<div class="fieldwork-notes"><h2>기본 정보</h2><p><strong>장소:</strong> Princeton University, Princeton, New Jersey.<br><strong>학술대회:</strong> 2023년 6월 13–15일.<br><strong>명칭:</strong> <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>.<br><strong>선발 박사과정:</strong> 약 90건의 지원 중 20명.<br><strong>기조강연:</strong> Shu-fen Liu 劉淑芬.<br><strong>공동 조직:</strong> Stephen F. Teiser / Shih-shan Susan Huang.<br><strong>주요 후원:</strong> Glorisun Global Buddhist Network.<br><strong>참가자:</strong> <a href="https://ritualmateriality2023.princeton.edu/participants" target="_blank" rel="noopener">공식 프로필</a>.</p></div>
+<section class="page-hero"><h1>프린스턴 대학교 [Princeton University]</h1><p class="lead">프린스턴, 뉴저지 · 미국 · 2023년 6월 13–15일</p></section>
+<main class="content"><div class="content-inner fieldwork-story rice-story princeton-story">
+
+<figure class="fieldwork-hero"><img src="/assets/images/princeton-09.webp" alt="프린스턴 대학교 캠퍼스 건축" loading="eager"><figcaption>국제학술대회 <em>Ritual and Materiality in Buddhism and Asian Religions</em>에 참석하기 위해 도착한 프린스턴 대학교 캠퍼스.</figcaption></figure>
+
+<p class="lead">나는 프린스턴 대학교에서 열린 국제학술대회 <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>에 참가할 박사과정 연구자로 선정되는 영예를 얻었다. 학술대회 자체는 2023년 6월 13일부터 15일까지 열렸으며, 나는 약 일주일 동안 프린스턴에 머물렀다. 아시아·유럽·북미에서 접수된 약 90건의 박사과정 지원 가운데 20명만이 선발되었다. 이 경쟁적인 선발은 나의 박사과정 연구에서 이 체류를 특히 중요한 경험으로 만들었다.</p>
+
+<p>프로그램에는 21명의 연구자, 1명의 기조강연자, 2명의 토론자, 그리고 20명의 초청 박사과정생이 참여했다. 학술대회는 <strong>Princeton University Buddhist Studies Workshop</strong>이 주관하고 <strong>Glorisun Global Buddhist Network</strong>가 주요 후원 기관으로 참여했으며, Princeton의 Tang Center for East Asian Art, Humanities Council, Program in East Asian Studies, Center for Culture, Society and Religion, Department of Religion도 지원했다. 핵심은 개별 사례를 단순히 나열하는 것이 아니라 종교사, 미술사, 문헌학, 문학연구, 인류학을 한자리에 놓고 ‘의례는 사물·이미지·텍스트·몸·공간을 통해 어떻게 구체화되는가’를 함께 묻는 데 있었다.</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-02.webp" alt="불교 이미지에 관한 학술대회 발표" loading="lazy"><figcaption>각 세션은 이미지, 비문, 사물과 의례 실천을 긴밀하게 연결했다.</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-03.webp" alt="불교 의례 사물 발표" loading="lazy"><figcaption>전례용 사물, 유물, 사본과 의례 장치를 의례의 능동적 구성 요소로 다루었다.</figcaption></figure></div>
+
+<h2>프린스턴의 역사와 학문적 중요성</h2>
+
+<p>프린스턴은 1746년 <em>College of New Jersey</em>로 설립된 미국에서 네 번째로 오래된 고등교육기관이다. Elizabeth와 Newark를 거쳐 1756년 Nassau Hall 건립과 함께 Princeton으로 이전했다. Nassau Hall은 1777년 Princeton 전투와 관련되며, 1783년에는 잠시 Confederation Congress의 회의 장소가 되었다. 학교는 1896년 공식적으로 Princeton University라는 이름을 채택했고, 20세기 전환기에 Graduate School이 조직되었다. 이러한 역사는 캠퍼스 곳곳의 건축 환경 속에서도 강하게 느껴진다.</p>
+
+<p>불교학과 동아시아학에서도 Princeton은 중요한 연구 거점이다. Department of Religion, Program in East Asian Studies, Tang Center for East Asian Art, Buddhist Studies Workshop이 텍스트·사물·실천·이미지를 함께 연구할 수 있는 환경을 형성한다. 이는 불교미술을 독립적인 조형 생산으로만 보지 않고 발원자, 의례적 사용, 이동과 교류의 네트워크 속에서 이해하려는 나의 연구 방식과 직접 맞닿아 있었다.</p>
+
+<h2>의례와 물질성</h2>
+
+<p>발표들은 종교의 구체적인 물질성, 즉 사본과 인쇄 의식서, 회화, 조각, 부적, 사리, 의례구, 의례 기술과 신체적 수행에 초점을 맞추었다. 논문을 사전에 공유하여 현장에서는 토론을 중심으로 진행하는 방식도 인상적이었다. 그 결과 하나의 사물도 동작, 이동, 독송, 공양, 조작이 이어지는 행위의 연쇄 속에서 다시 읽어야 했다.</p>
+
+<p>공식 박사과정 참가자 명단에서 나의 연구는 <em>The Evolution of Buddhist Art at the Korean Court in Connection with its Donors (14th to 16th Centuries)</em>라는 제목으로 소개되었다. 이는 불교 이미지를 누가 발원했는지, 어떤 상황에서 필요해졌는지, 그리고 어떤 실천이 그 이미지에 종교적·정치적 효력을 부여했는지를 묻는 나의 연구가 학술대회의 핵심 문제와 직접 연결되어 있음을 잘 보여주었다.</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-04.webp" alt="프린스턴에서 열린 Shu-fen Liu의 기조강연" loading="lazy"><figcaption>Shu-fen Liu의 기조강연, <em>The Arhat Cave Belief in Four Stele Inscriptions and the Daitokuji Paintings of Five Hundred Arhats</em>.</figcaption></figure>
+
+<h2>Shu-fen Liu의 나한 신앙 기조강연</h2>
+
+<p>기조강연은 Academia Sinica Institute of History and Philology의 <strong>Shu-fen Liu</strong>가 맡았다. 그는 중국 중세의 사회사와 종교사를 연구해 온 대표적인 연구자이다. 발표는 비문, 나한굴 신앙, 그리고 1178년부터 1188년 사이 Ningbo에서 제작된 Daitokuji의 오백나한도를 연결했다. 신앙이 성스러운 지형, 비문, 회화와 예배 실천 속에서 동시에 물질화되는 과정을 보여준다는 점에서 특히 인상적이었다.</p>
+
+<h2>조직자와 주요 참가자</h2>
+
+<p>학술대회는 <strong>Stephen F. Teiser</strong>와 <strong>Shih-shan Susan Huang</strong>이 공동 조직했다. Teiser는 당시 Princeton의 종교학 교수였으며 현재 D. T. Suzuki Professor in Buddhist Studies and Professor of Religion Emeritus로, 불교 경전, 사본, 의례와 중국 석굴사원을 연구해 왔다. Rice University의 T. T. and W. F. Chao Professor인 Susan Huang은 중국과 동아시아의 불교·도교 시각문화와 물질문화, 특히 회화, 인쇄문화와 이미지의 유통을 연구한다. 두 연구자의 결합은 종교사와 미술사, 텍스트와 사물을 균형 있게 연결했다.</p>
+
+<p>두 토론자도 이 틀을 확장했다. American Museum of Natural History의 인류학자이자 큐레이터인 <strong>Laurel Kendall</strong>은 한국, 베트남, 동남아시아의 민간종교, 샤머니즘과 성스러운 사물의 물질성을 연구해 왔다. University of Pennsylvania의 <strong>Justin McDaniel</strong>은 동남아시아 종교, 사본, 불교미술과 건축, 그리고 살아 있는 종교 실천을 연구한다.</p>
+
+<p>나의 연구 주제와 특히 가까운 참가자들도 많았다. <strong>Youn-mi Kim</strong>은 한국 불교미술과 의례를, Leeum Museum of Art의 <strong>Seunghye Lee</strong>는 중국과 한국의 불교미술 및 건축을, <strong>Sujung Kim</strong>은 텍스트와 물질 자료를 통해 일본과 한국 불교를, <strong>Maya Stiller</strong>는 한국 미술·시각문화와 성지 경관을 연구한다. 이러한 연구자들과의 만남은 고려와 조선 전기의 불교미술을 연구하는 나에게 즉각적인 의미를 지녔다.</p>
+
+<p>Princeton의 젊은 연구자들도 조직에 중요한 역할을 했다. <strong>Kentaro Ide</strong>, <strong>Sinae Kim</strong>, <strong>Junbin Tan</strong>은 학술대회의 준비와 학문적 운영에 참여했다. 이 점은 초청 박사과정생을 단순한 청중이 아니라 진행 중인 연구를 함께 검토하는 토론 공동체의 구성원으로 받아들였다는 점에서 중요했다.</p>
+
+<h2>일주일간의 훈련과 교류</h2>
+
+<p>이 일주일에서 가장 크게 남은 것은 서로 다른 지역, 시대, 자료를 연구하는 전문가들의 방법론을 한자리에서 비교할 수 있었다는 점이다. 미술사가에게 인류학자가 의례 사물의 효력을 설명하고, 역사가가 비문을 읽으며, 종교학자가 의례의 순서를 복원하는 과정을 듣는 것은 작품을 보는 방식 자체를 바꾼다. 물질성은 더 이상 사물의 단순한 속성이 아니라 그 사물이 작동할 수 있게 하는 조건이 된다.</p>
+
+<p>약 90명의 지원자 가운데 20명의 박사과정생 중 한 명으로 선발된 경험은 추상적인 명예라기보다 아시아의 종교와 물질문화를 연구하는 국제적인 연구 네트워크 안으로 직접 들어갈 수 있는 기회였다. 나의 연구에도 하나의 방법론적 확신을 강화했다. 불교미술사는 이미지, 발원자, 공간, 몸짓과 의례적 사용 사이의 관계를 함께 추적할 때 더 풍부하게 서술될 수 있다.</p>
+
+<div class="fieldwork-notes"><h2>주요 정보</h2><p><strong>대학:</strong> Princeton University, Princeton, New Jersey.<br><strong>학술대회:</strong> <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>.<br><strong>기간:</strong> 2023년 6월 13–15일, 현지 체류 약 일주일.<br><strong>박사과정 선발:</strong> 약 90건의 지원 가운데 20명.<br><strong>학술 프로그램:</strong> 연구자 21명, 기조강연 1명, 토론자 2명.<br><strong>기조강연:</strong> Shu-fen Liu, Academia Sinica.<br><strong>토론자:</strong> Laurel Kendall, Justin McDaniel.<br><strong>공동 조직:</strong> Stephen F. Teiser, Shih-shan Susan Huang.<br><strong>주요 후원:</strong> Glorisun Global Buddhist Network.<br><strong>장소:</strong> McCosh Hall 50, Frist Campus Center 302.</p></div>
+
 </div></main>

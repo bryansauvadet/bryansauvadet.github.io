@@ -1,31 +1,56 @@
 ---
-title: "プリンストン大学 [Princeton University] — Ritual and Materiality in Buddhism and Asian Religions"
+title: "プリンストン大学 — Ritual and Materiality in Buddhism and Asian Religions"
 lang: ja
 format:
   html:
     include-before-body: _includes/ja-header.html
     include-after-body: _includes/ja-footer.html
 ---
-<section class="page-hero"><h1>プリンストン大学 [Princeton University]</h1><p class="lead">アメリカ合衆国・ニュージャージー州プリンストン · 2023年6月</p></section>
-<main class="content"><div class="content-inner fieldwork-story princeton-story">
-<figure class="fieldwork-hero"><img src="/assets/images/princeton-10.webp" alt="プリンストン大学で開催された国際会議の参加者" loading="eager"><figcaption>アジア宗教における儀礼と物質性をめぐる国際会議を中心としたプリンストンでの研究滞在。</figcaption></figure>
-<p class="lead">2023年6月、プリンストン大学で開催された国際会議 <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a> に博士課程参加者として選出された。プリンストンでの約1週間の滞在の中心は6月13日から15日の会議で、世界各地から選ばれた博士課程学生はわずか20名だった。応募は約90件にのぼり、研究の質と会議テーマとの関連性に基づいて選考された。私の「14～16世紀の朝鮮宮廷における仏教美術の展開とその施主」に関する博士論文研究も公式プログラムに掲載された。</p>
-<h2>プリンストンという歴史的な研究環境</h2>
-<p>プリンストン大学は1746年に <em>College of New Jersey</em> として創設され、英領北米で4番目のカレッジだった。1756年にプリンストンへ移転しNassau Hallを拠点とし、1896年にPrinceton Universityへ改称、1900年前後にGraduate Schoolが設置された。1783年にはNassau Hallで大陸会議が開かれたこともある。この長い歴史をもつキャンパスで、仏教学・美術史・東アジア研究・宗教学を横断する会議に参加したこと自体が強い印象を残した。<a href="https://profile.princeton.edu/about-princeton-university" target="_blank" rel="noopener">プリンストン大学の沿革</a></p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-01.webp" alt="プリンストン大学の建築" loading="lazy"><figcaption>歴史的建築が研究生活の日常的な背景をつくるキャンパス。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-08.webp" alt="プリンストン大学キャンパス" loading="lazy"><figcaption>セッション間の移動そのものが大学の歴史の厚みを感じさせた。</figcaption></figure></div>
-<h2>儀礼・物・身体</h2>
-<p>会議は、仏教とアジア宗教を教義やテキストだけでなく、写本、印刷された儀礼書、絵画、像、護符、法具、技術、身体的実践から捉え直すことを目指していた。21名の研究者と、選抜された20名の博士課程学生が参加し、事前配布論文をもとに議論を行ったため、発表を聞くだけではなく、研究方法そのものを比較する密度の高い場となった。</p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-02.webp" alt="阿弥陀仏に関する会議セッション" loading="lazy"><figcaption>画像・銘文・信仰実践を同時に扱うセッション。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-03.webp" alt="仏教儀礼具に関する発表" loading="lazy"><figcaption>儀礼具を単なる図版ではなく宗教実践を構成する要素として考察した。</figcaption></figure></div>
-<h2>Shu-fen Liu 劉淑芬の基調講演</h2>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-04.webp" alt="羅漢信仰に関する基調講演のスクリーン" loading="lazy"><figcaption>羅漢窟信仰と大徳寺五百羅漢図をめぐる基調講演。</figcaption></figure>
-<p>基調講演者はAcademia Sinica・Institute of History and Philologyの<strong>Shu-fen Liu 劉淑芬</strong>で、中世中国史および3～13世紀の仏教社会史を専門とする。講演 <em>The Arhat Cave Belief in Four Stele Inscriptions and the Daitokuji Paintings of Five Hundred Arhats</em> は、石刻銘文、洞窟という礼拝空間、五百羅漢図を結びつけた。テキスト・空間・画像・儀礼行為を一つの問題として扱う方法は、私自身の美術史研究にも強い示唆を与えた。</p>
-<h2>研究者と主催者</h2>
-<p>討論者の<strong>Laurel Kendall</strong>はAmerican Museum of Natural Historyのアジア民族誌コレクションのキュレーターで、韓国のシャーマニズムや宗教的物質文化を研究する。<strong>Justin McDaniel</strong>（University of Pennsylvania）は東南アジア仏教、パーリ語・サンスクリット、写本、建築、宗教実践を研究する。登壇者には、中国・内陸アジア仏教美術のWen-shing Chou、中韓仏教美術と造像供養のSeunghye Lee、韓国仏教視覚文化のMaya Stillerなど、私の研究に近い研究者も多かった。</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-05.webp" alt="プリンストンの会議室" loading="lazy"><figcaption>数日間、この空間が儀礼と物質性を考える共同研究の場となった。</figcaption></figure>
-<p>会議はPrinceton Universityの<strong>Stephen F. Teiser</strong>とRice Universityの<strong>Shih-shan Susan Huang</strong>が共同主催した。Teiserは中国仏教、儀礼、再生表象、写本文化の研究で知られ、Huangは道教視覚文化、仏教印刷文化、画像と書物の越境的流通を研究する。博士課程のKentaro IdeとSinae Kimがco-convenor、Junbin Tanがcoordinatorを務めた。Glorisun Global Buddhist Networkを中心に、PrincetonのTang Center for East Asian Art、Humanities Council、East Asian Studies Program、Center for Culture, Society &amp; Religion、Department of Religionも支援した。</p>
-<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-07.webp" alt="Princeton Department of East Asian Studiesでの集合写真" loading="lazy"><figcaption>正式なセッションを離れても東アジア研究のコミュニティの中で議論が続いた。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-06.webp" alt="参加者の夕食会" loading="lazy"><figcaption>食事の時間も博士課程学生と研究者がより自由に意見を交わす重要な場だった。</figcaption></figure></div>
-<h2>私にとっての意味</h2>
-<p>20名の博士課程参加者の一人に選ばれたことの意味は、肩書きそのものよりも、研究を集中的に検討できる国際的環境に入れたことにあった。朝鮮仏教美術、施主、造像供養、地域間の交流、物質的実践という自分の問題を、異なる地域や方法をもつ研究者と直接議論できた。若手研究者として、自分の研究をより広い仏教物質文化研究のネットワークに位置づけ直す重要な機会となった。</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-09.webp" alt="プリンストン大学のゴシック建築" loading="lazy"><figcaption>会議の合間に歩くキャンパスも、この研究滞在の記憶の一部となっている。</figcaption></figure>
-<div class="fieldwork-notes"><h2>基本情報</h2><p><strong>場所：</strong>Princeton University, Princeton, New Jersey.<br><strong>会議：</strong>2023年6月13–15日。<br><strong>名称：</strong><a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>。<br><strong>選抜博士課程学生：</strong>約90件の応募から20名。<br><strong>基調講演：</strong>Shu-fen Liu 劉淑芬。<br><strong>共同主催：</strong>Stephen F. Teiser / Shih-shan Susan Huang。<br><strong>主要支援：</strong>Glorisun Global Buddhist Network。<br><strong>参加者：</strong><a href="https://ritualmateriality2023.princeton.edu/participants" target="_blank" rel="noopener">公式プロフィール</a>。</p></div>
+<section class="page-hero"><h1>プリンストン大学 [Princeton University]</h1><p class="lead">プリンストン、ニュージャージー州 · 米国 · 2023年6月13–15日</p></section>
+<main class="content"><div class="content-inner fieldwork-story rice-story princeton-story">
+
+<figure class="fieldwork-hero"><img src="/assets/images/princeton-09.webp" alt="プリンストン大学キャンパスの建築" loading="eager"><figcaption>国際会議 <em>Ritual and Materiality in Buddhism and Asian Religions</em> に参加するため訪れたプリンストン大学キャンパス。</figcaption></figure>
+
+<p class="lead">私はプリンストン大学で開催された国際会議 <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a> に参加する博士課程研究者の一人として選抜された。会議自体は2023年6月13日から15日まで開催され、私は約一週間プリンストンに滞在した。アジア、ヨーロッパ、北米から寄せられた約90件の博士課程応募のうち、選ばれたのは20名であった。この競争的な選抜は、博士研究の過程において特に重要な経験となった。</p>
+
+<p>プログラムには21名の研究者、1名の基調講演者、2名の討論者、20名の招待博士課程生が参加した。会議は <strong>Princeton University Buddhist Studies Workshop</strong> が主催し、<strong>Glorisun Global Buddhist Network</strong> が主要な支援を行い、さらに Princeton の Tang Center for East Asian Art、Humanities Council、Program in East Asian Studies、Center for Culture, Society and Religion、Department of Religion が協力した。目的は事例研究を並べることではなく、宗教史、美術史、文献学、文学研究、人類学を横断し、「儀礼はいかに物、イメージ、テキスト、身体、空間を通して具体化されるのか」を考えることにあった。</p>
+
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-02.webp" alt="仏教イメージに関する発表" loading="lazy"><figcaption>各セッションでは、イメージ、碑文、物質資料と儀礼実践が密接に結びつけられた。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-03.webp" alt="仏教儀礼具に関する発表" loading="lazy"><figcaption>典礼具、舎利、写本、儀礼装置が、儀礼を構成する能動的な要素として検討された。</figcaption></figure></div>
+
+<h2>プリンストンの歴史と学術的意義</h2>
+
+<p>プリンストンは1746年に <em>College of New Jersey</em> として創設された、米国で4番目に古い高等教育機関である。Elizabeth と Newark を経て、1756年に Nassau Hall の建設とともに Princeton へ移転した。Nassau Hall は1777年のプリンストンの戦いと関係し、1783年には一時 Confederation Congress の会議場となった。1896年に正式に Princeton University と改称され、20世紀への転換期に Graduate School が組織された。こうした歴史の厚みは、大学のアイデンティティを形づくるキャンパスの建築にも表れている。</p>
+
+<p>仏教学と東アジア研究においても Princeton は重要な拠点である。Department of Religion、Program in East Asian Studies、Tang Center for East Asian Art、Buddhist Studies Workshop が、テキスト、物、実践、イメージを横断して研究する環境を作り出している。この制度的な構成は、仏教美術を自律した造形生産としてではなく、発願者、儀礼的使用、流通のネットワークと結びついた物質文化として捉える私自身の方法と直接響き合っていた。</p>
+
+<h2>儀礼と物質性</h2>
+
+<p>発表は、写本と印刷された儀礼書、絵画、彫刻、護符、舎利、儀礼具、儀礼技術、身体的実践といった宗教の具体的な物質性に焦点を当てた。論文は事前に共有され、会場では討論に重点が置かれた。そのため一つの物も、身振り、移動、読誦、供養、操作からなる一連の行為のなかで捉え直す必要があった。</p>
+
+<p>博士課程参加者の公式リストでは、私の研究は <em>The Evolution of Buddhist Art at the Korean Court in Connection with its Donors (14th to 16th Centuries)</em> という題名で紹介された。これは、誰が仏教イメージを発願したのか、どのような状況でそれが必要とされたのか、そしてどのような実践が宗教的・政治的効力を与えたのかを問う私の研究が、会議の中心課題と直結していることを示していた。</p>
+
+<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-04.webp" alt="プリンストンでのShu-fen Liu基調講演" loading="lazy"><figcaption>Shu-fen Liu の基調講演 <em>The Arhat Cave Belief in Four Stele Inscriptions and the Daitokuji Paintings of Five Hundred Arhats</em>。</figcaption></figure>
+
+<h2>Shu-fen Liuの羅漢信仰に関する基調講演</h2>
+
+<p>基調講演は Academia Sinica, Institute of History and Philology の <strong>Shu-fen Liu</strong> が担当した。中国中世の社会史・宗教史を専門とする研究者である。講演では、石碑銘、羅漢窟への信仰、そして1178年から1188年にかけて寧波で制作された大徳寺五百羅漢図が結びつけられた。信仰が聖なる地形、碑文、イメージ、礼拝実践のなかで同時に物質化されることを示す点で、非常に示唆的であった。</p>
+
+<h2>主催者と主要参加者</h2>
+
+<p>会議は <strong>Stephen F. Teiser</strong> と <strong>Shih-shan Susan Huang</strong> によって共同企画された。Teiser は当時 Princeton の宗教学教授で、現在は D. T. Suzuki Professor in Buddhist Studies and Professor of Religion Emeritus。仏典、写本、儀礼、中国の石窟寺院を長く研究してきた。Rice University の T. T. and W. F. Chao Professor である Susan Huang は、中国と東アジアの仏教・道教の視覚文化と物質文化、とりわけ絵画、印刷文化、イメージの流通を研究している。この二人の組み合わせが、宗教史と美術史、テキストと物質資料の強い均衡を生み出していた。</p>
+
+<p>二人の討論者も視野を広げた。American Museum of Natural History の人類学者・キュレーターである <strong>Laurel Kendall</strong> は、韓国、ベトナム、東南アジアの民間宗教、シャーマニズム、聖なる物の物質性を研究してきた。University of Pennsylvania の <strong>Justin McDaniel</strong> は、東南アジア宗教、写本、仏教美術・建築、生活世界における宗教実践を研究している。</p>
+
+<p>私自身の研究分野に近い参加者も多かった。<strong>Youn-mi Kim</strong> は韓国仏教美術と儀礼、Leeum Museum of Art の <strong>Seunghye Lee</strong> は中国・韓国の仏教美術と建築、<strong>Sujung Kim</strong> は文献資料と物質資料を通じた日本・韓国仏教、<strong>Maya Stiller</strong> は韓国美術、視覚文化、聖地景観を研究している。こうした研究者との交流は、高麗から朝鮮初期の仏教美術を研究する私にとって直接的な意味を持った。</p>
+
+<p>Princeton の若手研究者も運営で重要な役割を担った。<strong>Kentaro Ide</strong>、<strong>Sinae Kim</strong>、<strong>Junbin Tan</strong> は会議の準備と学術的調整に関わった。この点は、招待された博士課程生が単なる聴衆ではなく、進行中の研究を検討する討論共同体の一員として位置づけられていたことを示している。</p>
+
+<h2>一週間の研修と交流</h2>
+
+<p>この一週間で最も強く残ったのは、異なる地域、時代、資料を扱う専門家の方法を比較できたことだった。美術史家にとって、人類学者が儀礼物の効力を説明し、歴史家が碑文を読み、宗教学者が儀礼の順序を再構成するのを聞くことは、作品の見方そのものを変える。物質性は単なる物の属性ではなく、その物が作用するための条件になる。</p>
+
+<p>約90件の応募から20名の博士課程生の一人として選ばれた経験は、抽象的な栄誉というより、アジア宗教と物質文化を研究する国際的な研究ネットワークに実際に入る機会だった。私自身の研究にとっても、仏教美術史はイメージ、発願者、空間、身振り、儀礼的使用の関係を同時に追うことでより豊かに書くことができる、という方法論的確信を強めた。</p>
+
+<div class="fieldwork-notes"><h2>基本情報</h2><p><strong>大学：</strong> Princeton University, Princeton, New Jersey.<br><strong>会議：</strong> <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>.<br><strong>日程：</strong> 2023年6月13–15日、滞在は約一週間。<br><strong>博士課程選抜：</strong> 約90件の応募から20名。<br><strong>学術プログラム：</strong> 研究者21名、基調講演1名、討論者2名。<br><strong>基調講演：</strong> Shu-fen Liu, Academia Sinica.<br><strong>討論者：</strong> Laurel Kendall, Justin McDaniel.<br><strong>共同主催：</strong> Stephen F. Teiser, Shih-shan Susan Huang.<br><strong>主要支援：</strong> Glorisun Global Buddhist Network.<br><strong>会場：</strong> McCosh Hall 50, Frist Campus Center 302.</p></div>
+
 </div></main>
