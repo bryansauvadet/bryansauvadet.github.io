@@ -8,20 +8,20 @@ format:
 ---
 <section class="page-hero"><h1>Chùa Bút Tháp (Ninh Phúc tự 寧福寺)</h1><p class="lead">Bút Tháp · ベトナム・バクニン</p></section>
 <main class="content"><div class="content-inner fieldwork-story sakya-story but-thap-story">
-<figure class="fieldwork-hero"><img src="/assets/images/but-thap-01.webp" alt="門越しに、煉瓦敷きの長い通路を望む。" loading="lazy"><figcaption>門越しに、煉瓦敷きの長い通路を望む。</figcaption></figure>
+<figure class="fieldwork-hero"><img src="/assets/images/but-thap-01.webp?v=20261023hq" alt="門越しに、煉瓦敷きの長い通路を望む。" loading="lazy"><figcaption>門越しに、煉瓦敷きの長い通路を望む。</figcaption></figure>
 <p class="lead">Bút Tháp（正式名 Ninh Phúc tự 寧福寺）は、ベトナム北部に現存する仏教建築・彫刻群のなかでも、とりわけ重要な寺院の一つである。その起源は伝統的に陳朝期に遡るとされるが、今日目にする伽藍の大部分は17世紀の大規模な再建による。この点は重要である。Bút Tháp は中世以来の姿をそのまま保存した寺院ではなく、より古い聖地の歴史が黎中興期に物質的・空間的に再編された場所なのである。</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-09.webp" alt="Bút Tháp を象徴する石造 Bảo Nghiêm 塔。" loading="lazy"><figcaption>Bút Tháp を象徴する石造 Bảo Nghiêm 塔。</figcaption></figure>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-09.webp?v=20261023hq" alt="Bút Tháp を象徴する石造 Bảo Nghiêm 塔。" loading="lazy"><figcaption>Bút Tháp を象徴する石造 Bảo Nghiêm 塔。</figcaption></figure>
 <p>17世紀、Bút Tháp は禅僧 Chuyết Chuyết（1590–1644）のもとで特に名声を高めた。彼はベトナム臨済宗の重要人物であり、その住持期以後、貴族層の庇護によって大規模な再建が進められた。現存する伽藍は高い一体性を保ち、門、諸堂、中庭、鐘楼、礼拝空間、後方の建物が長い軸線上に配され、回廊によって結ばれている。Chuyết Chuyết と関わる石造の Bảo Nghiêm 塔は、寺院景観を特徴づける垂直的な焦点となっている。</p>
-<div class="figure-pair"><figure><img src="/assets/images/but-thap-10.webp" alt="伽藍内の木造建築と瓦屋根。" loading="lazy"><figcaption>伽藍内の木造建築と瓦屋根。</figcaption></figure><figure><img src="/assets/images/but-thap-11.webp" alt="石橋、蓮池、長い木造堂。" loading="lazy"><figcaption>石橋、蓮池、長い木造堂。</figcaption></figure></div>
+<div class="figure-pair"><figure><img src="/assets/images/but-thap-10.webp?v=20261023hq" alt="伽藍内の木造建築と瓦屋根。" loading="lazy"><figcaption>伽藍内の木造建築と瓦屋根。</figcaption></figure><figure><img src="/assets/images/but-thap-11.webp?v=20261023hq" alt="石橋、蓮池、長い木造堂。" loading="lazy"><figcaption>石橋、蓮池、長い木造堂。</figcaption></figure></div>
 <p>ここでは建築と彫刻を切り離して考えることはできない。木彫、石造欄干、祭壇、儀礼用具、仏像群が密度の高い視覚環境を形成し、17世紀の工芸技術を例外的な規模で伝えている。公式の文化遺産記録には約100体の像が記載され、諸仏、獅子に乗る文殊（Văn Thù）、象に乗る普賢（Phổ Hiền）、護法像、肖像的な像などが含まれる。</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-08.webp" alt="中庭、香炉、古木の下の木造堂。" loading="lazy"><figcaption>中庭、香炉、古木の下の木造堂。</figcaption></figure>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-08.webp?v=20261023hq" alt="中庭、香炉、古木の下の木造堂。" loading="lazy"><figcaption>中庭、香炉、古木の下の木造堂。</figcaption></figure>
 <p>長い回廊と連続する閾は、像との出会い方そのものを変える。彫像は博物館の作品のように切り離されているのではなく、儀礼空間、香煙、暗い木造内部、抑制された光のなかに現れる。Bút Tháp が保存しているのは個々の傑作だけでなく、それらに信仰上の意味を与える空間的文脈でもある。</p>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-04.webp" alt="1656年完成の千手千眼 Quan Âm 像。" loading="lazy"><figcaption>1656年完成の千手千眼 Quan Âm 像。</figcaption></figure>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-04.webp?v=20261023hq" alt="1656年完成の千手千眼 Quan Âm 像。" loading="lazy"><figcaption>1656年完成の千手千眼 Quan Âm 像。</figcaption></figure>
 <p>Bút Tháp を最も象徴するのが「千手千眼」Quan Âm（観音／Avalokiteśvara）像である。彫刻家 Trương Thọ Nam により1656年に完成し、高さは約3.7メートル。正面性の強い静かな身体と、放射状に広がる無数の腕と眼が組み合わされている。高度な技術、複雑な図像、優れた保存状態により、ベトナム木彫史を代表する傑作とされ、現在は国宝に認定されている。</p>
-<div class="figure-pair"><figure><img src="/assets/images/but-thap-02.webp" alt="Bút Tháp の彫刻群に含まれる大型の護法像。" loading="lazy"><figcaption>Bút Tháp の彫刻群に含まれる大型の護法像。</figcaption></figure><figure><img src="/assets/images/but-thap-06.webp" alt="礼拝空間に並ぶ金色の仏像群。" loading="lazy"><figcaption>礼拝空間に並ぶ金色の仏像群。</figcaption></figure></div>
+<div class="figure-pair"><figure><img src="/assets/images/but-thap-02.webp?v=20261023hq" alt="Bút Tháp の彫刻群に含まれる大型の護法像。" loading="lazy"><figcaption>Bút Tháp の彫刻群に含まれる大型の護法像。</figcaption></figure><figure><img src="/assets/images/but-thap-06.webp?v=20261023hq" alt="礼拝空間に並ぶ金色の仏像群。" loading="lazy"><figcaption>礼拝空間に並ぶ金色の仏像群。</figcaption></figure></div>
 <p>寺内の像群を総体として見ると、Bút Tháp の造像計画の幅広さが明らかになる。静かな仏像、力強い護法像、菩薩像、肖像的表現、精緻な礼拝像が同じ伽藍に共存する。金箔、漆、時代とともに暗色化した表面、断続的な光は、仏教美術の経験が建築と照明条件にいかに深く依存しているかを示している。</p>
-<div class="figure-pair"><figure><img src="/assets/images/but-thap-03.webp" alt="薄暗い堂内に安置された坐像。" loading="lazy"><figcaption>薄暗い堂内に安置された坐像。</figcaption></figure><figure><img src="/assets/images/but-thap-05.webp" alt="側光に照らされた肖像的な坐像。" loading="lazy"><figcaption>側光に照らされた肖像的な坐像。</figcaption></figure></div>
-<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-07.webp" alt="寺内に伝わる金色の坐像。" loading="lazy"><figcaption>寺内に伝わる金色の坐像。</figcaption></figure>
+<div class="figure-pair"><figure><img src="/assets/images/but-thap-03.webp?v=20261023hq" alt="薄暗い堂内に安置された坐像。" loading="lazy"><figcaption>薄暗い堂内に安置された坐像。</figcaption></figure><figure><img src="/assets/images/but-thap-05.webp?v=20261023hq" alt="側光に照らされた肖像的な坐像。" loading="lazy"><figcaption>側光に照らされた肖像的な坐像。</figcaption></figure></div>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/but-thap-07.webp?v=20261023hq" alt="寺内に伝わる金色の坐像。" loading="lazy"><figcaption>寺内に伝わる金色の坐像。</figcaption></figure>
 <p>したがって仏教美術史における Bút Tháp の価値は多層的である。陳朝期に起源をもつ寺院であり、17世紀の黎中興期に大規模な再建を受け、Chuyết Chuyết と結びつく中心地であり、さらに建築・彫刻・儀礼空間を一体として読み取ることのできる稀有な遺構でもある。17世紀ベトナム仏教美術が到達した技術的・信仰的洗練を、きわめて凝縮して示す場所である。</p>
 <section class="fieldwork-notes"><h2>基本情報</h2><ul><li><strong>起源:</strong> 陳朝期；17世紀に大規模再建。</li><li><strong>所在地:</strong> Bút Tháp、バクニン、Đuống 川南岸、ベトナム。</li><li><strong>重要人物:</strong> 禅僧 Chuyết Chuyết（1590–1644）。</li><li><strong>主要作品:</strong> 千手千眼 Quan Âm、1656年、Trương Thọ Nam。</li><li><strong>座標:</strong> 約 21.06103° N, 106.02225° E.</li></ul></section>
 </div></main>

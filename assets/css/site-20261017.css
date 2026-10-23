@@ -1014,3 +1014,26 @@ html.site-intro-skip .site-intro{display:none!important}
     gap:1.5rem;
   }
 }
+
+
+/* HQ fieldwork photography: preserve native sharpness and dedicated cover framing */
+.but-thap-story > .fieldwork-hero,
+.but-thap-story > .fieldwork-figure-wide,
+.phat-tich-story > .fieldwork-hero,
+.phat-tich-story > .fieldwork-figure-wide {
+  width: min(100%, 920px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.but-thap-story figure img,
+.phat-tich-story figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.fieldwork-card .database-card-image img[src*="but-thap-card"],
+.fieldwork-card .database-card-image img[src*="phat-tich-card"] {
+  object-position: center center;
+}
