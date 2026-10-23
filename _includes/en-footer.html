@@ -4,3 +4,30 @@
 <div class="footer-col"><h4>Links</h4><a href="/en/publications.html">Publications</a><a href="/en/databases.html">Databases</a><a href="/en/maps.html">Maps & visualisations</a></div>
 <div class="footer-col"><h4>Image rights</h4><a href="/en/credits.html">Credits & licences</a></div>
 </div></footer>
+
+<style id="image-interaction-protection">
+img {
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+</style>
+<script>
+(function () {
+  function isImageTarget(target) {
+    return target && target.closest && target.closest("img");
+  }
+
+  document.addEventListener("contextmenu", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+
+  document.addEventListener("dragstart", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+
+  document.addEventListener("selectstart", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+})();
+</script>
