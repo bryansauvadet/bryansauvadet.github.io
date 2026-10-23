@@ -4,3 +4,30 @@
 <div class="footer-col"><h4>リンク</h4><a href="/ja/publications.html">業績</a><a href="/ja/databases.html">データベース</a><a href="/ja/maps.html">地図・インフォグラフィック</a></div>
 <div class="footer-col"><h4>画像権利</h4><a href="/ja/credits.html">クレジットとライセンス</a></div>
 </div></footer>
+
+<style id="image-interaction-protection">
+img {
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+</style>
+<script>
+(function () {
+  function isImageTarget(target) {
+    return target && target.closest && target.closest("img");
+  }
+
+  document.addEventListener("contextmenu", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+
+  document.addEventListener("dragstart", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+
+  document.addEventListener("selectstart", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+})();
+</script>
