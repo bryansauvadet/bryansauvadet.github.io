@@ -4,3 +4,30 @@
 <div class="footer-col"><h4>Liên kết</h4><a href="/vi/publications.html">Công bố</a><a href="/vi/databases.html">Cơ sở dữ liệu</a><a href="/vi/maps.html">Bản đồ & đồ họa</a></div>
 <div class="footer-col"><h4>Quyền hình ảnh</h4><a href="/vi/credits.html">Nguồn & giấy phép</a></div>
 </div></footer>
+
+<style id="image-interaction-protection">
+img {
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+</style>
+<script>
+(function () {
+  function isImageTarget(target) {
+    return target && target.closest && target.closest("img");
+  }
+
+  document.addEventListener("contextmenu", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+
+  document.addEventListener("dragstart", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+
+  document.addEventListener("selectstart", function (event) {
+    if (isImageTarget(event.target)) event.preventDefault();
+  });
+})();
+</script>
