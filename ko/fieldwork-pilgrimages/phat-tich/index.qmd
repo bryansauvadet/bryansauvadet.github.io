@@ -1,0 +1,26 @@
+---
+title: "Chùa Phật Tích (Phật Tích tự 佛跡寺)"
+lang: ko
+format:
+  html:
+    include-before-body: _includes/ko-header.html
+    include-after-body: _includes/ko-footer.html
+---
+<section class="page-hero"><h1>Chùa Phật Tích (Phật Tích tự 佛跡寺)</h1><p class="lead">Phật Tích · 베트남 박닌</p></section>
+<main class="content"><div class="content-inner fieldwork-story sakya-story phat-tich-story">
+<figure class="fieldwork-hero"><img src="/assets/images/phat-tich-01.webp" alt="나무와 축제 등불 아래 이어지는 사원으로의 계단." loading="lazy"><figcaption>나무와 축제 등불 아래 이어지는 사원으로의 계단.</figcaption></figure>
+<p class="lead">Phật Tích 사원은 사료에서 Vạn Phúc tự라고도 불리며, 리(Lý) 왕조 불교미술을 연구하는 데 핵심적인 유적 가운데 하나이다. 왕실 불교 중심지로 크게 확장된 것은 Lý Thánh Tông 재위기였으며, 명문 자료와 고고학적 성과는 대규모 조영 사업을 1057년에 연결한다.</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-07.webp" alt="Phật Tích으로 올라가는 길." loading="lazy"><figcaption>Phật Tích으로 올라가는 길과 숲 너머로 보이는 재건 탑.</figcaption></figure>
+<p>1057년부터 1066년 사이 왕실 가람은 거대한 탑을 중심으로 정비되었다. “Lý gia đệ tam đế, Long Thụy Thái Bình tứ niên tạo”라는 글이 새겨진 벽돌은 이 공사의 연대를 알려 주는 중요한 자료이다. 후대 전승은 탑이 무너졌을 때 내부에서 원래 금박을 입혔던 단일 녹색 석재의 아미타불상이 드러났다고 전한다. 현존 불상은 11세기 작품이며 리 왕조 조각을 대표하는 유산이다.</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-08.webp" alt="11세기 단일 녹색 석재 아미타불." loading="lazy"><figcaption>조각 대좌 위에 앉은 11세기 단일 녹색 석재 아미타불.</figcaption></figure>
+<p>불상 자체의 높이는 약 1.87미터이며 대좌를 포함하면 약 2.87미터에 이른다. 두 손을 포개어 명상하는 자세, 길고 고요한 신체, 평온한 얼굴, 부드러운 옷주름이 특징이다. 연꽃잎·용·구름·물결무늬가 새겨진 대좌 역시 작품 전체의 필수적인 일부이다.</p>
+<div class="figure-pair"><figure><img src="/assets/images/phat-tich-03.webp" alt="리 왕조 아미타불의 측면 모습." loading="lazy"><figcaption>리 왕조 아미타불의 측면 모습. 옷주름과 신체 표현을 볼 수 있다.</figcaption></figure><figure><img src="/assets/images/phat-tich-02.webp" alt="리 왕조 석조 동물." loading="lazy"><figcaption>사원 경내에 보존된 리 왕조 석조 동물.</figcaption></figure></div>
+<p>경내에는 사자·코끼리·코뿔소·물소·말로 이루어진 열 점의 석조 동물이 쌍으로 배치되어 있으며, 이들 또한 리 왕조 조각의 핵심 유산이다.</p>
+<p>Phật Tích의 미술은 리 왕조 시각문화의 국제성도 보여 준다. kinnari와 makara에 가까운 모티프는 참파 미술 및 더 넓은 동남아시아 전통과 비교되어 왔다. 그러나 Phật Tích 자체가 참족 노예에 의해 건설되었다고 단정할 수 있는 현존 자료는 없다. 예술적 교류와 형식의 이동으로 설명하는 편이 더 정확하다.</p>
+<div class="figure-pair"><figure><img src="/assets/images/phat-tich-05.webp" alt="현재의 의례 공간에 봉안된 대형 호법상." loading="lazy"><figcaption>현재의 의례 공간에 봉안된 대형 호법상.</figcaption></figure><figure><img src="/assets/images/phat-tich-06.webp" alt="화려하게 장엄된 오늘날의 사원 내부." loading="lazy"><figcaption>화려하게 장엄된 오늘날의 사원 내부.</figcaption></figure></div>
+<p>사원은 1686년 레 중흥(Lê Trung Hưng) 시기에 대대적으로 중건되었고 이후에도 여러 차례 수리되었다. 제1차 인도차이나 전쟁 중 1947년부터 큰 피해를 입으며 가람은 거의 전면 파괴되었고, 1959년부터 재건이 시작되었다. 오늘날 보이는 전각과 탑은 따라서 재건된 사원 경관에 속하며 11세기 왕실 가람 자체가 아니다.</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-09.webp" alt="수목 사이로 솟은 재건 탑." loading="lazy"><figcaption>수목 사이로 솟은 재건 탑. 11세기 탑은 아니다.</figcaption></figure>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-04.webp" alt="현재의 본전." loading="lazy"><figcaption>옛 가람이 파괴된 뒤 재건된 현재의 본전.</figcaption></figure>
+<p>이러한 역사적 중층성이야말로 Phật Tích의 핵심 가치이다. 대부분 근현대에 재건된 건축 속에 11세기 조각들이 남아 있어 Đại Việt 불교미술의 형성기를 직접 증언한다.</p>
+<section class="fieldwork-notes"><h2>기본 정보</h2><ul><li><strong>왕실 대조영:</strong> 1057년, Lý Thánh Tông 재위기.</li><li><strong>거대 탑:</strong> 1057–1066년 조영 과정; 리 왕조 탑은 현존하지 않음.</li><li><strong>대표 작품:</strong> 단일 녹색 석재 아미타불, 11세기.</li><li><strong>조각군:</strong> 쌍으로 배치된 리 왕조 석조 동물 열 점.</li><li><strong>현황:</strong> 전쟁 피해 뒤 1959년부터 대부분 재건.</li><li><strong>좌표:</strong> 약 21.09650° N, 106.02440° E.</li></ul></section>
+</div></main>

@@ -1,0 +1,26 @@
+---
+title: "Chùa Phật Tích (Phật Tích tự 佛跡寺)"
+lang: zh-Hant
+format:
+  html:
+    include-before-body: _includes/zh-hant-header.html
+    include-after-body: _includes/zh-hant-footer.html
+---
+<section class="page-hero"><h1>Chùa Phật Tích (Phật Tích tự 佛跡寺)</h1><p class="lead">佛跡寺 · 越南北寧</p></section>
+<main class="content"><div class="content-inner fieldwork-story sakya-story phat-tich-story">
+<figure class="fieldwork-hero"><img src="/assets/images/phat-tich-01.webp" alt="樹蔭與節慶燈籠之下通往寺院的階梯。" loading="lazy"><figcaption>樹蔭與節慶燈籠之下通往寺院的階梯。</figcaption></figure>
+<p class="lead">佛跡寺（Phật Tích），史料中亦稱 Vạn Phúc tự，是研究李朝佛教美術最重要的遺址之一。此地可能具有更早的宗教歷史，但真正發展為大型王室佛教中心，是在 Lý Thánh Tông 統治時期。銘文與考古資料將一次大規模營建明確聯繫至1057年。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-07.webp" alt="通往佛跡寺的山路。" loading="lazy"><figcaption>通往佛跡寺的山路，林間可見重建後的塔。</figcaption></figure>
+<p>1057至1066年間，王室寺院以一座高大的塔為中心持續建設。帶有「Lý gia đệ tam đế, Long Thụy Thái Bình tứ niên tạo」銘文的磚，為工程年代提供了極重要的依據。後世傳說稱，塔倒塌後，內部顯露出一尊原曾施金的單塊綠石阿彌陀佛像。現存造像確實是十一世紀作品，也是李朝雕刻最重要的遺存之一。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-08.webp" alt="十一世紀單塊綠石阿彌陀佛。" loading="lazy"><figcaption>十一世紀單塊綠石阿彌陀佛及其雕刻台座。</figcaption></figure>
+<p>佛身高約1.87公尺，連同台座約2.87公尺。佛陀結跏趺坐，雙手相疊，身形修長，面容平靜，衣紋流暢。台座雕有蓮瓣、龍、雲與水紋，與佛身共同構成完整作品。</p>
+<div class="figure-pair"><figure><img src="/assets/images/phat-tich-03.webp" alt="李朝阿彌陀佛側面。" loading="lazy"><figcaption>李朝阿彌陀佛側面，可見衣紋與身體的雕刻處理。</figcaption></figure><figure><img src="/assets/images/phat-tich-02.webp" alt="李朝石獸。" loading="lazy"><figcaption>寺院內保存的李朝石獸。</figcaption></figure></div>
+<p>寺院周圍還保存十件成對配置的石獸，包括獅、象、犀牛、水牛與馬，同樣屬於李朝雕刻的重要遺產。</p>
+<p>佛跡寺藝術也顯示李朝視覺文化的跨地域特質。kinnari 以及接近 makara 的紋樣，常被拿來與占婆藝術及更廣泛的東南亞傳統比較。然而，現存資料不足以證明佛跡寺本身是由占族奴隸建造。更嚴謹的說法應是強調藝術交流、形式的流動，以及不同工匠與社群共同參與大越物質文化形成的政治背景。</p>
+<div class="figure-pair"><figure><img src="/assets/images/phat-tich-05.webp" alt="今日儀式空間中的大型護法像。" loading="lazy"><figcaption>今日儀式空間中的大型護法像。</figcaption></figure><figure><img src="/assets/images/phat-tich-06.webp" alt="寺內裝飾繁密的當代禮拜空間。" loading="lazy"><figcaption>寺內裝飾繁密的當代禮拜空間。</figcaption></figure></div>
+<p>寺院在1686年黎中興時期經歷大規模重建，之後亦多次修繕。第一次印度支那戰爭期間，寺院自1947年起遭受嚴重破壞，整體幾乎毀失，1959年才開始重建。因此，今日所見殿宇與塔屬於重建後的寺院景觀，而非十一世紀王室寺院本體。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-09.webp" alt="林坡上的重建塔。" loading="lazy"><figcaption>林坡上的重建塔；並非十一世紀原塔。</figcaption></figure>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-04.webp" alt="現今主殿。" loading="lazy"><figcaption>古寺毀壞後重建的現今主殿。</figcaption></figure>
+<p>正是這種歷史層疊，使佛跡寺格外重要。在大部分屬近現代重建的建築外殼之中，仍保存十一世紀雕刻，能直接見證大越佛教美術形成的重要階段。</p>
+<section class="fieldwork-notes"><h2>基本資料</h2><ul><li><strong>王室大規模營建:</strong> 1057年，Lý Thánh Tông 統治時期。</li><li><strong>高塔:</strong> 1057–1066年營建序列；李朝原塔已不存。</li><li><strong>代表作品:</strong> 單塊綠石阿彌陀佛，十一世紀。</li><li><strong>雕刻群:</strong> 十件成對配置的李朝石獸。</li><li><strong>現況:</strong> 戰爭破壞後，自1959年起大部分重建。</li><li><strong>座標:</strong> 約 21.09650° N, 106.02440° E.</li></ul></section>
+</div></main>

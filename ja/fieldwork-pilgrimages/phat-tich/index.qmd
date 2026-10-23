@@ -1,0 +1,26 @@
+---
+title: "Chùa Phật Tích (Phật Tích tự 佛跡寺)"
+lang: ja
+format:
+  html:
+    include-before-body: _includes/ja-header.html
+    include-after-body: _includes/ja-footer.html
+---
+<section class="page-hero"><h1>Chùa Phật Tích (Phật Tích tự 佛跡寺)</h1><p class="lead">Phật Tích · ベトナム・バクニン</p></section>
+<main class="content"><div class="content-inner fieldwork-story sakya-story phat-tich-story">
+<figure class="fieldwork-hero"><img src="/assets/images/phat-tich-01.webp" alt="樹木と祭礼の灯籠の下を上る寺院への参道。" loading="lazy"><figcaption>樹木と祭礼の灯籠の下を上る寺院への参道。</figcaption></figure>
+<p class="lead">Phật Tích 寺は、史料では Vạn Phúc tự とも呼ばれ、李朝仏教美術を研究するうえで最重要の遺跡の一つである。この聖地にはそれ以前の宗教史があった可能性が高いが、王室寺院として大きく発展したのは Lý Thánh Tông の治世である。碑文資料と考古学的成果は、大規模な造営を1057年に結びつけている。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-07.webp" alt="Phật Tích へのアプローチ。" loading="lazy"><figcaption>Phật Tích へのアプローチ。樹林の斜面に再建された塔が見える。</figcaption></figure>
+<p>1057年から1066年にかけて、王室伽藍は巨大な塔を中心に整備された。「Lý gia đệ tam đế, Long Thụy Thái Bình tứ niên tạo」と刻まれた煉瓦は、この造営を年代づける重要な史料である。後世の伝承では、塔が崩壊した際、内部からかつて金箔を施されていた一石造りの緑色石製阿弥陀如来像が現れたとされる。現存像は11世紀の作品であり、李朝彫刻を代表する遺品である。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-08.webp" alt="11世紀の一石造り緑色石製阿弥陀如来像。" loading="lazy"><figcaption>11世紀の一石造り緑色石製阿弥陀如来像と彫刻台座。</figcaption></figure>
+<p>像高は約1.87メートル、台座を含めると約2.87メートルに達する。両手を重ねて瞑想する姿は細長く静穏で、穏やかな顔貌と柔らかな衣文が特徴的である。蓮弁、龍、雲、水文を刻む台座も作品全体の不可欠な一部である。</p>
+<div class="figure-pair"><figure><img src="/assets/images/phat-tich-03.webp" alt="李朝阿弥陀如来像の側面。" loading="lazy"><figcaption>李朝阿弥陀如来像の側面。衣文と身体表現がよく見える。</figcaption></figure><figure><img src="/assets/images/phat-tich-02.webp" alt="李朝の石造動物。" loading="lazy"><figcaption>境内に保存される李朝の石造動物。</figcaption></figure></div>
+<p>境内には、獅子・象・犀・水牛・馬からなる十体の石造動物が対をなして配置され、これらも李朝彫刻の主要な遺品である。20世紀の発掘で回収された建築・彫刻断片とあわせ、かつての伽藍がもっていた象徴的・儀礼的プログラムの一端を伝えている。</p>
+<p>Phật Tích の美術は李朝の視覚文化が国際的な交流のなかで形成されたことも示す。kinnari や makara に近いモティーフはチャンパ美術や東南アジアの造形伝統と比較されてきた。ただし、Phật Tích そのものがチャム人奴隷によって建設されたと断定できる史料は残っていない。芸術的交流と造形語彙の移動として理解する方が妥当である。</p>
+<div class="figure-pair"><figure><img src="/assets/images/phat-tich-05.webp" alt="現在の儀礼空間に置かれた大型の護法像。" loading="lazy"><figcaption>現在の儀礼空間に置かれた大型の護法像。</figcaption></figure><figure><img src="/assets/images/phat-tich-06.webp" alt="寺内の現代の礼拝空間。" loading="lazy"><figcaption>寺内の装飾密度の高い現代の礼拝空間。</figcaption></figure></div>
+<p>寺院は1686年、黎中興期に大規模な再建を受け、その後も修復された。第一次インドシナ戦争中、1947年以降に伽藍はほぼ全面的に破壊され、1959年から再建が始まった。したがって現在目にする堂宇と塔は再建後の景観に属し、11世紀の王室伽藍そのものではない。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-09.webp" alt="樹林斜面に立つ再建塔。" loading="lazy"><figcaption>樹林斜面に立つ再建塔。11世紀の塔ではない。</figcaption></figure>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/phat-tich-04.webp" alt="現在の本堂。" loading="lazy"><figcaption>古い伽藍の破壊後に再建された現在の本堂。</figcaption></figure>
+<p>この歴史的な重層性こそが Phật Tích の重要性である。大部分が近現代に再建された建築のなかに11世紀の彫刻が残り、大越仏教美術の形成期を直接に物語っている。</p>
+<section class="fieldwork-notes"><h2>基本情報</h2><ul><li><strong>王室による大造営:</strong> 1057年、Lý Thánh Tông 治世。</li><li><strong>巨大塔:</strong> 1057–1066年の造営期；李朝の塔は現存しない。</li><li><strong>主要作品:</strong> 一石造りの緑色石製阿弥陀如来、11世紀。</li><li><strong>彫刻群:</strong> 対をなす十体の李朝石造動物。</li><li><strong>現状:</strong> 戦災後、1959年以降に大部分を再建。</li><li><strong>座標:</strong> 約 21.09650° N, 106.02440° E.</li></ul></section>
+</div></main>
