@@ -784,7 +784,7 @@ html.site-intro-skip .site-intro{display:none!important}
 /* Carnet: only the three intended section cards may be rendered.
    This is class-based rather than position-based so Quarto cannot expose
    a stray empty card if its generated DOM order changes. */
-.carnet-grid .database-card:not(.readings-card):not(.exhibitions-card):not(.fieldwork-card){
+.carnet-grid > :not(.readings-card):not(.exhibitions-card):not(.fieldwork-card){
   display:none !important;
 }
 
