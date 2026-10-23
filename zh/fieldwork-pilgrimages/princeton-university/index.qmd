@@ -1,0 +1,31 @@
+---
+title: "普林斯顿大学 [Princeton University] — Ritual and Materiality in Buddhism and Asian Religions"
+lang: zh
+format:
+  html:
+    include-before-body: _includes/zh-header.html
+    include-after-body: _includes/zh-footer.html
+---
+<section class="page-hero"><h1>普林斯顿大学 [Princeton University]</h1><p class="lead">美国 · 新泽西州普林斯顿 · 2023年6月</p></section>
+<main class="content"><div class="content-inner fieldwork-story princeton-story">
+<figure class="fieldwork-hero"><img src="/assets/images/princeton-10.webp" alt="普林斯顿国际会议与会者" loading="eager"><figcaption>围绕亚洲宗教中的仪式与物质性展开的一次普林斯顿研究访问。</figcaption></figure>
+<p class="lead">2023年6月，我有幸入选在普林斯顿大学举行的国际会议 <a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>。我在普林斯顿停留约一周，其中核心学术活动是6月13日至15日的会议。全球仅有20名博士生获选参加，申请者接近90人；遴选依据是研究质量以及与会议主题的相关性。我的博士论文计划——关于14至16世纪朝鲜宫廷佛教艺术及其施主关系的研究——也列入官方与会博士生名单。</p>
+<h2>普林斯顿：具有深厚历史的学术环境</h2>
+<p>普林斯顿大学创立于1746年，原名 <em>College of New Jersey</em>，是英属北美第四所学院。1756年迁至普林斯顿并以Nassau Hall为核心，1896年正式改名为Princeton University，约1900年建立Graduate School。1783年，Nassau Hall还曾作为大陆会议的会址。置身这样的历史校园，参加一场横跨佛教学、艺术史、东亚研究与宗教学的会议，使学术交流获得了特别的空间感。<a href="https://profile.princeton.edu/about-princeton-university" target="_blank" rel="noopener">普林斯顿官方校史</a></p>
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-01.webp" alt="普林斯顿大学校园建筑" loading="lazy"><figcaption>历史建筑构成了研究与讨论的日常背景。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-08.webp" alt="普林斯顿大学建筑" loading="lazy"><figcaption>在不同会场之间步行，也能直接感受到这所大学的历史层次。</figcaption></figure></div>
+<h2>仪式、器物与身体</h2>
+<p>会议关注一个关键问题：如果研究佛教和亚洲宗教时，不只关注教义与文本，而把写本、印刷仪轨、绘画、造像、符箓、法器、仪式技术以及身体实践纳入分析，我们会得到怎样不同的宗教史？来自亚洲、欧洲和北美的21位学者与20位入选博士生围绕预先分发的论文展开讨论，使艺术史、宗教史、人类学、文本研究、考古学与仪式研究真正进入同一场对话。</p>
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-02.webp" alt="关于阿弥陀佛信仰的会议场景" loading="lazy"><figcaption>图像、铭文与信仰实践被放在一起分析。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-03.webp" alt="佛教仪式器物的报告" loading="lazy"><figcaption>法器并非被当作说明性插图，而是宗教实践的组成部分。</figcaption></figure></div>
+<h2>Shu-fen Liu 劉淑芬的主题演讲</h2>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-04.webp" alt="罗汉窟信仰主题演讲屏幕" loading="lazy"><figcaption>主题演讲讨论罗汉窟信仰与大德寺五百罗汉图。</figcaption></figure>
+<p>主题演讲由Academia Sinica历史语言研究所的<strong>Shu-fen Liu 劉淑芬</strong>担任。她研究中古中国史与3至13世纪佛教社会史，尤其关注仪式、碑铭与罗汉信仰。演讲 <em>The Arhat Cave Belief in Four Stele Inscriptions and the Daitokuji Paintings of Five Hundred Arhats</em> 将石刻铭文、洞窟礼拜空间与五百罗汉图联系起来。把文本、空间、图像和仪式行动放在同一分析框架中，对我的艺术史研究尤其具有启发性。</p>
+<h2>与会学者与组织者</h2>
+<p>两位主要讨论人体现了会议的跨学科性质。<strong>Laurel Kendall</strong>是American Museum of Natural History亚洲民族志收藏的策展人，长期研究韩国萨满传统以及图像和器物的仪式生命。<strong>Justin McDaniel</strong>（University of Pennsylvania）研究东南亚佛教、巴利文和梵文、写本、建筑与宗教实践。Wen-shing Chou、Seunghye Lee、Maya Stiller、Trent Walker等与会学者的研究也与我对东亚佛教艺术和物质文化的兴趣形成了直接呼应。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-05.webp" alt="普林斯顿会议室" loading="lazy"><figcaption>几天之中，这里成为共同思考仪式与物质性的学术实验室。</figcaption></figure>
+<p>会议由Princeton University的<strong>Stephen F. Teiser</strong>与Rice University的<strong>Shih-shan Susan Huang</strong>共同组织。Teiser以中国佛教、仪式、轮回图像和写本传统研究著称；Huang研究道教视觉文化、佛教印刷文化以及图像和书籍的跨区域流通。博士生Kentaro Ide与Sinae Kim担任co-convenors，Junbin Tan负责协调。主要资助来自Glorisun Global Buddhist Network，同时得到Princeton的Tang Center for East Asian Art、Humanities Council、East Asian Studies Program、Center for Culture, Society &amp; Religion和Department of Religion支持。</p>
+<div class="figure-pair"><figure class="figure-item"><img src="/assets/images/princeton-07.webp" alt="Princeton Department of East Asian Studies合影" loading="lazy"><figcaption>正式会议之外，交流继续在East Asian Studies的学术共同体中展开。</figcaption></figure><figure class="figure-item"><img src="/assets/images/princeton-06.webp" alt="会议参加者晚餐" loading="lazy"><figcaption>共同晚餐也是博士生与资深学者进行非正式交流的重要时刻。</figcaption></figure></div>
+<h2>这次经历对我的意义</h2>
+<p>成为20名入选博士生之一，对我而言真正重要的并不是一个抽象的荣誉，而是进入一个高度集中的国际学术环境。我得以直接讨论韩国佛教美术、施主、造像奉安与开光、跨区域传播以及宗教图像的物质性使用，并与研究不同地区的年轻学者相互检验研究方法。这一周帮助我把自己的工作重新放入更广阔的佛教视觉与物质文化研究网络。</p>
+<figure class="fieldwork-figure-wide"><img src="/assets/images/princeton-09.webp" alt="普林斯顿大学哥特式建筑" loading="lazy"><figcaption>会议间隙的校园行走，也成为这次研究访问的重要记忆。</figcaption></figure>
+<div class="fieldwork-notes"><h2>基本信息</h2><p><strong>地点：</strong>Princeton University, Princeton, New Jersey.<br><strong>会议日期：</strong>2023年6月13–15日。<br><strong>会议：</strong><a href="https://ritualmateriality2023.princeton.edu/" target="_blank" rel="noopener"><em>Ritual and Materiality in Buddhism and Asian Religions</em></a>。<br><strong>入选博士生：</strong>近90份申请中20人。<br><strong>主题演讲：</strong>Shu-fen Liu 劉淑芬。<br><strong>共同组织：</strong>Stephen F. Teiser / Shih-shan Susan Huang。<br><strong>主要资助：</strong>Glorisun Global Buddhist Network。<br><strong>与会者：</strong><a href="https://ritualmateriality2023.princeton.edu/participants" target="_blank" rel="noopener">官方简介</a>。</p></div>
+</div></main>
