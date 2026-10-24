@@ -6,72 +6,96 @@
 
 Phật giáo truyền vào Nhật Bản không đồng nghĩa với việc một phong cách kiến trúc hoàn chỉnh được nhập khẩu nguyên vẹn. Tôn giáo mới đến từ lục địa, chủ yếu qua bán đảo Triều Tiên và Trung Quốc, cùng với tượng, kinh, pháp khí, thợ thủ công và kỹ thuật xây dựng. Giới tinh hoa Nhật Bản vì thế phải học cách dựng những loại công trình chưa từng quen thuộc: tháp, điện tượng, hành lang và tăng xá. Các di tích quanh Pháp Long tự 法隆寺 đặc biệt quan trọng vì cho thấy quá trình thích nghi này. Chức năng của stūpa Ấn Độ đã được biến thành tháp gỗ tại Trung Quốc; Nhật Bản lại xây dựng hình thức ấy bằng tri thức mộc nhập từ lục địa rồi dần địa phương hóa. Mặt bằng sân, hành lang và điện có nguồn gốc lục địa, nhưng tỷ lệ, cấu kiện và cách sử dụng gỗ nhanh chóng phát triển nét riêng. Kiến trúc Phật giáo Nhật Bản do đó hình thành bằng chuyển giao và tái tạo hơn là bằng sao chép.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_1 >}}" alt="Kiến trúc Phật giáo truyền vào Nhật Bản" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. Phi Điểu 飛鳥 — Những tu viện đầu tiên {#vi-2}
 
 Trong thời Phi Điểu 飛鳥, tu viện Phật giáo trở thành một công cụ quan trọng của trật tự chính trị và tôn giáo mới. Phi Điểu tự 飛鳥寺, thành lập cuối thế kỷ VI, thuộc thế hệ cơ sở đầu tiên đưa tổ chức kiến trúc lục địa vào quần đảo. Tháp vẫn giữ vị trí trung tâm như người thừa kế của stūpa và nơi chứa xá-lợi. Quanh đó là điện tượng, hành lang và nhà của tăng đoàn. Công trường cũng là nơi truyền kỹ thuật: thợ đến từ bán đảo Triều Tiên góp phần phổ biến kỹ thuật khung gỗ, lợp ngói, điêu khắc và hội họa. Các tu viện đầu tiên trở thành “phòng thí nghiệm” để kiến trúc cao cấp Nhật Bản làm chủ khối gỗ lớn và mái ngói nặng. Chúng cũng cố định một từ vựng không gian bền vững: khuôn viên, sân, cổng, tháp và kondō 金堂. Xây chùa vừa biểu hiện tiếp nhận Phật giáo, vừa chứng minh nhà nước Nhật tham dự vào một nền văn minh quốc tế trên lục địa.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_2 >}}" alt="Phi Điểu 飛鳥 — Những tu viện đầu tiên" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. Pháp Long tự 法隆寺 và kiến trúc Phật giáo cổ {#vi-3}
 
 Pháp Long tự 法隆寺 là một trong những quần thể quan trọng nhất để hiểu kiến trúc Phật giáo cổ Nhật Bản. Sau khi một cơ sở sớm bị cháy, khu phía Tây được tái dựng và còn bảo tồn những công trình gỗ thuộc loại cổ nhất thế giới. Điều đáng chú ý không chỉ là kỹ thuật mà còn là bố cục: tháp năm tầng 五重塔 và kondō 金堂 đứng cạnh nhau trong sân có hành lang bao quanh, thay vì xếp thẳng trước sau trên một trục duy nhất. Sự bất đối xứng tạo nên một tổ chức khác với nhiều tu viện Trung Quốc hay Triều Tiên về sau. Hệ cột-xà và đấu củng gỗ được đọc rất rõ dưới mái. Việc tháp và kondō cùng có trọng lượng không gian lớn cho thấy một giai đoạn mà xá-lợi và hình tượng vẫn gần như tương đương về tầm quan trọng. Pháp Long tự 法隆寺 là chứng tích quan trọng của thời điểm kiến trúc lục địa đã được lựa chọn và tái tổ chức thành một trật tự Nhật Bản.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_3 >}}" alt="Pháp Long tự 法隆寺 và kiến trúc Phật giáo cổ" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. Nại Lương 奈良 — Những đại tự viện quốc gia {#vi-4}
 
 Khi kinh đô được đặt tại Nại Lương 奈良, Phật giáo gắn chặt hơn nữa với nhà nước. Dược Sư tự 薬師寺, Hưng Phúc tự 興福寺 và Đông Đại tự 東大寺 biểu hiện nhiều mặt của quá trình hoành tráng hóa trong một đô thị chịu ảnh hưởng quy hoạch nhà Đường. Mặt bằng mở rộng, công năng chuyên biệt và kiến trúc trở thành biểu tượng của triều đình. Dược Sư tự 薬師寺 nổi bật với hai tháp đặt cân xứng hai bên điện chính. Đông tháp 東塔 thực tế có ba tầng, nhưng mokoshi 裳階 tạo thêm các đường mái khiến nó trông như sáu lớp. Kōdō 講堂, hay giảng đường, cũng rất quan trọng vì các đại tự viện là trung tâm giáo dục tăng sĩ. Tu viện không chỉ là nơi thờ mà còn là thiết chế hành chính và học thuật do nhà nước hỗ trợ. Hệ thống tháp, điện chính, giảng đường, tăng xá và cổng biến Phật giáo thành một thành phần hữu hình của quyền lực quốc gia.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_4 >}}" alt="Nại Lương 奈良 — Những đại tự viện quốc gia" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. Đông Đại tự 東大寺 và Đại Phật điện 大仏殿 {#vi-5}
 
 Đông Đại tự 東大寺 là một trong những trường hợp nổi bật nhất của sự kết hợp giữa Phật giáo, kiến trúc khổng lồ và quyền lực hoàng gia. Thiên hoàng Thánh Vũ Thiên hoàng 聖武天皇 thúc đẩy mạng lưới Quốc Phân tự 国分寺 và cho tạo tượng Vairocana khổng lồ. Tượng được làm lễ khai quang năm 752; để chứa nó cần một điện tương xứng — Đại Phật điện 大仏殿 trở thành trái tim của quần thể. Đây là một chuyển biến quan trọng: nếu tháp từng là monument đứng nổi bật nhất, thì ở Đông Đại tự 東大寺 chính điện chứa hình tượng khổng lồ trở thành biểu hiện tối cao của sự hiện diện Phật giáo. Quần thể vẫn có tháp, giảng đường và tăng xá, nhưng Đại Phật điện 大仏殿 thống trị về biểu tượng. Quy mô ấy không chỉ là mỹ học mà vật chất hóa ý tưởng dùng nghi lễ Phật giáo để bảo hộ và hợp nhất quốc gia.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_5 >}}" alt="Đông Đại tự 東大寺 và Đại Phật điện 大仏殿" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. Từ kinh đô lên núi {#vi-6}
 
 Từ đầu thời Bình An 平安, những trường phái mới đưa một phần lớn đời sống tôn giáo ra khỏi các kinh đô. Thiên Thai tông 天台宗 đặt trung tâm trên núi Tỉ Duệ sơn 比叡山 quanh Diên Lịch tự 延暦寺, trong khi Chân Ngôn tông 真言宗 xây dựng một trung tâm lớn trên núi Cao Dã sơn 高野山. Núi từ đây không còn chỉ là bối cảnh mà tham gia trực tiếp vào định nghĩa không gian tôn giáo. Công trình không nhất thiết tập trung trong một khuôn viên phẳng và hình học; chúng có thể phân tán theo sườn, nối bằng đường và hòa trong rừng thiêng. Sự rời kinh đô cũng có ý nghĩa thể chế, giúp các trường phái mới độc lập hơn với những đại tự viện Nại Lương 奈良. Kiến trúc núi Nhật Bản vì thế kết hợp không gian nghi lễ, tự chủ tôn giáo và những truyền thống bản địa coi núi là thiêng.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_6 >}}" alt="Từ kinh đô lên núi" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. Kiến trúc Mật giáo và không gian mandala {#vi-7}
 
 Phật giáo Mật giáo của Thiên Thai và đặc biệt Chân Ngôn trao cho kiến trúc một chiều kích vũ trụ học dày đặc. Mandala 曼荼羅 tổ chức quan hệ giữa các Đức Phật, Bồ-tát, phương hướng và cấp độ chứng ngộ; chùa tìm cách hiện thực hóa trật tự ấy trong không gian. Núi Cao Dã sơn 高野山 là ví dụ tiêu biểu. Trong Đàn Thượng Già Lam 壇上伽藍, các công trình liên hệ với nhau, đặc biệt Căn Bản Đại Tháp 根本大塔 được hình dung như một trung tâm vũ trụ gắn với Vairocana. Không gian nghi lễ không còn đơn giản là một gian chứa tượng mà trở thành hình ảnh ba chiều của một thế giới giáo lý. Di chuyển giữa các công trình, phương vị, rừng, nghĩa địa và đường hành hương đều tạo thành một hệ thống biểu tượng. Mật giáo vì thế mở rộng kiến trúc từ một điện riêng lẻ ra toàn cảnh quan núi.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_7 >}}" alt="Kiến trúc Mật giáo và không gian mandala" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. Tịnh độ 浄土 và Bình Đẳng viện 平等院 {#vi-8}
 
 Kiến trúc Tịnh độ tìm cách làm cõi Cực Lạc của Amitābha trở nên có thể nhìn thấy. Phượng Hoàng đường 鳳凰堂, “Phượng Hoàng đường”, tại Bình Đẳng viện 平等院 ở Vũ Trị 宇治 là ví dụ nổi tiếng nhất. Đằng Nguyên Lại Thông 藤原頼通 xây công trình năm 1053, thờ Amitābha bên một hồ lớn. Bố cục được nhìn từ phía Đông để tín đồ hướng về phương Tây — phương của Tịnh độ. Điện trung tâm và hai cánh phản chiếu trên nước, tạo cảm giác như một cung điện nổi. Kiến trúc, tượng và vườn vì thế hoạt động như một tổng thể. Trong bối cảnh niềm tin mappō 末法, tức thời suy vi của Pháp, lan rộng, hy vọng tái sinh vào Tịnh độ càng mạnh. Hồ và khu vườn không phải trang trí quanh điện mà là thành phần kiến trúc trực tiếp của việc hình dung cõi Cực Lạc.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_8 >}}" alt="Tịnh độ 浄土 và Bình Đẳng viện 平等院" loading="lazy" decoding="async"></figure>
+:::
 
 ### 9. Kiến trúc Thiền tông 禅宗 {#vi-9}
 
 Sự phát triển của Thiền tông 禅宗 từ cuối thế kỷ XII đưa vào Nhật Bản những tham chiếu mới từ Trung Quốc thời Tống 宋. Các đại thiền viện có xu hướng dùng trục rõ hơn, với sanmon 三門, butsuden 仏殿, hattō 法堂, tăng đường, bếp và không gian thiền định nối tiếp nhau. Cách tổ chức ấy phản ánh một cộng đồng có kỷ luật và đời sống hàng ngày được quy định chặt. Kiến trúc không nhất thiết khắc khổ; đấu củng, mái và cổng có thể rất tinh vi. Điểm quan trọng hơn là từng công trình có chức năng rõ, và trục làm thứ bậc dễ đọc. Tại Kinh Đô 京都, vườn cũng ngày càng quan trọng, đặc biệt các bố cục sỏi và đá khô liên kết chặt với điện và phương trượng. Ảnh hưởng Trung Hoa được chuyển hóa trong truyền thống gỗ Nhật và quan hệ tinh tế giữa nội thất, hiên và vườn.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_9"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_9 >}}" alt="Kiến trúc Thiền tông 禅宗" loading="lazy" decoding="async"></figure>
+:::
 
 ### 10. Điện Phật Nhật Bản và khu vườn {#vi-10}
 
 Điện Phật Nhật Bản phát triển quan hệ đặc biệt gần gũi với khu vườn và cảnh quan lân cận. Kết cấu gỗ cho phép mặt đứng mở rộng bằng các tấm trượt hay tháo được, làm giảm ranh giới giữa trong và ngoài. Hiên, mái sâu và sàn nâng tạo những vùng trung gian từ đó khu vườn được đóng khung như một bức tranh. Ở các chùa Kinh Đô 京都, mối quan hệ này trở thành một phần quan trọng của kinh nghiệm tôn giáo. Công trình không nhất thiết thống trị địa điểm mà có thể trở thành thiết bị để nhìn thiên nhiên. Điều này đặc biệt rõ trong Thiền nhưng không giới hạn ở Thiền. Ý nghĩa của điện Nhật vì thế không chỉ nằm trong khối tích mà còn ở những tầm nhìn nó tổ chức, ánh sáng nó lọc, các ngưỡng nó tạo ra và cách khu vườn được đưa vào thực hành quán tưởng.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_10"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_10 >}}" alt="Điện Phật Nhật Bản và khu vườn" loading="lazy" decoding="async"></figure>
+:::
 
 ### 11. Tháp ba tầng, năm tầng và tahōtō 多宝塔 {#vi-11}
 
 Nhật Bản bảo tồn truyền thống tháp gỗ ở mức đặc biệt. Các kiểu ba và năm tầng tiếp nối quá trình Đông Á biến stūpa thành tháp đứng, đồng thời thích nghi sâu với kỹ thuật mộc Nhật. Shinbashira 心柱, cột trung tâm, có vai trò biểu tượng và kết cấu trong nhiều tháp. Các tầng không hoạt động như tầng ở của một tháp phương Tây mà tạo nhịp lặp mái và khối quanh một trục thiêng. Pháp Long tự 法隆寺 còn một tháp năm tầng rất cổ; Đông tháp của Dược Sư tự 薬師寺 có ba tầng chính nhưng mokoshi 裳階 tạo ra sáu đường mái. Nhật Bản cũng phát triển tahōtō 多宝塔, đặc biệt gắn với Mật giáo: tầng dưới vuông, phần trên có thân tròn hay gần tròn dưới một mái riêng. Đây là ví dụ về việc sáng tạo loại hình mới mà không từ bỏ ý niệm cơ bản của bảo tháp đứng.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_11"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_11 >}}" alt="Tháp ba tầng, năm tầng và tahōtō 多宝塔" loading="lazy" decoding="async"></figure>
+:::
 
 ### 12. Tính liên tục và đặc thù Nhật Bản {#vi-12}
 
 Một đặc điểm nổi bật của kiến trúc Phật giáo Nhật Bản là sự liên tục lâu dài của kỹ thuật gỗ. Điều đó không có nghĩa các chùa bất biến. Chúng được sửa, tháo, dựng lại, mở rộng hay di chuyển; một công trình hiện nay thường chứa cấu kiện của nhiều thời kỳ. Bảo tồn vì thế phụ thuộc vào truyền kỹ thuật không kém gì giữ vật liệu cổ. Logic này thích hợp với một lãnh thổ thường xuyên có động đất, hỏa hoạn và bão. Mộng gỗ có độ linh hoạt và cho phép thay bộ phận hỏng. Đồng thời, Nhật Bản giữ song song nhiều di sản: mặt bằng cổ, đại điện Phật, tháp gỗ, quần thể Mật giáo, vườn Tịnh độ và thiền viện. Không một mô hình nào hoàn toàn thay thế mô hình trước; lịch sử kiến trúc Nhật là sự chồng lớp của nhiều truyền thống trên một nền văn hóa xây dựng gỗ bền vững.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_12"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_12 >}}" alt="Tính liên tục và đặc thù Nhật Bản" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
