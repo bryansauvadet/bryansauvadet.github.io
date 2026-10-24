@@ -6,13 +6,17 @@
 
 처음 승원과 스투파는 다른 역할을 맡았다. 승원은 승가의 거주·계율·교육 공간이고, 스투파는 사리를 중심으로 한 재가 예배의 공간이었다. 아쇼카 시대 이후 두 영역은 점차 가까워졌다. 전승은 아쇼카가 오래된 탑을 열어 사리를 다시 나누고 엄청난 수의 탑을 세웠다고 말한다. ‘8만 4천 탑’이라는 숫자는 상징적이지만 대규모 확산의 의미를 담는다. 많은 사리탑을 지속적으로 관리하려면 안정된 조직과 인력이 필요했고, 승가는 자연스럽게 그 역할을 맡게 되었다. 어떤 곳에서는 기존의 탑이 승원 안으로 들어왔고, 다른 곳에서는 성스러운 탑 주위에 승원이 성장했다. 결국 승려의 생활과 재가자의 예배가 한 울타리 안에 놓이게 되었다. 이는 사찰의 성격을 근본적으로 바꾸었다. 승원은 수행과 교육의 공간을 넘어 순례·공양·의례의 중심이 되었고, 스투파 역시 승가 생활과 분리된 외부 기념물이 아니게 되었다.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-1-ko.webp" alt="인도 승원에 통합되는 스투파" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_1 >}}" alt="승원 공간 속으로 들어온 스투파" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. 차이티야와 비하라의 상보적 기능 {#iii-2}
 
 인도 서부의 석굴 사원은 예배 공간과 거주 공간의 구분을 가장 명료하게 보여 준다. 비하라(vihāra)는 승려의 생활 공간으로, 개별 승방이 공동 홀을 둘러싸고 배치된다. 차이티야(caitya)는 스투파를 중심으로 한 예배 공간이다. 길게 뻗은 중랑 끝에 탑을 두고, 기둥 사이로 탑 뒤를 돌아 나올 수 있는 요잡로를 만든다. 의례가 평면을 직접 결정한 것이다. 공간은 단순히 사람을 수용하는 그릇이 아니라 시선과 움직임을 통제하고, 스투파와의 관계를 만들어 낸다. 데칸 지역의 수많은 석굴은 불교가 자연 암벽을 복합적인 승원 건축으로 전환한 과정을 보여 준다. 동시에 ‘승원’은 하나의 건물이 아니라 거주, 공부, 명상, 접대, 예배를 담당하는 여러 공간의 체계라는 점을 드러낸다. 훗날 중국에서는 이 기능들이 목조건축의 탑, 불전, 강당, 승방으로 다시 분리되고 조합되었다.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-2-ko.webp" alt="차이티야와 비하라: 두 가지 상보적 기능" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_2 >}}" alt="차이티야와 비하라의 상보적 기능" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. 불교의 중국 전래와 건축적 과제 {#iii-3}
 
@@ -20,7 +24,9 @@
 
 이러한 건축적 번역은 중국의 대규모 불교 석굴에서 특히 선명하게 드러난다. 산시성 다퉁 부근의 윈강 석굴(雲岡石窟)은 주로 5~6세기에 조성되었으며 중앙아시아와 남아시아에서 온 형식이 중국적 기념 건축의 언어로 재구성되는 과정을 보여 준다. 뤄양 남쪽의 룽먼 석굴(龍門石窟)은 북위 때 시작되어 당대에 크게 확장되면서 절벽 자체를 예배 공간, 감실, 불상의 위계적 집합으로 바꾸었다. 더 서쪽 둔황의 모가오 석굴(莫高窟)은 4세기에 시작되어 거의 천 년 동안 확장되었고, 인도·중앙아시아·중국을 잇는 실크로드 교류를 증언한다. 이 세 유적은 단순한 조각의 집합이 아니라 불교가 공간, 동선, 불상, 후원 체계를 서로 다른 중국 환경에 맞게 변환한 건축적 사례이다.
 
-<div class="hab-illustration-slot">삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_3 >}}" alt="불교의 중국 전래와 건축적 과제" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. 중국 전통 건축과 불교 공간의 접점 {#iii-4}
 
@@ -28,7 +34,9 @@
 
 허난성의 숭악사탑(嵩岳寺塔)은 이러한 수용의 또 다른 단계를 보여 준다. 북위 523년에 세워진 이 탑은 중국에 남아 있는 초기 대형 전탑 가운데 하나이다. 다각형 평면, 강한 수직성, 반복되는 층 구성은 스투파의 사리 봉안 기능이 인도식 반구형 봉분이나 목탑을 그대로 복제하지 않고도 조적 건축으로 번역될 수 있었음을 보여 준다. 숭악사탑은 스투파의 형식적 기억과 중국식 탑의 독자적 발전을 연결하는 중요한 지점이다.
 
-<div class="hab-illustration-slot">삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_4 >}}" alt="중국 전통 건축과 불교 공간의 접점" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. 스투파 개념의 중국식 탑으로의 전환 {#iii-5}
 
@@ -36,7 +44,9 @@
 
 산시성 푸펑의 법문사(法門寺)는 이러한 형식 변화가 사리 신앙과 분리될 수 없었음을 보여 준다. 탑 아래에서 발견된 지궁에는 부처의 손가락뼈로 신앙된 사리와 관련된 여러 사리기와 공양품, 그리고 당 왕실의 후원을 보여 주는 유물이 보존되어 있었다. 법문사는 중국 탑이 단순한 상징적 고층 건물이 아니라 탑의 축, 기단, 숨겨진 지하 공간을 이용해 사리 봉안의 복합 건축을 만들 수 있었음을 구체적으로 증명한다. 그 안에서 사리, 귀중한 공양물, 정치 권력이 하나의 공간 체계로 결합되었다.
 
-<div class="hab-illustration-slot">삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_5 >}}" alt="스투파 개념의 중국식 탑으로의 전환" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. 사리·불상·순환을 수용한 탑형 건축 {#iii-6}
 
@@ -44,7 +54,9 @@
 
 기능이 독립 전각으로 이동하는 과정은 산시성 오대산 일대의 두 중요한 건물에서도 확인된다. 남선사(南禪寺) 대전은 782년, 불광사(佛光寺) 동대전은 857년에 조성된 것으로 알려져 있으며 당대 불교 목조건축을 전하는 가장 귀중한 유구들에 속한다. 이들은 탑이 아니다. 바로 그 점이 중요하다. 불상, 집회, 의례가 넓은 수평형 전문 전각으로 옮겨 가는 과정을 보여 주기 때문이다. 기존에 언급한 응현의 불궁사 목탑과 함께 보면 중국 불교건축의 두 축, 즉 수직적인 사리탑과 목구조 예배 전각을 직접 비교할 수 있다.
 
-<div class="hab-illustration-slot">삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_6 >}}" alt="사리·불상·순환을 수용한 탑형 건축" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. 목탑에서 전탑으로: 재료의 변화 {#iii-7}
 
@@ -52,6 +64,8 @@
 
 중국의 조적 건축은 이후 서로 다른 여러 해답을 만들어 냈다. 장안의 소안탑(小雁塔)은 8세기 초에 세워져 대안탑보다 가늘고 긴 벽돌 실루엣을 보여 준다. 개봉의 철탑(鐵塔)은 북송 1049년에 건립되었으며 유약을 입힌 벽돌 장식으로 목조건축의 세부를 정교하게 모방한다. 취안저우 개원사(開元寺)의 두 석탑은 13세기에 세워져 불탑을 석재로 번역하는 방식을 한층 더 발전시켰다. 대안탑과 소안탑, 숭악사탑, 철탑, 개원사 쌍탑을 함께 보면 ‘중국식 탑’이 하나의 재료나 실루엣을 뜻하지 않는다는 점이 분명해진다. 목재, 벽돌, 유약 벽돌, 석재가 같은 사리탑의 계보를 반복해서 재해석한 것이다.
 
-<div class="hab-illustration-slot">삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_7 >}}" alt="목탑에서 전탑으로: 재료의 변화" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
