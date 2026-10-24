@@ -6,13 +6,17 @@
 
 인도 스투파에서 동아시아 탑으로의 변화를 보면 불교 건축의 공통성과 차이를 동시에 이해할 수 있다. 인도 스투파는 사리를 봉안한 반구형 중심을 신도가 도는 건축이었다. 중국에 불교가 전해질 때 사리는 이동했지만 건축 기술은 그대로 이동하지 않았고, 목조 다층 건축 전통 속에서 스투파 기능이 수직 탑으로 재해석되었다. 이후 중국은 벽돌 탑을 널리 발전시켰고, 한국은 화강암 석탑을, 일본은 목탑을, 베트남은 벽돌·석조 탑을 각기 발달시켰다. 이는 인도 원형이 주변 지역에서 단순 복제된 과정이 아니다. 사리 봉안, 수직성, 경관 표지, 장례 기념이라는 기능이 지역 재료와 기술에 따라 서로 다르게 번역된 결과다.
 
-<div class="hab-illustration-slot">비교 삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_viii.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_1 >}}" alt="스투파와 탑: 형태보다 기능의 이동" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. 사리와 불상: 예배 중심의 재편 {#viii-2}
 
 불교 사찰의 역사는 성스러운 중심이 이동한 역사이기도 하다. 초기 인도에서는 붓다의 육신 사리와 생애 성지가 현존의 핵심이었고 스투파가 예배 중심이 되었다. 스투파가 승원 안으로 들어오면서 승가와 재가 예배가 한 공간에 결합했다. 동아시아의 대형 목탑은 처음에는 사리, 불상, 요잡을 한 건물에 담았지만 불상이 늘고 신도 수가 증가하면서 큰 수평 전각이 더 효율적이 되었다. 한국에서는 작은 석탑 앞의 큰 불전, 일본에서는 도다이지 대불전, 베트남에서는 여러 제단이 겹치는 주전각이 이 변화를 서로 다른 방식으로 보여 준다. 사리와 불상은 대체 관계가 아니라 보완 관계지만, 공간에서 차지하는 중심성은 시대와 지역에 따라 달라졌다.
 
-<div class="hab-illustration-slot">비교 삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_viii.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_2 >}}" alt="사리와 불상: 예배 중심의 재편" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. 재료·기후·기술이 만든 지역성 {#viii-3}
 
@@ -26,30 +30,40 @@
 | 일본 | 목재, 목탑 |
 | 베트남 | 목조 전각, 벽돌·석재 탑 |
 
-<div class="hab-illustration-slot">재료 인포그래픽 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_viii.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_3 >}}" alt="재료·기후·기술이 만든 지역성" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. 다섯 지역 사찰 배치의 공통점과 차이 {#viii-4}
 
 다섯 지역의 사찰 평면을 같은 눈높이에서 비교하면 하나의 모델이 직선적으로 퍼진 것이 아니라 같은 기능에 대한 다양한 답이 보인다. 인도 비하라는 승방을 공동 공간 주위에 배치하고, 차이티야는 스투파 요잡을 중심으로 한다. 중국은 궁궐과 닮은 축선과 문·마당·탑·불전의 위계를 발전시켰다. 한국은 이 체계를 받아들였지만 산지에서 계곡과 비탈에 맞게 크게 유연화했다. 일본은 호류지처럼 비대칭 구성을 보이기도 하고, 나라와 선종 사찰에서는 다시 강한 축선을 사용한다. 베트남은 여러 전각과 중정을 결합하고 nội công ngoại quốc(內工外國) 같은 배치를 발전시켰다. 같은 문, 탑, 불전, 승방, 마당이 지역마다 전혀 다르게 조합된다.
 
-<div class="hab-illustration-slot">비교 평면 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_viii.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_4 >}}" alt="다섯 지역 사찰 배치의 공통점과 차이" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. 사찰 건축과 정치 권력의 관계 {#viii-5}
 
 불교 건축은 정치 권력과 분리되어 있지 않았다. 아쇼카는 사리와 스투파를 제국 차원의 불교 확산과 연결한 최초의 대표적 군주다. 중국 황실은 사찰을 후원하고 궁궐의 공간 언어를 불교 건축에 적용했다. 한반도에서도 삼국, 대신라, 고려의 왕실은 국토 수호, 공덕, 정치적 정당성과 사찰·탑·불상을 결합했다. 일본 나라 시대의 국분사 체계와 도다이지는 국가와 불교의 관계를 극단적으로 보여 준다. 베트남에서는 Lý·Trần 왕조가 불교를 강하게 후원했고, 후대 Nguyễn 왕조의 Huế와 Thiên Mụ도 정치적 경관 속에 놓였다. 그러나 권력은 불교를 지원하기도, 억제하고 도시 밖으로 밀어내기도 했다. 큰 사찰은 구원 공간이면서 동시에 경제·사회·영토 기관이었다.
 
-<div class="hab-illustration-slot">권력과 건축 인포그래픽 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_viii.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_5 >}}" alt="사찰 건축과 정치 권력의 관계" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. 성지 경관과 건축의 상호작용 {#viii-6}
 
 초기 인도 승원은 탁발이 가능한 도시 주변의 정원과 숲에 많이 자리했다. 중국은 도시의 축선형 사찰과 산지 사찰을 함께 발전시켰다. 한국에서는 계곡, 물, 다리, 숲을 따라 접근하는 산지 사찰이 특히 중요해졌다. 일본은 히에이산, 고야산, 기이산지에서 산 자체를 교리적 공간으로 만들었고, 뵤도인에서는 연못과 정원이 정토를 시각화했다. 베트남에서도 Chùa Một Cột의 연못, Thiên Mụ의 강, Yên Tử의 산지가 사찰의 의미를 구성한다. 경관은 배경이 아니라 방향, 동선, 시야와 교리를 만드는 요소다. 불교 건축은 어떤 곳에서는 기하학적 질서를 자연에 적용하고, 다른 곳에서는 이미 성스러운 자연 속에 스스로를 끼워 넣는다.
 
-<div class="hab-illustration-slot">비교 경관 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_viii.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_6 >}}" alt="성지 경관과 건축의 상호작용" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. 부처의 현존을 공간화하는 다섯 전략 {#viii-7}
 
 이 전체 역사를 종합하면 불교 건축은 하나의 양식이라기보다 부처의 현존을 만드는 여러 전략의 집합으로 보인다. 첫째는 사리다. 스투파는 육신의 흔적을 보존하고 요잡의 중심을 만든다. 둘째는 불상으로, 보이지 않는 사리를 눈에 보이는 인격으로 바꾸고 큰 불전의 발전을 촉진했다. 셋째는 경전과 다라니 같은 법신사리다. 넷째는 건축 자체로, 탑·불전·사찰이 수미산, 정토, 만다라를 공간으로 표현할 수 있다. 다섯째는 산, 강, 동굴, 정원 같은 경관이다. 인도는 사리와 성지, 중국은 탑과 축선, 한국은 목조 불전·석탑·산지 사찰, 일본은 목탑·정원·산, 베트남은 깊은 전각·탑·물·혼합 신앙을 서로 다르게 결합했다. 하나의 불교 건축은 없지만, 교리·기억·의례를 공간으로 만드는 공통 질문은 존재한다.
 
-<div class="hab-illustration-slot">최종 삽화 예정</div>
+::: {.content-hidden unless-meta="illustrations.part_viii.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_7 >}}" alt="부처의 현존을 공간화하는 다섯 전략" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
