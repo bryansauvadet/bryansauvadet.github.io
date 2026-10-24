@@ -6,72 +6,96 @@
 
 Early East Asian monasteries could be dominated by a great timber pagoda combining relics, images, and cult space. As Buddhism expanded, however, such concentration became less practical. Relics were finite, images could be multiplied, congregations grew, and doctrines placed emphasis on different Buddhas and bodhisattvas. Independent halls appeared for Śākyamuni, Amitābha, Vairocana, Maitreya, Avalokiteśvara, and others. The Buddha hall increased in size and gradually became the functional centre of the monastery. The stupa did not disappear. It remained sacred, but its role shifted from containing all major functions to solemnising the ritual field. In Korea, the reduction of the pagoda into a stone monument reinforced this change. A relatively small stupa could stand before a large main hall, sometimes as a pair leaving the central axis open. Paekche (百濟) layouts clearly reveal the transition from compounds visually dominated by the tower to ensembles in which the cult hall became architecturally superior. The history of the East Asian monastery is therefore also the history of a changing centre. Sacred presence no longer depended only on relics sealed within a monument; it became accessible through visible images housed in large halls capable of receiving the community.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_1 >}}" alt="From hall-stupa to Buddha-hall monastery" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. T’apdori and sundang: from stupa to image {#iv-2}
 
 Circumambulation makes the changing cultic centre physically perceptible. T’apdori in Korea refers to walking around a stupa, while sundang refers to circulating around a hall or image. Both derive from the same ancient gesture: keeping the venerated object on the right and circling it several times as an act of respect and devotion. In large timber pagodas, stupa and image could coexist within one building. The devotee circled a reliquary centre while encountering a vertical iconographic program. When statues became independent from the pagoda, the rite transferred toward the hall. Early image halls could place the statue centrally to preserve a circulation path around it. As congregations grew, however, the image was pushed toward the rear so that more space remained before the altar, making internal circumambulation difficult. Exterior processions, often accompanied by lanterns, became more prominent. The shift from relic to image therefore did not erase older ritual gestures; it adapted them to a new architecture. The Buddha hall is not simply a building that replaced the tower. It inherited part of the pagoda’s spatial practices and reorganised movement and vision around a visible image.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_2 >}}" alt="T’apdori and sundang: from stupa to image" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. China, Korea, Japan: three material choices {#iv-3}
 
 One of the major divergences within East Asian Buddhist architecture came from available materials. In northern China, large timber was limited in some areas while brick-making earth was abundant, encouraging masonry pagodas that proved more resistant to fire. Korea had a different environment: forests supported timber halls, while abundant granite became the preferred material for stupas. A characteristic combination therefore emerged—wooden monastic buildings with stone pagodas and reliquaries. Japan, with ample timber resources and a continuing sophisticated carpentry tradition, preserved monumental wooden pagodas much more extensively. These choices affected both form and function. A timber tower could contain accessible internal levels; a brick or stone pagoda tended toward a compact mass with reduced interior space. Korean granite favoured smaller but meticulously articulated monuments, while Japanese timber preserved a verticality closer to ancient Chinese towers. Regional difference should therefore not be explained only through “national style.” It also emerged from negotiations among religious function, natural resources, artisanal knowledge, and structural constraints.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_3 >}}" alt="China, Korea, Japan: three material choices" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. The birth of the Korean stone stupa {#iv-4}
 
 The Korean stone stupa emerged through material translation. Early monuments did not reject timber architecture; they attempted to reproduce its elements in stone. The great stupa at Mirŭk-sa is a major example. Courses, pillars, lintels, and projecting eaves translate the syntax of a framed building into granite. At Chŏngnim-sa, the imitation became more refined, giving stone an almost timber-like lightness through proportion and profile. Silla (新羅) explored a partly different path under Chinese influence. Punhwang-sa used cut stone blocks to evoke brick construction. These experiments show that the Korean stupa did not descend from a single model. It formed at the meeting point of continental timber pagodas, Chinese brick traditions, and the possibilities of local granite. This experimental phase was crucial because it led toward simplification. Craftsmen gradually stopped imitating every detail of timber framing and created a syntax proper to stone: base, superposed bodies, stone roofs, and finial. The monument gained formal autonomy. The stone pagoda became one of the most recognisable features of Korean Buddhist architecture precisely because it transformed earlier Indian and Chinese inheritances instead of reproducing them literally.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_4 >}}" alt="The birth of the Korean stone stupa" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. The classical model of Grand Silla (大新羅) {#iv-5}
 
 During Grand Silla (大新羅), the Korean stone stupa reached a remarkable degree of standardisation and balance. Sŏkkat’ap (釋迦塔) at Pulguk-sa (佛國寺) is the best-known example. The monument avoids excessive ornament and is articulated through a clear sequence of base, three-storeyed body, stone roofs, and finial. Each level diminishes progressively, producing an impression of upward movement despite the weight of granite. The stupa becomes an exercise in proportion rather than sheer monumentality. This solution spread widely across the peninsula. The three-storeyed type was reproduced, adapted, and simplified at numerous monasteries, probably because it was technically efficient as well as prestigious. It remained compact enough for stone construction while preserving the vertical logic inherited from timber pagodas. It could stand before a main hall without overwhelming it. In some complexes, paired stupas frame the central axis and leave an unobstructed view toward the Buddha hall. Standardisation did not mean absolute uniformity: dimensions, roof profiles, bases, and decorative details varied by site. Sŏkkat’ap (釋迦塔) is therefore best understood as a model of principle—a way of overcoming the heaviness of stone through proportional reduction, structural clarity, and disciplined ornament.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_5 >}}" alt="The classical model of Grand Silla (大新羅)" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. The stupa as a Buddhist microcosm {#iv-6}
 
 Reducing the pagoda into stone did not reduce its symbolic richness. On the contrary, the monument’s surfaces could condense an entire religious universe. Carved doors on the body symbolically mark the chamber containing relics. Vajrapāṇi figures may flank such openings as guardians of the sacred centre. Bases can show the Eight Classes of protective beings—devas, nāgas, yakṣas, asuras, garuḍas, gandharvas, kiṃnaras, and mahoragas—echoing iconographic systems developed in larger sanctuaries. Other monuments use the Twelve Zodiac Deities, also associated with royal funerary art. The stupa thereby approaches the logic of a sovereign tomb, surrounding relics with a cosmic guard. Its four faces may also display directional Buddhas, with Vairocana implied at the centre. A small stone pagoda thus becomes an architecture of the cosmos in miniature. This principle helps connect lost great timber pagodas with surviving stone monuments. The former could distribute images through multiple interior storeys; the latter transfer such programs to the exterior surface. Sculpture is therefore not decorative addition. It explains how the reliquary centre is protected, oriented, and inserted within a hierarchy of sacred beings.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_6 >}}" alt="The stupa as a Buddhist microcosm" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. Diversification of Korean stupas {#iv-7}
 
 The three-storeyed model dominated Korea but never exhausted the range of forms. Tabot’ap (多寶塔) at Pulguk-sa (佛國寺) is an exceptional creation based on a complex superimposition of volumes, balustrades, and sculptural elements. Its rarity underlines its experimental character. Other traditions preserve connections to multi-storeyed northern pagodas and polygonal forms. Under Koryŏ (高麗), tall octagonal stupas appeared, such as the nine-storeyed monument at Wŏlchŏng-sa (月精寺). Multiplying levels restored a sense of height despite the density of stone. Craftsmen used segmentation, setbacks, and progressive diminution to lighten the monument visually. Material diversity also continued: some regions preserved true brick pagodas, while others cut stone to imitate brick masonry. The “Korean pagoda” is therefore never one single object but a family of solutions developed under different political, technical, and doctrinal conditions. Koryŏ (高麗) inherited Grand Silla (大新羅) forms but reshaped them through new contacts with China and the Mongol world. Under Chosŏn (朝鮮), reduced resources for Buddhism often led to simplification. Korean stupa history thus oscillates between standardisation and invention, each period reinterpreting an inherited repertoire rather than replacing it completely.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_7 >}}" alt="Diversification of Korean stupas" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. Pudo and sŭngt’ap: architecture of monastic memory {#iv-8}
 
 Stupas for eminent masters form a distinct branch of Korean Buddhist architecture. Known as pudo (浮屠) or more explicitly sŭngt’ap (僧塔), they preserve the relics of monks regarded as particularly important. Their expansion is closely tied to the rise of Sŏn (禪) in late Silla (新羅). In a tradition centred on direct transmission, the memory of the master becomes a major source of communal identity. His stupa materialises the lineage, establishes a site of veneration, and turns the monastery into a genealogical landscape. Major early examples often use an octagonal plan and resemble miniature stone pavilions, as though a ritual chamber had been transformed into a reliquary. Under Koryŏ (高麗), forms diversified and some became simpler, approaching the inverted bowl or stone bell. Such simplification need not imply decline; it may reflect changing references and a renewed emphasis on the primary silhouette of the stupa. Pudo are often placed apart from the principal monastic core, sometimes grouped into funerary precincts containing several generations of masters. They therefore add another temporality to the monastery: alongside halls for Buddhas and relic stupas, the site physically preserves the memory of its own institutional history.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_8 >}}" alt="Pudo and sŭngt’ap: architecture of monastic memory" loading="lazy" decoding="async"></figure>
+:::
 
 ### 9. The shrinking stupa and the expanding hall {#iv-9}
 
 As East Asian Buddhism diversified, the great multifunctional tower became less suited to cult needs. Different schools emphasised different figures, ceremonies required larger halls, and preaching demanded spaces capable of receiving larger groups. It was also easier to build several horizontal halls than to maintain one gigantic vertical timber structure. The stupa therefore became smaller while Buddha halls increased in importance. In Korea, stone reinforced this process: an enormous granite pagoda would be exceptionally heavy and costly, whereas a timber hall could achieve large dimensions with a lighter structure. Monastic organisation changed accordingly. The pagoda remained on or near the axis, but the main hall became the primary gathering place. Protective sculptures and guardians once associated with the tower migrated toward gates and enclosure boundaries. Paekche (百濟) sites help trace this transition from tower-dominated compounds toward the characteristic combination of a small stone stupa before a large hall. This was not only an architectural shift. It expressed a new way of making the Buddha present: relics remained sacred, but the visible image became the principal focus of communal ritual encounter.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_9"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_9 >}}" alt="The shrinking stupa and the expanding hall" loading="lazy" decoding="async"></figure>
+:::
 
 ### 10. The monastery as a sacred palace {#iv-10}
 
 In China and later Korea, monasteries gradually adopted principles associated with palace architecture. This was not merely decorative imitation. In Chinese political thought, the ideal ruler was also a sage; the Buddha as supreme sage could therefore be approached through a comparable spatial language. The principal hall is called chŏn (殿), a term also used for palace halls, and access is organised through a sequence of courtyards and gates. Symbolic rank generally increases toward the north or the rear of the complex. The devotee therefore advances through a hierarchical space as if approaching a sovereign presence. Dragons, polychromy, and ceremonial devices reinforce the analogy. Buddhism nevertheless transforms the model. Directional guardians, Vajrapāṇi, and the Four Heavenly Kings (四天王) occupy thresholds, while courtyards become stages of spiritual progression rather than political administration. The south–north axis organises movement from the profane world toward the Buddha. It also allows specialised buildings—pagoda, main hall, lecture hall, residences, and service structures—to be distributed in a legible hierarchy. The monastery can therefore be read as a “sacred palace” whose political spatial grammar has been converted to Buddhist purposes.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_10"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_10 >}}" alt="The monastery as a sacred palace" loading="lazy" decoding="async"></figure>
+:::
 
 ### 11. The gates of the Korean monastery {#iv-11}
 
 The entrance sequence of a Korean monastery is structured by gates that mark successive changes in the status of space. Ilchumun (一柱門), the “one-pillar gate,” usually forms the first symbolic boundary. Seen frontally, its posts appear aligned on a single axis, signifying passage from the dispersal of the ordinary world toward unity of the Buddhist path. Some monasteries then include a Kŭmgangmun (金剛門) guarded by Vajrapāṇi figures. Ch’ŏnwangmun (天王門) houses the Four Heavenly Kings (四天王). Originally associated with the four directions of the cosmos, they are here concentrated within a single building on the entrance axis, adapting Indian cosmology to East Asian axial planning. Finally, Haet’almun (解脫門), the “Gate of Liberation,” or sometimes Purimun (不二門), the “Gate of Non-duality,” marks entry into the most sacred core. This sequence is more than functional. Physical movement becomes doctrinal progression. Each threshold symbolically leaves more of the ordinary world behind and draws the visitor toward the main hall. The gates also reveal how protective functions once concentrated around the stupa were expanded to encompass the monastery as a whole. It is no longer only the reliquary that requires guardianship: the entire complex is conceived as sacred territory.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_11"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_11 >}}" alt="The gates of the Korean monastery" loading="lazy" decoding="async"></figure>
+:::
 
 ### 12. The Korean mountain monastery {#iv-12}
 
 The axial East Asian monastery changes profoundly when placed in the Korean mountains. Under Chosŏn (朝鮮), restrictions on Buddhism encouraged many communities to remain or relocate away from cities. Valleys consequently became a characteristic setting. Relief often prevents a strict straight-line composition. Early gates may follow a winding path, cross a stream, or skirt a slope before reaching the cultic core. Yet once inside the principal zone, a more regular geometry frequently returns: a central court, Buddha hall at the rear, and monastic buildings on the sides. Mountain topography does not abolish the inherited hierarchy; it adapts it. Water is especially important. Streams provide resources and help stage the transition into sacred space, while bridges can serve as additional thresholds. After the devastations of the late sixteenth century, later Chosŏn (朝鮮) reconstructions also tended to standardise the Taeungjŏn (大雄殿) dedicated to Śākyamuni as the principal hall. The Korean mountain monastery therefore results from a tension between symbolic order and actual terrain. Its buildings do not dominate the landscape through abstract geometry; they negotiate with valley, slope, forest, and water.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_iv.section_12"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_12 >}}" alt="The Korean mountain monastery" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
