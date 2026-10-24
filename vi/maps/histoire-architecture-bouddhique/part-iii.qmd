@@ -6,13 +6,17 @@
 
 Ban đầu, tu viện và stūpa đáp ứng hai logic khác nhau: tu viện dành cho cư trú, giới luật và giảng dạy của saṃgha, còn stūpa là trọng tâm sùng kính xá-lợi của cư sĩ. Hai không gian dần xích lại gần nhau, đặc biệt từ thời Aśoka. Truyền thống kể rằng Aśoka đã mở những stūpa cổ, phân phối lại xá-lợi Đức Phật và dựng một số lượng rất lớn tháp mới. Con số “84.000 tháp” mang tính quy ước, nhưng diễn đạt ý tưởng về sự phổ biến quy mô lớn. Một hệ thống như vậy đòi hỏi tổ chức, bảo trì và cộng đồng có khả năng chăm sóc xá-lợi lâu dài; saṃgha tự nhiên trở thành thiết chế phù hợp. Có nơi một stūpa có trước được đưa vào tu viện; có nơi tu viện phát triển quanh một thánh tích. Kết quả là cư trú của tăng sĩ và tín ngưỡng của cư sĩ cùng tồn tại trong một khuôn viên. Tu viện từ đó không chỉ là nơi tu tập và học tập mà còn là nơi hành hương, cúng dường và nghi lễ.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-1-vi.webp" alt="Sự tích hợp của stūpa vào tu viện Ấn Độ" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_1 >}}" alt="Stūpa được tích hợp vào tu viện Ấn Độ" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. Caitya và vihāra: hai chức năng bổ sung {#iii-2}
 
 Những tu viện hang động ở miền Tây Ấn Độ cho thấy rõ sự phân biệt giữa cư trú và thờ phụng. Vihāra phục vụ cộng đồng tu sĩ, với các tăng phòng mở quanh một không gian chung dùng cho họp, học và thiền. Caitya lại được tổ chức quanh stūpa để hành lễ tập thể. Trong các hang, mặt bằng thường kéo dài theo trục: gian chính dẫn tới stūpa ở cuối, còn hàng cột tạo lối nhiễu quanh tháp. Nghi lễ trực tiếp định hình kiến trúc: không gian không chỉ chứa người mà còn dẫn chuyển động, hướng ánh nhìn và quy định quan hệ với stūpa. Hàng trăm tổ hợp hang ở Deccan cho thấy Phật giáo có thể biến địa hình tự nhiên thành kiến trúc tu viện hoàn chỉnh. Đồng thời, chúng nhắc rằng “tu viện” không phải một tòa nhà đơn lẻ mà là một hệ thống gồm ở, học, thiền, tiếp khách và thờ phụng. Khi sang Trung Quốc, các chức năng này sẽ được phân phối lại trong tháp gỗ, điện Phật, giảng đường và tăng xá.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-2-vi.webp" alt="Caitya và vihāra: hai chức năng bổ sung" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_2 >}}" alt="Caitya và vihāra: hai chức năng bổ sung" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. Phật giáo truyền vào Trung Quốc {#iii-3}
 
@@ -20,7 +24,9 @@ Khi Phật giáo truyền sang Trung Quốc, kinh điển, tượng và xá-lợ
 
 Quá trình “dịch” kiến trúc này thể hiện đặc biệt rõ trong các quần thể hang động Phật giáo lớn của Trung Quốc. Hang đá Vân Cương (雲岡石窟), gần Đại Đồng ở Sơn Tây, chủ yếu được tạo dựng trong thế kỷ V–VI và cho thấy các mô hình từ Trung Á và Nam Á được chuyển hóa thành một ngôn ngữ tượng đài mang tính Trung Hoa. Tại hang đá Long Môn (龍門石窟), phía nam Lạc Dương, công việc bắt đầu dưới Bắc Ngụy và phát triển mạnh dưới nhà Đường đã biến vách núi thành một hệ thống phân cấp gồm động thờ, khám và tượng. Xa hơn về phía tây, hang Mạc Cao (莫高窟) ở Đôn Hoàng, khởi đầu từ thế kỷ IV và phát triển gần một thiên niên kỷ, chứng minh vai trò của Con đường Tơ lụa trong trao đổi giữa Ấn Độ, Trung Á và Trung Quốc. Ba quần thể này không chỉ là tập hợp điêu khắc: chúng cho thấy Phật giáo điều chỉnh không gian, lộ trình nghi lễ, hình tượng và cơ chế bảo trợ theo các môi trường Trung Hoa khác nhau.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_3 >}}" alt="Phật giáo truyền vào Trung Quốc" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. Cuộc gặp gỡ với kiến trúc Trung Hoa {#iii-4}
 
@@ -28,7 +34,9 @@ Khi xá-lợi Phật giáo đến Trung Quốc, chúng gặp một nền kiến 
 
 Tháp chùa Tung Nhạc (嵩岳寺塔) ở Hà Nam đánh dấu một bước khác trong quá trình bản địa hóa ấy. Được xây năm 523 dưới Bắc Ngụy, đây là một trong những tháp gạch quy mô lớn sớm nhất còn tồn tại ở Trung Quốc. Mặt bằng đa giác, chiều cao nhấn mạnh phương đứng và các tầng lặp lại cho thấy chức năng chứa xá-lợi của stūpa có thể được chuyển sang kết cấu xây gạch mà không sao chép nguyên dạng gò bán cầu Ấn Độ hay tháp gỗ. Tung Nhạc vì thế là một mắt xích quan trọng giữa ký ức hình thức của stūpa và sự phát triển ngày càng độc lập của tháp Trung Hoa.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_4 >}}" alt="Cuộc gặp gỡ với kiến trúc Trung Hoa" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. Từ stūpa Ấn Độ đến tháp Trung Hoa {#iii-5}
 
@@ -36,7 +44,9 @@ Tháp Trung Hoa biến logic khối ngang của stūpa thành một kiến trúc
 
 Pháp Môn tự (法門寺) tại Phù Phong, Thiểm Tây nhắc rằng sự biến đổi hình thức này luôn gắn với tín ngưỡng xá-lợi. Địa cung được phát hiện dưới tháp đã bảo tồn một tập hợp đặc biệt gồm hộp xá-lợi và đồ cúng liên quan đến di vật được tôn kính như xương ngón tay của Đức Phật, cùng dấu vết bảo trợ của triều đình nhà Đường. Pháp Môn tự cho thấy tháp Trung Hoa không chỉ là một biểu tượng cao tầng: trục, nền móng và các phòng ngầm có thể tạo thành một kiến trúc tàng chứa hoàn chỉnh, nơi xá-lợi, lễ vật quý và quyền lực chính trị được kết hợp trong cùng một hệ thống.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_5 >}}" alt="Từ stūpa Ấn Độ đến tháp Trung Hoa" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. Điện-tháp: xá-lợi, hình tượng và lưu chuyển {#iii-6}
 
@@ -44,7 +54,9 @@ Trong dạng gỗ quy mô lớn, tháp Đông Á có thể hoạt động như m
 
 Sự chuyển dịch chức năng sang các điện độc lập cũng được ghi nhận qua hai công trình quan trọng ở vùng Ngũ Đài Sơn, Sơn Tây. Đại điện của Nam Thiền tự (南禪寺), niên đại 782, và Đông Đại điện của Phật Quang tự (佛光寺), niên đại 857, thuộc những chứng tích quý giá nhất còn lại của kiến trúc gỗ Phật giáo thời Đường. Chúng không phải là tháp; chính điều đó làm chúng quan trọng trong mạch phát triển này, vì chúng cho thấy tượng, hội chúng và nghi lễ được chuyển sang những điện ngang rộng và chuyên biệt. Đặt cạnh tháp gỗ Phật Cung tự đã được nhắc ở trên, các công trình này cho phép so sánh trực tiếp hai cực của kiến trúc Phật giáo Trung Hoa: tháp xá-lợi thẳng đứng và điện thờ khung gỗ.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_6 >}}" alt="Điện-tháp: xá-lợi, hình tượng và lưu chuyển" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. Từ gỗ sang gạch {#iii-7}
 
@@ -52,6 +64,8 @@ Việc chuyển từ tháp gỗ sang tháp gạch làm thay đổi sâu sắc c�
 
 Kiến trúc xây Trung Hoa sau đó tạo ra nhiều giải pháp rất khác nhau. Tại Trường An, Tiểu Nhạn tháp (小雁塔), dựng đầu thế kỷ VIII, có dáng gạch thanh mảnh hơn Đại Nhạn tháp. Ở Khai Phong, Thiết tháp (鐵塔), xây năm 1049 dưới Bắc Tống, sử dụng gạch men với hoa văn mô phỏng chi tiết của kiến trúc gỗ. Tại Tuyền Châu, hai tháp đá của Khai Nguyên tự (開元寺), dựng trong thế kỷ XIII, đưa việc chuyển hóa tháp Phật giáo sang vật liệu khoáng chất đi xa hơn nữa. Khi đặt Đại Nhạn tháp, Tiểu Nhạn tháp, Tung Nhạc, Thiết tháp và đôi tháp Khai Nguyên cạnh nhau, có thể thấy “tháp Trung Hoa” không bao giờ đồng nghĩa với một vật liệu hay đường nét duy nhất: gỗ, gạch, gạch men và đá liên tục diễn giải lại cùng một di sản xá-lợi.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_7 >}}" alt="Từ gỗ sang gạch" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
