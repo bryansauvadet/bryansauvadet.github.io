@@ -1,6 +1,24 @@
 ---
 title: "Lịch sử kiến trúc Phật giáo"
 lang: vi
+illustrations:
+  hero: "/assets/images/buddhist-architecture-five-monuments-20261019.jpg"
+  part_i:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-i-1-vi.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-i-2-vi.webp"
+    section_3: "/assets/images/histoire-architecture-bouddhique/part-i-3-vi.webp"
+    section_4: "/assets/images/histoire-architecture-bouddhique/part-i-4-vi.webp"
+  part_ii:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-ii-1-vi.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-ii-2-vi.webp"
+    section_3: "/assets/images/histoire-architecture-bouddhique/part-ii-3-vi.webp"
+    section_4: "/assets/images/histoire-architecture-bouddhique/part-ii-4-vi.webp"
+    section_5: "/assets/images/histoire-architecture-bouddhique/part-ii-5-vi.webp"
+    section_6: "/assets/images/histoire-architecture-bouddhique/part-ii-6-vi.webp"
+    section_7: "/assets/images/histoire-architecture-bouddhique/part-ii-7-vi.webp"
+  part_iii:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-iii-1-vi.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-iii-2-vi.webp"
 format:
   html:
     include-before-body: _includes/vi-header.html
@@ -19,7 +37,7 @@ format:
 <h1>Lịch sử kiến trúc Phật giáo</h1>
 <p class="hab-lead">Từ tu viện và stūpa ở Ấn Độ đến sự biến đổi của tháp tại Trung Quốc, rồi những phát triển riêng ở Triều Tiên, Nhật Bản và Việt Nam: một lịch sử so sánh về hình thức, công năng, vật liệu và cảnh quan thiêng của kiến trúc Phật giáo.</p>
 <div class="hab-stats"><div><strong>8</strong><span>phần lớn</span></div><div><strong>69</strong><span>mục nhỏ</span></div><div><strong>5</strong><span>truyền thống khu vực</span></div></div>
-</div><div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="" loading="eager" decoding="async"></div></div></div></section>
+</div><div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="{{< meta illustrations.hero >}}" alt="" loading="eager" decoding="async"></div></div></div></section>
 <section class="hab-intro" id="introduction"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">Mở đầu</div><h2>Đọc kiến trúc Phật giáo trong thời gian và không gian</h2><p>Một tôn giáo di chuyển dễ hơn một công trình kiến trúc. Kinh điển, xá-lợi, tượng và nghi lễ có thể vượt qua hàng nghìn kilômét; kiến trúc thì phải được dựng lại bằng vật liệu, kỹ thuật, khí hậu và truyền thống xây dựng của từng vùng. Vì vậy, trang này không theo dõi sự lan truyền của một “phong cách” duy nhất, mà khảo sát cách những chức năng căn bản — sống cộng đồng, gìn giữ xá-lợi, làm hiện diện Đức Phật, giảng dạy, hành lễ và tổ chức dòng di chuyển của tín đồ — được chuyển dịch từ nơi này sang nơi khác.</p><p>Hành trình bắt đầu ở Ấn Độ với sự hình thành của tu viện và stūpa, tiếp tục với sự kết hợp của hai yếu tố này và quá trình stūpa trở thành tháp tại Trung Quốc, rồi khảo sát những phát triển riêng tại Triều Tiên, Nhật Bản và Việt Nam. Mỗi mục nhỏ được thiết kế như một mô-đun độc lập để có thể bổ sung một minh họa hoàn chỉnh.</p></div></div></section>
 <section class="hab-toc-section" id="contents"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">Điều hướng</div><h2>Mục lục tương tác</h2><p>Nhấp vào bất kỳ tiêu đề mục nhỏ nào để đi thẳng đến phần tương ứng.</p></div><nav class="hab-toc">
 <div class="hab-toc-group"><a class="hab-toc-part" href="#india-monastery"><span>I</span> Ấn Độ — Sự ra đời của tu viện Phật giáo</a><ol><li><a href="#i-1">Phật giáo trước khi có tu viện</a></li><li><a href="#i-2">Các tên gọi của tu viện và ý nghĩa</a></li><li><a href="#i-3">Những tu viện lớn đầu tiên ở Ấn Độ</a></li><li><a href="#i-4">Tu viện, đô thị và khất thực</a></li></ol></div>
