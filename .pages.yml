@@ -20,16 +20,566 @@ media:
     categories: [image]
     extensions: [jpg, jpeg, png, webp, avif, gif, svg]
     rename: false
-    commit:
-      templates:
-        create: "media: ajout {filename}"
-        update: "media: remplacement {filename}"
-        delete: "media: suppression {filename}"
-        rename: "media: renommage {oldFilename} -> {newFilename}"
 
-content: []
+  - name: architecture_images
+    label: Histoire de l’architecture bouddhique
+    input: assets/images/histoire-architecture-bouddhique
+    output: /assets/images/histoire-architecture-bouddhique
+    categories: [image]
+    extensions: [jpg, jpeg, png, webp, avif, gif, svg]
+    rename: random
+
+components:
+  architecture_illustrations:
+    type: object
+    label: Illustrations
+    fields:
+      - name: hero
+        label: "Image d’ouverture"
+        type: image
+        description: "Illustration principale en haut de la page."
+        options:
+          media: site_images
+      - name: part_i
+        label: "I — Inde — Naissance du monastère bouddhique"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. Le bouddhisme avant l’existence des monastères"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. Les différentes appellations du monastère"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. Les premiers grands monastères de l’Inde"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. Monastères, villes et quête d’aumônes"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+      - name: part_ii
+        label: "II — Inde — Naissance et développement du stoupa"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. Qu’est-ce qu’un stoupa ?"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. Les premiers stoupas à l’époque du Bouddha"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. Le parinirvāṇa et le partage des reliques"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. Qui construit les stoupas et où ?"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_5
+            label: "5. Sāñcī et Bhārhut : le stoupa devient monument narratif"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_6
+            label: "6. Circumambulation et cosmologie"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_7
+            label: "7. Du stoupa du Bouddha au stoupa du maître"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+      - name: part_iii
+        label: "III — De l’Inde à la Chine — Du stoupa à la pagode"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. L’intégration du stoupa au monastère indien"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. Caitya et vihāra : deux fonctions complémentaires"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. La transmission du bouddhisme vers la Chine"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. La rencontre avec l’architecture chinoise"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_5
+            label: "5. Du stoupa indien à la pagode chinoise"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_6
+            label: "6. Le pavillon-stoupa : reliques, images et circulation dans un même édifice"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_7
+            label: "7. Du bois à la brique : la pagode chinoise change de fonction"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+      - name: part_iv
+        label: "IV — Chine et Corée — Transformation du monastère"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. Du pavillon-stoupa au monastère centré sur le pavillon du Bouddha"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. T’apdori et sundang : du stoupa à l’image"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. Chine, Corée, Japon : trois choix de matériaux"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. La naissance du stoupa de pierre coréen"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_5
+            label: "5. Le modèle classique du Grand Silla (大新羅)"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_6
+            label: "6. Le stoupa comme microcosme bouddhique"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_7
+            label: "7. Diversification des stoupas coréens"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_8
+            label: "8. Le pudo et le sŭngt’ap : architecture de la mémoire monastique"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_9
+            label: "9. Réduction du stoupa et agrandissement du pavillon"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_10
+            label: "10. Le monastère conçu comme un palais sacré"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_11
+            label: "11. Les portes du monastère coréen"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_12
+            label: "12. Le monastère de montagne coréen"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+      - name: part_v
+        label: "V — Chine et Corée — Pavillons et architecture de bois"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. Hiérarchie des bâtiments monastiques"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. Structure du hanok et construction en bois"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. Le bouddhisme et la conservation de l’architecture du Koryŏ (高麗)"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. Le Koryŏ (高麗) et le Chosŏn (朝鮮) : chusimp’o (柱心包) et tap’o (多包)"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_5
+            label: "5. Les formes de toiture"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_6
+            label: "6. Portes, fenêtres et treillis floraux"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_7
+            label: "7. Du sol de brique au plancher de bois"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_8
+            label: "8. Les pavillons des Bouddhas et bodhisattvas"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+      - name: part_vi
+        label: "VI — Japon — Architecture bouddhique japonaise"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. L’arrivée de l’architecture bouddhique au Japon"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. Asuka <span class=\"hab-han\" lang=\"ja\">飛鳥</span> — Les premiers monastères"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. Hōryū-ji <span class=\"hab-han\" lang=\"ja\">法隆寺</span> et l’architecture bouddhique ancienne"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. Nara <span class=\"hab-han\" lang=\"ja\">奈良</span> — Les grands monastères d’État"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_5
+            label: "5. Tōdai-ji <span class=\"hab-han\" lang=\"ja\">東大寺</span> et le Daibutsuden <span class=\"hab-han\" lang=\"ja\">大仏殿</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_6
+            label: "6. De la capitale à la montagne"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_7
+            label: "7. Architecture ésotérique et espace du mandala"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_8
+            label: "8. La Terre pure <span class=\"hab-han\" lang=\"ja\">浄土</span> et le Byōdō-in <span class=\"hab-han\" lang=\"ja\">平等院</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_9
+            label: "9. L’architecture Zen <span class=\"hab-han\" lang=\"ja\">禅宗</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_10
+            label: "10. Le pavillon japonais et la relation au jardin"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_11
+            label: "11. La pagode japonaise : trois étages, cinq étages et tahōtō <span class=\"hab-han\" lang=\"ja\">多宝塔</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_12
+            label: "12. Permanences et spécificités japonaises"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+      - name: part_vii
+        label: "VII — Vietnam — Architecture bouddhique vietnamienne"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. Introduction du bouddhisme au Vietnam"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. Luy Lâu <span class=\"hab-han\" lang=\"vi\">羸𨻻</span> et les premiers centres bouddhiques"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. Les dynasties Lý <span class=\"hab-han\" lang=\"vi\">李朝</span> et Trần <span class=\"hab-han\" lang=\"vi\">陳朝</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. La pagode au Pilier unique — Chùa Một Cột <span class=\"hab-han\" lang=\"vi\">一柱寺</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_5
+            label: "5. Les tours et stoupas vietnamiens"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_6
+            label: "6. Organisation du monastère vietnamien"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_7
+            label: "7. Le principe nội công ngoại quốc <span class=\"hab-han\" lang=\"vi\">內工外國</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_8
+            label: "8. Charpente et structure en bois"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_9
+            label: "9. La toiture vietnamienne"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_10
+            label: "10. Architecture et paysage"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_11
+            label: "11. Huế et la pagode Thiên Mụ <span class=\"hab-han\" lang=\"vi\">天姥寺</span>"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_12
+            label: "12. Syncrétisme religieux et pluralité des autels"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+      - name: part_viii
+        label: "VIII — Synthèse comparative"
+        type: object
+        fields:
+          - name: section_1
+            label: "1. Du stoupa à la pagode"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_2
+            label: "2. De la relique à l’image : déplacement du centre monastique"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_3
+            label: "3. Les matériaux façonnent les traditions régionales"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_4
+            label: "4. Comparer les plans monastiques"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_5
+            label: "5. Architecture et pouvoir"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_6
+            label: "6. Architecture et paysage"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_7
+            label: "7. Cinq façons de monumentaliser la présence du Bouddha"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+
+content:
+  - name: site_illustrations
+    label: Illustrations du site
+    type: group
+    items:
+      - name: buddhist_architecture
+        label: "Histoire de l’architecture bouddhique"
+        type: group
+        items:
+          - name: hab_fr
+            label: "🇫🇷 Français"
+            type: file
+            path: fr/cartes/histoire-architecture-bouddhique.qmd
+            format: yaml-frontmatter
+            operations:
+              create: false
+              rename: false
+              delete: false
+            fields:
+              - name: illustrations
+                component: architecture_illustrations
+                label: Illustrations
+          - name: hab_en
+            label: "🇬🇧 English"
+            type: file
+            path: en/maps/histoire-architecture-bouddhique.qmd
+            format: yaml-frontmatter
+            operations:
+              create: false
+              rename: false
+              delete: false
+            fields:
+              - name: illustrations
+                component: architecture_illustrations
+                label: Illustrations
+          - name: hab_ko
+            label: "🇰🇷 한국어"
+            type: file
+            path: ko/maps/histoire-architecture-bouddhique.qmd
+            format: yaml-frontmatter
+            operations:
+              create: false
+              rename: false
+              delete: false
+            fields:
+              - name: illustrations
+                component: architecture_illustrations
+                label: Illustrations
+          - name: hab_ja
+            label: "🇯🇵 日本語"
+            type: file
+            path: ja/maps/histoire-architecture-bouddhique.qmd
+            format: yaml-frontmatter
+            operations:
+              create: false
+              rename: false
+              delete: false
+            fields:
+              - name: illustrations
+                component: architecture_illustrations
+                label: Illustrations
+          - name: hab_zh_hant
+            label: "🇨🇳 中文（繁體）"
+            type: file
+            path: zh-hant/maps/histoire-architecture-bouddhique.qmd
+            format: yaml-frontmatter
+            operations:
+              create: false
+              rename: false
+              delete: false
+            fields:
+              - name: illustrations
+                component: architecture_illustrations
+                label: Illustrations
+          - name: hab_vi
+            label: "🇻🇳 Tiếng Việt"
+            type: file
+            path: vi/maps/histoire-architecture-bouddhique.qmd
+            format: yaml-frontmatter
+            operations:
+              create: false
+              rename: false
+              delete: false
+            fields:
+              - name: illustrations
+                component: architecture_illustrations
+                label: Illustrations
 
 settings:
   hide: true
+  content:
+    merge: true
   commit:
     identity: user
+    templates:
+      update: "cms: mise à jour {path}"
