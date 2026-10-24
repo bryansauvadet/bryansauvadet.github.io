@@ -26,6 +26,7 @@ illustrations:
     section_7: "/assets/images/histoire-architecture-bouddhique/part-iii-7-zh-hant.webp"
   part_iv:
     section_1: "/assets/images/histoire-architecture-bouddhique/part-iv-1-zh-hant.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-iv-2-zh-hant.png"
 format:
   html:
     include-before-body: _includes/zh-hant-header.html
