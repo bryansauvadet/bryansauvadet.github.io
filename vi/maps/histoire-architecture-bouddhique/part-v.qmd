@@ -6,48 +6,64 @@
 
 Kiến trúc chùa Triều Tiên phân biệt khá rõ công năng và cấp bậc của từng công trình. Các điện quan trọng thường nằm sâu hơn trong khuôn viên, phía sau hoặc phía Bắc sân chính, trong khi nhà ở và công trình phục vụ chiếm các vị trí bên. Tên gọi cũng phản ánh thứ bậc. điện 殿 dành cho những điện cấp cao thờ Phật hoặc Bồ-tát lớn; cùng chữ 殿 được dùng trong cung điện, nhấn mạnh phẩm vị tối cao của nhân vật được thờ. các 閣 thường chỉ những điện nhỏ hoặc chuyên biệt, chẳng hạn thờ thần núi hay chân dung tổ sư. lâu 樓 dùng cho lầu, gác chuông hay cấu trúc có tầng; đường 堂 và liêu 寮 gần hơn với sinh hoạt, học tập, bếp và quản lý. Trang trí cũng theo thứ bậc ấy: các điện thờ chính thường có đan thanh 丹靑 phức tạp, còn nhà ở có thể rất giản dị. Vì vậy, chùa không phải một tập hợp ngẫu nhiên của nhiều nhà mà là một hệ thống trong đó tên gọi, vị trí, trang trí và công năng cùng biểu hiện trật tự tôn giáo.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_1 >}}" alt="Thứ bậc các công trình trong chùa" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. Cấu trúc hanok và kiến trúc gỗ {#v-2}
 
 Hanok dựa trên một khung gỗ trong đó cột, xà và hệ đấu củng tạo thành bộ xương chịu lực. Tường thường không mang tải trọng chính mà chỉ khép kín khoảng giữa các cột, vì vậy có thể sửa hoặc thay tương đối dễ. Sự linh hoạt này đòi hỏi bảo vệ gỗ khỏi nước. Cột được đặt trên chân đá để tách khỏi độ ẩm của đất; mái lớn và hiên sâu đưa nước mưa ra xa thân công trình. Kỹ thuật mộng và liên kết cũng rất quan trọng: các cấu kiện được cắt để khóa vào nhau thay vì chỉ dựa vào đinh sắt, giúp phân phối sức nặng của mái ngói và cho phép tháo thay từng bộ phận. Tuổi thọ của một công trình gỗ vì thế không có nghĩa mọi thanh gỗ đều nguyên gốc. Tính lịch sử nằm ở sự liên tục của mặt bằng, nguyên lý kết cấu, tỷ lệ và kỹ năng tu sửa. Trong chùa, việc duy trì địa điểm thiêng qua nhiều thế hệ khiến chính quá trình bảo trì trở thành phương thức bảo tồn.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_2 >}}" alt="Cấu trúc hanok và kiến trúc gỗ" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. Phật giáo và sự bảo tồn kiến trúc Cao Ly 高麗 {#v-3}
 
 Những công trình gỗ hiếm hoi có nguồn gốc từ thời Cao Ly 高麗 cung cấp tư liệu thiết yếu cho lịch sử kiến trúc trung đại Triều Tiên. Có thể kể đến Cực Lạc điện 極樂殿 ở Phượng Đình tự 鳳停寺, Đại Hùng điện 大雄殿 ở Tu Đức tự 修德寺, Linh Sơn điện 靈山殿 của Cư Tổ am 居祖庵 thuộc Ngân Hải tự 銀海寺 và Vô Lượng Thọ điện 無量壽殿 ở Phù Thạch tự 浮石寺. Một tòa nhà tồn tại sáu hay bảy thế kỷ không thể giữ nguyên toàn bộ vật liệu ban đầu: ngói được thay, rui và cột mục được đổi, những phần khung có thể bị tháo rồi lắp lại. Vì thế, bản sắc lịch sử nằm cả trong sự tiếp nối của hình thức, kỹ thuật và tỷ lệ, chứ không chỉ ở tuổi của từng cấu kiện. Các tu viện Phật giáo có vai trò lớn trong việc gìn giữ kiến trúc bởi một cộng đồng tôn giáo có thể tiếp tục chăm sóc một điện thiêng ngay cả khi triều đại thay đổi. Những lần sửa chữa nối tiếp nhau chính là điều kiện để công trình sống sót, đồng thời bảo tồn tri thức mộc truyền qua nhiều thế hệ.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_3 >}}" alt="Phật giáo và sự bảo tồn kiến trúc Cao Ly 高麗" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. Cao Ly 高麗 và Triều Tiên 朝鮮: trụ tâm bao 柱心包 và đa bao 多包 {#v-4}
 
 Không nên so sánh kiến trúc Cao Ly 高麗 và Triều Tiên 朝鮮 theo một câu chuyện “tiến bộ” đơn tuyến. Hai hệ trụ tâm bao 柱心包 và đa bao 多包 là những cách giải quyết khác nhau cho quan hệ giữa cột, xà và mái. Với trụ tâm bao 柱心包, cụm đấu củng chủ yếu đặt trên đầu cột, khiến kết cấu rất dễ đọc và khoảng giữa các cột vẫn có vai trò thị giác lớn. Hệ này thường gắn với nhiều công trình Cao Ly 高麗 còn lại và tạo cảm giác cô đọng, tiết chế. đa bao 多包 bố trí thêm đấu củng giữa các cột, phân phối tải mái dày hơn, cho phép hiên sâu và mặt đứng phong phú. Nó trở nên phổ biến dưới Triều Tiên 朝鮮, nhất là ở các điện lớn, và khi kết hợp đan thanh thì hiệu quả trang trí tăng mạnh. Tuy nhiên đa bao 多包 không phải phiên bản “cao hơn” của trụ tâm bao 柱心包; mỗi hệ có logic cấu trúc và mỹ cảm riêng. Hơn nữa, rất ít công trình Cao Ly 高麗 tồn tại mà không qua sửa chữa, nên cần phân biệt kết cấu cổ, bổ sung muộn và giá trị thẩm mỹ thay vì xếp chúng thành thang tiến hóa.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_4 >}}" alt="Cao Ly 高麗 và Triều Tiên 朝鮮: trụ tâm bao 柱心包 và đa bao 多包" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. Các dạng mái {#v-5}
 
 Mái là một trong những yếu tố thị giác mạnh nhất của điện Phật Triều Tiên. Trước hết nó đáp ứng khí hậu: độ dốc giúp thoát mưa và tuyết, còn hiên sâu bảo vệ tường và khung gỗ. mái hai dốc là mái hai dốc tương đối đơn giản với đầu hồi lộ rõ; mái hông-kết-hồi tương đương mái hông-kết-hồi, phủ cả bốn phía nhưng vẫn giữ hồi, tạo đường nét phức tạp hơn. Công trình mặt bằng vuông hoặc đa giác có thể dùng mái chóp hội tụ về đỉnh, đôi khi kết thúc bằng chóp gốm hình bình 節甁桶. Vật liệu lợp cũng góp phần định hình mỹ cảm. Một số di tích Cao Ly 高麗 cho thấy ngói tráng men ở công trình cao cấp, trong khi dưới Triều Tiên 朝鮮 ngói sẫm màu trở nên phổ biến. Mái vì thế vừa là giải pháp khí hậu, vừa là cấu trúc, vừa là dấu hiệu phẩm cấp. Trong nhiều điện, khối mái chiếm tỷ trọng thị giác lớn hơn hẳn tường và quyết định tính cách công trình ngay từ xa.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_5 >}}" alt="Các dạng mái" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. Cửa, cửa sổ và song hoa {#v-6}
 
 Mặt đứng của điện Phật sử dụng cửa và song gỗ để đồng thời tổ chức lưu thông, ánh sáng và nghi lễ. Trong nhà ở, lỗ mở có thể nhỏ để giữ nhiệt; điện Phật phải đón nhiều người và có thể mở rộng trong lễ hội, nên toàn bộ mặt trước đôi khi gần như được cấu tạo bằng những cánh di động. Các gian vẫn không hoàn toàn bình đẳng: lối giữa có thể mang địa vị nghi lễ cao hơn, còn đi lại thường nhật dùng cửa bên. Hệ song gỗ trở thành một bề mặt trang trí quan trọng. Các mô-típ pisal tạo nhịp chéo hình học; kkotsal phát triển hoa sen, mẫu đơn và nhiều hoa khác. Trong Phật giáo, dâng hoa là một hành vi nghi lễ cổ, vì vậy một mặt đứng phủ hoa gỗ có thể được hiểu như lễ cúng thường trực chứ không chỉ là trang trí. Ánh sáng lọc qua giấy và song cũng tạo khí quyển riêng của nội thất, biến cửa thành vùng trung gian giữa ngoài đời và không gian thiêng.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_6 >}}" alt="Cửa, cửa sổ và song hoa" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. Từ nền gạch sang sàn gỗ {#v-7}
 
 Các điện Phật Triều Tiên không phải lúc nào cũng có sàn gỗ như ngày nay. Trước khi ondol phổ biến trong nhà ở, người ta thường giữ giày khi vào trong, và nền điện có thể lát gạch hoặc gạch nung. Khi ondol trở nên thông dụng, thói quen cởi giày để giữ sàn sạch cũng lan sang không gian tôn giáo. Điều này tạo thuận lợi cho việc quỳ và lễ lạy, nhưng lại nảy sinh vấn đề khác: điện thiêng thường không sưởi vì nguy cơ cháy, nên nền gạch rất lạnh vào mùa đông. Maru, sàn gỗ nâng cao với khoảng không bên dưới, là giải pháp hữu hiệu để cách người khỏi đất lạnh mà không cần đốt lửa dưới điện. Sự thay đổi vật liệu vì thế làm thay đổi cả nghi thức cơ thể: cách bước vào, ngồi, cúi lạy và di chuyển. Một công nghệ gia đình gắn với sưởi ấm đã gián tiếp biến đổi kinh nghiệm thờ phụng trong chùa.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_7 >}}" alt="Từ nền gạch sang sàn gỗ" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. Các điện thờ Phật và Bồ-tát {#v-8}
 
 Tên các điện cho phép đọc vũ trụ quan Phật giáo trực tiếp trong kiến trúc. Đại Hùng điện 大雄殿 thường thờ Śākyamuni; Amitābha có thể được thờ trong Vô Lượng Thọ điện 無量壽殿 hay Cực Lạc điện 極樂殿; Bhaiṣajyaguru trong Dược Sư điện 藥師殿 hay Lưu Ly điện 瑠璃殿; Vairocana trong Đại Tịch Quang điện 大寂光殿, Tỳ Lô điện 毘盧殿 hoặc Hoa Nghiêm điện 華嚴殿. Avalokiteśvara có Quan Âm điện 觀音殿 hoặc Viên Thông điện 圓通殿, còn Kṣitigarbha được thờ trong Địa Tạng điện 地藏殿. Những điện như Bát Tướng điện 八相殿, Linh Sơn điện 靈山殿, Ứng Chân điện 應真殿 và La Hán điện 羅漢殿 tổ chức ký ức về đời Śākyamuni và các đệ tử. Các tên này không thể thay thế tùy ý: chúng cho biết hệ giáo lý và cấp bậc của từng tu viện. Một chùa đặt Vairocana ở trung tâm kể một vũ trụ khác với một chùa lấy Amitābha làm trọng tâm. Đi qua các sân và đọc tên điện giống như đi qua một bản đồ thần học được vật chất hóa.
 
-<div class="hab-illustration-slot">Minh họa sẽ bổ sung</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_8 >}}" alt="Các điện thờ Phật và Bồ-tát" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
