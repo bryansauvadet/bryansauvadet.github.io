@@ -1,6 +1,24 @@
 ---
 title: "History of Buddhist Architecture"
 lang: en
+illustrations:
+  hero: "/assets/images/buddhist-architecture-five-monuments-20261019.jpg"
+  part_i:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-i-1-en.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-i-2-en.webp"
+    section_3: "/assets/images/histoire-architecture-bouddhique/part-i-3-en.webp"
+    section_4: "/assets/images/histoire-architecture-bouddhique/part-i-4-en.webp"
+  part_ii:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-ii-1-en.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-ii-2-en.webp"
+    section_3: "/assets/images/histoire-architecture-bouddhique/part-ii-3-en.webp"
+    section_4: "/assets/images/histoire-architecture-bouddhique/part-ii-4-en.webp"
+    section_5: "/assets/images/histoire-architecture-bouddhique/part-ii-5-en.webp"
+    section_6: "/assets/images/histoire-architecture-bouddhique/part-ii-6-en.webp"
+    section_7: "/assets/images/histoire-architecture-bouddhique/part-ii-7-en.webp"
+  part_iii:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-iii-1-en.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-iii-2-en.webp"
 format:
   html:
     include-before-body: _includes/en-header.html
@@ -28,7 +46,7 @@ format:
           <div><strong>5</strong><span>regional traditions</span></div>
         </div>
       </div>
-      <div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="" loading="eager" decoding="async"></div>
+      <div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="{{< meta illustrations.hero >}}" alt="" loading="eager" decoding="async"></div>
       </div>
     </div>
   </section>
