@@ -1,6 +1,24 @@
 ---
 title: "佛教建築史"
 lang: zh-Hant
+illustrations:
+  hero: "/assets/images/buddhist-architecture-five-monuments-20261019.jpg"
+  part_i:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-i-1-zh-hant.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-i-2-zh-hant.webp"
+    section_3: "/assets/images/histoire-architecture-bouddhique/part-i-3-zh-hant.webp"
+    section_4: "/assets/images/histoire-architecture-bouddhique/part-i-4-zh-hant.webp"
+  part_ii:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-ii-1-zh-hant.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-ii-2-zh-hant.webp"
+    section_3: "/assets/images/histoire-architecture-bouddhique/part-ii-3-zh-hant.webp"
+    section_4: "/assets/images/histoire-architecture-bouddhique/part-ii-4-zh-hant.webp"
+    section_5: "/assets/images/histoire-architecture-bouddhique/part-ii-5-zh-hant.webp"
+    section_6: "/assets/images/histoire-architecture-bouddhique/part-ii-6-zh-hant.webp"
+    section_7: "/assets/images/histoire-architecture-bouddhique/part-ii-7-zh-hant.webp"
+  part_iii:
+    section_1: "/assets/images/histoire-architecture-bouddhique/part-iii-1-zh-hant.webp"
+    section_2: "/assets/images/histoire-architecture-bouddhique/part-iii-2-zh-hant.webp"
 format:
   html:
     include-before-body: _includes/zh-hant-header.html
@@ -14,7 +32,7 @@ format:
 <script src="/assets/js/buddhist-architecture-map.js" defer></script>
 <script src="/assets/js/buddhist-architecture-timelines.js" defer></script>
 <main class="hab-page">
-<section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy"><div class="hab-kicker">視覺專題 · 印度 · 中國 · 韓國 · 日本 · 越南</div><h1>佛教建築史</h1><p class="hab-lead">從印度僧院與窣堵波，到中國佛塔的轉化，以及韓國、日本、越南各自的發展：比較佛教建築的形制、功能、材料與神聖景觀。</p><div class="hab-stats"><div><strong>8</strong><span>大部分</span></div><div><strong>69</strong><span>小節</span></div><div><strong>5</strong><span>地域傳統</span></div></div></div><div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="" loading="eager" decoding="async"></div></div></div></section>
+<section class="hab-hero" id="top"><div class="hab-shell hab-hero-grid"><div class="hab-hero-copy"><div class="hab-kicker">視覺專題 · 印度 · 中國 · 韓國 · 日本 · 越南</div><h1>佛教建築史</h1><p class="hab-lead">從印度僧院與窣堵波，到中國佛塔的轉化，以及韓國、日本、越南各自的發展：比較佛教建築的形制、功能、材料與神聖景觀。</p><div class="hab-stats"><div><strong>8</strong><span>大部分</span></div><div><strong>69</strong><span>小節</span></div><div><strong>5</strong><span>地域傳統</span></div></div></div><div class="hab-hero-visual hab-hero-image" aria-hidden="true"><img src="{{< meta illustrations.hero >}}" alt="" loading="eager" decoding="async"></div></div></div></section>
 <section class="hab-intro" id="introduction"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">導論</div><h2>在時間與空間中理解佛教建築</h2><p>宗教比建築更容易旅行。經典、舍利、佛像與儀式可以跨越千里，但建築必須在各地的材料、技術、氣候與既有營造傳統中重新建造。因此，本頁追蹤的不是單一「風格」的擴散，而是共同居住、保存舍利、使佛陀現前、教學、儀式與信眾動線等功能如何在不同地區被重新翻譯。</p><p>敘事從印度僧院與窣堵波的形成開始，經過兩者的結合以及中國將窣堵波轉化為佛塔的歷程，再比較韓國、日本與越南的地域性發展。每一小節都設計成可單獨配上一幅完整圖像的模組。</p></div></div></section>
 <section class="hab-toc-section" id="contents"><div class="hab-shell"><div class="hab-section-head"><div class="hab-kicker">導覽</div><h2>互動式目錄</h2><p>點擊任何小節標題即可直接跳至相應段落。</p></div><nav class="hab-toc">
 <div class="hab-toc-group"><a class="hab-toc-part" href="#india-monastery"><span>I</span> 印度 — 佛教僧院的誕生</a><ol><li><a href="#i-1">僧院出現以前的佛教</a></li><li><a href="#i-2">僧院的不同稱呼與意義</a></li><li><a href="#i-3">印度最早的大型僧院</a></li><li><a href="#i-4">僧院、城市與托鉢</a></li></ol></div>
