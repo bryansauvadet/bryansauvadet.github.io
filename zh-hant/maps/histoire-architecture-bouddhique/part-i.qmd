@@ -6,24 +6,32 @@
 
 早期佛教修行者並不居住於永久性的僧院。離開家庭、財產與物質依附，本來就是出家生活的核心。北印度的氣候允許相對流動的生活：依托鉢為食、穿著棄布縫成的衣服、在樹下或洞窟停留，使用最簡單的藥物。佛陀與早期弟子在森林、園林與天然洞穴之間遊行；王舍城附近靈鷲山的洞窟，提醒我們當時宗教建築與神聖自然仍未清楚分離。隨著弟子增加，雨季安居、集體持戒與教學需要較穩定的場所。王侯與在家信眾開始布施土地、園林與建物。僧院因而誕生於兩種需求的張力之中：佛教重視無所有，但也承認穩定空間能讓修行、教學與僧團秩序延續。寺院建築並非教義一開始就規定好的形式，而是為了讓原本流動、清貧的共同體長期存在而逐步形成的制度性基礎設施。
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-1-zh-hant.webp" alt="僧院出現以前的佛教" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_i.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_1 >}}" alt="僧院出現以前的佛教" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. 僧院的不同稱呼與意義 {#i-2}
 
 印度僧院的各種名稱反映其功能差異。ārāma 原意為「園林」，顯示早期共同體常居於城市附近、由富有信眾捐贈的樹園。saṃghārāma 結合 saṃgha 與 ārāma，可理解為「僧團之園」，在東亞轉寫為伽藍。vihāra 更強調居住，逐漸指具有僧房與共同空間的院落；caitya 則偏向紀念與禮拜空間，常與窣堵波相連。到了中國，原本指官署的「寺」成為佛教寺院的一般稱呼，「寺院」則凸顯被圍合、被組織的空間。韓國日常語中廣泛使用 절，而「伽藍」保留在學術與建築語境。詞彙的轉變顯示，所謂「僧院」從來不是單一不變的建築類型。佛教進入新的文化環境後，居住、禮拜、行政與等級關係都會重新組合，名稱也隨之變化。
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-2-zh-hant.webp" alt="僧院的不同稱呼與意義" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_i.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_2 >}}" alt="僧院的不同稱呼與意義" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. 印度最早的大型僧院 {#i-3}
 
 最早的大型僧院多發展於北印度政治與城市中心附近。摩揭陀國王舍城的竹林精舍，由頻婆娑羅王捐贈，將園林轉化為僧團的穩定居所。附近靈鷲山仍是禪修與說法的山地空間，顯示建築僧院與神聖景觀並行存在。舍衛城祇園精舍則更進一步，給孤獨長者取得祇陀太子的園林後，設置僧房、講堂、浴室、食堂與病患設施等多種功能。毘舍離的大林與菴婆波利芒果園也顯示在家捐施的重要性。僧院不再只是睡眠場所，而成為修行、教學、照護與接待訪客的複合機構。建築一方面提供安靜修行的條件，另一方面支撐說法與社會交流。佛教就在這一時期從遊行團體轉變為可長期延續的制度性共同體，僧院建築正是這種制度化的物質表現。
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-3-zh-hant.webp" alt="印度最早的大型僧院" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_i.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_3 >}}" alt="印度最早的大型僧院" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. 僧院、城市與托鉢 {#i-4}
 
 早期印度僧院未必位於深山。相反，它們常在城市或村落邊緣，以兼顧禪修所需的安靜與托鉢所需的可達性。律藏建議僧院與聚落之間保持「不太近也不太遠」的距離。托鉢不只是獲取食物，也是連結僧團與在家的交換關係：信眾供養食物與物資，僧侶則提供佛法、儀式與倫理典範。這也解釋了為何早期僧院並不需要大型廚房。當共同體擴大、固定供養增加後，烹飪與儲藏設施逐漸發展，像那爛陀這種巨大機構已不可能單靠個人托鉢維生。這一變化對理解後來東亞山寺非常重要。山中僧院並不是佛教最初的建築原型，而是在經濟基礎、社會條件、氣候與托鉢文化改變之後形成的歷史結果。
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-i-4-zh-hant.webp" alt="僧院、城市與托鉢" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_i.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_4 >}}" alt="僧院、城市與托鉢" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
