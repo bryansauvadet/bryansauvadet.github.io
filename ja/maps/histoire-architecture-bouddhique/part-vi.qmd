@@ -6,96 +6,72 @@
 
 日本に仏教が伝わったからといって、完成した一つの建築様式がそのまま移植されたわけではない。仏像、経典、法具、工人、技術は朝鮮半島や中国を経て伝来したが、建物は日本の素材と技術のなかで新たに建てる必要があった。初期日本社会は塔、金堂、回廊、僧房といった未知の建築型を学習する。法隆寺周辺の古建築は、その適応過程を示す重要資料である。インド・ストゥーパの機能は中国ですでに木塔へ変換され、日本はその木塔をさらに現地の木工技術で再構成した。伽藍配置も大陸の影響を受けつつ、比例、部材、屋根処理は急速に地域化する。日本仏教建築は外来モデルの単純模倣ではなく、大陸由来の宗教機能と建築技術を日本の木造文化の中で再編集した結果である。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_1 >}}" alt="日本への仏教建築伝来" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_1 alt="日本への仏教建築伝来" >}}
 
 ### 2. 飛鳥 — 初期寺院 {#vi-2}
 
 飛鳥時代、仏教寺院は新しい政治・宗教秩序を形成する重要な装置となった。飛鳥寺は6世紀末に建立された初期寺院の代表例で、大陸由来の空間構成を日本へ定着させる過程に位置する。塔は舎利の現前を示す中心記念物で、周囲に金堂、回廊、僧房などが配された。造営には朝鮮半島系の工人が関与し、木工、瓦、彫刻、彩色の技術を伝えた。寺院建設は仏教信仰の導入であると同時に、日本建築技術の大きな転換だった。大規模木架構と重い瓦屋根を扱う技術が発達し、金堂、塔、中門、回廊という空間語彙が定着する。寺院はまた、日本国家が国際的な仏教文明に参加していることを示す政治的標識でもあった。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_2 >}}" alt="飛鳥 — 初期寺院" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_2 alt="飛鳥 — 初期寺院" >}}
 
 ### 3. 法隆寺と古代仏教建築 {#vi-3}
 
 法隆寺は日本古代仏教建築を理解する最重要遺構の一つである。7世紀の火災後に再建された西院伽藍には、世界最古級の木造建築が残る。西院では五重塔と金堂が厳密な一直線ではなく、回廊内で並列する。この非対称配置は、後世の強い軸線型伽藍とは異なる空間感覚を生む。木造架構では柱・梁・組物の関係が明快で、重い屋根を支える精緻な技術が見える。塔と金堂がともに中心を構成する点は、舎利と仏像がまだ同程度の空間的重要性を持っていた段階を示す。法隆寺は、大陸伝統が日本へ伝わった直後から選択と再構成を受け、独自の比例とリズムを形成していたことを示す核心的事例である。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_3 >}}" alt="法隆寺と古代仏教建築" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_3 alt="法隆寺と古代仏教建築" >}}
 
 ### 4. 奈良 — 国家寺院 {#vi-4}
 
 奈良に都が置かれると、仏教は国家制度とさらに密接に結びついた。薬師寺、興福寺、東大寺などの大寺院は、唐都の影響を受けた都市の中で巨大宗教機関として成長した。建物は大型化し、機能は細分化する。薬師寺では金堂の左右に二塔が配され、東塔は実際には三層だが裳階によって六重の屋根線のように見える。奈良の大寺では講堂も重要で、僧侶教育と教学の中心となった。寺院は礼拝施設だけではなく、行政・学問を担う国家制度だった。塔、金堂、講堂、僧房、門が階層的に結びつき、仏教建築が国家権威と知の秩序を可視化するようになる。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_4 >}}" alt="奈良 — 国家寺院" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_4 alt="奈良 — 国家寺院" >}}
 
 ### 5. 東大寺と大仏殿 {#vi-5}
 
 東大寺は仏教、国家権力、巨大建築が結合した最も劇的な事例の一つである。聖武天皇は8世紀に全国の国分寺制度を推進し、巨大な毘盧遮那仏を造立した。752年に開眼された大仏を収めるため、巨大な大仏殿が必要となった。ここに重要な変化がある。初期には塔が寺院の最大の垂直記念物だったが、東大寺では巨大仏を包む仏殿そのものが仏の現前を最も強く表す。寺院には塔、講堂、僧房も存在したが、大仏殿が象徴中心となった。その規模は美的選択にとどまらず、全国を仏教儀礼の秩序下に統合しようとする国家的構想を物質化していた。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_5 >}}" alt="東大寺と大仏殿" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_5 alt="東大寺と大仏殿" >}}
 
 ### 6. 都から山へ {#vi-6}
 
 平安初期、新しい仏教宗派は都の外にある山を重要な修行拠点とした。天台宗は比叡山延暦寺を、真言宗は高野山を中心とする。山は単なる背景ではなく宗教空間の一部となる。建物は平坦な一つの囲郭に集中せず、斜面と森林に分散し道によって結ばれる。これは奈良の大寺から一定の制度的自立を得る方法でもあった。日本の山岳寺院は密教的世界観と古来の山岳信仰が結びついた結果であり、建築が建物群を超えて森、道、峰まで含む景観体系へ拡張される契機となった。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_6 >}}" alt="都から山へ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_6 alt="都から山へ" >}}
 
 ### 7. 密教建築と曼荼羅空間 {#vi-7}
 
 天台、とりわけ真言密教は建築に強い宇宙論的意味を与えた。曼荼羅は仏・菩薩、方位、修行段階の関係を一つの秩序として示し、寺院はそれを空間化しようとする。高野山の壇上伽藍は代表例で、根本大塔は毘盧遮那と結びつく宇宙中心のように構成された。礼拝空間は単に仏像を置く部屋ではなく、曼荼羅を三次元的に経験する場となる。建物間の移動、方位、森林、墓地、巡礼路まで一つの象徴体系に組み込まれる。密教は建築の範囲を一棟の殿堂から山全体へ拡張し、日本仏教景観の重要な型を形成した。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_7 >}}" alt="密教建築と曼荼羅空間" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_7 alt="密教建築と曼荼羅空間" >}}
 
 ### 8. 浄土と平等院 {#vi-8}
 
 浄土信仰の建築は寺院制度の権威を示すより、阿弥陀仏の極楽を眼前に可視化することを重視する。宇治の平等院鳳凰堂は代表的事例である。1053年、藤原頼通によって建てられたこの堂は池のほとりに阿弥陀如来を祀り、東から西を望む構成によって礼拝者を西方浄土の方向へ向ける。中央堂と翼廊は水面に映り、浮遊する宮殿のように見える。建築、仏像、池、視線方向が一つの宗教イメージを形成する。末法意識が広がる時代、極楽往生への期待は強まり、庭園は単なる装飾ではなく浄土を視覚化する教理装置となった。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_8"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_8 >}}" alt="浄土と平等院" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_8 alt="浄土と平等院" >}}
 
 ### 9. 禅宗建築 {#vi-9}
 
 12世紀末以降、禅宗の発展により宋代中国の新しい寺院建築が日本へ影響した。禅寺では三門、仏殿、法堂、僧堂、庫院など専門機能を持つ建物を強い軸線上に配する傾向がある。これは規律ある共同生活と、作務・坐禅・教学が結びついた日常構造を反映する。禅宗建築は必ずしも簡素だけではなく、組物や屋根、門は高度に精緻である。重要なのは各建物の機能が明確で、軸線によって序列を読み取れる点である。京都の禅寺では庭園も中核となり、砂礫と石による枯山水が堂・方丈と密接に結びつく観照空間を形成した。中国的要素は日本の木造架構、縁、庭園との関係のなかで再解釈された。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_9"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_9 >}}" alt="禅宗建築" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_9 alt="禅宗建築" >}}
 
 ### 10. 日本の仏堂と庭園 {#vi-10}
 
 日本の仏堂は庭園と近景との関係を特に発達させた。木造架構は引戸や取り外し可能な建具によって外壁を大きく開くことができ、内外の境界を弱める。縁、深い軒、高床は庭を一幅の絵のように眺める中間空間をつくる。京都の寺院ではこの関係が宗教体験の重要部分となった。建物は自然を支配するのではなく、自然を見るための装置にもなる。この特徴は禅寺で特に強いが、他宗派にも広く見られる。日本の仏堂の意味は建物の量塊だけでなく、どの景観を切り取り、どの光を取り入れ、どれだけ多くの中間領域をつくるかにある。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_10"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_10 >}}" alt="日本の仏堂と庭園" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_10 alt="日本の仏堂と庭園" >}}
 
 ### 11. 三重塔・五重塔・多宝塔 {#vi-11}
 
 日本は東アジアで木塔伝統を最もよく保存した地域の一つである。三重塔・五重塔はストゥーパが垂直塔へ変化した東アジアの系譜を継ぎつつ、日本の木工技術に適応した。心柱は多くの塔で象徴的・構造的中心となる。各層は西洋塔の居住階とは異なり、聖なる軸の周囲に屋根と構造を反復して垂直リズムをつくる。法隆寺五重塔は古代木塔の代表例であり、薬師寺東塔は三層に裳階を加え六重のような輪郭を生む。日本ではさらに多宝塔が発達した。下部を方形、上部を円形に近い躯体とする形式で、密教と深く結びつき、舎利塔の基本概念を維持しながら新しい建築型を創出した。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_11"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_11 >}}" alt="三重塔・五重塔・多宝塔" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_11 alt="三重塔・五重塔・多宝塔" >}}
 
 ### 12. 日本建築の持続性と独自性 {#vi-12}
 
 日本仏教建築の重要な特徴は木造伝統が長く継承されたことである。しかしそれは建物が不変だったという意味ではない。寺院は修理、解体、再建、増築、移築を繰り返し、現存建物には複数時代の部材が共存することが多い。保存は古い木材そのものだけでなく技術継承に依存する。この方法は地震、火災、台風の多い環境に適していた。木造の柔軟性と交換可能な部材が長期生存を可能にした。さらに日本では都市寺院、山岳寺院、木塔、大仏殿、密教伽藍、浄土庭園、禅寺が同時に継承された。一つの形式が前代を完全に置き換えなかったため、日本仏教建築史は一つの木造技術文化の上に複数時代の宗教空間が重層した歴史として理解できる。
 
-::: {.content-hidden unless-meta="illustrations.part_vi.section_12"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_12 >}}" alt="日本建築の持続性と独自性" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vi.section_12 alt="日本建築の持続性と独自性" >}}
 :::
 :::

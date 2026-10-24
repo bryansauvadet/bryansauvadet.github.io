@@ -6,96 +6,72 @@
 
 早期東亞寺院中，巨大木塔可以同時承載舍利、佛像與禮拜空間，成為最顯眼的中心。然而佛教擴大後，這種功能集中逐漸不實用。舍利有限，佛像卻可以大量製作；信眾增加，釋迦、阿彌陀、毘盧遮那、彌勒、觀音等不同崇拜對象也愈來愈重要。獨立佛殿於是增加並擴大。佛塔並未消失，而是從包辦主要功能的建物轉變為標示聖域的紀念物。韓國石塔的小型化更加強這一變化：較小的石塔可以放在大佛殿前，雙塔也可置於左右而保留中軸。百濟寺院遺址的配置變化清楚顯示從塔中心向金堂中心移動的趨勢。神聖現前不再只來自封閉舍利，也來自可見佛像與可容納大眾的殿堂。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_1 >}}" alt="從塔中心到佛殿中心" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_1 alt="從塔中心到佛殿中心" >}}
 
 ### 2. 繞塔 與 繞堂 {#iv-2}
 
 韓國的 繞塔 指繞塔，繞堂 則指繞堂或繞像。兩者都繼承將聖物置於右側的 pradakṣiṇā。大型木塔內，舍利與佛像可以共存，因此繞塔與遇見佛像原本可能是同一空間經驗。當佛像從塔中獨立並成為佛殿中心時，繞行儀式也轉移到殿堂。早期佛殿有時把佛像置於中央，方便信眾繞行；隨著人數增加，佛像被推向後方，以擴大前方禮拜空間，室內繞行因而變得困難。外部燈會與繞行活動的重要性增加。禮拜對象雖改變，透過身體運動建立神聖中心的原理仍然延續。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_2 >}}" alt="繞塔 與 繞堂" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_2 alt="繞塔 與 繞堂" >}}
 
 ### 3. 中國、韓國、日本的材料選擇 {#iv-3}
 
 東亞佛教建築的顯著差異，很大程度來自材料環境。北中國部分地區大型木材有限，而製磚土豐富，因此磚塔廣泛發展。韓國既有木材建造佛殿，也有大量花崗岩，形成木殿與石塔的典型組合。日本則依靠豐富木材與高度發達的木工技術，長期保留大型木塔。材料會改變功能，而不只是外觀。木塔能提供可進入的樓層；磚石塔則更偏向緊湊量體，內部空間縮小。韓國花崗岩塔降低高度卻發展精細比例與雕刻，日本木塔則更長久保留古代中國木塔的垂直感。地域差異不是「民族風格」的自然結果，而是宗教需求、資源、工藝與結構限制共同作用的產物。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_3 >}}" alt="中國、韓國、日本的材料選擇" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_3 alt="中國、韓國、日本的材料選擇" >}}
 
 ### 4. 韓國石塔的誕生 {#iv-4}
 
 韓國石塔誕生於把木構建築翻譯成石材的過程。彌勒寺 石塔以花崗岩重現柱、梁、出檐等木構語彙，是最具代表性的例子之一。定林寺 五層石塔則透過比例與部件處理，使石材顯得近似木構般輕盈。新羅的 芬皇寺 走另一條道路，以切石模擬中國磚塔。由此可見，韓國石塔不是從單一模型直接演變而來，而是在大陸木塔、中國磚塔與半島花崗岩三種條件交會中形成。之後工匠逐漸放棄逐件模仿木構細節，發展出基壇、塔身、屋蓋石、相輪等適合石材的語法。石塔因此成為真正具有自身形式邏輯的韓國佛教建築。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_4 >}}" alt="韓國石塔的誕生" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_4 alt="韓國石塔的誕生" >}}
 
 ### 5. 大新羅（大新羅）的古典石塔 {#iv-5}
 
 大新羅時期，韓國石塔達到高度標準化與平衡。佛國寺 釋迦塔 是最著名的例子。它減少繁複裝飾，以基壇、三層塔身、屋蓋石與相輪形成清楚比例。每層逐漸縮小，即使使用沉重花崗岩，也能產生向上的視覺感。三層石塔類型因此廣泛傳播，在半島各寺院中反覆出現並被地方化。它既有技術效率，也具有權威性，尺度又不至於遮蔽後方佛殿。部分寺院使用雙塔配置，使中心軸仍保持開放。所謂標準化並不等於完全一致；基壇高度、屋蓋石坡度與整體比例仍因時地不同而變化。釋迦塔 更應被理解為用比例與節制克服石材重量的古典原則。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_5 >}}" alt="大新羅（大新羅）的古典石塔" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_5 alt="大新羅（大新羅）的古典石塔" >}}
 
 ### 6. 佛塔作為佛教宇宙縮影 {#iv-6}
 
 石塔變小並不表示象徵系統變簡單。塔身的門扉刻畫象徵內部舍利室，金剛力士可守護神聖中心；基壇上可雕天、龍、夜叉等八部眾，甚至加入十二支神，與王陵的守護圖像形成呼應。四面還可能配置方位佛，而中心則暗示毘盧遮那。整座小型石塔因而成為佛教宇宙的縮影。這也有助於理解消失的大木塔與現存石塔之間的關係。木塔原本可以在多層室內配置不同佛像，石塔則把這些圖像壓縮到外壁與基壇。雕刻並非附加裝飾，而是在說明舍利中心如何被守護、定向並納入宇宙秩序。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_6 >}}" alt="佛塔作為佛教宇宙縮影" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_6 alt="佛塔作為佛教宇宙縮影" >}}
 
 ### 7. 韓國石塔的多樣化 {#iv-7}
 
 三層石塔雖最普遍，韓國佛塔形式卻遠比單一標準多樣。佛國寺 多寶塔 以欄杆與複雜立體構成形成極具個性的作品，並未大量被模仿，反而凸顯其實驗性。北方多層塔與八角形傳統持續存在；高麗時期出現像 月精寺 八角九層石塔這類以增加層數來強化上升感的作品。有些地區仍有真正磚塔，有些則以石材模擬磚。高麗承繼大新羅形式，同時吸收來自中國與蒙古世界的新刺激。朝鮮時代佛教資源減少後，佛塔常有簡化傾向。韓國佛塔史因此是標準與變形、地方性與外來影響不斷交錯的歷史。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_7 >}}" alt="韓國石塔的多樣化" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_7 alt="韓國石塔的多樣化" >}}
 
 ### 8. 浮屠 與 僧塔 {#iv-8}
 
 奉安高僧舍利的 浮屠或 僧塔構成韓國佛教建築的特殊系統。新羅末禪宗興盛後，師徒法脈與祖師記憶成為宗派身份核心，僧塔便把這種譜系固定在具體場所。重要早期作品常用八角平面與精細石構部件，看起來像縮小的石造殿堂。到了高麗，形式更加多樣，也出現接近覆鉢或石鐘的簡潔類型。這種簡化不一定代表技術衰退，也可能反映新的參考來源與對窣堵波基本形的回歸。僧塔往往遠離主佛殿，集中於墓域，形成多代祖師的記憶景觀。寺院因此不只供奉佛菩薩，也保存自身的制度史與傳承系譜。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_8"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_8 >}}" alt="浮屠 與 僧塔" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_8 alt="浮屠 與 僧塔" >}}
 
 ### 9. 縮小的塔與擴大的佛殿 {#iv-9}
 
 東亞佛教愈趨多樣後，把所有功能集中在一座巨大佛塔內便不再有效率。不同宗派供奉不同佛菩薩，法會與說法需要更大的平面空間；建造數座水平殿堂，也比維持超大型垂直木塔實際。韓國花崗岩石塔使這個趨勢更加明顯。巨型石塔太重也太昂貴，而木構佛殿可以用較輕的結構創造大空間。佛塔仍保留在軸線或院落中，但規模縮小，佛殿成為集體禮拜核心。原來集中於塔周圍的守護圖像也逐漸移向寺院門與邊界。這反映從舍利中心的現前，轉向可見佛像與大眾禮拜空間的重心移動。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_9"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_9 >}}" alt="縮小的塔與擴大的佛殿" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_9 alt="縮小的塔與擴大的佛殿" >}}
 
 ### 10. 寺院作為神聖宮殿 {#iv-10}
 
 中國與韓國寺院逐漸採用接近宮殿的空間原則，這並非單純模仿裝飾。在中國政治思想中，理想君主也是聖人，而佛陀可被理解為最高聖者，因此宮殿語彙適合表達佛的尊崇地位。主殿使用「殿」這一與宮殿共享的名稱，入口則由一連串門與庭院組織。越往北或越深入，空間等級越高。信眾彷彿朝向君主般接近主佛殿。但佛教也改造了這套模式：金剛力士、四天王等守護神進入山門，庭院與門成為精神進程而非政治禮儀的階段。寺院借用宮殿的空間文法，卻把中心由世俗君王轉換為佛與法。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_10"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_10 >}}" alt="寺院作為神聖宮殿" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_10 alt="寺院作為神聖宮殿" >}}
 
 ### 11. 韓國寺院的山門 {#iv-11}
 
 韓國寺院的進入過程由多重山門分段。一柱門（一柱門）是第一道象徵邊界，正面看來柱子似乎排列成一線，常被解釋為從分散世俗走向佛道一心。部分寺院接著有奉安金剛力士的 金剛門。天王門 集中安置原本守護四方的四天王，使印度宇宙論適應東亞南北軸的寺院平面。最後，解脫門 或 不二門 標示進入核心聖域。這並非單純防禦設施，而是教理化的行走路徑。每跨過一道門，信眾都在象徵上離開更多世俗條件並接近主佛殿。原本集中在佛塔周圍的守護功能，也被擴展到整座寺院的邊界。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_11"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_11 >}}" alt="韓國寺院的山門" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_11 alt="韓國寺院的山門" >}}
 
 ### 12. 韓國山寺 {#iv-12}
 
 東亞軸線式寺院進入韓國山地後發生顯著變形。朝鮮時代對佛教的限制與城市寺院衰退，使許多僧團留在山谷。地形往往無法容納完全筆直的門與殿堂排列，進山道路可能跨溪、繞坡，再接近核心區。但到主院落後，又常恢復較規整的配置：前庭、後方主佛殿、左右僧房。山地不是取消軸線，而是使其變得柔軟。溪流既是生活資源，也用來營造進入聖域的過程，橋樑可以成為另一重門檻。韓國山寺不是以抽象幾何壓制自然，而是在山谷、森林、水與坡地之間協商出神聖秩序。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_12"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_12 >}}" alt="韓國山寺" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_12 alt="韓國山寺" >}}
 :::
 :::

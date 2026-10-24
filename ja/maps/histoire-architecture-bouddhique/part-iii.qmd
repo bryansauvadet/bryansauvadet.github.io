@@ -6,17 +6,13 @@
 
 当初、僧院とストゥーパは異なる機能を担っていた。僧院は僧伽の居住・戒律・教育の場、ストゥーパは舎利をめぐる在家崇敬の場だった。アショーカ期以降、両者は徐々に接近する。伝承ではアショーカが古い塔を開き、舎利を再分配して多数の塔を建てたという。「八万四千塔」は象徴的数字だが、大規模な拡散という意味を持つ。多数の舎利塔を長期管理するには安定した組織が必要で、僧伽は自然にその役割を担った。既存の塔が僧院内に取り込まれる場合もあれば、聖なる塔の周囲に僧院が成長する場合もあった。結果として僧侶の生活と在家礼拝は同じ囲いの中に置かれた。僧院は修行施設だけでなく巡礼・供養・儀礼の中心となり、塔も僧団生活から独立した外部記念物ではなくなった。
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_1 >}}" alt="インド僧院へのストゥーパ統合" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_1 alt="インド僧院へのストゥーパ統合" >}}
 
 ### 2. チャイティヤとヴィハーラ {#iii-2}
 
 西インドの石窟寺院は礼拝空間と居住空間の違いを明快に示す。ヴィハーラでは僧房が共同ホールを囲み、生活・学習・瞑想を支える。チャイティヤはストゥーパを中心にした礼拝空間で、長い身廊の奥に塔を置き、柱列の外側に右繞のための通路をつくる。儀礼が平面を直接決定しているのである。空間は人を収容するだけでなく、視線と身体を導き、塔との関係を組織する。デカンの石窟群は自然の岩山が複雑な僧院建築へ変換されたことを示す。同時に「僧院」が一棟の建物ではなく、居住、教育、瞑想、接待、礼拝の複合システムであることがわかる。中国ではこれらの機能が木造の塔、仏殿、講堂、僧房として再分配されることになる。
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_2 >}}" alt="チャイティヤとヴィハーラ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_2 alt="チャイティヤとヴィハーラ" >}}
 
 ### 3. 中国への仏教伝来 {#iii-3}
 
@@ -24,9 +20,7 @@
 
 この建築的な翻訳は、中国の大規模な仏教石窟群に明瞭に現れている。山西省大同近郊の雲岡石窟（雲岡石窟）では、主に5～6世紀に造営された石窟群が、中央アジア・南アジア由来の要素を中国的な記念建築の言語へ組み替えていく過程を示す。洛陽南方の龍門石窟（龍門石窟）では、北魏に始まり唐代に大きく展開した造営によって、崖面そのものが礼拝窟・龕・仏像の階層的な集合へ変えられた。さらに西方の敦煌にある莫高窟（莫高窟）は4世紀に始まり、ほぼ一千年にわたって発展し、インド・中央アジア・中国を結ぶシルクロードの交流を物語る。これら三遺跡は単なる彫刻群ではなく、仏教が空間、動線、像、造営主体を中国の異なる環境に適応させたことを示す建築遺産である。
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_3 >}}" alt="中国への仏教伝来" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_3 alt="中国への仏教伝来" >}}
 
 ### 4. 中国建築との出会い {#iii-4}
 
@@ -34,9 +28,7 @@
 
 河南省の嵩岳寺塔（嵩岳寺塔）は、この受容の別の段階を示す。北魏の523年に建立されたこの塔は、中国に現存する初期の大規模な磚塔の一つである。多角形平面、強い垂直性、反復する層の構成は、ストゥーパの舎利奉安機能が、インドの半球形墳丘や木造楼閣をそのまま模倣せずに、組積造へ翻訳され得たことを示している。嵩岳寺塔は、ストゥーパの形態的記憶と中国仏塔の自立的発展をつなぐ重要な節点である。
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_4 >}}" alt="中国建築との出会い" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_4 alt="中国建築との出会い" >}}
 
 ### 5. インドのストゥーパから中国塔へ {#iii-5}
 
@@ -44,9 +36,7 @@
 
 陝西省扶風の法門寺（法門寺）は、この形態変化が舎利信仰と切り離せないことを示す。塔の地下から発見された地宮には、仏陀の指骨として崇敬された舎利に関わる舎利容器と供養品、さらに唐王朝の庇護を示す遺物が残されていた。法門寺は、中国仏塔が単なる都市景観上の高塔ではなく、その軸線、基壇、地下室によって舎利奉安のための複合的な建築装置を構成し、聖遺物・高価な供物・政治権力を一つの空間に結び付けたことを具体的に示している。
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_5 >}}" alt="インドのストゥーパから中国塔へ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_5 alt="インドのストゥーパから中国塔へ" >}}
 
 ### 6. 堂塔的建築：舎利・仏像・巡礼 {#iii-6}
 
@@ -54,9 +44,7 @@
 
 機能が独立した仏殿へ移る過程は、山西省五台山周辺の二つの重要建築からも確認できる。南禅寺（南禪寺）の大仏殿は782年、佛光寺（佛光寺）の東大殿は857年に年代づけられ、唐代仏教木造建築を伝える極めて重要な遺構である。これらは仏塔ではない。だからこそ重要であり、仏像、集会、儀礼が大規模な横長の専用建築へ受け継がれていくことを示す。佛宮寺木塔と併せて見ると、中国仏教建築の二つの極、すなわち垂直な舎利塔と、木造架構による礼拝殿を直接比較できる。
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_6 >}}" alt="堂塔的建築：舎利・仏像・巡礼" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_6 alt="堂塔的建築：舎利・仏像・巡礼" >}}
 
 ### 7. 木造から磚造へ {#iii-7}
 
@@ -64,8 +52,6 @@
 
 中国の組積造は、その後さらに多様な解答を生み出した。長安の小雁塔（小雁塔）は8世紀初頭に建立され、大雁塔よりも細身の磚造シルエットを示す。開封の鉄塔（鐵塔）は北宋の1049年に建てられ、施釉煉瓦の文様によって木造建築の部材を細部まで模倣している。泉州の開元寺（開元寺）に立つ二基の石塔は13世紀の作で、仏塔を石材へ翻訳する試みをさらに押し進めた。大雁塔・小雁塔・嵩岳寺塔・鉄塔・開元寺の双塔を並べると、「中国仏塔」が単一の材料や輪郭を意味しないことが分かる。木、磚、施釉煉瓦、石が、同じ舎利塔の系譜を繰り返し再解釈したのである。
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_7 >}}" alt="木造から磚造へ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_7 alt="木造から磚造へ" >}}
 :::
 :::

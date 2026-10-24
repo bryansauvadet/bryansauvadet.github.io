@@ -6,96 +6,72 @@
 
 越南佛教史不能只理解為佛教由中國單向南傳。北部越南既連接東亞陸路，也面向印度與東南亞的海上交通，因此很早就存在多重交流。印度僧侶與商人的海上移動，與中國政治文化影響同時作用。早期佛教共同體在地方農耕信仰、土著儀式與中國行政文化並存的環境中成長。越南語 chùa 一般指佛教寺院，tháp（塔）則可指塔或窣堵波。佛法傳播並不意味印度建築原樣複製；地方木材、磚與瓦技術形成新解答。越南應被視為多條佛教流通路線與地方傳統交會的空間，而不是中國佛教建築的單純南方變體。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_1 >}}" alt="佛教傳入越南" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_1 alt="佛教傳入越南" >}}
 
 ### 2. Luy Lâu 羸𨻻與早期佛教中心 {#vii-2}
 
 Luy Lâu（羸𨻻）位於今日 Bắc Ninh（北寧），在越南早期佛教史中具有基礎地位。它是紅河三角洲的重要城市，兼具政治、商業與宗教作用。越南史學資料將其視為最早佛教中心之一，至遲在2世紀末已與經典研究、翻譯與傳播相關。交通位置使印度與中亞僧侶、中國行政網絡與地方社群能在此相遇。佛教也與土著農耕信仰結合，例如與雨、雲、雷、電相關的 Tứ Pháp（四法）。因此，越南佛教寺院從一開始就可能整合多種宗教因素。Luy Lâu 古建築雖經歷大量改建，難以精確復原早期平面，但它仍證明越南很早就進入跨亞洲佛教網絡。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_2 >}}" alt="Luy Lâu 羸𨻻與早期佛教中心" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_2 alt="Luy Lâu 羸𨻻與早期佛教中心" >}}
 
 ### 3. Lý 李朝與 Trần 陳朝 {#vii-3}
 
 Lý（李朝）與 Trần（陳朝）是越南佛教與建築的重要發展期。獨立 Đại Việt（大越）鞏固後，佛教得到強大王室支持，並與國家正統性密切連結。Lý 時代在 Thăng Long（昇龍）大量興建王室寺院與佛塔，把宗教、王朝保護與首都景觀結合。Trần 時代佛教仍居重要位置，同時在 Yên Tử（安子）形成 Trúc Lâm Yên Tử（竹林安子）山岳傳統，寺院建築因此從城市擴展到巡禮山地。木構殿堂建立在石或磚基礎上，屋頂使用裝飾瓦，塔則承擔舍利與葬禮功能。由於早期木構保存稀少，後世重建不能直接等同原貌；真正持久的是此時形成的聖地網絡、制度與空間類型。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_3 >}}" alt="Lý 李朝與 Trần 陳朝" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_3 alt="Lý 李朝與 Trần 陳朝" >}}
 
 ### 4. Chùa Một Cột 一柱寺 {#vii-4}
 
 河內 Chùa Một Cột（一柱寺），即「一柱寺」，是越南佛教建築最具識別度的象徵之一。傳說 Lý Thái Tông（李太宗）於1049年建立。小型木殿置於池中央單一支柱之上，使整體如蓮花自水中升起。蓮花出淤泥而不染，是佛教最重要象徵之一，建築因此直接把教義圖像轉成三維空間。此殿屬於 Diên Hựu（延祐寺）建築群，歷史上多次重建，所以現存形式不能在所有細節上等同11世紀原貌，但核心的蓮花意象持續存在。池水不是附屬景觀；沒有水，建築就無法被讀成蓮花，因此景觀本身是建築概念的一部分。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_4 >}}" alt="Chùa Một Cột 一柱寺" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_4 alt="Chùa Một Cột 一柱寺" >}}
 
 ### 5. 越南的塔與窣堵波 {#vii-5}
 
 越南 tháp（塔）可以是舍利塔、紀念塔、高僧墓塔，也可以是寺院中用來強化景觀與地位的高層塔。它們與中國佛塔、韓國石塔一樣，遠源於印度舍利崇拜，但受到地方技術與材料深刻改造。磚特別重要，能在木構易受濕氣與火災影響的環境中建立較持久的垂直紀念物。多層遞減塔、有佛龕與裝飾的塔、小型高僧舍利塔可以同時存在。山寺中，多座墓塔有時聚集成祖師墓園，物質化僧團法脈。西方語言常把整座越南佛寺稱為 “pagoda”，容易造成混淆；較精確的區分是 chùa 指整體寺院，tháp 指垂直的塔式紀念物。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_5 >}}" alt="越南的塔與窣堵波" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_5 alt="越南的塔與窣堵波" >}}
 
 ### 6. 越南寺院的組織 {#vii-6}
 
 傳統越南寺院通常由一連串建物與庭院構成，而非單一巨大建築。由入口向內，禮拜殿、僧侶生活空間與附屬設施圍繞軸線或院落安排。較前方可安置守護像與迎接空間，越往深處越集中主要佛菩薩與多重祭壇。這種深度層級與中國、韓國有共通性，但越南發展出多座平行殿堂以廊道連接、再由外周建築圍合的特殊組合，nội công ngoại quốc（內工外國）即為代表。僧房、廚房與客舍分布在禮拜核心周圍。實際平面也會因村落道路、池塘、堤岸或山地地形而改變，因此越南寺院同時具有軸線秩序與強烈的地方適應性。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_6 >}}" alt="越南寺院的組織" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_6 alt="越南寺院的組織" >}}
 
 ### 7. nội công ngoại quốc 內工外國 {#vii-7}
 
 nội công ngoại quốc（內工外國）是描述越南宗教建築的一個重要構圖原則：內部像「工」字，外圍像「國」字。實際上常由平行殿堂與橫向連接建物形成核心，再由外周廊道與附屬建築圍出院落。它不是所有寺院都嚴格遵守的固定模板，而是一種常見於近世大型寺院的空間邏輯。Ngũ Đài（五臺）等案例可見 tiền đường（前堂）、thiêu hương（燒香）、thượng điện（上殿）、hậu đường（後堂）與左右廊道的組合。信眾由前向後進入愈來愈神聖的空間，周邊廊道則組織交通與附屬功能。這種形式使用東亞共享的軸線、院落與木構語彙，卻以越南特有方式重新編排。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_7 >}}" alt="nội công ngoại quốc 內工外國" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_7 alt="nội công ngoại quốc 內工外國" >}}
 
 ### 8. 木構架 {#vii-8}
 
 越南佛殿與中國、韓國、日本一樣，主要依靠柱梁木構承重，牆體多半負責圍合。越南工匠發展出複雜榫卯與木栓技術，寺院與公共建築的梁柱也常有豐富木雕。柱列所形成的「間」控制殿堂深度與尺度，並允許透過增加模數擴建。木材受損後可以替換，因此研究建築年代時，必須區分整體設計年代與單一部材年代。高溫多濕的氣候讓防水與通風成為核心：屋頂要迅速排走暴雨，建物往往略高於地面，空間也需要保持通風。木構架因此不只是技術形式，而是一套適應熱濕環境、可維修與可擴展的空間系統。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_8"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_8 >}}" alt="木構架" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_8 alt="木構架" >}}
 
 ### 9. 越南屋頂 {#vii-9}
 
 越南傳統建築中，屋頂往往支配整體視覺。大片瓦頂保護木構免受強降雨侵襲，也在炎熱氣候中創造深陰。屋脊與屋角可裝飾龍、植物與守護動物，向上翹起的屋角形成強烈動感。但不應把這種曲線簡化為「中國式」特徵；屋頂與牆體比例、木構雕刻、瓦片組合共同形成越南自己的美感。許多寺院的屋頂體量遠大於可見牆面，使建築彷彿是一個巨大遮蔽物落在輕巧骨架上。為支撐大屋頂，室內需要多排柱子，進而影響祭壇與禮拜空間的配置。屋頂同時承擔氣候、結構、裝飾與等級表達。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_9"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_9 >}}" alt="越南屋頂" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_9 alt="越南屋頂" >}}
 
 ### 10. 建築與景觀 {#vii-10}
 
 越南寺院與水與地形關係密切。池塘、湖泊、河流與丘陵不只提供實用環境，也參與神聖意義。Chùa Một Cột（一柱寺）必須透過蓮池來理解；Thiên Mụ（天姥寺）俯瞰 Huế 的 Hương Giang（香江）；Yên Tử（安子）寺院沿山路形成巡禮景觀。即使存在理想中軸，真實地形仍會產生階梯、橋、台地與多重院落。風水觀念也會根據山、水與方向選址。寺院庭園因此不是單純裝飾，而是由外界進入佛殿的過渡空間；池塘甚至直接承擔佛教象徵。越南佛教建築會依村落、首都或山地環境，以不同方式融入景觀。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_10"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_10 >}}" alt="建築與景觀" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_10 alt="建築與景觀" >}}
 
 ### 11. Huế 與 Thiên Mụ 天姥寺 {#vii-11}
 
 Thiên Mụ（天姥寺）位於 Huế 的 Hương Giang（香江）上方，是城市最鮮明的宗教地標之一。傳說寺院創建於17世紀初 Nguyễn 諸侯（阮主）時期，早於 Huế 成為統一越南的帝都。19世紀 Nguyễn 朝（阮朝）又加以擴建，Thiệu Trị 帝（紹治帝）於1844至1846年間建立七層 Phước Duyên 塔（福緣塔）。塔位於入口附近，可從河上遠望，成為強烈的垂直標誌；其後仍有門、佛殿與院落，顯示佛塔只是大型寺院的一部分。Thiên Mụ 將佛教建築、王朝贊助、地形與河景結合，清楚展現寺院如何成為政治與宗教景觀。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_11"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_11 >}}" alt="Huế 與 Thiên Mụ 天姥寺" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_11 alt="Huế 與 Thiên Mụ 天姥寺" >}}
 
 ### 12. 宗教融合與多重祭壇 {#vii-12}
 
 許多越南寺院內部同時安置不同時代的佛、菩薩、羅漢、守護神、地方神祇、祖師與祖先。這種多重性並非混亂，而是佛教（佛教）、儒教（儒教）、道教（道教）與地方信仰長期互動的結果。主要殿堂中，祭壇會在深度與高度上層層安排，前方可能是守護神，最深處安置主要佛像；側殿也可增加專門信仰。參拜者在寺院內移動時，逐步閱讀一個複雜的神聖譜系。當新信仰變得重要時，往往是增加祭壇或殿堂，而不是完全消除舊空間。寺院因此成為宗教記憶不斷堆疊的空間，這種整合能力正是越南佛寺室內的重要特徵。
 
-::: {.content-hidden unless-meta="illustrations.part_vii.section_12"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_12 >}}" alt="宗教融合與多重祭壇" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_vii.section_12 alt="宗教融合與多重祭壇" >}}
 :::
 :::

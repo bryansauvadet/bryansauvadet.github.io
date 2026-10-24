@@ -6,17 +6,13 @@
 
 Originally, monastery and stupa answered different needs: the monastery served residence, discipline, and teaching, whereas the stupa organised lay devotion around relics. Their convergence occurred gradually, especially from the age of Aśoka (阿育王) onward. Tradition credits this ruler with opening ancient stupas and redistributing the Buddha’s relics into a very large number of new monuments. The famous “84,000 stupas” is conventional, but it expresses the idea of a vast policy of diffusion. Such multiplication required administration, maintenance, and communities capable of caring for reliquaries over the long term. The saṃgha (僧伽) naturally became the institution best placed to perform this role. In some cases a pre-existing stupa was absorbed into a monastery; elsewhere a monastery developed around an already sacred site. The spatial result was similar: monastic residence and devotional centre came to share one enclosure. This fusion was fundamental. The monastery became not only a place of ascetic practice and teaching but also a destination for pilgrimage, offerings, and ceremony. Conversely, the stupa ceased to be entirely external to monastic life. Buddhist architecture began to organise two forms of presence together: the living community of monks and the memorial or reliquary presence of Buddhas and saints.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_1 >}}" alt="Integrating the stupa into the Indian monastery" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_1 alt="Integrating the stupa into the Indian monastery" >}}
 
 ### 2. Caitya and vihāra: two complementary functions {#iii-2}
 
 The rock-cut monasteries of western India make the distinction between cult and residence especially clear. The vihāra is designed for the monastic community: individual or double cells open around a shared hall used for meetings, teaching, or meditation. The caitya, by contrast, is organised around a stupa and intended for collective devotion. In rock-cut examples its plan is usually longitudinal: a nave leads toward the monument at the far end while columns create an ambulatory for circumambulation. Ritual determines architecture. The hall does not merely contain devotees; it guides their movement, directs the gaze, and imposes a precise relationship to the stupa. Rock-cut constraints intensify this clarity. With light entering mainly through the façade, the space extends inward and functions become strongly specialised. The many cave complexes of the Deccan show Buddhism’s ability to transform natural landscapes into monastic architecture. More importantly, they reveal that a monastery is not a single building but a system of complementary spaces for dwelling, studying, meditating, receiving visitors, and venerating. This distinction between vihāra and caitya became a key reference for later East Asian transformations, where these functions had to be translated into a timber architecture of separate residential, Buddha-hall, and pagoda buildings.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_2 >}}" alt="Caitya and vihāra: two complementary functions" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_2 alt="Caitya and vihāra: two complementary functions" >}}
 
 ### 3. The transmission of Buddhism to China {#iii-3}
 
@@ -24,9 +20,7 @@ The transmission of Buddhism to China carried texts, images, and relics much mor
 
 This architectural translation is especially visible in China’s great Buddhist cave sanctuaries. At the Yungang Grottoes (雲岡石窟), near Datong in Shanxi, complexes created mainly in the fifth and sixth centuries show how models from Central and South Asia were reformulated in a monumental Chinese language. At the Longmen Grottoes (龍門石窟), south of Luoyang, excavation begun under the Northern Wei and pursued on an exceptional scale under the Tang turned the cliffs into a hierarchy of sanctuaries, niches, and images. Farther west, the Mogao Caves (莫高窟) at Dunhuang, begun in the fourth century and developed for almost a millennium, testify to the Silk Road’s role in exchanges linking India, Central Asia, and China. These three ensembles are not merely collections of sculpture: they show Buddhism adapting space, circulation, imagery, and patronage to different Chinese settings.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_3 >}}" alt="The transmission of Buddhism to China" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_3 alt="The transmission of Buddhism to China" >}}
 
 ### 4. The encounter with Chinese architecture {#iii-4}
 
@@ -34,9 +28,7 @@ When Buddhist relics reached China, they entered a highly developed architectura
 
 The Songyue Pagoda (嵩岳寺塔) in Henan marks another stage in this appropriation. Built in 523 under the Northern Wei, it is among the earliest major brick pagodas surviving in China. Its polygonal plan, strongly vertical elevation, and repeated tiers show how the reliquary function of the stupa could be translated into masonry without simply copying either the Indian mound or a timber tower. Songyue is therefore a crucial link between the formal memory of the stupa and the growing autonomy of the Chinese pagoda.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_4 >}}" alt="The encounter with Chinese architecture" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_4 alt="The encounter with Chinese architecture" >}}
 
 ### 5. From Indian stupa to Chinese pagoda {#iii-5}
 
@@ -44,9 +36,7 @@ The Chinese pagoda transforms the horizontal, volumetric logic of the Indian stu
 
 Famen Temple (法門寺) at Fufeng in Shaanxi shows that this formal transformation remained inseparable from relic worship. The crypt discovered beneath the pagoda preserved an exceptional group of reliquaries and offerings connected with a relic venerated as a finger bone of the Buddha and with Tang court patronage. Famen demonstrates that the Chinese pagoda was not merely an emblematic tower: its axis, foundation, and hidden chambers could form a true architecture of enshrinement in which relic, precious offering, and political authority were brought together.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_5 >}}" alt="From Indian stupa to Chinese pagoda" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_5 alt="From Indian stupa to Chinese pagoda" >}}
 
 ### 6. The hall-stupa: relics, images, and circulation {#iii-6}
 
@@ -54,9 +44,7 @@ In monumental timber form, the East Asian pagoda could operate as a true hall-st
 
 The transfer of functions into independent halls is also documented by two major buildings on Mount Wutai in Shanxi. The Great Buddha Hall of Nanchan Temple (南禪寺), dated 782, and the East Main Hall of Foguang Temple (佛光寺), dated 857, are among the most valuable surviving witnesses to Tang Buddhist timber construction. They are not pagodas; that is precisely why they matter here. They show images, assemblies, and ritual being accommodated in large specialised horizontal buildings. Together with the timber pagoda of Fogongsi, these survivals allow a direct comparison between two poles of Chinese Buddhist architecture: the vertical reliquary tower and the timber-framed worship hall.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_6 >}}" alt="The hall-stupa: relics, images, and circulation" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_6 alt="The hall-stupa: relics, images, and circulation" >}}
 
 ### 7. From timber to brick: the changing Chinese pagoda {#iii-7}
 
@@ -64,8 +52,6 @@ The move from timber to brick profoundly changed the Chinese pagoda. In the nort
 
 Chinese masonry subsequently produced very different solutions. At Chang’an, the Small Wild Goose Pagoda (小雁塔), raised in the early eighth century, has a more slender brick silhouette than the Great Wild Goose Pagoda. At Kaifeng, the Iron Pagoda (鐵塔), built in 1049 under the Northern Song, uses glazed bricks whose decoration closely imitates elements of timber construction. At Quanzhou, the twin pagodas of Kaiyuan Temple (開元寺), built in stone in the thirteenth century, take the mineral translation of the Buddhist tower still further. Together, the Great and Small Wild Goose Pagodas, Songyue, the Iron Pagoda, and Kaiyuan’s towers show that the “Chinese pagoda” never corresponds to a single material or silhouette: timber, brick, glazed brick, and stone repeatedly reinterpret the same reliquary inheritance.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_7 >}}" alt="From timber to brick: the changing Chinese pagoda" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_7 alt="From timber to brick: the changing Chinese pagoda" >}}
 :::
 :::

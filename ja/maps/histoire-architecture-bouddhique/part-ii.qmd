@@ -6,56 +6,42 @@
 
 stūpa はもともと塚、墳丘、葬送記念物を意味した。仏教はこの伝統を受け継ぎ、覚りを得た存在の舎利を納める礼拝中心へと再解釈した。基壇の上に半球状の覆鉢を置き、その上に平頭、刹柱、傘蓋を重ねる形式が整い、周囲には欄楯と右繞路が設けられた。ストゥーパは墓、舎利容器、記念碑、儀礼中心を兼ねる。必ずしも遺骨を含まない記念空間を表す caitya とは区別されるが、後には境界が曖昧になる。身体舎利には限りがあるため、経典・陀羅尼・縁起法頌なども法身舎利として納められた。これは建築史上きわめて重要である。ストゥーパは限られた身体遺物だけでなく仏法そのものを収めることができ、広い地域で繰り返し建立できるようになった。
 
-::: {.content-hidden unless-meta="illustrations.part_ii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_1 >}}" alt="ストゥーパとは何か" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_ii.section_1 alt="ストゥーパとは何か" >}}
 
 ### 2. 仏陀在世中のストゥーパ {#ii-2}
 
 仏教伝承は一部のストゥーパを仏陀在世中にまでさかのぼらせる。商人トラプシャとバッリカが仏陀から髪や爪を授かり、故郷で奉安したという説話が代表的である。後代には、仏陀が畳んだ袈裟の上に伏せた鉢と杖を置いて塔の形を示したとも語られた。史実というより後世の教理的再構成であろうが、定型的ストゥーパを仏陀自身の権威に結びつける意図がうかがえる。初期の囲いは動物から記念物を守る実用的設備だったが、次第に聖域と俗域を分ける儀礼的境界となった。涅槃後には鉢、袈裟、杖などの遺品も記憶の媒体となる。生前には身体の一部と護符性が、死後には身体舎利と遺品を中心とする制度化された崇敬が重視されたのである。
 
-::: {.content-hidden unless-meta="illustrations.part_ii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_2 >}}" alt="仏陀在世中のストゥーパ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_ii.section_2 alt="仏陀在世中のストゥーパ" >}}
 
 ### 3. 涅槃と舎利分配 {#ii-3}
 
 クシナガラでの涅槃と火葬は本格的な舎利崇拝の起点となった。複数の国が舎利を求めると、婆羅門ドローナが八分し、それぞれの共同体がストゥーパを建立したと伝えられる。分配に用いた容器を祀る塔と、遅れて到着したモーリヤ族が火葬灰を集めて建てた塔を加え、「十塔」の伝承が成立した。この物語は舎利が最初から政治的・領域的価値を持ったことを示す。舎利を所有することは仏陀の現前を自国に固定し、巡礼と功徳行を引き寄せることにつながった。同時にルンビニー、ブッダガヤー、サールナート、クシナガラのような生涯の重要地点も聖地化した。物質的舎利と出来事の記憶という二つの聖性が結びつき、ストゥーパ・物語・巡礼を統合する仏教の聖地地理が形成された。
 
-::: {.content-hidden unless-meta="illustrations.part_ii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_3 >}}" alt="涅槃と舎利分配" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_ii.section_3 alt="涅槃と舎利分配" >}}
 
 ### 4. 誰がどこにストゥーパを建てたか {#ii-4}
 
 最初期のストゥーパは僧院運営と完全には一致していなかった。涅槃伝承では舎利の処置と塔建立を在家が担い、僧侶は修行と教化を続けるべきだとされる。ストゥーパを四辻のような目立つ場所に建てるという伝承も、この公開性を示している。塔は在家の礼拝中心であり、僧院は僧伽の居住と戒律実践の場所だった。王、商人、都市共同体は建立と装飾に大きく関与した。人像としての仏像が一般化する前、ストゥーパは不可視の仏陀を可視化する強力な対象の一つだった。礼拝者は礼拝し、周囲を巡り、花や幡、灯明を供えた。後代の仏教建築は、この公開的な塔の信仰と僧院共同体の空間を徐々に一つの境内へ統合していく歴史でもある。
 
-::: {.content-hidden unless-meta="illustrations.part_ii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_4 >}}" alt="誰がどこにストゥーパを建てたか" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_ii.section_4 alt="誰がどこにストゥーパを建てたか" >}}
 
 ### 5. サーンチーとバールフット {#ii-5}
 
 サーンチーとバールフットの大ストゥーパは、舎利容器がどのように物語建築へ変わったかを示す。内部の舎利は見えないため、欄楯や門に仏陀の生涯や前世譚が刻まれた。ジャータカは塔を単なる墓ではなく無数の生を通じた修行の集大成として読ませる。サーンチー大塔はアショーカ期の核を持ち、その後拡張され、四方のトーラナに豊かな説話が彫刻された。欄楯は聖域を区画しながら右繞の動線をつくる。バールフットでも銘文、説話、守護像、象徴が塔への接近を教育的・礼拝的体験へ変えた。仏教建築は単なる構造ではなく、歩行・画像・物語・記憶を一体化する仕組みであることがここに明確に表れている。
 
-::: {.content-hidden unless-meta="illustrations.part_ii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_5 >}}" alt="サーンチーとバールフット" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_ii.section_5 alt="サーンチーとバールフット" >}}
 
 ### 6. 右繞と宇宙論 {#ii-6}
 
 右繞はストゥーパを儀礼空間の中心にする。礼拝者は塔を右側に保ち時計回りに巡る。この pradakṣiṇā は仏教以前から存在し、聖なる人物や対象への敬意を表した。初期経典には生きている仏陀を数周して退出する場面もあり、涅槃後には同じ身振りが舎利塔に移された。身体移動そのものが礼拝の空間形式となったのである。ストゥーパは同時に宇宙論的に理解された。覆鉢は世界、平頭は須弥山、刹柱と傘蓋は天地を結ぶ宇宙軸と解釈できる。石窟チャイティヤは奥の塔を巡れるよう平面が設計された。後に仏像が主要礼拝対象となると、同じ巡回の論理は仏像や仏堂へ移行した。形態が変わっても身体によって聖なる中心をつくる原理は継続した。
 
-::: {.content-hidden unless-meta="illustrations.part_ii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_6 >}}" alt="右繞と宇宙論" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_ii.section_6 alt="右繞と宇宙論" >}}
 
 ### 7. 仏陀の塔から高僧の塔へ {#ii-7}
 
 舎利塔の原理は仏陀だけに限定されなかった。高弟や著名な高僧にも死後、舎利を納める記念塔が建てられた。中国・韓国では高僧の舎利を個別の塔に奉安する慣習が発展する。韓国では伝統的に 浮屠、より明確には 僧塔と呼ばれる。新羅末の禅宗発展と深く結びつき、師から弟子への法脈を物質化する役割を持った。初期の重要例は八角形の精緻な石造建築で、小さな石殿のように見える。高麗期には逆さ鉢や石鐘に近い簡潔な形式も増えた。仏陀の塔から師僧の塔への展開は、仏教記念物が宗教の起源だけでなく各僧団の系譜、教え、権威を記憶する装置になったことを示している。
 
-::: {.content-hidden unless-meta="illustrations.part_ii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_7 >}}" alt="仏陀の塔から高僧の塔へ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_ii.section_7 alt="仏陀の塔から高僧の塔へ" >}}
 :::
 :::

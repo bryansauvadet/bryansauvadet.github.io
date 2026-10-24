@@ -6,17 +6,13 @@
 
 從印度窣堵波追蹤至東亞佛塔，可以同時看見佛教建築的共通性與差異。印度以半球形舍利容器為核心，信眾繞塔而行。佛教傳入中國時，舍利能移動，建築技術卻不能完整移植，因此窣堵波功能在多層木構傳統中被重新翻譯為垂直佛塔。之後中國廣泛發展磚塔，韓國以花崗岩形成石塔，日本長期保存木塔，越南則使用磚石塔作為舍利、紀念與墓塔。這不是印度原型向周邊地區的單線複製，而是舍利、垂直性、地標與葬禮功能在各地材料與工法中被重新組合的結果。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_1 >}}" alt="從窣堵波到佛塔" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_1 alt="從窣堵波到佛塔" >}}
 
 ### 2. 從舍利到佛像 {#viii-2}
 
 佛教寺院史也可理解為神聖中心不斷移動的歷史。早期印度以佛陀舍利與生涯聖地為核心，窣堵波成為主要禮拜對象。當佛塔進入僧院後，僧團與在家崇拜結合。東亞大型木塔起初可集中舍利、佛像與繞行，但佛像愈來愈多、信眾規模擴大後，寬廣的水平佛殿更為有效。韓國以小石塔與大佛殿、日本以東大寺大佛殿、越南以多層祭壇主殿，各自表現這種重心轉移。舍利與佛像不是互相排斥，而是共同存在，只是不同時代與地域賦予它們不同的空間中心性。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_2 >}}" alt="從舍利到佛像" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_2 alt="從舍利到佛像" >}}
 
 ### 3. 材料塑造地域傳統 {#viii-3}
 
@@ -30,40 +26,30 @@
 | 日本 | 木材、木塔 |
 | 越南 | 木構佛殿、磚與石塔 |
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_3 >}}" alt="材料塑造地域傳統" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_3 alt="材料塑造地域傳統" >}}
 
 ### 4. 比較寺院平面 {#viii-4}
 
 把印度、中國、韓國、日本、越南的寺院平面放在一起比較，可以看出並不是一種模式直線傳播，而是對相同需求提出不同答案。印度毘訶羅把僧房放在共同空間周圍，支提堂則以繞塔動線為核心。中國發展出接近宮殿的強軸線與門、院、塔、佛殿層級。韓國接受這套體系後，在山地谷地與斜坡中大幅柔化。日本既有法隆寺般不對稱配置，也有奈良、禪寺的強軸線。越南則發展多殿堂、多院落的組合與 nội công ngoại quốc（內工外國）等形式。同樣的門、塔、佛殿、僧房與庭院，可以在不同地域被組裝成完全不同的空間結構。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_4 >}}" alt="比較寺院平面" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_4 alt="比較寺院平面" >}}
 
 ### 5. 建築與權力 {#viii-5}
 
 佛教建築很少完全脫離政治權力。阿育王是最早把舍利與佛塔擴散提升到帝國尺度的代表君主。中國帝王贊助寺院，並將宮殿空間語彙轉化為佛教建築。韓國三國、大新羅與高麗王權也把寺院、塔、佛像與護國、功德及政治正統性連結。奈良時代日本的國分寺制度與東大寺把國家和佛教的關係推到極致。越南 Lý、Trần 王朝大力保護佛教，後來 Nguyễn 時代的 Huế 與 Thiên Mụ 也被納入政治景觀。然而權力也可能壓制佛教、迫使寺院離開城市。大型寺院既是救度空間，也是經濟、社會與領土制度。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_5 >}}" alt="建築與權力" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_5 alt="建築與權力" >}}
 
 ### 6. 建築與景觀 {#viii-6}
 
 早期印度僧院常位於可進行托鉢的城市周邊園林。中國同時發展都市軸線寺院與山寺。韓國尤其形成沿山谷、溪流、橋樑與森林逐步進入的山寺。日本在比叡山、高野山與紀伊山地把山本身轉成教理空間，平等院則用池與庭園可視化淨土。越南也以 Chùa Một Cột 的蓮池、Thiên Mụ 的河景、Yên Tử 的山岳巡禮構成寺院意義。景觀不是背景，而會決定方向、動線、視線，甚至宗教教義的空間呈現。佛教建築有時把幾何秩序投射到自然，有時則主動融入已被視為神聖的自然環境。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_6 >}}" alt="建築與景觀" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_6 alt="建築與景觀" >}}
 
 ### 7. 使佛陀現前的五種建築方式 {#viii-7}
 
 綜觀全程，佛教建築更像一組使佛陀現前的策略，而不是單一風格。第一是舍利：佛塔保存身體痕跡並建立繞行中心。第二是佛像：讓不可見的神聖轉為可見形象，並促進大型佛殿發展。第三是經典與陀羅尼等法身舍利。第四是建築本身，塔、殿堂與寺院可以空間化須彌山、淨土或曼荼羅。第五是景觀，當山、河、洞窟或庭園成為佛教聖地的一部分。印度、中國、韓國、日本、越南以不同組合運用這些手段。因此不存在唯一的「佛教建築」，卻存在共同問題：如何把教義、記憶與儀式轉化成可居、可見、可行走的神聖空間。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_7 >}}" alt="使佛陀現前的五種建築方式" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_7 alt="使佛陀現前的五種建築方式" >}}
 :::
 :::

@@ -10,17 +10,13 @@
 
 À l’origine, le monastère et le stoupa répondent à deux logiques différentes : le premier sert à la résidence, à la discipline et à l’enseignement du saṃgha (僧伽), tandis que le second organise la dévotion des laïcs autour des reliques. Leur rapprochement se produit progressivement, notamment à partir de l’époque d’Aśoka (阿育王). La tradition attribue à ce souverain l’ouverture de plusieurs stoupas anciens et la redistribution des reliques du Bouddha dans un très grand nombre de monuments. Le chiffre de « 84 000 stoupas » est conventionnel, mais il traduit l’idée d’une politique de diffusion massive. Une telle entreprise nécessite une administration, des lieux de garde et des communautés capables d’entretenir durablement les reliquaires. Le saṃgha (僧伽) devient naturellement l’institution la mieux placée pour cette gestion. Dans certains cas, un stoupa préexistant est intégré à un établissement monastique ; dans d’autres, un monastère se développe autour d’un lieu saint ou d’un monument déjà vénéré. Le résultat spatial est similaire : résidence des moines et centre de dévotion finissent par partager la même enceinte. Cette fusion est fondamentale. Le monastère ne représente plus seulement l’ascèse et l’enseignement ; il devient aussi un lieu de pèlerinage, d’offrandes et de cérémonies. Inversement, le stoupa cesse d’être totalement extérieur à la vie monastique. L’architecture bouddhique commence alors à organiser dans un même ensemble deux formes de présence : celle, vivante, de la communauté religieuse et celle, mémorielle ou reliquaire, du Bouddha et des saints.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_1 >}}" alt="L’intégration du stoupa au monastère indien" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_1 alt="L’intégration du stoupa au monastère indien" >}}
 
 ### 2. Caitya et vihāra : deux fonctions complémentaires {#iii-2}
 
 Les monastères rupestres de l’Inde occidentale montrent avec une grande clarté la distinction entre espace cultuel et espace résidentiel. Le vihāra est conçu pour la communauté monastique. Des cellules individuelles ou doubles s’ouvrent autour d’une salle commune où peuvent avoir lieu réunions, enseignement ou méditation. Le caitya, au contraire, est organisé autour d’un stoupa et destiné à la dévotion collective. Dans les grottes, son plan est généralement longitudinal : une nef mène vers le monument placé au fond, tandis qu’une colonnade crée un déambulatoire permettant la circumambulation. Cette architecture est directement déterminée par le rite. L’espace n’est pas seulement destiné à contenir des fidèles ; il guide leur déplacement, oriente le regard et impose un rapport précis au stoupa. Les contraintes de la roche renforcent la lisibilité de cette organisation. Puisque la lumière entre essentiellement par la façade, la salle s’allonge en profondeur et les fonctions se spécialisent. Les centaines de complexes rupestres du Deccan témoignent de la capacité du bouddhisme à transformer un paysage naturel en véritable architecture monastique. Surtout, ils montrent que le monastère n’est pas un bâtiment unique. Il est un système composé d’espaces complémentaires : habiter, étudier, méditer, recevoir, vénérer. Cette distinction entre vihāra et caitya fournit une clé pour comprendre les transformations ultérieures en Asie Orientale. Lorsque le bouddhisme arrivera en Chine, ces fonctions devront être traduites dans une architecture de bois très différente, où la résidence, la salle du Bouddha et la pagode seront distribuées sous forme de bâtiments séparés.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_2 >}}" alt="Caitya et vihāra : deux fonctions complémentaires" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_2 alt="Caitya et vihāra : deux fonctions complémentaires" >}}
 
 ### 3. La transmission du bouddhisme vers la Chine {#iii-3}
 
@@ -28,9 +24,7 @@ La diffusion du bouddhisme vers la Chine fait circuler beaucoup plus facilement 
 
 Cette traduction architecturale est particulièrement visible dans les grands sanctuaires rupestres chinois. Aux grottes de Yungang (雲岡石窟), près de Datong dans le Shanxi, les ensembles réalisés principalement aux Ve et VIe siècles montrent comment des références venues d’Asie centrale et méridionale sont reformulées dans un langage monumental chinois. À Longmen (龍門石窟), au sud de Luoyang, le creusement commencé sous les Wei du Nord et poursuivi avec une intensité exceptionnelle sous les Tang transforme la falaise en succession de sanctuaires, de niches et d’images hiérarchisées. Plus à l’ouest, les grottes de Mogao (莫高窟) à Dunhuang, commencées au IVe siècle et développées pendant près d’un millénaire, témoignent du rôle de la Route de la Soie dans les échanges entre Inde, Asie centrale et Chine. Ces trois ensembles ne sont pas seulement des collections de sculptures : ils montrent comment le bouddhisme adapte espace, circulation, image et patronage à des contextes chinois différents.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_3 >}}" alt="La transmission du bouddhisme vers la Chine" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_3 alt="La transmission du bouddhisme vers la Chine" >}}
 
 ### 4. La rencontre avec l’architecture chinoise {#iii-4}
 
@@ -38,9 +32,7 @@ Lorsque les reliques bouddhiques arrivent en Chine, elles rencontrent une tradit
 
 La pagode de Songyue (嵩岳寺塔), dans le Henan, permet d’observer une autre étape de cette appropriation. Édifiée en 523 sous les Wei du Nord, elle compte parmi les plus anciennes grandes pagodes de brique conservées en Chine. Son plan polygonal, son élévation très verticale et la répétition de ses niveaux montrent que la fonction reliquaire du stoupa peut être traduite dans une architecture maçonnée qui ne copie ni le tertre indien ni une tour de bois. Songyue est ainsi un jalon essentiel entre la mémoire formelle du stoupa et l’autonomie croissante de la pagode chinoise.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_4 >}}" alt="La rencontre avec l’architecture chinoise" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_4 alt="La rencontre avec l’architecture chinoise" >}}
 
 ### 5. Du stoupa indien à la pagode chinoise {#iii-5}
 
@@ -48,9 +40,7 @@ La pagode chinoise transforme la logique horizontale et volumétrique du stoupa 
 
 Le monastère de Famen (法門寺), à Fufeng dans le Shaanxi, rappelle que cette transformation formelle reste inséparable du culte des reliques. La crypte découverte sous la pagode a conservé un ensemble exceptionnel de reliquaires et d’offrandes liés à une relique vénérée comme un os du doigt du Bouddha et au patronage de la cour des Tang. Famen montre concrètement que la pagode chinoise n’est pas seulement une tour emblématique : son axe, sa fondation et ses chambres cachées peuvent organiser une véritable architecture de l’enchâssement, où la relique, les dons précieux et l’autorité politique sont réunis.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_5 >}}" alt="Du stoupa indien à la pagode chinoise" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_5 alt="Du stoupa indien à la pagode chinoise" >}}
 
 ### 6. Le pavillon-stoupa : reliques, images et circulation dans un même édifice {#iii-6}
 
@@ -58,9 +48,7 @@ Dans ses formes monumentales de bois, la pagode est-asiatique peut fonctionner c
 
 Le déplacement des fonctions vers des pavillons indépendants est également documenté par deux édifices majeurs du mont Wutai, dans le Shanxi. Le grand pavillon du Bouddha du Nanchan-si (南禪寺), daté de 782, et le grand pavillon oriental du Foguang-si (佛光寺), daté de 857, comptent parmi les témoins les plus précieux de la charpente bouddhique des Tang. Ce ne sont pas des pagodes : précisément, leur importance montre que l’image, l’assemblée et le rite peuvent désormais être accueillis dans de vastes bâtiments horizontaux spécialisés. Avec la pagode de bois du Fogongsi, ces survivances permettent de comparer directement deux pôles de l’architecture chinoise : la tour reliquaire verticale et le pavillon cultuel charpenté.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_6 >}}" alt="Le pavillon-stoupa : reliques, images et circulation dans un même édifice" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_6 alt="Le pavillon-stoupa : reliques, images et circulation dans un même édifice" >}}
 
 ### 7. Du bois à la brique : la pagode chinoise change de fonction {#iii-7}
 
@@ -68,8 +56,6 @@ Le passage du bois à la brique modifie profondément la pagode chinoise. Dans l
 
 La maçonnerie chinoise produit ensuite plusieurs réponses très différentes. À Chang’an, la Petite Pagode de l’Oie sauvage (小雁塔), élevée au début du VIIIe siècle, offre une silhouette de brique plus élancée que la Grande Pagode de l’Oie sauvage. À Kaifeng, la Pagode de Fer (鐵塔), construite en 1049 sous les Song du Nord, utilise des briques vernissées dont le décor imite jusque dans le détail certains éléments de la construction en bois. À Quanzhou, les deux pagodes du Kaiyuan-si (開元寺), élevées en pierre au XIIIe siècle, poussent encore plus loin la traduction minérale de la tour bouddhique. Ensemble, la Grande et la Petite Pagode de l’Oie sauvage, Songyue, la Pagode de Fer et les tours de Kaiyuan montrent que la « pagode chinoise » ne correspond jamais à un matériau ou à une silhouette uniques : bois, brique, brique vernissée et pierre réinterprètent successivement le même héritage reliquaire.
 
-::: {.content-hidden unless-meta="illustrations.part_iii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_7 >}}" alt="Du bois à la brique : la pagode chinoise change de fonction" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iii.section_7 alt="Du bois à la brique : la pagode chinoise change de fonction" >}}
 :::
 :::

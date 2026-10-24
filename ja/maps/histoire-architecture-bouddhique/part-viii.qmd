@@ -6,17 +6,13 @@
 
 インド・ストゥーパから東アジア塔への変化を追うと、仏教建築の共通性と差異が同時に理解できる。インドでは半球形の舎利容器を礼拝者が巡る。中国へ仏教が伝わる際、舎利は移動したが建築技術はそのまま移動せず、多層木造の伝統の中でストゥーパ機能が垂直塔へ翻訳された。その後、中国は磚塔を広く発達させ、韓国は花崗岩石塔、日本は木塔、ベトナムは煉瓦・石造塔を展開した。これはインド原型の単純コピーではない。舎利奉安、垂直性、景観標識、墓塔機能が各地域の素材と技術に応じて再解釈された結果である。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_1 >}}" alt="ストゥーパから塔へ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_1 alt="ストゥーパから塔へ" >}}
 
 ### 2. 舎利から仏像へ {#viii-2}
 
 仏教寺院史は聖なる中心が移動した歴史でもある。初期インドでは仏陀の舎利と生涯聖地が現前の核心で、ストゥーパが礼拝中心だった。ストゥーパが僧院に入ると僧伽と在家礼拝が同一空間で結びついた。東アジアの大型木塔は当初、舎利・仏像・巡礼を一棟に収めたが、仏像の増加と礼拝者の拡大により広い水平殿堂が効率的になった。韓国では小石塔と大仏殿、日本では東大寺大仏殿、ベトナムでは多重祭壇を持つ主殿がそれぞれこの変化を示す。舎利と仏像は排他的ではないが、空間的中心性は時代と地域によって変化した。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_2 >}}" alt="舎利から仏像へ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_2 alt="舎利から仏像へ" >}}
 
 ### 3. 素材が形づくる地域伝統 {#viii-3}
 
@@ -30,40 +26,30 @@
 | 日本 | 木材・木塔 |
 | ベトナム | 木造殿堂・煉瓦／石塔 |
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_3 >}}" alt="素材が形づくる地域伝統" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_3 alt="素材が形づくる地域伝統" >}}
 
 ### 4. 伽藍配置を比較する {#viii-4}
 
 五地域の伽藍平面を比較すると、一つの型が直線的に広がったのではなく、同じ機能に対する複数の答えが見える。インドのヴィハーラは僧房を共同空間周囲に配し、チャイティヤはストゥーパ右繞を中心とする。中国は宮殿に近い軸線と門・中庭・塔・仏殿の序列を発達させた。韓国はこれを受けつつ山地の谷と斜面に合わせ大きく柔軟化した。日本は法隆寺のような非対称配置も示し、奈良や禅寺では強い軸線を用いる。ベトナムは複数殿堂と中庭を組み合わせ、nội công ngoại quốc（內工外國）のような配置を発達させた。同じ門、塔、仏殿、僧房、中庭が地域によって全く異なる方法で組み合わされる。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_4 >}}" alt="伽藍配置を比較する" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_4 alt="伽藍配置を比較する" >}}
 
 ### 5. 建築と権力 {#viii-5}
 
 仏教建築は政治権力と無関係ではなかった。アショーカは舎利とストゥーパを帝国規模の仏教普及と結びつけた最初の代表的君主である。中国皇帝は寺院を保護し、宮殿的空間語彙を仏教に適用した。韓国でも三国、大新羅、高麗の王権は国家鎮護、功徳、政治的正統性を寺院・塔・仏像と結びつけた。奈良時代日本の国分寺制度と東大寺は国家と仏教の結合を極端に示す。ベトナムでは Lý・Trần 王朝が仏教を強く保護し、後の Nguyễn 王朝でも Huế と Thiên Mụ が政治景観に組み込まれた。しかし権力は仏教を支援するだけでなく抑圧し、都市外へ追いやることもあった。大寺院は救済空間であると同時に、経済・社会・領域制度でもあった。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_5 >}}" alt="建築と権力" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_5 alt="建築と権力" >}}
 
 ### 6. 建築と景観 {#viii-6}
 
 初期インド僧院は托鉢可能な都市周辺の園林・森林に置かれることが多かった。中国は都市軸線型寺院と山寺の両方を発達させた。韓国では谷、水、橋、森を通って進む山寺が特に重要になる。日本は比叡山、高野山、紀伊山地で山そのものを教理空間化し、平等院では池と庭園が浄土を可視化した。ベトナムでも Chùa Một Cột の池、Thiên Mụ の川、Yên Tử の山地が寺院の意味を構成する。景観は背景ではなく、方向、動線、視界、時には教義そのものをつくる。仏教建築はある場所では幾何学的秩序を自然へ投影し、別の場所ではすでに聖なる自然の中へ自らを組み込む。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_6 >}}" alt="建築と景観" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_6 alt="建築と景観" >}}
 
 ### 7. 仏の現前を記念碑化する五つの方法 {#viii-7}
 
 全体を総合すると、仏教建築は一つの様式ではなく、仏の現前をつくる複数の戦略として理解できる。第一は舎利で、ストゥーパが身体の痕跡を保存し右繞の中心をつくる。第二は仏像で、不可視の舎利に代わる可視の人格を示し大仏殿の発達を促した。第三は経典・陀羅尼などの法身舎利である。第四は建築そのもので、塔・仏殿・寺院が須弥山、浄土、曼荼羅を空間化する。第五は山、川、洞窟、庭園のような景観である。インドは舎利と聖地、中国は塔と軸線、韓国は木造仏殿・石塔・山寺、日本は木塔・庭園・山岳、ベトナムは奥深い殿堂・塔・水・習合信仰を異なる形で組み合わせた。一つの仏教建築は存在しないが、教義・記憶・儀礼を空間化するという共通の問いは存在する。
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_7 >}}" alt="仏の現前を記念碑化する五つの方法" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_7 alt="仏の現前を記念碑化する五つの方法" >}}
 :::
 :::

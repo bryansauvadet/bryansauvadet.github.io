@@ -6,32 +6,24 @@
 
 At the beginnings of Buddhism, monks did not live in permanent monasteries. Renunciation of home, possessions, and material attachments was instead a fundamental principle of religious life. The climate of northern India allowed a relatively mobile existence: practitioners lived on alms, wore garments made from discarded cloth, stayed under trees or in caves, and relied on the simplest medicines. The Buddha and his first disciples therefore travelled constantly, stopping temporarily in forests, parks, and natural shelters. The caves of Gṛdhrakūṭa near Rājagṛha evoke this first relationship to space, before a clear separation existed between religious architecture and landscape. As the number of disciples grew, collective practice required places for teaching, discipline, and extended residence, especially during the rainy season. Kings and lay donors began to offer land, gardens, and buildings. The monastery was thus born from a productive tension: Buddhism valued material detachment, yet recognised that a stable framework made practice, transmission, and the cohesion of the saṃgha (僧伽) more sustainable. Monastic architecture was therefore not an original doctrinal given. It emerged gradually as an infrastructure for making durable a community that had initially defined itself through mobility, voluntary poverty, and the absence of a fixed home.
 
-::: {.content-hidden unless-meta="illustrations.part_i.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_1 >}}" alt="Buddhism before monasteries" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_i.section_1 alt="Buddhism before monasteries" >}}
 
 ### 2. Names of the monastery and their meanings {#i-2}
 
 The vocabulary used for monasteries reveals their changing functions. In India, ārāma originally meant a “garden” or “park”: early communities often settled in wooded areas donated by wealthy laypeople, close enough to towns for contact but quiet enough for practice. Saṃghārāma combines saṃgha (僧伽), the monastic community, with ārāma, literally producing the idea of a “garden of the community”; in East Asia the term was transcribed as karam (伽藍). Vihāra places greater emphasis on residence and gradually came to describe monks’ cells organised around a shared hall. Caitya refers more directly to a commemorative or cultic space, often associated with the stupa. These functional distinctions became crucial once residence and worship were combined in a single complex. In China, the terminology was reinterpreted. The word si (寺), originally denoting an imperial administrative office, became a standard term for a Buddhist monastery, while siyuan (寺院) emphasised an organised enclosure. In Korea, the everyday term chŏl (寺) became dominant, although karam (伽藍) survived in scholarly and architectural usage. There was therefore never one universal and immutable “monastery.” As Buddhism entered new cultural environments, the words themselves registered changes in function, status, and architectural form.
 
-::: {.content-hidden unless-meta="illustrations.part_i.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_2 >}}" alt="Names of the monastery and their meanings" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_i.section_2 alt="Names of the monastery and their meanings" >}}
 
 ### 3. The first major monasteries of India {#i-3}
 
 The first major monasteries developed near the political and urban centres of northern India. At Rājagṛha, capital of Magadha, the Bamboo Grove was one of the earliest domains donated to the Buddha. King Bimbisāra is said to have had numerous buildings erected there, turning a garden into a genuine communal residence. Nearby, Gṛdhrakūṭa remained a place of retreat and teaching, showing that built monastery and sacred landscape continued to function together. At Śrāvastī, Jetavana marked a further stage. The wealthy merchant Anāthapiṇḍika acquired Prince Jeta’s park and equipped it with cells, teaching halls, places for meditation, baths, refectories, and facilities for the sick. Such varied functions show that the monastery had already become far more than a dormitory. At Vaiśālī, the Great Wood and Ambapālī’s mango grove likewise testify to the decisive role of lay donations. These establishments stabilised teaching, discipline, and everyday life at a larger scale while creating meeting places between monastics and devotees. Two functions became increasingly clear: practice, requiring withdrawal and discipline, and transmission, requiring teaching and hospitality. Indian monastic architecture formed precisely around this double demand. Its buildings met practical needs, but they also materialised a major institutional change: the transformation of an itinerant movement into a durable religious community.
 
-::: {.content-hidden unless-meta="illustrations.part_i.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_3 >}}" alt="The first major monasteries of India" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_i.section_3 alt="The first major monasteries of India" >}}
 
 ### 4. Monasteries, towns, and alms {#i-4}
 
 The early Buddhist monastery was not necessarily isolated in the mountains. In India, it was often located on the outskirts of a town or village, balancing seclusion and accessibility. Vinaya (律) prescriptions recommend a place “neither too near nor too far”: quiet enough for meditation but close enough for the daily alms round. Almsgiving was not merely a means of subsistence. It structured a reciprocal relationship between monastics and laypeople. Devotees provided food and material support; monks transmitted the Dharma (法), performed rites, and offered a model of conduct. This interdependence helps explain why early monasteries had limited cooking facilities. Food was received rather than produced. Only later, when communities grew and donations became regular, did institutional kitchens become important. Greater food autonomy allowed monasteries to move farther from settlements. Large complexes such as Nālandā make clear that individual alms collection could no longer sustain communities on such a scale. This transformation is essential for understanding later history. The mountain monastery so characteristic of several East Asian traditions was not Buddhism’s original architectural model. It resulted from changing economic, social, and doctrinal conditions and from regional reinterpretations after Buddhism entered colder climates and societies in which alms begging was understood differently.
 
-::: {.content-hidden unless-meta="illustrations.part_i.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_i.section_4 >}}" alt="Monasteries, towns, and alms" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_i.section_4 alt="Monasteries, towns, and alms" >}}
 :::
 :::

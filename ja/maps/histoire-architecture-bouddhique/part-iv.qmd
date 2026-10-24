@@ -6,96 +6,72 @@
 
 初期東アジア寺院では巨大木塔が舎利・仏像・礼拝空間を一体化し中心を占めることがあった。しかし仏教の拡大とともに、この集中は実用的でなくなった。舎利は有限だが仏像は増やすことができ、釈迦・阿弥陀・毘盧遮那・弥勒・観音など多様な信仰対象が重要になった。独立した仏殿が増え規模も拡大する。塔は消えず、境内の聖性を示す記念物へ役割を変える。韓国では石塔の小型化がこの変化をさらに強めた。大きな仏殿の前に比較的小さな石塔を置き、二塔を左右に配して中心軸を開くこともできた。百済寺院址の配置は塔中心から金堂中心への移行をよく示す。仏の現前は閉ざされた舎利だけでなく、可視の仏像と大集団を受け入れる殿堂によって経験されるようになった。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_1 >}}" alt="塔中心から仏殿中心へ" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_1 alt="塔中心から仏殿中心へ" >}}
 
 ### 2. 塔巡り と 巡堂 {#iv-2}
 
 韓国の 塔巡り は塔の周囲を巡る行為、巡堂 は堂や仏像を巡る行為を指す。どちらも聖なる対象を右側に置く pradakṣiṇā の系譜にある。大型木塔では舎利と仏像が同じ建物内に共存したため、塔を巡ることと仏像に出会うことが一体化していた。仏像が塔から独立して仏殿の中心になると、同じ巡回儀礼は堂へ移った。初期の仏殿では仏像を中央に置き周囲を巡れる場合もあったが、礼拝者が増えると像は奥へ移され、前方空間が広くなる。内部右繞は難しくなり、外部で灯籠を伴う巡行などが重要になった。礼拝対象が変化しても、身体の運動によって聖なる中心をつくる原理は継承された。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_2 >}}" alt="塔巡り と 巡堂" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_2 alt="塔巡り と 巡堂" >}}
 
 ### 3. 中国・韓国・日本の素材選択 {#iv-3}
 
 東アジア仏教建築の大きな差は素材環境から生まれた。北中国の一部では大材が不足し磚材が豊富だったため磚塔が広く発展した。韓国では仏殿を建てる木材に加え花崗岩が豊富で、木造殿堂と石塔の組合せが特徴となった。日本は良質な木材と高度な木工技術を背景に巨大木塔を長く維持した。素材は表面だけでなく機能を変える。木塔は内部階を利用できるが、磚塔・石塔は量塊性が強く内部空間が狭い。韓国花崗岩塔は高さを抑えるかわりに繊細な比例と石彫を発展させ、日本木塔は古代中国木塔に近い垂直性を保った。地域差は「民族様式」だけではなく、宗教機能、自然資源、技術、構造条件の交点で生まれた。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_3 >}}" alt="中国・韓国・日本の素材選択" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_3 alt="中国・韓国・日本の素材選択" >}}
 
 ### 4. 韓国石塔の成立 {#iv-4}
 
 韓国石塔は木造建築を石へ翻訳する過程で生まれた。弥勒寺 の石塔は柱、梁、軒といった木造要素を花崗岩で再現する代表例である。定林寺 五重石塔では比例と部材処理によって石に木造のような軽さを与えた。新羅の 芬皇寺 では切石を煉瓦のように積み、中国磚塔を別の方法で模倣した。韓国石塔は一つのモデルから直線的に生まれたのではなく、大陸の木塔、中国磚塔、半島の花崗岩という三つの条件が交差して成立した。その後、大工は木造細部の文字通りの模倣から離れ、基壇・塔身・屋蓋石・相輪からなる石材独自の文法を発展させた。結果として石塔はインドや中国のコピーではなく韓国の素材環境に合わせて再構成された独自の建築型となった。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_4 >}}" alt="韓国石塔の成立" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_4 alt="韓国石塔の成立" >}}
 
 ### 5. 大新羅（大新羅）の古典的石塔 {#iv-5}
 
 大新羅期、韓国石塔は高い標準化と均衡に達した。仏国寺 の 釈迦塔 は最も代表的で、複雑な装飾を抑え、基壇・三層塔身・屋蓋石・相輪を明快な比例でまとめている。各層は徐々に小さくなり、重い花崗岩でありながら上昇感を生む。この三層石塔形式は半島各地に広まり、多くの寺院で反復・変形された。技術的に効率的で権威ある型だったからである。規模が過大でないため仏殿前に置いても建物を隠さず、双塔を左右に配して中心軸を空けることもできた。ただし標準化は完全な均一化を意味しない。基壇の高さ、屋蓋石の勾配、全体比率は地域と時代によって異なる。釈迦塔 は石の重さを比例と節制で克服した古典的原理を代表する。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_5 >}}" alt="大新羅（大新羅）の古典的石塔" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_5 alt="大新羅（大新羅）の古典的石塔" >}}
 
 ### 6. 仏教宇宙の縮図としての塔 {#iv-6}
 
 石塔が小型化しても象徴体系まで単純になったわけではない。塔身の扉表現は内部舎利室を示し、金剛力士が聖なる中心を守る。基壇には天・龍・夜叉など八部衆が刻まれ、十二支神が王陵の守護体系と似た形で配置されることもある。四面には方位仏が置かれ、中心には毘盧遮那が暗示される。小さな石塔全体が仏教宇宙の縮図になるのである。失われた大型木塔では複数階の内部に仏像を配置できたが、石塔ではその図像体系を外壁と基壇へ圧縮したと考えられる。彫刻は装飾ではなく、舎利中心がどのような守護神と宇宙秩序に包まれているかを示す構造的要素だった。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_6 >}}" alt="仏教宇宙の縮図としての塔" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_6 alt="仏教宇宙の縮図としての塔" >}}
 
 ### 7. 韓国石塔の多様化 {#iv-7}
 
 三層石塔が広く普及した一方、韓国の塔は多様な形式を保った。仏国寺 の 多宝塔 は欄干と複雑な立体構成を組み合わせた例外的作品で、広く模倣されなかった点がむしろ実験性を示す。北方系の多層塔や八角形伝統も続き、高麗期には 月精寺 八角九層石塔のように層数を増やして上昇感を強める塔が現れた。地域によっては本物の磚塔が残り、別の地域では石を磚のように加工した。高麗は大新羅の型を継承しつつ、中国やモンゴル世界からの刺激を取り入れて再解釈した。朝鮮期には仏教への資源が減少し、簡潔化する場合が多かった。韓国石塔史は単一標準の反復ではなく、規範と変形、地域性、外来要素の交錯の歴史である。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_7 >}}" alt="韓国石塔の多様化" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_7 alt="韓国石塔の多様化" >}}
 
 ### 8. 浮屠 と 僧塔 {#iv-8}
 
 高僧の舎利を納める 浮屠または 僧塔は韓国仏教建築の独立した系統を成す。新羅末の禅宗発展により師の法脈と記憶が一門のアイデンティティをつくる核心となり、僧塔はその系譜を物質化した。重要な初期例は八角平面と精緻な建築部材を持ち、小型の石造殿堂のように見える。高麗期には形式が多様化し、逆さ鉢や石鐘に近い簡潔な型も現れた。これは必ずしも技術低下ではなく、異なる参照体系とストゥーパ原型への関心を示す可能性がある。僧塔は多くの場合、中心仏殿から離れた区域に集中し、複数世代の高僧を記憶する墓域をつくる。寺院は仏菩薩の空間であると同時に自らの制度史と法脈を保存する場所となった。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_8"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_8 >}}" alt="浮屠 と 僧塔" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_8 alt="浮屠 と 僧塔" >}}
 
 ### 9. 縮小する塔と拡大する仏殿 {#iv-9}
 
 東アジア仏教が多様化すると、一つの巨大塔に全機能を集める方法は非効率になった。各宗派・信仰が別々の仏菩薩を祀り、儀礼と説法には広い平面が必要だった。巨大な垂直木造を維持するより、複数の水平殿堂を建てるほうが合理的でもある。韓国では花崗岩石塔がこの変化をさらに明確にした。巨大石塔は重く高価だが、木造仏殿なら比較的軽く大空間をつくれる。塔は境内軸に残りつつ小型化し、仏殿が集団礼拝の中心となった。塔周辺の守護図像も門や境界へ移動する。舎利中心の現前から可視の仏像中心の現前へ、空間の重心が動いたのである。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_9"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_9 >}}" alt="縮小する塔と拡大する仏殿" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_9 alt="縮小する塔と拡大する仏殿" >}}
 
 ### 10. 聖なる宮殿としての伽藍 {#iv-10}
 
 中国と韓国の伽藍は次第に宮殿建築に近い空間原理を採用した。これは単なる装飾模倣ではない。中国思想では理想君主は聖人であり、仏陀を最高の聖者として捉えるなら宮殿の空間言語はその権威表現に適していた。仏殿の「殿」という名称も宮殿と共有される。複数の門と中庭を通り奥または北へ進むほど序列が高くなり、参詣者は王に近づくように主仏殿へ向かう。しかし仏教はこの形式を変換した。金剛力士、四天王、各種守護神が門を守り、中庭と門は政治儀礼ではなく精神的進行の段階となる。伽藍は宮殿の構造文法を借りながら、その中心に世俗君主ではなく仏と法を置いた「聖なる宮殿」となった。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_10"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_10 >}}" alt="聖なる宮殿としての伽藍" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_10 alt="聖なる宮殿としての伽藍" >}}
 
 ### 11. 韓国寺院の門 {#iv-11}
 
 韓国寺院の進入路では複数の門が空間の性格を段階的に変える。一柱門（一柱門）は最初の境界で、正面から一本の列に見える柱が散漫な俗世から一つの仏道へ入る象徴と解釈される。寺院によっては金剛力士を祀る 金剛門 が続く。天王門 には本来四方を守る四天王を一棟に集め、インド宇宙論を東アジアの南北軸に適応させる。最後に 解脱門 や 不二門 が中心聖域への入口を示す。これは防御施設ではなく教理的な動線である。参詣者は門を通過するたびに俗世界から離れ、主仏殿へ近づく。塔周辺に集中していた守護機能が境内全体へ拡張されたともいえる。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_11"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_11 >}}" alt="韓国寺院の門" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_11 alt="韓国寺院の門" >}}
 
 ### 12. 韓国の山寺 {#iv-12}
 
 東アジアの軸線型伽藍は韓国の山地に入ると大きく変形した。朝鮮期の仏教抑制と都市寺院の衰退によって多くの共同体が山と谷に残った。地形のため門と殿堂を完全な直線上に置くことは難しく、参道は渓流を渡り斜面を回りながら中心へ近づく。しかし中心域に入ると前庭、奥の主仏殿、左右の寮舎という比較的規則的な構成が現れることが多い。山は軸線原理を消すのではなく柔軟に変形する。水も重要で、生活資源であると同時に聖域へ入る場面を演出し、橋は追加の境界となる。韓国山寺は抽象的幾何が景観を支配するのではなく、谷・森・水・斜面と交渉しながら聖なる秩序を実現する。
 
-::: {.content-hidden unless-meta="illustrations.part_iv.section_12"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iv.section_12 >}}" alt="韓国の山寺" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_iv.section_12 alt="韓国の山寺" >}}
 :::
 :::

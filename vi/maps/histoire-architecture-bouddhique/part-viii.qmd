@@ -6,17 +6,13 @@
 
 Theo dõi từ stūpa Ấn Độ đến tháp Đông Á cho phép thấy đồng thời tính thống nhất và đa dạng của kiến trúc Phật giáo. Ở Ấn Độ, stūpa là một bảo vật tương đối đặc, chứa xá-lợi trong khối bán cầu và được tín đồ đi nhiễu. Khi Phật giáo tới Trung Quốc, xá-lợi đi dễ hơn kỹ thuật xây dựng, nên chức năng ấy phải được dịch sang truyền thống nhà gỗ nhiều tầng. Stūpa trở thành một tháp đứng; nguồn gốc Ấn Độ còn đọc được ở đỉnh và chức năng xá-lợi, trong khi thân kiến trúc đã là Trung Hoa. Từ đó các hướng đi phân hóa: Trung Quốc phát triển tháp gạch; Triều Tiên chuyển thành tháp granit nhỏ gọn; Nhật Bản bảo tồn nhiều tháp gỗ; Việt Nam dùng tháp gạch hay xây để làm nơi xá-lợi, tưởng niệm và tang lễ. Đây không phải quá trình sao chép từ một nguyên mẫu mà là nhiều cách dịch cùng chức năng bằng vật liệu khác nhau.
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_1"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_1 >}}" alt="Từ stūpa đến tháp" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_1 alt="Từ stūpa đến tháp" >}}
 
 ### 2. Từ xá-lợi đến hình tượng {#viii-2}
 
 Lịch sử tu viện Phật giáo cũng có thể đọc như sự dịch chuyển của trung tâm thiêng. Ở Ấn Độ sớm, sự hiện diện vật chất của Đức Phật gắn với xá-lợi và những nơi trong đời Ngài, nên stūpa trở thành trọng tâm. Khi stūpa được đưa vào tu viện, tăng đoàn và tín ngưỡng cư sĩ gặp nhau. Ở Đông Á, tháp gỗ lớn ban đầu có thể tập trung xá-lợi, tượng và lưu chuyển nghi lễ. Nhưng tượng dễ nhân lên hơn xá-lợi, còn điện ngang chứa được đông người hơn tháp; trọng tâm do đó chuyển dần về điện Phật. Ở Triều Tiên, xu hướng này thấy rõ trong tháp đá nhỏ trước điện lớn; ở Nhật Bản, Đông Đại tự 東大寺 đẩy logic ấy tới quy mô khổng lồ với Vairocana; ở Việt Nam, điện chính có thể chứa một hệ thống bàn thờ dày đặc. Tháp không biến mất, nhưng xá-lợi và hình tượng không còn giữ cùng một vị trí trong tổ chức không gian.
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_2"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_2 >}}" alt="Từ xá-lợi đến hình tượng" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_2 alt="Từ xá-lợi đến hình tượng" >}}
 
 ### 3. Vật liệu định hình truyền thống khu vực {#viii-3}
 
@@ -30,40 +26,30 @@ Khác biệt giữa các nền kiến trúc Phật giáo không thể giải th�
 | Nhật Bản | gỗ, kể cả tháp lớn |
 | Việt Nam | điện gỗ, tháp gạch và đá |
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_3"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_3 >}}" alt="Vật liệu định hình truyền thống khu vực" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_3 alt="Vật liệu định hình truyền thống khu vực" >}}
 
 ### 4. So sánh mặt bằng tu viện {#viii-4}
 
 Đặt mặt bằng tu viện của Ấn Độ, Trung Quốc, Triều Tiên, Nhật Bản và Việt Nam cạnh nhau cho thấy không phải một mô hình truyền thẳng từ trung tâm ra ngoại vi, mà là nhiều lời giải cho cùng câu hỏi: kết hợp cư trú, thờ phụng, giảng dạy và lưu chuyển như thế nào? Vihāra Ấn Độ tổ chức tăng phòng quanh không gian chung; caitya tổ chức lối đi quanh stūpa. Trung Quốc phát triển một hệ trục thứ bậc chịu ảnh hưởng kiến trúc cung điện với cổng, sân, tháp và điện nối tiếp. Triều Tiên tiếp nhận nhưng điều chỉnh mạnh theo địa hình núi. Nhật Bản cổ đôi khi dùng bố cục bất đối xứng như Pháp Long tự 法隆寺, rồi trở lại trục mạnh trong Nại Lương 奈良 hay Thiền viện. Việt Nam phát triển chuỗi nhiều điện và sân với các bố cục như nội công ngoại quốc 內工外國. Cùng một nhóm yếu tố — cổng, tháp, điện, nhà tăng, sân — có thể được lắp ghép theo những logic rất khác.
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_4"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_4 >}}" alt="So sánh mặt bằng tu viện" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_4 alt="So sánh mặt bằng tu viện" >}}
 
 ### 5. Kiến trúc và quyền lực {#viii-5}
 
 Kiến trúc Phật giáo hiếm khi tách khỏi quyền lực chính trị. Aśoka là mô hình sớm của một quân vương dùng stūpa và xá-lợi để truyền Dharma trên quy mô đế chế. Ở Trung Quốc, hoàng đế bảo trợ chùa và ngôn ngữ cung điện được chuyển vào không gian Phật giáo. Tại bán đảo Triều Tiên, Tam Quốc, Đại Tân La 大新羅 và Cao Ly 高麗 cũng dùng chùa, tháp và hình tượng cho hộ quốc, công đức và tính chính thống. Nhật Bản thời Nại Lương 奈良 đẩy sự liên kết này rất xa qua hệ Quốc Phân tự 国分寺 và Đông Đại tự 東大寺. Ở Việt Nam, các triều Lý và Trần bảo trợ mạnh Phật giáo, còn Thiên Mụ về sau tham gia trực tiếp vào cảnh quan quyền lực của Nguyễn ở Huế. Quan hệ này không ổn định: nhà nước có thể xây dựng nhưng cũng có thể hạn chế, phá hoặc đẩy tu viện ra núi. Đại tự viện vì thế vừa là không gian cứu độ vừa là một thiết chế kinh tế, xã hội và lãnh thổ.
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_5"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_5 >}}" alt="Kiến trúc và quyền lực" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_5 alt="Kiến trúc và quyền lực" >}}
 
 ### 6. Kiến trúc và cảnh quan {#viii-6}
 
 Cảnh quan giữ những vai trò rất khác tùy vùng và thời kỳ. Tu viện Ấn Độ sớm thường nằm trong vườn hay rừng gần đô thị để vẫn có thể khất thực. Trung Quốc phát triển cả quần thể đô thị theo trục và truyền thống chùa núi. Ở Triều Tiên, thung lũng, suối, cầu và sườn núi biến mô hình trục thành một lộ trình dần dần. Nhật Bản khiến núi trở thành không gian giáo lý tại Tỉ Duệ 比叡, Cao Dã 高野 và Kỷ Y 紀伊; tại Bình Đẳng viện 平等院, hồ và vườn dựng hình ảnh Tịnh độ. Việt Nam cũng gắn chặt với nước và địa hình qua Chùa Một Cột, sông Hương tại Thiên Mụ và đường núi Yên Tử. Cảnh quan không phải phông nền mà tác động tới hướng, chuyển động, tầm nhìn và đôi khi cả nội dung giáo lý. Công trình và môi trường cùng tạo thành một hệ nghi lễ.
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_6"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_6 >}}" alt="Kiến trúc và cảnh quan" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_6 alt="Kiến trúc và cảnh quan" >}}
 
 ### 7. Năm cách làm hiện diện Đức Phật bằng kiến trúc {#viii-7}
 
 Nhìn toàn bộ lịch sử, kiến trúc Phật giáo hiện ra không phải như tập hợp phong cách mà như nhiều chiến lược làm Đức Phật hiện diện. Thứ nhất là xá-lợi: stūpa bảo tồn dấu vết thân thể và tạo trung tâm để nhiễu. Thứ hai là hình tượng: tượng làm hiện hữu thứ mà xá-lợi giấu kín và thúc đẩy điện lớn. Thứ ba là văn bản, có thể được đặt như pháp thân xá-lợi. Thứ tư là chính kiến trúc: tháp, điện hay tu viện có thể biểu thị Sumeru, Tịnh độ hay mandala. Thứ năm là cảnh quan, khi núi, sông, hang hoặc vườn trở thành một phần của địa lý Phật giáo. Ấn Độ nhấn mạnh xá-lợi và thánh tích; Trung Quốc phát triển tháp và quần thể trục; Triều Tiên kết hợp điện gỗ, tháp đá và chùa núi; Nhật Bản duy trì tháp gỗ, vườn và núi; Việt Nam kết hợp điện sâu, tháp, nước và hệ tín ngưỡng nhiều tầng. Không có một kiến trúc Phật giáo duy nhất, nhưng có một câu hỏi chung: làm thế nào biến giáo lý, ký ức và nghi lễ thành không gian có thể ở, nhìn thấy và thực hành?
 
-::: {.content-hidden unless-meta="illustrations.part_viii.section_7"}
-<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_viii.section_7 >}}" alt="Năm cách làm hiện diện Đức Phật bằng kiến trúc" loading="lazy" decoding="async"></figure>
-:::
+{{< hab-image illustrations.part_viii.section_7 alt="Năm cách làm hiện diện Đức Phật bằng kiến trúc" >}}
 :::
 :::
