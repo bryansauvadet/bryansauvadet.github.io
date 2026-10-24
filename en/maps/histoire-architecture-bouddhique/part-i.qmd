@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">India · 4 subsections</div><h2>India — The birth of the Buddhist monastery</h2></div></header>
+<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">India · 4 subsections</div><h2 id="india-monastery">India — The birth of the Buddhist monastery</h2></div></header>
 
 ### 1. Buddhism before monasteries {#i-1}
 

@@ -1,6 +1,6 @@
-::: {.hab-chapter #synthesis}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">比較綜合 · 7節</div><h2>綜合 — 五種傳統，一種佛教建築？</h2></div></header>
+<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">比較綜合 · 7節</div><h2 id="synthesis">綜合 — 五種傳統，一種佛教建築？</h2></div></header>
 
 ### 1. 從窣堵波到佛塔 {#viii-1}
 

@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">インド · 4節</div><h2>インド — 仏教僧院の誕生</h2></div></header>
+<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">インド · 4節</div><h2 id="india-monastery">インド — 仏教僧院の誕生</h2></div></header>
 
 ### 1. 僧院以前の仏教 {#i-1}
 

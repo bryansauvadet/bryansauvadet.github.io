@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">Ấn Độ · 4 mục</div><h2>Ấn Độ — Sự ra đời của tu viện Phật giáo</h2></div></header>
+<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">Ấn Độ · 4 mục</div><h2 id="india-monastery">Ấn Độ — Sự ra đời của tu viện Phật giáo</h2></div></header>
 
 ### 1. Phật giáo trước khi có tu viện {#i-1}
 

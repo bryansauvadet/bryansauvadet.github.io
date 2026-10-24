@@ -1,9 +1,9 @@
 
-::: {.hab-chapter #japon}
+::: {.hab-chapter}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>VI</span>
-<div><div class="hab-kicker">Japon · 12 sous-parties</div><h2>Japon — Formation d’une architecture bouddhique japonaise</h2></div>
+<div><div class="hab-kicker">Japon · 12 sous-parties</div><h2 id="japon">Japon — Formation d’une architecture bouddhique japonaise</h2></div>
 </header>
 
 ### 1. L’arrivée de l’architecture bouddhique au Japon {#vi-1}

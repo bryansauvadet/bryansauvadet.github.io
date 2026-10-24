@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-china-pagoda}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">인도 → 중국 · 7개 소주제</div><h2>인도에서 중국으로 — 스투파의 동아시아적 재구성</h2></div></header>
+<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">인도 → 중국 · 7개 소주제</div><h2 id="india-china-pagoda">인도에서 중국으로 — 스투파의 동아시아적 재구성</h2></div></header>
 
 ### 1. 승원 공간 속으로 들어온 스투파 {#iii-1}
 

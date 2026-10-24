@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-china-pagoda}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">インド → 中国 · 7節</div><h2>インドから中国へ — ストゥーパが伽藍に入り塔となる</h2></div></header>
+<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">インド → 中国 · 7節</div><h2 id="india-china-pagoda">インドから中国へ — ストゥーパが伽藍に入り塔となる</h2></div></header>
 
 ### 1. インド僧院へのストゥーパ統合 {#iii-1}
 

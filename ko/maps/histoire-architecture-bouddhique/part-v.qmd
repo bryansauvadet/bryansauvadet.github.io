@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-hall}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">중국·한국 · 8개 소주제</div><h2>중국과 한국 — 불전 공간과 목조건축의 구조</h2></div></header>
+<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">중국·한국 · 8개 소주제</div><h2 id="china-korea-hall">중국과 한국 — 불전 공간과 목조건축의 구조</h2></div></header>
 
 ### 1. 전각 배치와 사찰 내부의 위계 {#v-1}
 

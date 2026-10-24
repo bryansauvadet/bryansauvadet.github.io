@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-china-pagoda}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">Ấn Độ → Trung Quốc · 7 mục</div><h2>Từ Ấn Độ đến Trung Quốc — Stūpa đi vào tu viện và trở thành tháp</h2></div></header>
+<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">Ấn Độ → Trung Quốc · 7 mục</div><h2 id="india-china-pagoda">Từ Ấn Độ đến Trung Quốc — Stūpa đi vào tu viện và trở thành tháp</h2></div></header>
 
 ### 1. Stūpa được tích hợp vào tu viện Ấn Độ {#iii-1}
 

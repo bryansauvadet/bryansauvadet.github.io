@@ -1,9 +1,9 @@
 
-::: {.hab-chapter .hab-vietnam #vietnam}
+::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>VII</span>
-<div><div class="hab-kicker">Vietnam · 12 sous-parties</div><h2>Vietnam — Formation et transformations de l’architecture bouddhique vietnamienne</h2></div>
+<div><div class="hab-kicker">Vietnam · 12 sous-parties</div><h2 id="vietnam">Vietnam — Formation et transformations de l’architecture bouddhique vietnamienne</h2></div>
 </header>
 
 ### 1. Introduction du bouddhisme au Vietnam {#vii-1}

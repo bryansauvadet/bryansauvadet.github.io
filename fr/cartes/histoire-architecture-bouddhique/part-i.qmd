@@ -1,9 +1,9 @@
 
-::: {.hab-chapter #inde-monastere}
+::: {.hab-chapter}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>I</span>
-<div><div class="hab-kicker">Inde · 4 sous-parties</div><h2>Inde — Naissance du monastère bouddhique</h2></div>
+<div><div class="hab-kicker">Inde · 4 sous-parties</div><h2 id="inde-monastere">Inde — Naissance du monastère bouddhique</h2></div>
 </header>
 
 ### 1. Le bouddhisme avant l’existence des monastères {#i-1}

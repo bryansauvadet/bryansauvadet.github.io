@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">中国 → 韓国 · 12節</div><h2>中国と韓国 — 東アジア伽藍の変容</h2></div></header>
+<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">中国 → 韓国 · 12節</div><h2 id="china-korea-monastery">中国と韓国 — 東アジア伽藍の変容</h2></div></header>
 
 ### 1. 塔中心から仏殿中心へ {#iv-1}
 

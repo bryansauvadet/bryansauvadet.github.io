@@ -1,9 +1,9 @@
 
-::: {.hab-chapter #inde-chine-pagode}
+::: {.hab-chapter}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>III</span>
-<div><div class="hab-kicker">Inde → Chine · 7 sous-parties</div><h2>De l’Inde à la Chine — Le stoupa entre dans le monastère et devient pagode</h2></div>
+<div><div class="hab-kicker">Inde → Chine · 7 sous-parties</div><h2 id="inde-chine-pagode">De l’Inde à la Chine — Le stoupa entre dans le monastère et devient pagode</h2></div>
 </header>
 
 ### 1. L’intégration du stoupa au monastère indien {#iii-1}

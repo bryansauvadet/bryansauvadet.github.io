@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-stupa}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">インド · 7節</div><h2>インド — ストゥーパの成立と発展</h2></div></header>
+<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">インド · 7節</div><h2 id="india-stupa">インド — ストゥーパの成立と発展</h2></div></header>
 
 ### 1. ストゥーパとは何か {#ii-1}
 

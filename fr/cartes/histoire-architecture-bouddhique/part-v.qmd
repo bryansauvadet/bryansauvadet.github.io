@@ -1,9 +1,9 @@
 
-::: {.hab-chapter #chine-coree-pavillon}
+::: {.hab-chapter}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>V</span>
-<div><div class="hab-kicker">Chine & Corée · 8 sous-parties</div><h2>Chine et Corée — Le pavillon bouddhique et l’architecture en bois</h2></div>
+<div><div class="hab-kicker">Chine & Corée · 8 sous-parties</div><h2 id="chine-coree-pavillon">Chine et Corée — Le pavillon bouddhique et l’architecture en bois</h2></div>
 </header>
 
 ### 1. Hiérarchie des bâtiments monastiques {#v-1}

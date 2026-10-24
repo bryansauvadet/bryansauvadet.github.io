@@ -67,6 +67,7 @@
 .hab-toc li a{font-size:13px;line-height:1.45;color:#5d554c;text-decoration:none}
 .hab-toc li a:hover{color:#8a633d;text-decoration:underline}
 .hab-chapter{scroll-margin-top:120px}
+.hab-chapter-head h2[id]{scroll-margin-top:120px}
 .hab-chapter .hab-shell{max-width:1040px}
 .hab-chapter h3{scroll-margin-top:120px;margin:68px 0 22px;font-size:31px;line-height:1.25;font-weight:500;letter-spacing:-.012em}
 .hab-chapter h3:first-of-type{margin-top:50px}

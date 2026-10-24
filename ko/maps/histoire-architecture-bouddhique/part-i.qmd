@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">인도 · 4개 소주제</div><h2>인도 — 이동 수행 공동체에서 정주 승원으로</h2></div></header>
+<header class="hab-chapter-head"><span>I</span><div><div class="hab-kicker">인도 · 4개 소주제</div><h2 id="india-monastery">인도 — 이동 수행 공동체에서 정주 승원으로</h2></div></header>
 
 ### 1. 이동 수행에서 정주 공동체로 {#i-1}
 

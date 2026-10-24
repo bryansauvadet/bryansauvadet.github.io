@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-china-pagoda}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">印度 → 中國 · 7節</div><h2>從印度到中國 — 窣堵波進入僧院並轉化為佛塔</h2></div></header>
+<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">印度 → 中國 · 7節</div><h2 id="india-china-pagoda">從印度到中國 — 窣堵波進入僧院並轉化為佛塔</h2></div></header>
 
 ### 1. 窣堵波進入印度僧院 {#iii-1}
 

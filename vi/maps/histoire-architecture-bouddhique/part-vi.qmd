@@ -1,6 +1,6 @@
-::: {.hab-chapter #japan}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">Nhật Bản · 12 mục</div><h2>Nhật Bản — Sự hình thành kiến trúc Phật giáo Nhật Bản</h2></div></header>
+<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">Nhật Bản · 12 mục</div><h2 id="japan">Nhật Bản — Sự hình thành kiến trúc Phật giáo Nhật Bản</h2></div></header>
 
 ### 1. Kiến trúc Phật giáo truyền vào Nhật Bản {#vi-1}
 

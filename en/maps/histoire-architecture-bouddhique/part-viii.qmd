@@ -1,6 +1,6 @@
-::: {.hab-chapter #synthesis}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">Comparative synthesis · 7 subsections</div><h2>Synthesis — Five traditions, one Buddhist architecture?</h2></div></header>
+<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">Comparative synthesis · 7 subsections</div><h2 id="synthesis">Synthesis — Five traditions, one Buddhist architecture?</h2></div></header>
 
 ### 1. From stupa to pagoda {#viii-1}
 

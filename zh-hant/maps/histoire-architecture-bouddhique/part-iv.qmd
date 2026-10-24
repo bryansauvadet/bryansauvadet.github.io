@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">中國 → 韓國 · 12節</div><h2>中國與韓國 — 東亞寺院的轉型</h2></div></header>
+<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">中國 → 韓國 · 12節</div><h2 id="china-korea-monastery">中國與韓國 — 東亞寺院的轉型</h2></div></header>
 
 ### 1. 從塔中心到佛殿中心 {#iv-1}
 

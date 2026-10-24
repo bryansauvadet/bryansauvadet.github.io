@@ -1,6 +1,6 @@
-::: {.hab-chapter .hab-vietnam #vietnam}
+::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">ベトナム · 12節</div><h2>ベトナム — ベトナム仏教建築の形成と変容</h2></div></header>
+<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">ベトナム · 12節</div><h2 id="vietnam">ベトナム — ベトナム仏教建築の形成と変容</h2></div></header>
 
 ### 1. ベトナムへの仏教伝来 {#vii-1}
 

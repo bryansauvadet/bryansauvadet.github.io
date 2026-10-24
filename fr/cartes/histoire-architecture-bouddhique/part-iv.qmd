@@ -1,9 +1,9 @@
 
-::: {.hab-chapter #chine-coree-monastere}
+::: {.hab-chapter}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>IV</span>
-<div><div class="hab-kicker">Chine → Corée · 12 sous-parties</div><h2>Chine et Corée — Transformation du monastère d’Asie Orientale</h2></div>
+<div><div class="hab-kicker">Chine → Corée · 12 sous-parties</div><h2 id="chine-coree-monastere">Chine et Corée — Transformation du monastère d’Asie Orientale</h2></div>
 </header>
 
 ### 1. Du pavillon-stoupa au monastère centré sur le pavillon du Bouddha {#iv-1}

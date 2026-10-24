@@ -1,9 +1,9 @@
 
-::: {.hab-chapter #inde-stoupa}
+::: {.hab-chapter}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>II</span>
-<div><div class="hab-kicker">Inde · 7 sous-parties</div><h2>Inde — Naissance et développement du stoupa</h2></div>
+<div><div class="hab-kicker">Inde · 7 sous-parties</div><h2 id="inde-stoupa">Inde — Naissance et développement du stoupa</h2></div>
 </header>
 
 ### 1. Qu’est-ce qu’un stoupa ? {#ii-1}

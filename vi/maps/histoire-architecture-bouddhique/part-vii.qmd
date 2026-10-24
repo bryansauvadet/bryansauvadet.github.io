@@ -1,6 +1,6 @@
-::: {.hab-chapter .hab-vietnam #vietnam}
+::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Việt Nam · 12 mục</div><h2>Việt Nam — Sự hình thành và biến đổi của kiến trúc Phật giáo Việt Nam</h2></div></header>
+<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Việt Nam · 12 mục</div><h2 id="vietnam">Việt Nam — Sự hình thành và biến đổi của kiến trúc Phật giáo Việt Nam</h2></div></header>
 
 ### 1. Phật giáo du nhập vào Việt Nam {#vii-1}
 

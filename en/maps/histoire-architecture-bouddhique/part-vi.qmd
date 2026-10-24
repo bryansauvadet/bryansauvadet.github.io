@@ -1,6 +1,6 @@
-::: {.hab-chapter #japan}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">Japan · 12 subsections</div><h2>Japan — Formation of a Japanese Buddhist architecture</h2></div></header>
+<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">Japan · 12 subsections</div><h2 id="japan">Japan — Formation of a Japanese Buddhist architecture</h2></div></header>
 
 ### 1. The arrival of Buddhist architecture in Japan {#vi-1}
 

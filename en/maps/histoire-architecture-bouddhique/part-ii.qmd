@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-stupa}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">India · 7 subsections</div><h2>India — The birth and development of the stupa</h2></div></header>
+<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">India · 7 subsections</div><h2 id="india-stupa">India — The birth and development of the stupa</h2></div></header>
 
 ### 1. What is a stupa? {#ii-1}
 

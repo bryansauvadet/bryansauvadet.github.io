@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-stupa}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">인도 · 7개 소주제</div><h2>인도 — 사리 신앙과 스투파 건축의 전개</h2></div></header>
+<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">인도 · 7개 소주제</div><h2 id="india-stupa">인도 — 사리 신앙과 스투파 건축의 전개</h2></div></header>
 
 ### 1. 스투파의 기원과 건축적 의미 {#ii-1}
 

@@ -1,6 +1,6 @@
-::: {.hab-chapter .hab-vietnam #vietnam}
+::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">越南 · 12節</div><h2>越南 — 越南佛教建築的形成與轉型</h2></div></header>
+<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">越南 · 12節</div><h2 id="vietnam">越南 — 越南佛教建築的形成與轉型</h2></div></header>
 
 ### 1. 佛教傳入越南 {#vii-1}
 

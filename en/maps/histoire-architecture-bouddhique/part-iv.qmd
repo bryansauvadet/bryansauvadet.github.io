@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">China → Korea · 12 subsections</div><h2>China and Korea — The transformation of the East Asian monastery</h2></div></header>
+<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">China → Korea · 12 subsections</div><h2 id="china-korea-monastery">China and Korea — The transformation of the East Asian monastery</h2></div></header>
 
 ### 1. From hall-stupa to Buddha-hall monastery {#iv-1}
 

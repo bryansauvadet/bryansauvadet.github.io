@@ -1,6 +1,6 @@
-::: {.hab-chapter #synthesis}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">비교 종합 · 7개 소주제</div><h2>종합 — 다섯 지역에서 다시 읽는 불교 건축</h2></div></header>
+<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">비교 종합 · 7개 소주제</div><h2 id="synthesis">종합 — 다섯 지역에서 다시 읽는 불교 건축</h2></div></header>
 
 ### 1. 스투파와 탑: 형태보다 기능의 이동 {#viii-1}
 

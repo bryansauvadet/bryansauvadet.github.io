@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-hall}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">中国・韓国 · 8節</div><h2>中国と韓国 — 仏殿と木造建築</h2></div></header>
+<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">中国・韓国 · 8節</div><h2 id="china-korea-hall">中国と韓国 — 仏殿と木造建築</h2></div></header>
 
 ### 1. 寺院建築の序列 {#v-1}
 

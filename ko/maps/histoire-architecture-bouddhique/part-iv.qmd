@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">중국 → 한국 · 12개 소주제</div><h2>중국과 한국 — 사찰 공간과 탑의 동아시아적 재편</h2></div></header>
+<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">중국 → 한국 · 12개 소주제</div><h2 id="china-korea-monastery">중국과 한국 — 사찰 공간과 탑의 동아시아적 재편</h2></div></header>
 
 ### 1. 탑 중심 가람에서 불전 중심 가람으로 {#iv-1}
 

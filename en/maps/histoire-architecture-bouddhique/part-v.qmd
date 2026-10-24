@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-hall}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">China & Korea · 8 subsections</div><h2>China and Korea — The Buddhist hall and timber architecture</h2></div></header>
+<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">China & Korea · 8 subsections</div><h2 id="china-korea-hall">China and Korea — The Buddhist hall and timber architecture</h2></div></header>
 
 ### 1. Hierarchy of monastic buildings {#v-1}
 

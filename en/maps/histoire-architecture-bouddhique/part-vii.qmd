@@ -1,6 +1,6 @@
-::: {.hab-chapter .hab-vietnam #vietnam}
+::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Vietnam · 12 subsections</div><h2>Vietnam — Formation and transformations of Vietnamese Buddhist architecture</h2></div></header>
+<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Vietnam · 12 subsections</div><h2 id="vietnam">Vietnam — Formation and transformations of Vietnamese Buddhist architecture</h2></div></header>
 
 ### 1. The introduction of Buddhism to Vietnam {#vii-1}
 

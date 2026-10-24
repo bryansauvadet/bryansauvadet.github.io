@@ -1,6 +1,6 @@
-::: {.hab-chapter #japan}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">일본 · 12개 소주제</div><h2>일본 — 불교 건축의 수용과 지역적 전개</h2></div></header>
+<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">일본 · 12개 소주제</div><h2 id="japan">일본 — 불교 건축의 수용과 지역적 전개</h2></div></header>
 
 ### 1. 일본의 불교 수용과 사찰 건축의 시작 {#vi-1}
 

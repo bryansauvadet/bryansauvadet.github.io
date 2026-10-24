@@ -1,6 +1,6 @@
-::: {.hab-chapter #synthesis}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">Tổng hợp so sánh · 7 mục</div><h2>Tổng hợp — Năm truyền thống, một kiến trúc Phật giáo?</h2></div></header>
+<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">Tổng hợp so sánh · 7 mục</div><h2 id="synthesis">Tổng hợp — Năm truyền thống, một kiến trúc Phật giáo?</h2></div></header>
 
 ### 1. Từ stūpa đến tháp {#viii-1}
 

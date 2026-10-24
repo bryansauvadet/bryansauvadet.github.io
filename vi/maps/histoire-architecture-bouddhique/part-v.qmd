@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-hall}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">Trung Quốc & Triều Tiên · 8 mục</div><h2>Trung Quốc và Triều Tiên — Điện Phật và kiến trúc gỗ</h2></div></header>
+<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">Trung Quốc & Triều Tiên · 8 mục</div><h2 id="china-korea-hall">Trung Quốc và Triều Tiên — Điện Phật và kiến trúc gỗ</h2></div></header>
 
 ### 1. Thứ bậc các công trình trong chùa {#v-1}
 

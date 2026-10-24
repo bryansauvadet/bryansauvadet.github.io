@@ -1,6 +1,6 @@
-::: {.hab-chapter #japan}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">日本 · 12節</div><h2>日本 — 日本佛教建築的形成</h2></div></header>
+<header class="hab-chapter-head"><span>VI</span><div><div class="hab-kicker">日本 · 12節</div><h2 id="japan">日本 — 日本佛教建築的形成</h2></div></header>
 
 ### 1. 佛教建築傳入日本 {#vi-1}
 

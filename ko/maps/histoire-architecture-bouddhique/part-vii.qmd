@@ -1,6 +1,6 @@
-::: {.hab-chapter .hab-vietnam #vietnam}
+::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">베트남 · 12개 소주제</div><h2>베트남 — 불교 건축의 수용과 토착적 재구성</h2></div></header>
+<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">베트남 · 12개 소주제</div><h2 id="vietnam">베트남 — 불교 건축의 수용과 토착적 재구성</h2></div></header>
 
 ### 1. 베트남으로 전해진 불교와 건축 문화 {#vii-1}
 

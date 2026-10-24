@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-china-pagoda}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">India → China · 7 subsections</div><h2>From India to China — The stupa enters the monastery and becomes a pagoda</h2></div></header>
+<header class="hab-chapter-head"><span>III</span><div><div class="hab-kicker">India → China · 7 subsections</div><h2 id="india-china-pagoda">From India to China — The stupa enters the monastery and becomes a pagoda</h2></div></header>
 
 ### 1. Integrating the stupa into the Indian monastery {#iii-1}
 

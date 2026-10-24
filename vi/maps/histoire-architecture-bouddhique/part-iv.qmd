@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-monastery}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">Trung Quốc → Triều Tiên · 12 mục</div><h2>Trung Quốc và Triều Tiên — Sự biến đổi của tu viện Phật giáo Đông Á</h2></div></header>
+<header class="hab-chapter-head"><span>IV</span><div><div class="hab-kicker">Trung Quốc → Triều Tiên · 12 mục</div><h2 id="china-korea-monastery">Trung Quốc và Triều Tiên — Sự biến đổi của tu viện Phật giáo Đông Á</h2></div></header>
 
 ### 1. Từ tháp trung tâm đến điện Phật trung tâm {#iv-1}
 

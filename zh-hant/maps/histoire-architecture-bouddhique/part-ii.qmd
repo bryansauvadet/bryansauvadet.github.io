@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-stupa}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">印度 · 7節</div><h2>印度 — 窣堵波的誕生與發展</h2></div></header>
+<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">印度 · 7節</div><h2 id="india-stupa">印度 — 窣堵波的誕生與發展</h2></div></header>
 
 ### 1. 什麼是窣堵波？ {#ii-1}
 

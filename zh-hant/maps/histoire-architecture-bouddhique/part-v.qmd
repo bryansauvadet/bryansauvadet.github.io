@@ -1,6 +1,6 @@
-::: {.hab-chapter #china-korea-hall}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">中國・韓國 · 8節</div><h2>中國與韓國 — 佛殿與木構建築</h2></div></header>
+<header class="hab-chapter-head"><span>V</span><div><div class="hab-kicker">中國・韓國 · 8節</div><h2 id="china-korea-hall">中國與韓國 — 佛殿與木構建築</h2></div></header>
 
 ### 1. 寺院建築的等級 {#v-1}
 

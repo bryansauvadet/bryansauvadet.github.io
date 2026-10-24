@@ -1,6 +1,6 @@
-::: {.hab-chapter #synthesis}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">比較総合 · 7節</div><h2>総合 — 五つの伝統、一つの仏教建築か</h2></div></header>
+<header class="hab-chapter-head"><span>VIII</span><div><div class="hab-kicker">比較総合 · 7節</div><h2 id="synthesis">総合 — 五つの伝統、一つの仏教建築か</h2></div></header>
 
 ### 1. ストゥーパから塔へ {#viii-1}
 

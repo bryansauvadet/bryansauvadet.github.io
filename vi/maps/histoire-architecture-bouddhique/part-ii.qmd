@@ -1,6 +1,6 @@
-::: {.hab-chapter #india-stupa}
+::: {.hab-chapter}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">Ấn Độ · 7 mục</div><h2>Ấn Độ — Sự hình thành và phát triển của stūpa</h2></div></header>
+<header class="hab-chapter-head"><span>II</span><div><div class="hab-kicker">Ấn Độ · 7 mục</div><h2 id="india-stupa">Ấn Độ — Sự hình thành và phát triển của stūpa</h2></div></header>
 
 ### 1. Stūpa là gì? {#ii-1}
 

@@ -1,9 +1,9 @@
 
-::: {.hab-chapter #synthese}
+::: {.hab-chapter}
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>VIII</span>
-<div><div class="hab-kicker">Synthèse comparative · 7 sous-parties</div><h2>Synthèse — Cinq traditions, une même architecture bouddhique ?</h2></div>
+<div><div class="hab-kicker">Synthèse comparative · 7 sous-parties</div><h2 id="synthese">Synthèse — Cinq traditions, une même architecture bouddhique ?</h2></div>
 </header>
 
 ### 1. Du stoupa à la pagode {#viii-1}
