@@ -50,7 +50,7 @@ format:
 
         <div class="hab-stats" aria-label="Structure du dossier">
           <div><strong>8</strong><span>grandes parties</span></div>
-          <div><strong>70</strong><span>sous-parties</span></div>
+          <div><strong>69</strong><span>sous-parties</span></div>
           <div><strong>5</strong><span>traditions régionales</span></div>
         </div>
       </div>
@@ -168,18 +168,18 @@ format:
         <div class="hab-toc-group hab-vietnam">
           <a class="hab-toc-part" href="#vietnam"><span>VII</span> Vietnam — Formation et transformations de l’architecture bouddhique</a>
           <ol>
-            <li><a href="#vii-1">Introduction du bouddhisme au Vietnam</a></li>
-            <li><a href="#vii-2">Luy Lâu <span class="hab-han" lang="vi">羸𨻻</span> et les premiers centres bouddhiques</a></li>
-            <li><a href="#vii-3">Les dynasties Lý <span class="hab-han" lang="vi">李朝</span> et Trần <span class="hab-han" lang="vi">陳朝</span></a></li>
-            <li><a href="#vii-4">La pagode au Pilier unique — Chùa Một Cột <span class="hab-han" lang="vi">一柱寺</span></a></li>
-            <li><a href="#vii-5">Les tours et stoupas vietnamiens</a></li>
-            <li><a href="#vii-6">Organisation du monastère vietnamien</a></li>
-            <li><a href="#vii-7">Le principe nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span></a></li>
-            <li><a href="#vii-8">Charpente et structure en bois</a></li>
-            <li><a href="#vii-9">La toiture vietnamienne</a></li>
-            <li><a href="#vii-10">Architecture et paysage</a></li>
-            <li><a href="#vii-11">Huế et la pagode Thiên Mụ <span class="hab-han" lang="vi">天姥寺</span></a></li>
-            <li><a href="#vii-12">Le Sud : Gia Định–Saigon et le delta du Mékong</a></li><li><a href="#vii-13">Syncrétisme religieux et pluralité des autels</a></li>
+            <li><a href="#vii-1">Trois géographies pour comprendre l’architecture bouddhique vietnamienne</a></li>
+            <li><a href="#vii-2">Luy Lâu et Chùa Dâu : des origines au palimpseste architectural</a></li>
+            <li><a href="#vii-3">Les Lý et Chùa Phật Tích : le monastère royal monumental</a></li>
+            <li><a href="#vii-4">Chùa Một Cột : le pavillon symbolique et l’architecture de l’eau</a></li>
+            <li><a href="#vii-5">Les Trần et Yên Tử : la montagne devient monastère</a></li>
+            <li><a href="#vii-6">Chùa Thầy : eau, ponts et reconstruction d’un site médiéval</a></li>
+            <li><a href="#vii-7">Les Lê restaurés et Chùa Bút Tháp : le grand monastère de plaine</a></li>
+            <li><a href="#vii-8">Chùa Hương : du monastère au territoire de pèlerinage</a></li>
+            <li><a href="#vii-9">Ce que les monastères du Nord révèlent : plans, bois, tours et paysages</a></li>
+            <li><a href="#vii-10">Le Centre du Vietnam : Huế et Chùa Thiên Mụ</a></li>
+            <li><a href="#vii-11">Le Sud : Gia Định–Saigon et le delta du Mékong</a></li>
+            <li><a href="#vii-12">Une architecture de l’accumulation : images, autels et mémoires</a></li>
           </ol>
         </div>
 
@@ -206,7 +206,7 @@ format:
           <h2 id="hab-sites-map-title" data-hab-map-copy="title">Carte interactive des sites bouddhiques</h2>
           <p data-hab-map-copy="intro">Explorez les monuments, monastères, sites archéologiques, grottes et paysages sacrés à travers l’Inde, la Chine, la Corée, le Japon et le Vietnam. Les monuments appartenant à une même enceinte sont regroupés sous un même point.</p>
         </div>
-        <div class="hab-map-count" id="buddhist-architecture-sites-count">51 sites</div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">55 sites</div>
       </div>
       <div class="hab-map-filters" aria-label="Filtres de la carte">
         <label><span data-hab-map-copy="search">Recherche</span><input id="hab-map-search" type="search" placeholder="Monument, ville, région…"></label>

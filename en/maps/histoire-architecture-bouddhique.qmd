@@ -50,7 +50,7 @@ format:
 
         <div class="hab-stats" aria-label="Dossier structure">
           <div><strong>8</strong><span>major parts</span></div>
-          <div><strong>70</strong><span>subsections</span></div>
+          <div><strong>69</strong><span>subsections</span></div>
           <div><strong>5</strong><span>regional traditions</span></div>
         </div>
       </div>
@@ -97,7 +97,7 @@ format:
           <li><a href="#vi-1">The arrival of Buddhist architecture in Japan</a></li><li><a href="#vi-2">Asuka <span class="hab-han" lang="ja">飛鳥</span> — The first monasteries</a></li><li><a href="#vi-3">Hōryū-ji <span class="hab-han" lang="ja">法隆寺</span> and early Buddhist architecture</a></li><li><a href="#vi-4">Nara <span class="hab-han" lang="ja">奈良</span> — Great state monasteries</a></li><li><a href="#vi-5">Tōdai-ji <span class="hab-han" lang="ja">東大寺</span> and the Daibutsuden <span class="hab-han" lang="ja">大仏殿</span></a></li><li><a href="#vi-6">From capital to mountain</a></li><li><a href="#vi-7">Esoteric architecture and mandala space</a></li><li><a href="#vi-8">Pure Land <span class="hab-han" lang="ja">浄土</span> and Byōdō-in <span class="hab-han" lang="ja">平等院</span></a></li><li><a href="#vi-9">Zen architecture <span class="hab-han" lang="ja">禅宗</span></a></li><li><a href="#vi-10">The Japanese hall and the garden</a></li><li><a href="#vi-11">The Japanese pagoda: three storeys, five storeys, and tahōtō <span class="hab-han" lang="ja">多宝塔</span></a></li><li><a href="#vi-12">Continuities and Japanese specificities</a></li>
         </ol></div>
         <div class="hab-toc-group hab-vietnam"><a class="hab-toc-part" href="#vietnam"><span>VII</span> Vietnam — Formation and transformations of Vietnamese Buddhist architecture</a><ol>
-          <li><a href="#vii-1">The introduction of Buddhism to Vietnam</a></li><li><a href="#vii-2">Luy Lâu <span class="hab-han" lang="vi">羸𨻻</span> and the earliest Buddhist centres</a></li><li><a href="#vii-3">The Lý <span class="hab-han" lang="vi">李朝</span> and Trần <span class="hab-han" lang="vi">陳朝</span> dynasties</a></li><li><a href="#vii-4">One Pillar Pagoda — Chùa Một Cột <span class="hab-han" lang="vi">一柱寺</span></a></li><li><a href="#vii-5">Vietnamese towers and stupas</a></li><li><a href="#vii-6">Organisation of the Vietnamese monastery</a></li><li><a href="#vii-7">The nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span> principle</a></li><li><a href="#vii-8">Timber frame and structure</a></li><li><a href="#vii-9">The Vietnamese roof</a></li><li><a href="#vii-10">Architecture and landscape</a></li><li><a href="#vii-11">Huế and Thiên Mụ Pagoda <span class="hab-han" lang="vi">天姥寺</span></a></li><li><a href="#vii-12">The South: Gia Định–Saigon and the Mekong Delta</a></li><li><a href="#vii-13">Religious syncretism and plurality of altars</a></li>
+          <li><a href="#vii-1">Three geographies for understanding Vietnamese Buddhist architecture</a></li><li><a href="#vii-2">Luy Lâu and Chùa Dâu: from origins to architectural palimpsest</a></li><li><a href="#vii-3">The Lý and Chùa Phật Tích: the monumental royal monastery</a></li><li><a href="#vii-4">Chùa Một Cột: symbolic pavilion and architecture of water</a></li><li><a href="#vii-5">The Trần and Yên Tử: the mountain becomes a monastery</a></li><li><a href="#vii-6">Chùa Thầy: water, bridges, and the rebuilding of a medieval site</a></li><li><a href="#vii-7">The Restored Lê and Chùa Bút Tháp: the great lowland monastery</a></li><li><a href="#vii-8">Chùa Hương: from monastery to pilgrimage territory</a></li><li><a href="#vii-9">What northern monasteries reveal: plans, timber, towers, and landscapes</a></li><li><a href="#vii-10">Central Vietnam: Huế and Chùa Thiên Mụ</a></li><li><a href="#vii-11">The South: Gia Định–Saigon and the Mekong Delta</a></li><li><a href="#vii-12">An architecture of accumulation: images, altars, and memories</a></li>
         </ol></div>
         <div class="hab-toc-group"><a class="hab-toc-part" href="#synthesis"><span>VIII</span> Synthesis — Five traditions, one Buddhist architecture?</a><ol>
           <li><a href="#viii-1">From stupa to pagoda</a></li><li><a href="#viii-2">From relic to image: the shifting centre of the monastery</a></li><li><a href="#viii-3">Materials shape regional traditions</a></li><li><a href="#viii-4">Comparing monastic plans</a></li><li><a href="#viii-5">Architecture and power</a></li><li><a href="#viii-6">Architecture and landscape</a></li><li><a href="#viii-7">Five ways of monumentalising the Buddha’s presence</a></li>
@@ -113,7 +113,7 @@ format:
           <h2 id="hab-sites-map-title" data-hab-map-copy="title">Interactive map of Buddhist sites</h2>
           <p data-hab-map-copy="intro">Explore monuments, monasteries, archaeological sites, caves, and sacred landscapes across India, China, Korea, Japan, and Vietnam. Monuments within the same precinct are grouped under a single point.</p>
         </div>
-        <div class="hab-map-count" id="buddhist-architecture-sites-count">51 sites</div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">55 sites</div>
       </div>
       <div class="hab-map-filters" aria-label="Map filters">
         <label><span data-hab-map-copy="search">Search</span><input id="hab-map-search" type="search" placeholder="Monument, city, region…"></label>

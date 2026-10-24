@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated": "2026-10-24",
-  "count": 51,
+  "generated": "2026-10-25",
+  "count": 55,
   "items": [
     {
       "id": "grdhrakuta",
@@ -816,25 +816,7 @@
         "Yen Tu",
         "Mount Yen Tu"
       ],
-      "anchor": "vii-3"
-    },
-    {
-      "id": "ngu-dai",
-      "country": "VN",
-      "type": "monastery",
-      "lat": 21.164083,
-      "lng": 106.482167,
-      "name": "Chùa Ngũ Đài",
-      "native": "Chùa Ngũ Đài · 五臺",
-      "place": "Chí Linh · Hải Phòng",
-      "related": [
-        "plan nội công ngoại quốc"
-      ],
-      "aliases": [
-        "Ngu Dai",
-        "Ngu Dai Son"
-      ],
-      "anchor": "vii-7"
+      "anchor": "vii-5"
     },
     {
       "id": "thien-mu",
@@ -854,7 +836,7 @@
         "Pagode de la Dame céleste",
         "Phuoc Duyen"
       ],
-      "anchor": "vii-11"
+      "anchor": "vii-10"
     },
     {
       "id": "giac-lam",
@@ -875,7 +857,7 @@
         "Giac Lam Temple",
         "Tổ đình Giác Lâm"
       ],
-      "anchor": "vii-12"
+      "anchor": "vii-11"
     },
     {
       "id": "giac-vien",
@@ -894,7 +876,7 @@
         "Giac Vien Pagoda",
         "Giác Viên Pagoda"
       ],
-      "anchor": "vii-12"
+      "anchor": "vii-11"
     },
     {
       "id": "khleang",
@@ -914,7 +896,7 @@
         "Kh'leang Pagoda",
         "Wat Kh'leang"
       ],
-      "anchor": "vii-12"
+      "anchor": "vii-11"
     },
     {
       "id": "mahatup",
@@ -936,7 +918,7 @@
         "Chua Doi",
         "Chùa Mã Tộc"
       ],
-      "anchor": "vii-12"
+      "anchor": "vii-11"
     },
     {
       "id": "ang-pagoda",
@@ -957,7 +939,115 @@
         "Chua Ang",
         "Wat Angkor Raig Borei"
       ],
-      "anchor": "vii-12"
+      "anchor": "vii-11"
+    },
+    {
+      "id": "dau-pagoda",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 21.03583,
+      "lng": 106.0421,
+      "name": "Chùa Dâu",
+      "native": "Chùa Dâu · 延應寺",
+      "place": "Bắc Ninh · région de Luy Lâu",
+      "related": [
+        "tháp Hòa Phong",
+        "Tứ Pháp 四法",
+        "plan nội công ngoại quốc"
+      ],
+      "aliases": [
+        "Dau Pagoda",
+        "Dâu Pagoda",
+        "Diên Ứng tự",
+        "Pháp Vân tự"
+      ],
+      "anchor": "vii-2"
+    },
+    {
+      "id": "phat-tich",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 21.09366,
+      "lng": 106.02626,
+      "name": "Chùa Phật Tích",
+      "native": "Chùa Phật Tích · Vạn Phúc tự",
+      "place": "Bắc Ninh · núi Phật Tích",
+      "related": [
+        "fondations de tour Lý",
+        "Bouddha de pierre",
+        "terrasses monumentales"
+      ],
+      "aliases": [
+        "Phat Tich Pagoda",
+        "Phật Tích Temple",
+        "Van Phuc Tu"
+      ],
+      "anchor": "vii-3"
+    },
+    {
+      "id": "chua-thay",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 21.0228,
+      "lng": 105.6455,
+      "name": "Chùa Thầy",
+      "native": "Chùa Thầy · Thiên Phúc tự",
+      "place": "Sài Sơn · Hà Nội",
+      "related": [
+        "hồ Long Trì",
+        "Thủy Đình",
+        "Nhật Tiên kiều",
+        "Nguyệt Tiên kiều"
+      ],
+      "aliases": [
+        "Thay Pagoda",
+        "Thiên Phúc Tự",
+        "Chùa Cả"
+      ],
+      "anchor": "vii-6"
+    },
+    {
+      "id": "but-thap",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 21.06103,
+      "lng": 106.02225,
+      "name": "Chùa Bút Tháp",
+      "native": "Chùa Bút Tháp · 寧福寺",
+      "place": "Bắc Ninh · rive sud du Đuống",
+      "related": [
+        "Báo Nghiêm tháp",
+        "nội công ngoại quốc",
+        "Quan Âm nghìn mắt nghìn tay"
+      ],
+      "aliases": [
+        "But Thap Pagoda",
+        "Ninh Phuc Tu",
+        "Bút Tháp Temple"
+      ],
+      "anchor": "vii-7"
+    },
+    {
+      "id": "huong-son",
+      "country": "VN",
+      "type": "sacred_landscape",
+      "lat": 20.61833,
+      "lng": 105.7475,
+      "name": "Chùa Hương / Hương Sơn",
+      "native": "Hương Sơn · 香跡",
+      "place": "Mỹ Đức · Hà Nội",
+      "related": [
+        "Thiên Trù",
+        "động Hương Tích",
+        "pèlerinage fluvial et montagnard"
+      ],
+      "aliases": [
+        "Perfume Pagoda",
+        "Huong Pagoda",
+        "Hương Tích Cave",
+        "Huong Son"
+      ],
+      "anchor": "vii-8"
     }
   ]
 }
