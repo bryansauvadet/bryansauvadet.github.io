@@ -6,42 +6,56 @@
 
 Từ stūpa vốn chỉ một gò đất, mô mộ hoặc công trình tang lễ. Phật giáo tiếp nhận truyền thống này nhưng trao cho nó một giá trị tôn giáo đặc biệt: stūpa trở thành nơi chứa xá-lợi của một bậc có thành tựu tâm linh đáng được cộng đồng tôn kính. Hình thức dần ổn định với nền, khối bán cầu aṇḍa, harmikā và trục trên đỉnh mang một hay nhiều tán. Lan can có thể bao quanh để xác định lối nhiễu. Stūpa vì thế đồng thời là mộ, bảo vật xá-lợi, đài tưởng niệm và trung tâm nghi lễ. Nó có thể được phân biệt với caitya, vốn có thể là nơi tưởng niệm không nhất thiết chứa xá-lợi thân thể, nhưng ranh giới ngày càng mờ đi. Khi xá-lợi hữu hình trở nên khan hiếm, kinh, dhāraṇī và những công thức giáo lý được đặt vào tháp như “pháp thân xá-lợi” 法身舍利. Nhờ đó, stūpa có thể nhân rộng mà không phụ thuộc vào một lượng śarīra hữu hạn.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-1-vi.webp" alt="Stūpa là gì?" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_ii.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_1 >}}" alt="Stūpa là gì?" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. Stūpa vào thời Đức Phật {#ii-2}
 
 Truyền thống Phật giáo đưa một số stūpa về tận thời Đức Phật còn tại thế. Hai thương nhân Trapuṣa và Bhallika được kể là đã nhận tóc và móng từ Ngài rồi dựng một công trình để thờ khi trở về quê. Những văn bản muộn hơn còn kể Đức Phật xếp một tấm y, đặt bát úp lên trên rồi dựng gậy để minh họa hình thức của stūpa. Câu chuyện này có thể là một kiến tạo giáo lý hậu kỳ, nhưng nó cho thấy mong muốn nối dạng tháp chuẩn với chính thẩm quyền của Đức Phật. Tóc và những xá-lợi nhỏ cũng từng được hiểu như vật hộ thân. Hàng rào quanh các công trình sớm có thể ban đầu chỉ để ngăn gia súc, rồi dần trở thành ranh giới nghi lễ giữa không gian thường và không gian thiêng. Sau parinirvāṇa, bát, y và gậy của Đức Phật cũng trở thành vật tưởng niệm. Như vậy, trước khi Ngài qua đời, truyền thống nhấn mạnh phần thân thể nhỏ và khả năng bảo hộ; sau đó, việc thờ xá-lợi và di vật được thể chế hóa.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-2-vi.webp" alt="Stūpa vào thời Đức Phật" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_ii.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_2 >}}" alt="Stūpa vào thời Đức Phật" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. Parinirvāṇa và sự phân chia xá-lợi {#ii-3}
 
 Parinirvāṇa của Đức Phật tại Kuśinagara là sự kiện nền tảng của việc thờ xá-lợi. Sau lễ hỏa táng, nhiều vương quốc đòi một phần di cốt. Bà-la-môn Droṇa được kể là đã chia xá-lợi thành tám phần cho tám cộng đồng, mỗi nơi dựng một stūpa. Ông giữ chiếc bình dùng trong việc phân chia để dựng một tháp thứ chín; người Moriya đến muộn thu tro từ giàn hỏa táng và dựng tháp thứ mười. Câu chuyện cho thấy xá-lợi ngay từ đầu đã có ý nghĩa chính trị và lãnh thổ: sở hữu một phần thân thể Đức Phật đồng nghĩa với việc neo sự hiện diện của Ngài vào một vùng đất và thu hút hành hương. Song song với đó, những nơi gắn với các biến cố trong đời Đức Phật — Lumbinī, Bodhgayā, Sārnāth, Kuśinagara — trở thành thánh địa. Hai cơ chế cùng vận hành: sự hiện diện vật chất của xá-lợi và ký ức về một sự kiện tại một địa điểm. Chúng kết hợp để tạo nên địa lý thiêng của Phật giáo.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-3-vi.webp" alt="Parinirvāṇa và sự phân chia xá-lợi" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_ii.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_3 >}}" alt="Parinirvāṇa và sự phân chia xá-lợi" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. Ai xây stūpa, và xây ở đâu? {#ii-4}
 
 Những stūpa đầu tiên không hoàn toàn thuộc cơ cấu hành chính của tu viện. Các truyện về parinirvāṇa giao việc chăm sóc xá-lợi và xây tháp cho cư sĩ, còn tăng sĩ tiếp tục tu tập và giảng dạy. Truyền thống còn nói stūpa nên được dựng ở ngã tư — nơi nhiều người có thể nhìn thấy, lễ bái và tạo công đức. Tháp ban đầu vì thế thuộc phạm vi tín ngưỡng công cộng, trong khi tu viện là nơi cư trú và trì giới của saṃgha. Vua, thương nhân và cộng đồng đô thị đóng vai trò lớn trong việc xây và trang trí tháp. Trước khi tượng Phật nhân hình trở nên phổ biến, stūpa là một trong những vật thể hữu hình mạnh nhất đại diện cho sự hiện diện của Đức Phật. Người ta lễ, đi nhiễu, dâng hoa, cờ và đèn. Một phần quan trọng của lịch sử kiến trúc Phật giáo về sau chính là quá trình đưa hai thế giới này — tháp của tín đồ và tu viện của tăng đoàn — vào cùng một khuôn viên.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-4-vi.webp" alt="Ai xây stūpa, và xây ở đâu?" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_ii.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_4 >}}" alt="Ai xây stūpa, và xây ở đâu?" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. Sāñcī và Bhārhut: stūpa trở thành công trình kể chuyện {#ii-5}
 
 Những đại stūpa ở Sāñcī và Bhārhut cho thấy một bảo vật xá-lợi có thể trở thành kiến trúc kể chuyện như thế nào. Xá-lợi bên trong không nhìn thấy được, vì vậy lan can và cổng dần được phủ bằng hình ảnh về cuộc đời Đức Phật và các tiền kiếp. Jātaka biến tháp từ một mộ thiêng thành đích đến của một hành trình tu tập trải qua vô số kiếp. Đại tháp Sāñcī có lõi từ thời Aśoka, về sau được mở rộng và trang trí bằng bốn torana ở bốn hướng. Lan can vừa xác định khu vực thiêng vừa tổ chức lối đi nhiễu. Tại Bhārhut, những mảnh lan can, cổng, minh văn, truyện kể và hình hộ pháp tạo nên một kinh nghiệm vừa giáo dục vừa sùng kính. Hai di tích này chứng minh kiến trúc Phật giáo không chỉ là hình thức xây dựng: nó kết hợp chuyển động, hình ảnh, truyện kể và ký ức. Tín đồ vừa đi vừa “đọc” công trình.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-5-vi.webp" alt="Sāñcī và Bhārhut: stūpa trở thành đài tưởng niệm tự sự" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_ii.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_5 >}}" alt="Sāñcī và Bhārhut: stūpa trở thành công trình kể chuyện" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. Nhiễu tháp và vũ trụ quan {#ii-6}
 
 Nhiễu tháp biến stūpa thành tâm điểm của một trường nghi lễ. Tín đồ đi theo chiều kim đồng hồ, giữ công trình ở bên phải. Pradakṣiṇā có trước Phật giáo và là một cử chỉ tôn kính đối với người hay vật thiêng. Kinh điển sớm đã mô tả đệ tử đi vòng quanh Đức Phật khi Ngài còn sống; sau parinirvāṇa, cùng động tác ấy được chuyển sang tháp xá-lợi. Chuyển động cơ thể do đó tạo ra không gian sùng kính. Song song với nó, stūpa nhận những diễn giải vũ trụ học: khối chính có thể tượng trưng thế giới, harmikā gắn với núi Sumeru, còn trục và tán tạo một trục nối đất với trời. Trong caitya hang động, mặt bằng được tổ chức để tín đồ đi vòng quanh stūpa ở hậu cung. Khi tượng Phật trở thành đối tượng thờ chính, nghi thức đi vòng cũng chuyển sang tượng và điện. Hình thức trung tâm thay đổi, nhưng cơ thể tín đồ vẫn xác lập tính trung tâm bằng chuyển động.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-6-vi.webp" alt="Nhiễu tháp và vũ trụ quan" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_ii.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_6 >}}" alt="Nhiễu tháp và vũ trụ quan" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. Từ stūpa của Đức Phật đến tháp của thiền sư {#ii-7}
 
 Nguyên tắc bảo tháp không dừng lại ở Đức Phật. Các đệ tử lớn và những cao tăng cũng có thể được dựng tháp sau khi qua đời. Ở Trung Quốc rồi Triều Tiên, xá-lợi của các nhà sư nổi tiếng được đặt trong những tháp riêng. Tại Triều Tiên, loại này thường được gọi là phù đồ 浮屠 hoặc, rõ nghĩa hơn, tăng tháp 僧塔. Sự phát triển của chúng gắn mạnh với Thiền 禪 cuối Tân La 新羅. Trong một truyền thống coi trọng truyền thừa từ thầy sang trò, thân thể của vị thầy sau khi chết trở thành điểm tựa vật chất cho một dòng pháp. Nhiều mẫu sớm có mặt bằng bát giác và hình thức kiến trúc rất tinh xảo, giống một điện nhỏ bằng đá. Sang Cao Ly 高麗, hình thức đa dạng hơn, có cả kiểu gần với bát úp hay chuông đá. Từ tháp của Đức Phật đến tháp của vị thầy, kiến trúc tưởng niệm mở rộng từ ký ức về nguồn gốc tôn giáo sang ký ức về lịch sử và phả hệ của từng cộng đồng.
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-ii-7-vi.webp" alt="Từ stūpa của Đức Phật đến stūpa của bậc thầy" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_ii.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_ii.section_7 >}}" alt="Từ stūpa của Đức Phật đến tháp của thiền sư" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
