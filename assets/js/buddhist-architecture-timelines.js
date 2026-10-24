@@ -33,7 +33,7 @@
         title: "Corée — de la pagode de bois au monastère de montagne",
         intro: "La péninsule transforme les modèles continentaux par la pierre, le relief et une forte tradition de charpente.",
         events: [
-          ["IVe–VIe s.", "Trois Royaumes", "Le bouddhisme s’implante à Koguryŏ, Paekche puis Silla ; les premiers monastères et pagodes accompagnent le patronage royal."],
+          ["IVe–VIe s.", "Trois Royaumes", "Le bouddhisme s’implante au Koguryŏ, au Paekche puis au Silla ; les premiers monastères et pagodes accompagnent le patronage royal."],
           ["VIe–VIIe s.", "Grandes pagodes de bois", "Des ensembles comme Hwangnyongsa placent la pagode monumentale au cœur d’une architecture d’État aujourd’hui en grande partie disparue."],
           ["VIIe–IXe s.", "Grand Silla et pagode de pierre", "Le granite devient un médium majeur ; Pulguksa illustre l’équilibre entre pavillons, cours, escaliers et pagodes jumelles."],
           ["IXe–Xe s.", "Essor du Sŏn", "Les stoupas funéraires de maîtres, pudo ou sŭngt’ap, matérialisent les lignées monastiques dans le paysage."],
