@@ -6,48 +6,64 @@
 
 韓国寺院建築では、建物の機能と序列が明確に区別される。重要な殿堂は通常、中心庭院の奥または北側に置かれ、生活・管理施設は側面に配置される。名称にも序列が現れる。殿は仏や主要菩薩を祀る高位の建物に用いられ、宮殿の殿と同じ字を使うことで仏の至尊性を示す。閣は山神、祖師、特殊信仰など比較的小規模な礼拝空間に用いられ、楼は鐘楼のような上階・開放構造を指すことが多い。堂や 寮は居住、学習、厨房、管理など日常機能に近い。丹青もこの序列に従い、主要仏殿は華やかに彩られる一方、生活建物は簡素である。寺院は独立建物の集合ではなく、名称・位置・装飾・機能が相互に関係する空間秩序として読むべきである。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_1 >}}" alt="寺院建築の序列" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. 韓屋の構造と木造建築 {#v-2}
 
 韓屋は柱、梁、組物が構造骨格をつくる木造架構である。壁は多くの場合、主要な荷重を負担せず、柱間を閉じる役割を担うため交換や改変が比較的容易である。その柔軟性の代わりに、木材を湿気と雨から守る必要がある。柱は礎石上に置かれ、深い軒と大きな屋根が雨を壁や構造材から遠ざける。仕口・継手も重要で、釘だけに依存せず木材同士を噛み合わせることで重い瓦屋根の荷重を分散し、損傷部材を解体・交換できる。したがって古建築の「原形」は、全ての材が創建時のものという意味ではない。平面、構造原理、比例、修理技術の連続性が歴史性をつくる。寺院では聖地の継続そのものが重視されるため、数百年にわたる修理行為が保存の方法となった。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_2 >}}" alt="韓屋の構造と木造建築" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. 仏教と高麗建築の保存 {#v-3}
 
 高麗期に起源を持つ現存木造建築は、韓国中世建築を理解するための重要資料である。鳳停寺 極楽殿、修徳寺 大雄殿、銀海寺 居祖庵 霊山殿、浮石寺 無量寿殿などが代表例である。これらの建物は数百年にわたり瓦を葺き替え、腐朽した垂木や柱を交換し、一部を解体して再組立してきた。したがって建物の歴史的同一性は、すべての部材が創建時のものかどうかではなく、平面・構造方式・比例・工芸技術が連続しているかにある。仏教寺院がとくに重要なのは、政権が変わっても宗教共同体が聖なる建物を維持し続けられたためである。繰り返される修理こそ生存条件だった。こうした建物は組物体系、内部空間、屋根と架構の関係を知る実物資料であり、世代を超えて継承された木工知識の蓄積でもある。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_3 >}}" alt="仏教と高麗建築の保存" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. 高麗と朝鮮：柱心包 と 多包 {#v-4}
 
 高麗と朝鮮の建築を単純な進歩史として比較すると、柱心包 と 多包 の違いを見誤る。柱心包 は組物を主に柱上へ集中させ、柱と組物の対応が明瞭で、柱間の空白も視覚的に重要である。高麗系の古建築でよく見られ、抑制された印象を与える。多包 は柱間にも組物を配置し、屋根荷重を細かく分散しながら深い軒と複雑な立面を可能にする。朝鮮期の大規模仏殿で広く用いられ、丹青と結びつくと装飾性が強まる。しかし 多包 が 柱心包 より「発展した」形式という意味ではない。それぞれ異なる構造原理と美意識を持つ。さらに高麗建築の多くは後世の修理を受けており、一棟の中に複数時代の要素が共存する。比較すべきは優劣ではなく、構造・修理・美感の違いである。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_4 >}}" alt="高麗と朝鮮：柱心包 と 多包" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. 屋根形式 {#v-5}
 
 韓国仏殿では屋根が最も強い視覚的印象をつくる。まず気候に対応し、十分な勾配が雨雪を流し、深い軒が壁と木架構を守る。切妻屋根 は切妻形式で比較的単純、入母屋屋根 は四周に屋根を回しつつ妻を残す入母屋に近い形式で、より複雑な輪郭を持つ。四角・八角平面には方形や多角形の宝形屋根を用い、頂部に 節甁桶 を置く場合もある。材料も時代性を示す。高麗の一部高級建築では施釉瓦が確認され、朝鮮期には濃色瓦が一般化した。屋根は気候装置であり、構造表現であり、建物の序列を示す表面でもある。多くの場合、壁体より圧倒的な面積を占め、建物の印象を決定する。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_5 >}}" alt="屋根形式" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. 扉・窓・花格子 {#v-6}
 
 仏殿の扉と窓格子は出入り、採光、儀礼を同時に組織する。住宅では保温のため開口部を小さくできるが、仏殿は多くの人を受け入れ、法会時に内部を大きく開く必要があるため、正面全体が可動建具で構成されることもある。中央扉は儀礼的に高い格を持ち、日常の出入りは側面を使う場合がある。格子意匠では斜格子や、蓮・牡丹などを木材で構成した花格子が重要である。仏教において花供養は古い儀礼であるため、花格子は単なる装飾ではなく、持続する視覚的供養とみなせる。紙と格子を通過した柔らかな光も仏殿内部の雰囲気をつくり、建具そのものが俗域と聖域をつなぐ中間面となる。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_6 >}}" alt="扉・窓・花格子" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. 煉瓦床から木床へ {#v-7}
 
 今日の韓国仏殿に見られる木床が常に原初の形式だったわけではない。温突が住居に広く普及する前は、室内でも履物を着用することが多く、仏殿床に煉瓦や敷瓦を用いることができた。温突生活が一般化すると、室内で靴を脱ぐ習慣が定着し、その文化が寺院にも及んだ。清潔な床は礼拝・五体投地に適するが、仏殿は火災危険などから一般に温突を設けず、冬の煉瓦床は非常に冷たい。地面から浮かせた木造 maru は、直接暖房せず身体を冷たい地面から隔離する有効な解決策だった。床材の変化は儀礼動作そのものを変えた。靴を脱いで入り、座り、礼拝する身体文化が宗教空間に定着したのである。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_7 >}}" alt="煉瓦床から木床へ" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. 仏・菩薩の殿堂 {#v-8}
 
 寺院殿堂の名称を読むことで、仏教宇宙論と教理的性格を空間から理解できる。大雄殿は通常釈迦を本尊とし、阿弥陀仏は無量寿殿・極楽殿、薬師如来は薬師殿・瑠璃殿、毘盧遮那仏は大寂光殿・毘盧殿・華厳殿などに祀られる。観音菩薩は観音殿または円通殿、地蔵菩薩は地蔵殿に奉安される。八相殿、霊山殿、応真殿、羅漢殿は釈迦の生涯や弟子、羅漢信仰を異なる方法で構成する。これらの名称は単なる装飾的呼称ではなく、寺院がどの仏と世界観を中心に組織されるかを示す教理的標識である。殿堂の名称と配置を読むことは、一つの神学的地図を歩くことに等しい。
 
-<div class="hab-illustration-slot">図版予定</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_8 >}}" alt="仏・菩薩の殿堂" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
