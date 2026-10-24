@@ -20,6 +20,7 @@ illustrations:
     section_1: "/assets/images/histoire-architecture-bouddhique/part-iii-1-vi.webp"
     section_2: "/assets/images/histoire-architecture-bouddhique/part-iii-2-vi.webp"
     section_3: "/assets/images/histoire-architecture-bouddhique/part-iii-3-vi.webp"
+    section_4: "/assets/images/histoire-architecture-bouddhique/part-iii-4-vi.webp"
 format:
   html:
     include-before-body: _includes/vi-header.html
