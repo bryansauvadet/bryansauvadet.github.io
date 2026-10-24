@@ -6,73 +6,97 @@
 
 The history of Vietnamese Buddhism cannot be reduced to a one-way diffusion from China. The position of northern Vietnam, open both to overland East Asian routes and to maritime networks linking South and Southeast Asia, encouraged multiple forms of circulation from an early date. Vietnamese traditions and scholarship emphasise the arrival of monks and merchants from India by sea alongside Chinese influences that intensified during centuries of imperial rule. This dual horizon helps explain the diversity of practices and forms. Early Buddhist communities developed in environments where local cults, agrarian traditions, and Chinese administrative institutions coexisted. Religious architecture therefore had to adapt to several systems of reference. The Vietnamese term chùa commonly designates a Buddhist temple or monastery, while tháp <span class="hab-han" lang="vi">塔</span> can refer to a tower or stupa. As elsewhere in East Asia, doctrinal transmission did not imply exact reproduction of Indian monuments. Local timber, brick, and tile technologies generated new solutions. Vietnam should therefore be understood as an intersection in which trans-Asian relics and images were continually recombined with regional building traditions.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_1 >}}" alt="The introduction of Buddhism to Vietnam" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. Luy Lâu <span class="hab-han" lang="vi">羸𨻻</span> and the earliest Buddhist centres {#vii-2}
 
 Luy Lâu <span class="hab-han" lang="vi">羸𨻻</span>, in present-day Bắc Ninh <span class="hab-han" lang="vi">北寧</span>, occupies a foundational place in the early history of Vietnamese Buddhism. It was one of the major urban centres of the Red River delta in the first centuries CE and had political, commercial, and religious importance. Vietnamese historical institutions describe it as one of the country’s oldest Buddhist centres, associated by the late second century with the study, translation, and propagation of texts. Its position on trade routes helps explain this precocity. Monks from India and Central Asia could encounter local communities and administrative networks connected to China. Buddhism also merged with indigenous agrarian cults, notably the Tứ Pháp <span class="hab-han" lang="vi">四法</span>, the “Four Dharmas,” associated with rain, clouds, thunder, and lightning. This fusion is important architecturally: the Vietnamese Buddhist sanctuary was not necessarily a doctrinally isolated space but could integrate figures and rituals from several traditions. Ancient buildings at Luy Lâu have been heavily transformed, making precise reconstruction difficult. Yet the site remains essential because it demonstrates that Vietnam entered Buddhist networks early and that its architecture emerged through both international circulation and local religious hybridisation.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_2 >}}" alt="Luy Lâu &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;羸𨻻&lt;/span&gt; and the earliest Buddhist centres" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. The Lý <span class="hab-han" lang="vi">李朝</span> and Trần <span class="hab-han" lang="vi">陳朝</span> dynasties {#vii-3}
 
 The Lý <span class="hab-han" lang="vi">李朝</span> and Trần <span class="hab-han" lang="vi">陳朝</span> dynasties form a major period in the history of Vietnamese Buddhism and its architecture. With the consolidation of an independent Đại Việt <span class="hab-han" lang="vi">大越</span>, Buddhism benefited from powerful royal patronage and became closely tied to state legitimacy. Rulers founded, restored, and endowed temples, while monks could hold an important place at court. Capitals and religious centres accumulated halls, towers, and monasteries. Under the Lý, Buddhist architecture was especially visible at Thăng Long <span class="hab-han" lang="vi">昇龍</span>, where royal foundations linked cult, dynastic protection, and representation of the capital. Under the Trần, Buddhism remained central but became strongly associated with mountain traditions around Yên Tử <span class="hab-han" lang="vi">安子</span> and the Trúc Lâm Yên Tử <span class="hab-han" lang="vi">竹林安子</span> lineage. Architecture therefore extended beyond urban compounds into pilgrimage landscapes. Archaeological evidence shows timber halls on stone or brick foundations with richly tiled roofs, while towers served reliquary and funerary roles. Few wooden buildings survive intact, so later reconstructions must be read cautiously. The importance of the Lý and Trần lies less in one preserved “style” than in the institutionalisation of sites, practices, and architectural forms that structured Vietnamese Buddhist landscapes for centuries.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_3 >}}" alt="The Lý &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;李朝&lt;/span&gt; and Trần &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;陳朝&lt;/span&gt; dynasties" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. One Pillar Pagoda — Chùa Một Cột <span class="hab-han" lang="vi">一柱寺</span> {#vii-4}
 
 One Pillar Pagoda, Chùa Một Cột <span class="hab-han" lang="vi">一柱寺</span>, is one of Hanoi’s most famous monuments and condenses several aspects of Vietnamese Buddhist architecture. Tradition attributes its foundation to King Lý Thái Tông <span class="hab-han" lang="vi">李太宗</span> in 1049. The small timber pavilion is raised on a central support in the middle of a pond so that it evokes a lotus emerging from water. The lotus is a major Buddhist symbol: rooted in mud yet blooming pure above the surface, it represents the possibility of awakening within the conditioned world. Architecture therefore turns a doctrinal image directly into built form. The monument belongs to the Diên Hựu <span class="hab-han" lang="vi">延祐寺</span> complex and has undergone numerous reconstructions. The present structure should not be identified in every detail with its eleventh-century predecessor, but it preserves the symbolic principle that gives the site its identity. The monument also demonstrates the importance of water and garden as integral religious components. Here the pond is not merely landscape around the building; it is necessary for the pavilion to be read as a lotus.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_4 >}}" alt="One Pillar Pagoda — Chùa Một Cột &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;一柱寺&lt;/span&gt;" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. Vietnamese towers and stupas {#vii-5}
 
 In Vietnam, tháp <span class="hab-han" lang="vi">塔</span> can denote towers with different functions: reliquaries, memorials, funerary monuments, or prestige elements within a religious complex. Like the Chinese pagoda and Korean stupa, the Vietnamese tower ultimately derives from the Indian reliquary tradition, but its form was deeply reshaped by local techniques and regional influences. Brick became important because it allowed durable vertical monuments in environments where timber halls were vulnerable. Some towers rise through several diminishing levels with niches and Buddhist ornament, while smaller examples serve as funerary stupas for monks. In mountain complexes, groups of such towers may form monastic cemeteries materialising lineages of masters, comparable in broad function to Korean pudo. Under the Lý and Trần dynasties, royal foundations encouraged towers at important monasteries; later periods continued to diversify types and decoration. It is useful to distinguish the French or English colloquial use of “pagoda,” which may refer to an entire Vietnamese Buddhist temple, from the tower itself. The chùa is the broader religious complex; the tháp is the vertical reliquary, commemorative, or funerary monument.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_5 >}}" alt="Vietnamese towers and stupas" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. Organisation of the Vietnamese monastery {#vii-6}
 
 The traditional Vietnamese monastery usually consists of a sequence of buildings and courtyards rather than one single volume. An entrance leads into a space where cult halls, monastic buildings, and service structures are organised around an axis or a system of courts. Large complexes may contain several parallel halls connected by passages, while lateral galleries or buildings partially close the precinct. An initial hall can serve as a ritual threshold and house protective figures; deeper spaces contain the principal altars with multiple Buddhas, bodhisattvas, and other religious figures. This depth creates a hierarchy comparable to Chinese and Korean monasteries but combines it through specifically Vietnamese arrangements. Heritage studies note plans in which three parallel halls are connected by corridors and compounds organised according to nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span>. Residential quarters, kitchens, and guest houses extend around the cultic core. Actual layouts remain strongly dependent on site: village temples may relate closely to ponds, dykes, or roads, while mountain buildings follow relief. Vietnamese monastic architecture therefore combines axial hierarchy with local adaptation, creating dense cult interiors separated by courtyards that serve as transitional and gathering spaces.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_6 >}}" alt="Organisation of the Vietnamese monastery" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. The nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span> principle {#vii-7}
 
 The expression nội công ngoại quốc <span class="hab-han" lang="vi">內工外國</span> describes a composition strongly associated with Vietnamese religious architecture. It compares the inner plan to the Chinese character 工, công, and the outer enclosure to 國, quốc. In practice, the cultic core may consist of parallel halls linked by a transverse building, while surrounding corridors and auxiliary structures close the ensemble into a courtyard or quadrilateral. This is not a rigid template applied to every temple but a compositional principle found in many developed or reconstructed complexes. Studies of Ngũ Đài <span class="hab-han" lang="vi">五臺</span> Pagoda, for example, identify a restored Lê-period core including tiền đường <span class="hab-han" lang="vi">前堂</span>, thiêu hương <span class="hab-han" lang="vi">燒香</span>, thượng điện <span class="hab-han" lang="vi">上殿</span>, a hậu đường <span class="hab-han" lang="vi">後堂</span>, and lateral corridors. The plan clearly grades sacred space: one advances from an anterior hall toward increasingly restricted cult zones while peripheral galleries organise circulation. The principle demonstrates Vietnamese architectural autonomy: axiality, courtyard planning, and timber framing are shared with the Sinic world, but combined through a locally distinctive spatial grammar.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_7 >}}" alt="The nội công ngoại quốc &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;內工外國&lt;/span&gt; principle" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. Timber frame and structure {#vii-8}
 
 As in China, Korea, and Japan, timber framing underlies many Vietnamese religious halls. Posts support beams and roofs, while walls generally enclose rather than carry the main loads. Vietnamese architecture nevertheless developed distinctive approaches to joining and carving these elements. Heritage studies emphasise complex carpentry joints and wooden pegs, as well as richly carved structures in temples and communal houses. Visible framing gives interiors a character very different from buildings in which structure is concealed. Bays defined by post lines organise the depth of halls and allow buildings to expand through modular addition. Damaged pieces can also be replaced, which means dating must distinguish the general architectural conception from the age of individual components. In Vietnam’s hot and humid climate, protection from water is critical: roofs must shed heavy rain quickly, halls are often slightly raised, and ventilation is essential. Timber framing cannot therefore be separated from climate. It is a flexible system capable of producing open, shaded, well-ventilated interiors while carrying very large tiled roofs.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_8 >}}" alt="Timber frame and structure" loading="lazy" decoding="async"></figure>
+:::
 
 ### 9. The Vietnamese roof {#vii-9}
 
 The roof visually dominates many traditional Vietnamese buildings. Its broad surface protects timber structures from intense rain and creates deep shade in a hot climate. Slopes are covered with tiles, often in dense courses, while ridges and corners may carry dragons, vegetal motifs, or protective creatures. Upturned ends give the building a dynamic silhouette, but this should not simply be treated as a generic “Chinese” feature: proportions, the relationship between roof and walls, and the sculptural treatment of framing produce a distinct Vietnamese aesthetic. In many temples, the roof volume is far more prominent than the visible wall volume, making the building appear almost as a great shelter resting on a light framework. This dominance also shapes the interior, where numerous posts required to carry the roof organise ritual space and determine altar placement. Deep eaves protect semi-open circulation zones. The roof is thus climatic, structural, and symbolic at once. On prestigious monuments, ridge decoration marks status; in rural pagodas, the broad tiled mass helps the temple settle visually into dense vegetation.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_9"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_9 >}}" alt="The Vietnamese roof" loading="lazy" decoding="async"></figure>
+:::
 
 ### 10. Architecture and landscape {#vii-10}
 
 Water and relief play major roles in the location of Vietnamese temples. Many complexes are associated with ponds, lakes, rivers, or hills not only for practical reasons but because landscape participates in sacred meaning. One Pillar Pagoda, Chùa Một Cột <span class="hab-han" lang="vi">一柱寺</span>, depends on its pond and lotus imagery; Thiên Mụ <span class="hab-han" lang="vi">天姥寺</span> overlooks the Perfume River, Hương Giang <span class="hab-han" lang="vi">香江</span>, at Huế; the complexes of Yên Tử <span class="hab-han" lang="vi">安子</span> extend along mountain pilgrimage routes. Actual terrain therefore modifies ideal planning. Even where hierarchy and axiality are desired, slopes require stairs, terraces, bridges, and successive courts. Geomantic principles also influence location and orientation through relationships among mountain, water, and landscape flow. Temple gardens are consequently not merely decorative. They mediate between outside world and sacred halls, provide reflective surfaces, and may contain lotus ponds with explicit Buddhist associations. Vietnamese Buddhist architecture is strongly integrative: in villages it enters communal fabric; in mountains it becomes pilgrimage infrastructure; in capitals it can participate in political landscape.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_10"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_10 >}}" alt="Architecture and landscape" loading="lazy" decoding="async"></figure>
+:::
 
 ### 11. Huế and Thiên Mụ Pagoda <span class="hab-han" lang="vi">天姥寺</span> {#vii-11}
 
 Thiên Mụ Pagoda <span class="hab-han" lang="vi">天姥寺</span>, set on a height above the Perfume River, Hương Giang <span class="hab-han" lang="vi">香江</span>, is one of the defining religious landmarks of Huế. Tradition places its foundation in the early seventeenth century under the Nguyễn lords <span class="hab-han" lang="vi">阮主</span>, long before Huế became the imperial capital of a unified Vietnam. The site demonstrates how a Buddhist sanctuary can become part of political geography. In the nineteenth century, under the Nguyễn dynasty <span class="hab-han" lang="vi">阮朝</span>, the complex received further monumental investment. Between 1844 and 1846, Emperor Thiệu Trị <span class="hab-han" lang="vi">紹治帝</span> commissioned the Phước Duyên Tower <span class="hab-han" lang="vi">福緣塔</span>, a seven-storeyed structure more than twenty metres high. Placed near the entrance, it became a vertical landmark visible from the river. Behind it, gates, halls, courts, and religious spaces form a much larger compound. Thiên Mụ therefore perfectly illustrates the relationship among Buddhist architecture, dynastic patronage, and landscape: the vertical tower acts as a territorial marker while the monastery uses topography and river views to construct its identity.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_11"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_11 >}}" alt="Huế and Thiên Mụ Pagoda &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;天姥寺&lt;/span&gt;" loading="lazy" decoding="async"></figure>
+:::
 
 ### 12. Religious syncretism and plurality of altars {#vii-12}
 
 One striking feature of many Vietnamese temples is the density and plurality of their cult spaces. A main sanctuary may combine Buddhas of past, present, and future, bodhisattvas, arhats, and protective figures. These can be joined by local masters, popular deities, or ancestral cults. Such plurality should not be read as incoherence. It reflects a long history of interaction among Buddhism <span class="hab-han" lang="vi">佛教</span>, local traditions, Confucianism <span class="hab-han" lang="vi">儒教</span>, and Daoism <span class="hab-han" lang="vi">道教</span>. Architecture must therefore accommodate several levels of devotion. Altars are arranged in depth and height; anterior spaces may contain guardians, while the most important figures occupy the back of the sanctuary. Lateral buildings add specialised cults. The visitor’s path becomes a progressive reading of a complex pantheon. This also explains frequent historical additions: when a cult gains importance, a new altar or hall can be inserted without eliminating older structures. The temple becomes a stratified space accumulating religious memories. This capacity for integration is one of the defining characteristics of Vietnamese Buddhist interiors.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_vii.section_12"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vii.section_12 >}}" alt="Religious syncretism and plurality of altars" loading="lazy" decoding="async"></figure>
+:::
 
 <div class="hab-source-note"><strong>Complementary sources:</strong> Vietnam National Museum of History materials on Luy Lâu, traditional architecture, and pagodas; Vietnam National Authority of Tourism documentation on Chùa Một Cột; UNESCO documentation on Thiên Mụ and the Complex of Huế Monuments.</div>
 :::
