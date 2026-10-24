@@ -16,4 +16,43 @@
   }catch(e){}
 })();
 </script>
+<style id="global-image-protection">
+/* Discourage direct saving/dragging of site images without disabling linked cards. */
+img:not(.leaflet-marker-icon):not(.leaflet-marker-shadow) {
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  pointer-events: none;
+}
+</style>
+<script>
+(function () {
+  function imageTarget(target) {
+    return target && target.nodeType === 1 && target.closest && target.closest('img');
+  }
+
+  /* Capture phase: run before page/component handlers can stop propagation. */
+  window.addEventListener('contextmenu', function (event) {
+    if (imageTarget(event.target)) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+    }
+  }, true);
+
+  window.addEventListener('dragstart', function (event) {
+    if (imageTarget(event.target)) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+    }
+  }, true);
+
+  window.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('img:not(.leaflet-marker-icon):not(.leaflet-marker-shadow)').forEach(function (img) {
+      img.draggable = false;
+      img.setAttribute('draggable', 'false');
+    });
+  });
+})();
+</script>
 <script defer src="/assets/js/site.js"></script>
