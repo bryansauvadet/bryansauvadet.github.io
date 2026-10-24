@@ -1,0 +1,35 @@
+media:
+  - name: site_images
+    label: Images du site
+    input: assets/images
+    output: /assets/images
+    categories: [image]
+    extensions: [jpg, jpeg, png, webp, avif, gif, svg]
+    rename: false
+    commit:
+      templates:
+        create: "media: ajout {filename}"
+        update: "media: remplacement {filename}"
+        delete: "media: suppression {filename}"
+        rename: "media: renommage {oldFilename} -> {newFilename}"
+
+  - name: page_illustrations
+    label: Illustrations par page
+    input: assets/img
+    output: /assets/img
+    categories: [image]
+    extensions: [jpg, jpeg, png, webp, avif, gif, svg]
+    rename: false
+    commit:
+      templates:
+        create: "media: ajout {filename}"
+        update: "media: remplacement {filename}"
+        delete: "media: suppression {filename}"
+        rename: "media: renommage {oldFilename} -> {newFilename}"
+
+content: []
+
+settings:
+  hide: true
+  commit:
+    identity: user
