@@ -6,72 +6,96 @@
 
 佛教傳入日本，並不等於一套完成的建築樣式被原封不動移植。佛像、經典、法器、工匠與技術主要經朝鮮半島和中國傳入，但建物仍必須用日本當地材料與工法重新建造。早期日本社會因此需要學習塔、金堂、回廊、僧房等陌生類型。法隆寺周邊古建築特別重要，因為它們保存了這一調適過程。印度窣堵波的功能此前已在中國轉為木塔，日本又以自身木工文化重新建構這種塔。寺院布局雖受到大陸影響，但比例、木材運用、構架與屋頂處理很快出現地方化。日本佛教建築不是單純複製外來模型，而是把大陸傳來的宗教功能與技術重新編入日本木構傳統。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_1 >}}" alt="佛教建築傳入日本" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. 飛鳥 — 最早期寺院 {#vi-2}
 
 飛鳥時代，佛教寺院成為建立新政治與宗教秩序的重要工具。飛鳥寺建於6世紀末，是早期將大陸式寺院空間引入日本的代表。佛塔仍是舍利現前的核心紀念物，周圍布置金堂、回廊與僧房。造營本身就是技術傳播現場，來自朝鮮半島的工匠參與木工、瓦作、雕刻與彩繪。寺院建設因此不只是宗教導入，也是日本高級建築技術的轉型。大型木構與沉重瓦頂的技術逐漸成熟，金堂、塔、中門、回廊等空間語彙也固定下來。寺院還是國家參與國際佛教文明、掌握先進建築技術的政治象徵。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_2 >}}" alt="飛鳥 — 最早期寺院" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. 法隆寺與古代佛教建築 {#vi-3}
 
 法隆寺是理解日本古代佛教建築最重要的遺址之一。7世紀火災後重建的西院伽藍，保存世界最古老的一批木構建築。西院內五重塔與金堂並非嚴格前後排列於同一軸，而是在回廊內並列，形成與後來強軸線伽藍不同的不對稱構圖。木構架清楚展現柱、梁與斗栱如何承受沉重屋頂。佛塔與金堂同時占據核心位置，也顯示舍利與佛像仍具有接近的空間分量。法隆寺因此是理解日本如何在接受大陸傳統後立即進行選擇與重組、形成自身比例與節奏的重要證據。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_3 >}}" alt="法隆寺與古代佛教建築" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. 奈良 — 國家大寺院 {#vi-4}
 
 奈良成為都城後，佛教與國家制度更加密切。藥師寺、興福寺、東大寺等大寺院位於受唐都規劃影響的城市中，規模與功能都大幅擴張。藥師寺以金堂兩側的雙塔配置著稱，東塔雖實際只有三層，卻因裳階而形成六重屋簷般的視覺節奏。奈良大寺中講堂也非常重要，因為這些機構同時是僧侶教育與學問中心。寺院不再只是禮拜場所，而是由國家支持的行政、學術與宗教機構。塔、金堂、講堂、僧房與門共同建立清楚的空間層級，佛教建築也成為皇權與國家秩序的視覺表現。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_4 >}}" alt="奈良 — 國家大寺院" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. 東大寺與大佛殿 {#vi-5}
 
 東大寺是佛教、巨大建築與皇權結合的代表。聖武天皇在8世紀推行國分寺制度，並造立巨大的毘盧遮那佛。752年大佛開眼，為容納此像而建造的大佛殿成為整座寺院核心。這裡出現一個重要轉變：早期寺院最突出的垂直紀念物常是佛塔，但東大寺中，包覆巨大佛像的殿堂本身成為佛教現前的最高表達。寺內仍有塔、講堂與僧房，但大佛殿在象徵上居於中心。其巨大尺度不只是美學，而是把國家整體置於佛教儀式保護下的政治企圖。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_5 >}}" alt="東大寺與大佛殿" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. 從都城到山岳 {#vi-6}
 
 平安初期，新興宗派把重要宗教生活帶離大都城。天台宗以比叡山延曆寺為核心，真言宗則以高野山為主要道場。山不再只是背景，而成為宗教空間本身。建築不必集中於平坦而幾何化的院落，而可沿坡地與森林分散，由道路連結。離開奈良大寺也具有制度意義，使新宗派取得一定自主性。日本山岳寺院結合密教世界觀與古老山岳信仰，使建築範圍從殿堂擴展到森林、道路與峰巒，形成一種以整個地景為修行場的寺院模式。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_6 >}}" alt="從都城到山岳" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. 密教建築與曼荼羅空間 {#vi-7}
 
 天台、尤其是真言密教賦予建築強烈宇宙論意義。曼荼羅把佛、菩薩、方位與修行階段組織成有序宇宙，寺院則試圖將之轉化為實際空間。高野山壇上伽藍最具代表性，其中根本大塔被理解為與毘盧遮那相連的宇宙中心。禮拜空間不只是放置佛像的房間，而成為可在三維空間中體驗曼荼羅的場所。建物之間的行走、方位、森林、墓地與巡禮路都被納入象徵體系。密教因此把「建築」從單棟殿堂擴張至整座山岳環境。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_7 >}}" alt="密教建築與曼荼羅空間" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. 淨土與平等院 {#vi-8}
 
 淨土建築不以展示寺院制度權力為首要，而在於讓阿彌陀佛的極樂世界可被看見。宇治平等院鳳凰堂是最著名的例子。藤原賴通於1053年建立此殿，供奉阿彌陀佛，前方以水池形成完整視覺構圖。從東向西觀看時，信眾面對西方淨土的方向；中央殿與翼廊映入水中，宛如漂浮的極樂宮殿。建築、佛像、池水與觀看方向共同運作。末法思想流行後，往生淨土的願望更加強烈，庭園遂成為將教義轉化為視覺經驗的裝置，而不是佛殿周邊的附屬裝飾。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_8 >}}" alt="淨土與平等院" loading="lazy" decoding="async"></figure>
+:::
 
 ### 9. 禪宗建築 {#vi-9}
 
 12世紀末以後禪宗發展，帶來宋代中國的新建築參照。大型禪寺常採更強的軸線秩序，依次配置三門、佛殿、法堂、僧堂、庫院等專門建築。這種配置反映有嚴格規律的共同生活，以及坐禪、勞作、教學相結合的日常制度。禪宗建築並非一味簡樸，斗栱、屋頂與山門都可十分精緻。真正重要的是每座建物功能明確，整體層級能透過中軸清楚閱讀。京都禪寺中，庭園尤其重要，砂、石與殿堂形成密切的觀照空間。中國影響在日本木構、緣廊與庭園關係中重新被地方化。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_9"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_9 >}}" alt="禪宗建築" loading="lazy" decoding="async"></figure>
+:::
 
 ### 10. 日本佛堂與庭園 {#vi-10}
 
 日本佛堂發展出與庭園及近景極為緊密的關係。木構建築可利用推拉或可拆卸門板大幅開放立面，削弱室內與室外的分界。緣廊、深簷與高床形成中介空間，讓庭園像畫面一樣被框取。京都寺院中，這種觀看關係成為宗教體驗的重要部分。建物不一定要支配自然，也可以成為觀看自然的裝置。這一特徵在禪寺特別突出，但並不限於禪宗。日本佛堂的意義不只在建築體量本身，也在它如何安排視線、過濾光線、製造門檻與把庭園納入靜觀。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_10"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_10 >}}" alt="日本佛堂與庭園" loading="lazy" decoding="async"></figure>
+:::
 
 ### 11. 三重塔、五重塔與多寶塔 {#vi-11}
 
 日本是東亞保存木塔傳統最完整的地區之一。三重塔與五重塔延續窣堵波向垂直塔轉化的東亞系譜，同時深度適應日本木作。心柱在許多塔中具有象徵與結構作用。各層不像西方塔樓那樣主要供居住，而是圍繞神聖中軸反覆疊加屋頂與構架，形成垂直節奏。法隆寺保存早期五重塔，藥師寺東塔則以三個主要樓層加上裳階，形成六重屋簷般的效果。日本還發展多寶塔，下層為方形，上部為近圓形軀體，與密教關係深厚。它證明日本能在維持垂直舍利塔基本概念的同時，創造新的建築類型。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_11"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_11 >}}" alt="三重塔、五重塔與多寶塔" loading="lazy" decoding="async"></figure>
+:::
 
 ### 12. 日本建築的延續與特性 {#vi-12}
 
 日本佛教建築的重要特徵是木構傳統長期延續，但延續不等於不變。寺院不斷修理、拆解、重建、擴建與移築，現存建物常混合不同時代部材。保存因此不只依靠古木料，更依靠工藝技術的傳承。這種方式也適合地震、火災與颱風頻繁的環境，木構的柔性與可更換部材有利於長期存續。日本同時保存都市寺院、山岳寺院、木塔、大佛殿、密教伽藍、淨土庭園與禪寺。沒有一種模式完全取代前一種，因此日本佛教建築史可理解為多種宗教空間疊加在同一木構技術文化之上的歷史。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_vi.section_12"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_vi.section_12 >}}" alt="日本建築的延續與特性" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
