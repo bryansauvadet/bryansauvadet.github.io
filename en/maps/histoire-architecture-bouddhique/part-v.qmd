@@ -6,48 +6,64 @@
 
 Korean monastic architecture carefully distinguishes buildings by function and rank. The hierarchy is visible first in placement: the most important structures generally stand deeper within the complex, often to the north of the main court, while service buildings occupy more lateral positions. It also appears in terminology. Chŏn (殿) is reserved for higher-ranking halls dedicated to Buddhas and major bodhisattvas; the same word is used for palace halls and therefore underlines the sovereign dignity of the figure enshrined. Kak (閣) commonly designates lower-ranking or specialised buildings, for example those housing protective deities, portraits, or local cults. Nu (樓) refers to upper-storeyed or open structures such as bell pavilions. Tang (堂) and ryo (寮) are more closely associated with residence, study, kitchens, or administration and fall within the broader category of yosa buildings. Decoration follows this hierarchy. Important cult halls usually receive elaborate tanch’ŏng (丹靑) polychromy, while residential buildings may remain much more restrained. The monastery can therefore be read as an architectural society: every building has a status, a name, and a position expressing its role in the whole.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_1 >}}" alt="Hierarchy of monastic buildings" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. Hanok structure and timber construction {#v-2}
 
 The hanok relies on a timber-frame system in which posts, beams, and bracket elements form the true structural skeleton. Walls are generally not the main load-bearing elements; they close the spaces between the wooden members and can therefore be repaired or altered more easily. This gives the architecture considerable flexibility but also requires careful protection of timber. Columns rest on stone bases to avoid direct contact with ground moisture, while broad roofs throw rainwater away from walls and structural elements. Joinery is another essential feature. Instead of depending solely on metal nails, timbers are cut so that pieces interlock, distributing the load of heavy tiled roofs and allowing individual elements to be dismantled or replaced. The longevity of a wooden building therefore does not mean that every component is original. It depends on a tradition of maintenance, repair, and substitution. This is particularly important in monasteries, where the value of a building also lies in the continuity of the sacred site. Buddhist hanok architecture should thus be understood as an evolving structure: stable in its architectural system, yet materially renewed through centuries of care.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_2 >}}" alt="Hanok structure and timber construction" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. Buddhism and the preservation of Koryŏ (高麗) architecture {#v-3}
 
 The few surviving buildings attributed to Koryŏ (高麗) show how decisive monasteries were in preserving medieval Korean architecture. A building six or seven centuries old cannot retain all of its original physical components. Tiles are renewed, damaged rafters and posts replaced, and parts of the frame dismantled and reassembled. Historical identity therefore resides as much in continuity of plan, technique, and proportion as in the age of every piece of wood. Major examples include the Kŭngnakjŏn (極樂殿) at Pongjŏng-sa (鳳停寺), the Taeungjŏn (大雄殿) at Sudŏk-sa (修德寺), the Yŏngsanjŏn (靈山殿) of Kŏjo-am (居祖庵), and the Muryangsujŏn (無量壽殿) at Pusŏk-sa (浮石寺). These buildings provide crucial evidence for bracket systems, proportions, interior organisation, and the relationship between frame and roof. That many of Korea’s oldest surviving structures are Buddhist reflects the institutional continuity of monasteries. Even when dynasties changed, religious communities could continue to maintain buildings regarded as sacred. Successive repairs became the very condition of survival. The historian must therefore move beyond an overly rigid idea of the “original.” Timber architecture is living heritage whose antiquity is produced through a chain of maintenance practices. Monasteries preserve not only forms but also craft knowledge transmitted over generations.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_3 >}}" alt="Buddhism and the preservation of Koryŏ (高麗) architecture" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. Koryŏ (高麗) and Chosŏn (朝鮮): chusimp’o (柱心包) and tap’o (多包) {#v-4}
 
 Comparing Koryŏ (高麗) and Chosŏn (朝鮮) architecture through a simple narrative of progress is misleading. The chusimp’o (柱心包) and tap’o (多包) bracket systems represent different solutions to the relationship among columns, beams, and roof. In chusimp’o (柱心包), bracket clusters are concentrated mainly above the columns. Structure remains highly legible: each support point corresponds clearly to a vertical member, and the intervals between columns retain visual importance. This system is often associated with surviving Koryŏ (高麗) buildings and creates an impression of restraint and concentration. Tap’o, by contrast, multiplies brackets between columns. The roof line is supported by a denser succession of structural members, distributing loads and allowing substantial eaves. The façade also becomes more decorative, especially when tanch’ŏng highlights each component. Tap’o became widespread under Chosŏn (朝鮮), particularly in large cult halls. It should not, however, be treated as a “superior” version of chusimp’o (柱心包). Each system embodies a distinct structural logic and aesthetic. Comparison is further complicated by the scarcity of untouched Koryŏ (高麗) buildings: surviving monuments often combine older frames with later repairs. Architectural history must therefore distinguish construction systems, restoration phases, and aesthetic values without reducing them to linear evolution.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_4 >}}" alt="Koryŏ (高麗) and Chosŏn (朝鮮): chusimp’o (柱心包) and tap’o (多包)" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. Roof forms {#v-5}
 
 The roof is one of the strongest visual components of the Korean Buddhist hall. It first responds to climate: adequate pitch sheds rain and snow, while deep eaves protect walls and the timber frame. Yet the roof also expresses rank and function. Matpae chibung is a simple gabled roof in which the gable ends remain visible; p’ungp’an boards may protect the sides. P’alchak chibung, equivalent to a hipped-and-gabled roof, extends over all four sides and produces a more complex and dynamic silhouette. It is frequent on high-ranking halls, though this does not mean it is technically “better.” Square or polygonal buildings may use pyramidal roofs converging on a summit, sometimes capped by a chŏlbyŏngt’ong. Roofing material also contributes to appearance. Under Koryŏ (高麗), glazed tiles, sometimes close to celadon in colour and finish, are attested at prestigious sites. Under Chosŏn (朝鮮), dark tiles became more common and created an undulating surface emphasising the curves of the roof. The roof is therefore simultaneously climatic protection, structural expression, and marker of prestige. Its scale often dominates the wall volume and gives the building its character before the interior decoration can even be seen.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_5 >}}" alt="Roof forms" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. Doors, windows, and floral latticework {#v-6}
 
 The façades of Buddhist halls use doors, windows, and latticework to organise circulation, light, and ritual meaning. Domestic buildings may use relatively small openings to conserve heat, but Buddha halls need to receive assemblies, make the interior visible, and open broadly during ceremonies. Their façades can therefore consist almost entirely of movable panels. Not every bay functions equally: the central entrance often has higher ceremonial status, while everyday circulation may take place through side doors. Wooden latticework becomes a major decorative surface. Diagonal pisal patterns create a dynamic geometry, while kkotsal develop floral compositions of lotus, peony, and other flowers. Some are carved directly into the lattice pieces; others are attached separately. The decoration is not purely ornamental. Offering flowers and perfume is an ancient Buddhist ritual act, so a façade covered in floral patterns can be understood as a permanent offering to the figures inside. Light filtered through paper and lattice also shapes the interior atmosphere. The architectural threshold thus becomes an interface between outer and sacred space, between physical opening and symbolic offering.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_6 >}}" alt="Doors, windows, and floral latticework" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. From brick floors to timber floors {#v-7}
 
 Korean Buddhist halls did not always have the timber floors now associated with their interiors. Before ondol (溫突) heating became widespread in domestic life, people more often kept their shoes on inside, and cult halls could use brick or tile floors. Such surfaces resisted traffic by shod visitors and corresponded to practices shared with other parts of East Asia. The spread of ondol (溫突) gradually transformed domestic habits: heated floors implied removing shoes to keep the interior clean. This convention entered religious spaces and changed ritual behaviour. Full prostration became more comfortable on a clean surface, but another problem emerged: sacred halls were generally not heated because of fire risk and religious conventions, so brick floors could be extremely cold in winter. The maru, a raised timber floor with an air space beneath it, offered an effective solution. It insulated the body from the ground without direct heating. A change in material therefore had ritual consequences. The way one entered, sat, prostrated, and moved through the hall changed with the adoption of timber flooring. Cult architecture was not isolated from domestic culture: a technology associated with heating houses ultimately reshaped the physical experience of monastic devotion.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_7 >}}" alt="From brick floors to timber floors" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. Halls of Buddhas and bodhisattvas {#v-8}
 
 The names of monastic halls allow Buddhist cosmology to be read directly in architecture. Taeungjŏn (大雄殿) is generally dedicated to Śākyamuni, while other buildings foreground figures connected to different worlds, times, or doctrines. Amitābha, Buddha of the Western Pure Land, may be enshrined in a Muryangsujŏn (無量壽殿) or Kŭngnakjŏn (極樂殿). Bhaiṣajyaguru, the Medicine Buddha, appears in a Yaksajŏn (藥師殿) or Yurijŏn (瑠璃殿). Vairocana, associated with the Dharma body and Huayan (華嚴) cosmology, is honoured in a Taejŏkkwangjŏn (大寂光殿), Pirojŏn (毘盧殿), or Hwaŏmjŏn (華嚴殿). Avalokiteśvara receives halls such as Kwanŭmjŏn (觀音殿) or Wŏnt’ongjŏn (圓通殿), while Kṣitigarbha is enshrined in the Chijangjŏn (地藏殿). Other buildings, including P’alsangjŏn (八相殿), Yŏngsanjŏn (靈山殿), Ŭngjinjŏn (應眞殿), and Nahanjŏn (羅漢殿), organise the memory of Śākyamuni’s life and his disciples. These names are not interchangeable: they reveal hierarchy and doctrinal orientation. A monastery centred on Vairocana does not narrate the same religious world as one centred on Amitābha. Architecture becomes a theological map in which each courtyard and hall materialises a different figure, world, or doctrinal emphasis.
 
-<div class="hab-illustration-slot">Illustration forthcoming</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_8 >}}" alt="Halls of Buddhas and bodhisattvas" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
