@@ -6,48 +6,64 @@
 
 韓國寺院建築會依功能與地位清楚區分建物。重要殿堂通常位於主要庭院較深處或北側，生活與管理建築則多在側邊。名稱本身也表現等級。「殿」多用於供奉佛與主要菩薩的高等級建築，與宮殿的「殿」共用同一字，凸顯所奉神聖人物的至尊地位。「閣」常用於較小或專門的祭祀空間，例如山神、祖師與地方信仰；「樓」多指鐘樓等有上層或開放性的建物；「堂」與 「寮」則更接近日常居住、學習、廚房與行政功能。丹靑也遵循這種層級，主要佛殿往往色彩華麗，生活建築則較為節制。寺院因此不是一堆彼此獨立的房舍，而是一套由名稱、位置、裝飾與功能共同建立的空間秩序。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_1 >}}" alt="寺院建築的等級" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. 韓屋結構與木構技術 {#v-2}
 
 韓屋以柱、梁與斗栱構成主要骨架。牆體通常不承擔最主要的結構荷重，而是填充柱間，因此容易更換或調整。這種靈活性也意味木材必須受到良好保護。柱子放在石礎上，避免直接接觸地面濕氣；寬大的屋頂與深簷則把雨水帶離牆面與木構。榫卯與接合技術同樣重要，木件不完全依賴鐵釘，而是彼此咬合以分散沉重瓦頂的重量，受損部材也能拆換。於是，一座數百年木構建築的「古老」並不表示所有木料都是創建時原件。真正延續的是平面、結構原理、比例與修繕技術。對寺院而言，神聖場所的連續性尤其重要，數世紀不斷進行的維護本身就是保存方式。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_2 >}}" alt="韓屋結構與木構技術" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. 佛教與高麗建築的保存 {#v-3}
 
 現存少數可追溯至高麗的木構建築，是理解韓國中世建築的重要實物。鳳停寺 極樂殿、修德寺 大雄殿、銀海寺 居祖庵 靈山殿與 浮石寺 無量壽殿等最具代表性。這些建築在數百年間不斷換瓦、更換腐朽椽木與柱子，部分架構也會拆解再組裝。因此，歷史身份不只取決於每根木料是否為原件，而更在於平面、結構體系、比例與工藝傳承是否延續。寺院之所以能保存許多古建築，與宗教共同體在政權更替後仍持續維護神聖建物有關。反覆修繕並不是破壞其真實性，而是木構建築能夠存續的條件。這些殿堂同時保存了斗栱、室內空間與屋架關係等重要資訊，也保存跨世代傳承的木作知識。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_3 >}}" alt="佛教與高麗建築的保存" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. 高麗與朝鮮：柱心包 與 多包 {#v-4}
 
 若用單線式「進步」觀比較高麗與朝鮮建築，很容易誤解 柱心包 與 多包 的差異。柱心包 將斗栱主要集中在柱頭，柱、斗栱與柱間空隙之間的關係非常清楚，常見於高麗系古建築，給人節制而集中之感。多包 則在柱間也增設斗栱，使屋頂荷重分配得更密，並可支撐較深屋簷與更複雜的立面。朝鮮時代大型佛殿廣泛使用此制，與丹靑結合後裝飾性尤其突出。但 多包 並不代表比 柱心包「更進步」；兩者是不同的結構與美學選擇。況且現存高麗建築多經後代修繕，同一座建物可能同時包含不同時期部材。真正需要比較的是結構邏輯、修繕層次與美感，而不是高低優劣。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_4 >}}" alt="高麗與朝鮮：柱心包 與 多包" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. 屋頂形式 {#v-5}
 
 屋頂是韓國佛殿最強烈的視覺元素之一。首先它回應氣候：適當坡度排走雨雪，深簷保護牆壁與木架。懸山式屋頂 接近切妻頂，兩側山牆外露，形式相對簡潔；歇山式屋頂 接近歇山頂，四周都有屋面並保留山牆，輪廓更複雜。方形或多角形平面的建築也會使用攢尖式屋頂，頂部有時安置 節甁桶。覆瓦材料也呈現時代特徵，高麗部分高級建築可見施釉瓦，朝鮮時代則以深色瓦更為普遍。屋頂同時是氣候裝置、結構表現與建築等級的視覺標記；在許多佛殿中，它的體量甚至遠大於牆面，成為整座建物最先被看見的部分。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_5 >}}" alt="屋頂形式" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. 門窗與花格 {#v-6}
 
 佛殿門窗同時組織出入、採光與儀式。住宅可為保溫而縮小開口，但佛殿需要接納大眾，法會時也要大幅敞開室內，因此正面有時幾乎完全由可開啟的門窗構成。各開間並非地位相同：中央門常具有較高儀式性，日常出入則可能走側門。木格子成為重要裝飾面，斜格創造幾何節奏，花格則以蓮花、牡丹等形成複雜圖樣。由於供花是佛教古老儀式，花格可理解為永久存在的視覺供養，而不只是裝飾。紙與格子過濾出的柔和光線也塑造佛殿內部氣氛，使門窗成為俗世與聖域之間的中介面。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_6 >}}" alt="門窗與花格" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. 從磚地到木地板 {#v-7}
 
 今天韓國佛殿常見的木地板並不一定自古如此。溫突尚未普及於住宅時，人們在室內較常穿鞋，佛殿也可能鋪設磚或地磚。隨著溫突生活普及，入室脫鞋成為習慣，這種文化也進入寺院。乾淨地面更適合跪拜與五體投地，但佛殿因火災危險等原因通常不設溫突，冬季磚地非常冰冷。抬高的木質 maru 地板以空氣層隔絕地面寒氣，是不直接加熱即可改善體感的方案。地板材料的改變因此帶來儀式行為的改變：脫鞋、席地而坐、禮拜的方式逐漸固定。住宅的取暖文化最終改變了宗教空間中的身體實踐。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_7 >}}" alt="從磚地到木地板" loading="lazy" decoding="async"></figure>
+:::
 
 ### 8. 佛與菩薩的殿堂 {#v-8}
 
 從寺院殿堂名稱即可讀出佛教宇宙論與教義取向。大雄殿通常供奉釋迦牟尼；阿彌陀佛可奉於無量壽殿或極樂殿，藥師如來於藥師殿或瑠璃殿，毘盧遮那佛則常見於大寂光殿、毘盧殿或華嚴殿。觀音菩薩有觀音殿或圓通殿，地藏菩薩則有地藏殿。八相殿、靈山殿、應真殿與羅漢殿則以不同方式組織釋迦生平與弟子信仰。這些名稱不是可任意互換的裝飾性稱呼，而是寺院教理中心的標記。以毘盧遮那為核心的寺院，與以阿彌陀為中心的寺院，不會構成相同的空間敘事。行走寺院並閱讀殿名與位置，就像沿著一張神學地圖前進。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_v.section_8"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_v.section_8 >}}" alt="佛與菩薩的殿堂" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
