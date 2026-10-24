@@ -3,7 +3,7 @@
 ::: {.hab-shell}
 <header class="hab-chapter-head">
 <span>VII</span>
-<div><div class="hab-kicker">Vietnam · 12 sous-parties</div><h2 id="vietnam">Vietnam — Formation et transformations de l’architecture bouddhique vietnamienne</h2></div>
+<div><div class="hab-kicker">Vietnam · 13 sous-parties</div><h2 id="vietnam">Vietnam — Formation et transformations de l’architecture bouddhique vietnamienne</h2></div>
 </header>
 
 ### 1. Introduction du bouddhisme au Vietnam {#vii-1}
@@ -72,12 +72,26 @@ La pagode Thiên Mụ <span class="hab-han" lang="vi">天姥寺</span>, sur une 
 
 {{< hab-image illustrations.part_vii.section_11 alt="Huế et la pagode Thiên Mụ &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;天姥寺&lt;/span&gt;" >}}
 
-### 12. Syncrétisme religieux et pluralité des autels {#vii-12}
+### 12. Le Sud : Gia Định–Saigon et le delta du Mékong {#vii-12}
+
+Dans le Sud, l’histoire de l’architecture bouddhique ne suit ni exactement la chronologie du delta du fleuve Rouge ni celle de Huế. À partir des XVIIe et XVIIIe siècles, la formation de Gia Định et l’expansion des réseaux vietnamiens vers le Sud font entrer les traditions mahāyāna dans une région déjà marquée par des populations khmères et chinoises, par les circulations fluviales et par les échanges maritimes. Les monastères du Sud doivent donc être lus comme des architectures de contact.
+
+Chùa Giác Lâm, fondé en 1744 sur le gò Cẩm Sơn, constitue un point de référence majeur. Devenu un tổ đình de la lignée Lâm Tế et un centre de formation pour les moines de Gia Định et du Nam Bộ, il conserve un plan en forme de caractère tam (三) associant chánh điện, giảng đường et nhà trai. Sa charpente de bois, ses vastes toitures basses, ses cours et la densité de son décor intérieur donnent une image très différente de la monumentalité verticale d’une grande tour. Giác Lâm montre surtout qu’un monastère méridional peut être à la fois centre de lignée, lieu d’enseignement, espace rituel et dépôt d’un patrimoine sculpté.
+
+Chùa Giác Viên, développé à partir d’un petit sanctuaire lié à Giác Lâm puis reconstruit et renommé au XIXe siècle, prolonge ce réseau. Son ossature de bois, ses tuiles âm dương et ses sculptures de fruits et de végétaux typiques du Nam Bộ témoignent d’une esthétique profondément régionale. À la fin du XIXe siècle, le monastère devient également un centre de cérémonies et de formation rayonnant vers les provinces du delta.
+
+Plus au sud-ouest, le delta du Mékong oblige à élargir encore la définition de l’architecture bouddhique vietnamienne. À Sóc Trăng, Chùa Kh’leang et Chùa Dơi — Mahatup — appartiennent à la tradition theravāda khmère ; à Trà Vinh, Chùa Âng constitue un autre exemple majeur. Ici, le chánh điện ou Preah Vihea est souvent isolé au centre d’un vaste enclos planté, élevé sur un soubassement et couvert de toitures très pentues à plusieurs niveaux. Nāga, Krud, kinnara et scènes de la vie du Bouddha structurent le décor. Autour du sanctuaire s’organisent sala, logements des moines, stoupas funéraires et espaces d’enseignement. Le monastère n’est donc pas seulement un lieu de culte : il sert aussi de centre culturel, éducatif et communautaire pour les villages khmers.
+
+Le Sud ne forme ainsi pas un « style » unique. Entre les monastères mahāyāna vietnamiens de Gia Định–Saigon et les ensembles theravāda khmers du delta, il révèle au contraire la pluralité religieuse, ethnique et constructive qui caractérise l’histoire bouddhique du Nam Bộ.
+
+{{< hab-image illustrations.part_vii.section_12 alt="Le Sud : Gia Định–Saigon et le delta du Mékong" >}}
+
+### 13. Syncrétisme religieux et pluralité des autels {#vii-13}
 
 L’un des traits les plus frappants de nombreux monastères vietnamiens est la densité et la pluralité de leurs espaces cultuels. Le sanctuaire principal peut réunir plusieurs Bouddhas correspondant au passé, au présent et au futur, des bodhisattvas, des arhats et des figures protectrices. À ces ensembles bouddhiques peuvent s’ajouter des maîtres locaux, des divinités populaires ou des cultes liés aux ancêtres. Cette pluralité ne doit pas être interprétée comme un manque de cohérence. Elle reflète une longue histoire d’intégration entre le bouddhisme <span class="hab-han" lang="vi">佛教</span>, les traditions locales, le confucianisme <span class="hab-han" lang="vi">儒教</span> et le taoïsme <span class="hab-han" lang="vi">道教</span>. L’architecture doit donc accueillir plusieurs niveaux de dévotion. Les autels se disposent en profondeur et en hauteur ; les salles antérieures peuvent recevoir les gardiens tandis que les figures les plus importantes occupent le fond du sanctuaire. Des bâtiments latéraux complètent parfois le dispositif pour des cultes spécialisés. Le parcours du visiteur devient ainsi une lecture progressive d’un panthéon complexe. Cette organisation diffère d’un monastère centré sur une seule image principale et contribue à la profondeur caractéristique de nombreux chùa vietnamiens. Elle explique également pourquoi les transformations historiques sont si fréquentes : lorsqu’un culte gagne en importance, un autel ou un pavillon peut être ajouté sans que l’ensemble ancien soit nécessairement supprimé. Le monastère devient un espace stratifié, accumulant les mémoires religieuses. Cette capacité d’intégration constitue l’une des spécificités majeures du bouddhisme vietnamien et offre une clé essentielle pour comprendre la richesse de son architecture intérieure.
 
-{{< hab-image illustrations.part_vii.section_12 alt="Syncrétisme religieux et pluralité des autels" >}}
+{{< hab-image illustrations.part_vii.section_13 alt="Syncrétisme religieux et pluralité des autels" >}}
 
-<div class="hab-source-note"><strong>Sources complémentaires :</strong> Musée national d’Histoire du Vietnam, dossiers sur Luy Lâu, l’architecture traditionnelle et les pagodes ; Vietnam National Authority of Tourism, documentation sur Chùa Một Cột ; UNESCO, documentation sur Thiên Mụ et l’ensemble monumental de Huế.</div>
+<div class="hab-source-note"><strong>Sources complémentaires :</strong> Musée national d’Histoire du Vietnam, dossiers sur Luy Lâu, l’architecture traditionnelle et les pagodes ; Vietnam National Authority of Tourism, documentation sur Chùa Một Cột, Giác Lâm, Kh’leang, Chùa Dơi et Chùa Âng ; Ville de Hô Chi Minh, documentation patrimoniale sur Giác Viên ; UNESCO, documentation sur Thiên Mụ et l’ensemble monumental de Huế.</div>
 :::
 :::

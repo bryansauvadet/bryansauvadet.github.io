@@ -1,6 +1,6 @@
 ::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Việt Nam · 12 mục</div><h2 id="vietnam">Việt Nam — Sự hình thành và biến đổi của kiến trúc Phật giáo Việt Nam</h2></div></header>
+<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Việt Nam · 13 mục</div><h2 id="vietnam">Việt Nam — Sự hình thành và biến đổi của kiến trúc Phật giáo Việt Nam</h2></div></header>
 
 ### 1. Phật giáo du nhập vào Việt Nam {#vii-1}
 
@@ -68,10 +68,24 @@ Chùa Thiên Mụ 天姥寺 nằm trên cao nhìn xuống Hương Giang 香江 v
 
 {{< hab-image illustrations.part_vii.section_11 alt="Huế và chùa Thiên Mụ 天姥寺" >}}
 
-### 12. Dung hợp tôn giáo và hệ thống bàn thờ đa tầng {#vii-12}
+### 12. Miền Nam: Gia Định–Sài Gòn và đồng bằng sông Cửu Long {#vii-12}
+
+Lịch sử kiến trúc Phật giáo ở miền Nam không phát triển theo cùng nhịp với đồng bằng sông Hồng hay Huế. Từ thế kỷ XVII–XVIII, cùng với sự hình thành vùng Gia Định và quá trình người Việt tiến về phương Nam, các mạng lưới Phật giáo Đại thừa được thiết lập trong một không gian vốn đã có cộng đồng Khmer, người Hoa, giao thông đường sông và trao đổi hàng hải. Vì vậy, chùa ở Nam Bộ nên được nhìn như kiến trúc của một vùng tiếp xúc văn hóa.
+
+Chùa Giác Lâm, khởi dựng năm 1744 trên gò Cẩm Sơn, là một trường hợp tiêu biểu. Chùa trở thành tổ đình của dòng Lâm Tế và là một trung tâm đào tạo tăng sĩ quan trọng ở Gia Định và Nam Bộ. Mặt bằng hiện nay mang dạng chữ tam (三), gồm chánh điện, giảng đường và nhà trai. Khung gỗ, mái thấp và rộng, sân chùa cùng hệ thống tượng, bao lam, hoành phi và trang trí nội thất tạo nên một không gian khác hẳn kiểu kiến trúc nhấn mạnh chiều cao của tháp. Giác Lâm cho thấy một ngôi chùa Nam Bộ có thể đồng thời là trung tâm truyền thừa, nơi giảng dạy, không gian nghi lễ và nơi lưu giữ nghệ thuật điêu khắc.
+
+Chùa Giác Viên phát triển từ một am nhỏ có quan hệ với Giác Lâm, sau đó được xây dựng lại và đổi tên vào thế kỷ XIX. Bộ khung gỗ, mái ngói âm dương và các mảng chạm khắc hoa trái đặc trưng Nam Bộ thể hiện rõ tính địa phương. Cuối thế kỷ XIX, chùa cũng trở thành một trung tâm nghi lễ và đào tạo có ảnh hưởng tới nhiều tỉnh trong đồng bằng sông Cửu Long.
+
+Xuống sâu hơn về phía tây nam, kiến trúc Phật giáo Khmer làm cho bức tranh Nam Bộ càng đa dạng. Ở Sóc Trăng, Chùa Kh’leang và Chùa Dơi — Mahatup — thuộc truyền thống Phật giáo Theravāda Khmer; tại Trà Vinh, Chùa Âng là một ví dụ quan trọng khác. Chánh điện, hay Preah Vihea, thường đứng tương đối độc lập trong khuôn viên rộng nhiều cây xanh, đặt trên nền cao và mang hệ mái dốc nhiều tầng. Hình tượng Nāga, Krud, kinnara và các cảnh kể cuộc đời Đức Phật tạo thành hệ trang trí đặc trưng. Xung quanh chánh điện là sala, tăng xá, tháp tro cốt và không gian giảng dạy. Vì thế, chùa Khmer không chỉ là nơi hành lễ mà còn là trung tâm văn hóa, giáo dục và sinh hoạt cộng đồng.
+
+Miền Nam vì vậy không thể được quy về một “phong cách” duy nhất. Sự cùng tồn tại của chùa Đại thừa người Việt ở Gia Định–Sài Gòn và các quần thể Theravāda Khmer trong đồng bằng cho thấy rõ tính đa dạng tôn giáo, tộc người và kiến trúc của Phật giáo Nam Bộ.
+
+{{< hab-image illustrations.part_vii.section_12 alt="Miền Nam: Gia Định–Sài Gòn và đồng bằng sông Cửu Long" >}}
+
+### 13. Dung hợp tôn giáo và hệ thống bàn thờ đa tầng {#vii-13}
 
 Một đặc điểm nổi bật của nhiều chùa Việt là mật độ và tính đa dạng của không gian thờ. Điện chính có thể đồng thời chứa nhiều Phật thuộc quá khứ, hiện tại và tương lai, Bồ-tát, La-hán và hộ pháp; bên cạnh đó là tổ sư, thần địa phương hoặc thờ tổ tiên. Sự đa dạng này không phải thiếu nhất quán mà phản ánh lịch sử tương tác lâu dài giữa Phật giáo 佛教, Nho giáo 儒教, Đạo giáo 道教 và tín ngưỡng bản địa. Kiến trúc phải chứa nhiều cấp thờ: bàn thờ được xếp theo chiều sâu và chiều cao, khu trước có hộ pháp còn nhân vật quan trọng hơn ở phía sau; những điện bên bổ sung các tín ngưỡng chuyên biệt. Khi một tín ngưỡng mới trở nên quan trọng, có thể thêm bàn thờ hay nhà mới mà không xóa hoàn toàn cấu trúc trước. Chùa vì thế là không gian phân tầng, tích lũy ký ức tôn giáo của nhiều thời kỳ.
 
-{{< hab-image illustrations.part_vii.section_12 alt="Dung hợp tôn giáo và hệ thống bàn thờ đa tầng" >}}
+{{< hab-image illustrations.part_vii.section_13 alt="Dung hợp tôn giáo và hệ thống bàn thờ đa tầng" >}}
 :::
 :::

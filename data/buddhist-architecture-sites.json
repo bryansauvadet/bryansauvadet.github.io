@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated": "2026-10-19",
-  "count": 46,
+  "generated": "2026-10-24",
+  "count": 51,
   "items": [
     {
       "id": "grdhrakuta",
@@ -855,6 +855,109 @@
         "Phuoc Duyen"
       ],
       "anchor": "vii-11"
+    },
+    {
+      "id": "giac-lam",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 10.7794,
+      "lng": 106.6492,
+      "name": "Chùa Giác Lâm",
+      "native": "Chùa Giác Lâm · 覺林寺",
+      "place": "TP. Hồ Chí Minh / Saigon · Gia Định historique",
+      "related": [
+        "tổ đình Lâm Tế",
+        "plan en chữ tam 三",
+        "centre bouddhique du Nam Bộ"
+      ],
+      "aliases": [
+        "Giac Lam Pagoda",
+        "Giac Lam Temple",
+        "Tổ đình Giác Lâm"
+      ],
+      "anchor": "vii-12"
+    },
+    {
+      "id": "giac-vien",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 10.76302,
+      "lng": 106.63924,
+      "name": "Chùa Giác Viên",
+      "native": "Chùa Giác Viên",
+      "place": "TP. Hồ Chí Minh / Saigon",
+      "related": [
+        "réseau de Giác Lâm",
+        "sculpture sur bois du Nam Bộ"
+      ],
+      "aliases": [
+        "Giac Vien Pagoda",
+        "Giác Viên Pagoda"
+      ],
+      "anchor": "vii-12"
+    },
+    {
+      "id": "khleang",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 9.6102,
+      "lng": 105.9768,
+      "name": "Chùa Kh’leang",
+      "native": "Chùa Kh’leang",
+      "place": "Sóc Trăng · delta du Mékong",
+      "related": [
+        "monastère khmer theravāda",
+        "Preah Vihea"
+      ],
+      "aliases": [
+        "Khleang Pagoda",
+        "Kh'leang Pagoda",
+        "Wat Kh'leang"
+      ],
+      "anchor": "vii-12"
+    },
+    {
+      "id": "mahatup",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 9.57894,
+      "lng": 105.9722,
+      "name": "Chùa Dơi / Mahatup",
+      "native": "Wath Sêrâytêchô Mahatup",
+      "place": "Sóc Trăng · delta du Mékong",
+      "related": [
+        "Chùa Dơi",
+        "monastère khmer theravāda",
+        "Nāga"
+      ],
+      "aliases": [
+        "Bat Pagoda",
+        "Mahatup Pagoda",
+        "Chua Doi",
+        "Chùa Mã Tộc"
+      ],
+      "anchor": "vii-12"
+    },
+    {
+      "id": "ang-pagoda",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 9.9158,
+      "lng": 106.3036,
+      "name": "Chùa Âng",
+      "native": "Wat Angkor Raig Borei",
+      "place": "région de Trà Vinh · delta du Mékong",
+      "related": [
+        "monastère khmer theravāda",
+        "Preah Vihea",
+        "Ao Bà Om"
+      ],
+      "aliases": [
+        "Ang Pagoda",
+        "Chua Ang",
+        "Wat Angkor Raig Borei"
+      ],
+      "anchor": "vii-12"
     }
   ]
 }

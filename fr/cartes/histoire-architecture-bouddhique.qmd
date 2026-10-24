@@ -49,7 +49,7 @@ format:
 
         <div class="hab-stats" aria-label="Structure du dossier">
           <div><strong>8</strong><span>grandes parties</span></div>
-          <div><strong>69</strong><span>sous-parties</span></div>
+          <div><strong>70</strong><span>sous-parties</span></div>
           <div><strong>5</strong><span>traditions régionales</span></div>
         </div>
       </div>
@@ -178,7 +178,7 @@ format:
             <li><a href="#vii-9">La toiture vietnamienne</a></li>
             <li><a href="#vii-10">Architecture et paysage</a></li>
             <li><a href="#vii-11">Huế et la pagode Thiên Mụ <span class="hab-han" lang="vi">天姥寺</span></a></li>
-            <li><a href="#vii-12">Syncrétisme religieux et pluralité des autels</a></li>
+            <li><a href="#vii-12">Le Sud : Gia Định–Saigon et le delta du Mékong</a></li><li><a href="#vii-13">Syncrétisme religieux et pluralité des autels</a></li>
           </ol>
         </div>
 
@@ -205,7 +205,7 @@ format:
           <h2 id="hab-sites-map-title" data-hab-map-copy="title">Carte interactive des sites bouddhiques</h2>
           <p data-hab-map-copy="intro">Explorez les monuments, monastères, sites archéologiques, grottes et paysages sacrés à travers l’Inde, la Chine, la Corée, le Japon et le Vietnam. Les monuments appartenant à une même enceinte sont regroupés sous un même point.</p>
         </div>
-        <div class="hab-map-count" id="buddhist-architecture-sites-count">46 sites</div>
+        <div class="hab-map-count" id="buddhist-architecture-sites-count">51 sites</div>
       </div>
       <div class="hab-map-filters" aria-label="Filtres de la carte">
         <label><span data-hab-map-copy="search">Recherche</span><input id="hab-map-search" type="search" placeholder="Monument, ville, région…"></label>

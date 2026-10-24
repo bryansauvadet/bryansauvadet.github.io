@@ -1,6 +1,6 @@
 ::: {.hab-chapter .hab-vietnam}
 ::: {.hab-shell}
-<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Vietnam · 12 subsections</div><h2 id="vietnam">Vietnam — Formation and transformations of Vietnamese Buddhist architecture</h2></div></header>
+<header class="hab-chapter-head"><span>VII</span><div><div class="hab-kicker">Vietnam · 13 subsections</div><h2 id="vietnam">Vietnam — Formation and transformations of Vietnamese Buddhist architecture</h2></div></header>
 
 ### 1. The introduction of Buddhism to Vietnam {#vii-1}
 
@@ -68,11 +68,25 @@ Thiên Mụ Pagoda <span class="hab-han" lang="vi">天姥寺</span>, set on a he
 
 {{< hab-image illustrations.part_vii.section_11 alt="Huế and Thiên Mụ Pagoda &lt;span class=&quot;hab-han&quot; lang=&quot;vi&quot;&gt;天姥寺&lt;/span&gt;" >}}
 
-### 12. Religious syncretism and plurality of altars {#vii-12}
+### 12. The South: Gia Định–Saigon and the Mekong Delta {#vii-12}
+
+In southern Vietnam, the history of Buddhist architecture follows neither the chronology of the Red River delta nor that of Huế. From the seventeenth and eighteenth centuries onward, the formation of Gia Định and the southward expansion of Vietnamese networks brought Mahāyāna institutions into a region already shaped by Khmer and Chinese communities, river traffic, and maritime exchange. Southern monasteries are therefore best understood as architectures of contact.
+
+Chùa Giác Lâm, founded in 1744 on Cẩm Sơn Mound, is a crucial reference point. It became an ancestral monastery of the Lâm Tế lineage and an important centre for monastic training in Gia Định and southern Vietnam. Its present layout follows the form of the character tam (三), linking the main sanctuary, preaching hall, and refectory. Timber framing, broad low roofs, courtyards, and a dense sculptural interior produce an architectural effect very different from the vertical monumentality of a major tower. Giác Lâm shows how a southern monastery could simultaneously function as a lineage centre, teaching institution, ritual space, and repository of carved and painted religious art.
+
+Chùa Giác Viên, which developed from a small sanctuary connected with Giác Lâm and was rebuilt and renamed in the nineteenth century, extends this network. Its timber frame, âm dương roof tiles, and carvings of fruits and plants characteristic of the South reveal a strongly regional aesthetic. By the late nineteenth century it also served as a centre for ritual practice and Buddhist training with connections across the Mekong delta.
+
+Farther southwest, the delta requires an even broader definition of Vietnamese Buddhist architecture. In Sóc Trăng, Chùa Kh’leang and Chùa Dơi—Mahatup—belong to the Khmer Theravāda tradition; in Trà Vinh, Chùa Âng provides another major example. Here the main sanctuary, or Preah Vihea, is often set apart within a large planted enclosure, raised on a platform, and covered by steep multi-tiered roofs. Nāga, Krud, kinnara, and narrative scenes from the Buddha’s life structure the decoration. Around the sanctuary stand sala halls, monks’ residences, funerary stupas, and teaching spaces. The monastery is thus not only a ritual centre but also an educational, cultural, and communal institution for Khmer settlements.
+
+The South therefore cannot be reduced to a single regional “style.” The contrast and interaction between Vietnamese Mahāyāna monasteries of Gia Định–Saigon and Khmer Theravāda compounds of the delta instead reveal the religious, ethnic, and architectural plurality of southern Vietnam.
+
+{{< hab-image illustrations.part_vii.section_12 alt="The South: Gia Định–Saigon and the Mekong Delta" >}}
+
+### 13. Religious syncretism and plurality of altars {#vii-13}
 
 One striking feature of many Vietnamese temples is the density and plurality of their cult spaces. A main sanctuary may combine Buddhas of past, present, and future, bodhisattvas, arhats, and protective figures. These can be joined by local masters, popular deities, or ancestral cults. Such plurality should not be read as incoherence. It reflects a long history of interaction among Buddhism <span class="hab-han" lang="vi">佛教</span>, local traditions, Confucianism <span class="hab-han" lang="vi">儒教</span>, and Daoism <span class="hab-han" lang="vi">道教</span>. Architecture must therefore accommodate several levels of devotion. Altars are arranged in depth and height; anterior spaces may contain guardians, while the most important figures occupy the back of the sanctuary. Lateral buildings add specialised cults. The visitor’s path becomes a progressive reading of a complex pantheon. This also explains frequent historical additions: when a cult gains importance, a new altar or hall can be inserted without eliminating older structures. The temple becomes a stratified space accumulating religious memories. This capacity for integration is one of the defining characteristics of Vietnamese Buddhist interiors.
 
-{{< hab-image illustrations.part_vii.section_12 alt="Religious syncretism and plurality of altars" >}}
+{{< hab-image illustrations.part_vii.section_13 alt="Religious syncretism and plurality of altars" >}}
 
 <div class="hab-source-note"><strong>Complementary sources:</strong> Vietnam National Museum of History materials on Luy Lâu, traditional architecture, and pagodas; Vietnam National Authority of Tourism documentation on Chùa Một Cột; UNESCO documentation on Thiên Mụ and the Complex of Huế Monuments.</div>
 :::

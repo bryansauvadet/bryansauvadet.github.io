@@ -435,7 +435,13 @@ components:
             options:
               media: architecture_images
           - name: section_12
-            label: "12. Syncrétisme religieux et pluralité des autels"
+            label: "12. Le Sud : Gia Định–Saigon et le delta du Mékong"
+            type: image
+            description: "Dépose ici l’image correspondant à cette sous-partie."
+            options:
+              media: architecture_images
+          - name: section_13
+            label: "13. Syncrétisme religieux et pluralité des autels"
             type: image
             description: "Dépose ici l’image correspondant à cette sous-partie."
             options:
