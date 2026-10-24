@@ -6,13 +6,17 @@
 
 最初，僧院與窣堵波承擔不同功能：僧院用於居住、戒律與教學，窣堵波則承載在家信眾圍繞舍利的崇拜。阿育王時代以後，兩者逐漸靠近。傳說阿育王開啟古塔、重新分配佛陀舍利，並建立大量新塔；「八萬四千塔」雖屬象徵數字，卻表達了大規模擴散的概念。如此龐大的塔群需要長期維護與管理，僧團自然成為最適合承擔此任務的制度。有些地方是原有佛塔被納入僧院，有些地方則是僧院圍繞既有聖塔生長。最終，僧侶生活與在家崇拜共享同一境域。僧院不再只是修行與教學空間，也成為巡禮、供養與儀式中心；佛塔同樣不再完全外在於僧團生活。
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-1-zh-hant.webp" alt="窣堵波融入印度僧院" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_1"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_1 >}}" alt="窣堵波進入印度僧院" loading="lazy" decoding="async"></figure>
+:::
 
 ### 2. 支提與毘訶羅 {#iii-2}
 
 印度西部石窟寺院最清楚展示禮拜空間與居住空間的差異。毘訶羅以僧眾生活為主，僧房圍繞共同大廳布置；支提則以窣堵波為中心，用於集體禮拜。石窟支提通常採縱深平面：中軸通往後方佛塔，柱列外側形成繞行通道。儀式直接決定平面，空間不只是容納人群，更引導視線與身體移動，規定人與佛塔的關係。德干地區大量石窟顯示，佛教能將天然山體轉變為複合僧院建築。它也說明「僧院」並非一棟單體，而是居住、學習、禪修、接待與禮拜等多種功能的系統。到了中國，這些功能將在木構塔、佛殿、講堂與僧房之間重新分配。
 
-<figure class="hab-illustration-image"><img src="/assets/images/histoire-architecture-bouddhique/part-iii-2-zh-hant.webp" alt="支提與毘訶羅：兩種互補的功能" loading="lazy" decoding="async"></figure>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_2"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_2 >}}" alt="支提與毘訶羅" loading="lazy" decoding="async"></figure>
+:::
 
 ### 3. 佛教傳入中國 {#iii-3}
 
@@ -20,7 +24,9 @@
 
 這種建築上的「翻譯」在中國大型佛教石窟中特別清楚。山西大同附近的雲岡石窟主要開鑿於5至6世紀，顯示來自中亞與南亞的形式如何被重新組織為具有中國特徵的紀念性語言。洛陽以南的龍門石窟始於北魏，唐代又大規模擴展，使崖壁本身成為由禮拜窟、龕與佛像構成的層級系統。更西方的敦煌莫高窟始於4世紀，延續發展近千年，證明絲綢之路在印度、中亞與中國之間宗教和藝術交流中的作用。這三處遺址不只是雕塑集合，更顯示佛教如何因應不同中國環境，重新安排空間、行走路線、圖像與造寺贊助體系。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_3"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_3 >}}" alt="佛教傳入中國" loading="lazy" decoding="async"></figure>
+:::
 
 ### 4. 與中國建築的相遇 {#iii-4}
 
@@ -28,7 +34,9 @@
 
 河南嵩岳寺塔（嵩岳寺塔）代表這一轉化的另一階段。此塔建於北魏523年，是中國現存最早期的大型磚塔之一。多角形平面、強烈垂直的塔身以及重複的層級表明，窣堵波的舍利功能可以被轉譯為磚石建築，而不必直接複製印度半球形塔塚或木構樓閣。嵩岳寺塔因而成為連接窣堵波形態記憶與中國佛塔逐漸形成自身建築語言的重要節點。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_4"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_4 >}}" alt="與中國建築的相遇" loading="lazy" decoding="async"></figure>
+:::
 
 ### 5. 從印度窣堵波到中國佛塔 {#iii-5}
 
@@ -36,7 +44,9 @@
 
 陝西扶風法門寺（法門寺）則提醒我們，這種形式轉變始終與舍利崇拜密不可分。塔下發現的地宮保存了大量舍利容器與供養品，並與一件被尊為佛陀指骨的舍利以及唐代宮廷贊助密切相關。法門寺具體說明，中國佛塔並不只是高聳的象徵建築；塔的軸線、基礎與隱藏地宮可以共同構成一套完整的奉安建築，使舍利、珍貴供物與政治權威集中於同一空間秩序中。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_5"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_5 >}}" alt="從印度窣堵波到中國佛塔" loading="lazy" decoding="async"></figure>
+:::
 
 ### 6. 堂塔合一：舍利、佛像與行走 {#iii-6}
 
@@ -44,7 +54,9 @@
 
 功能轉移至獨立佛殿的過程，也可由山西五臺山地區兩座重要建築觀察。南禪寺（南禪寺）大殿年代為782年，佛光寺（佛光寺）東大殿年代為857年，均是保存唐代佛教木構技術最珍貴的實例之一。它們並非佛塔，而這正是其重要之處：佛像、集會與儀式已能被安置在寬闊而專門化的水平殿堂中。若與前文的佛宮寺木塔並觀，便可直接比較中國佛教建築的兩個核心方向——垂直的舍利塔與木構架的禮拜佛殿。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_6"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_6 >}}" alt="堂塔合一：舍利、佛像與行走" loading="lazy" decoding="async"></figure>
+:::
 
 ### 7. 從木塔到磚塔 {#iii-7}
 
@@ -52,6 +64,8 @@
 
 中國的磚石建築此後又發展出多種不同答案。長安小雁塔（小雁塔）建於8世紀初，其磚造輪廓比大雁塔更為修長。開封鐵塔（鐵塔）建於北宋1049年，以琉璃磚及其紋飾細緻模仿木構建築部件。泉州開元寺（開元寺）的兩座石塔則建於13世紀，把佛塔轉化為石構紀念物的可能性推得更遠。將大雁塔、小雁塔、嵩岳寺塔、鐵塔與開元寺雙塔並置，可以清楚看到「中國佛塔」從來不等於單一材料或輪廓：木、磚、琉璃磚與石材，都在反覆重新詮釋同一舍利建築傳統。
 
-<div class="hab-illustration-slot">圖像待補</div>
+::: {.content-hidden unless-meta="illustrations.part_iii.section_7"}
+<figure class="hab-illustration-image"><img src="{{< meta illustrations.part_iii.section_7 >}}" alt="從木塔到磚塔" loading="lazy" decoding="async"></figure>
+:::
 :::
 :::
