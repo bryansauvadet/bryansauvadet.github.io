@@ -50,7 +50,7 @@ format:
 <section class="exhibit-report__section" id="proposition"><div class="exhibit-report__shell">
 <div class="exhibit-report__section-head"><div class="exhibit-report__number">02 · Curatorial</div><h2>Quelle est la proposition de l’exposition ?</h2></div>
 <div class="exhibit-report__content">
-<p class="exhibit-report__thesis">Le propos majeur consiste à montrer que la Terre Pure n’est pas seulement un « paradis » représenté par les artistes : c’est une architecture mentale du salut qui organise les images, les gestes, les textes et les espaces du temple.</p>
+<p class="exhibit-report__thesis">Le propos majeur consiste à montrer que la Terre Pure n’est pas seulement un « paradis » représenté par les artistes : c’est une architecture mentale du salut qui organise les images, les gestes, les textes et les espaces monastiques.</p>
 <ul class="exhibit-report__keypoints">
 <li><strong>Partir des textes.</strong> Les trois grands sūtras de la Terre Pure — <em>Sūtra de la Vie-Infinie</em>, <em>Sūtra de la Contemplation de la Vie-Infinie</em> et <em>Sūtra d’Amitābha</em> — donnent le vocabulaire doctrinal de l’exposition.</li>
 <li><strong>Montrer Sukhāvatī comme un espace.</strong> Étangs de lotus, pavillons, assemblées célestes et renaissance dans les fleurs transforment la doctrine en paysage visible.</li>
