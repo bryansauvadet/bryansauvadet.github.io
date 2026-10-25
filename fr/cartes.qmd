@@ -46,7 +46,7 @@ format:
 
 <main class="content">
   <div class="maps-index">
-    <p class="maps-index-lead">Des études thématiques consacrées à des figures, monuments et problématiques de l’art bouddhique en Asie Orientale, réunissant analyses, sources, chronologies, cartes et visualisations issues de mes recherches.</p>
+    <p class="maps-index-lead">Des études thématiques consacrées à des figures, monuments et problématiques de l’art bouddhique en Asie orientale, réunissant analyses, sources, chronologies, cartes et visualisations issues de mes recherches.</p>
 
     <div class="maps-project-grid">
       <a class="maps-project-card" href="/fr/cartes/yom-sungik-koryo.html">
@@ -71,15 +71,15 @@ format:
     <img src="/assets/images/buddhist-architecture-five-monuments-20261019.avif" alt="Panorama illustrant cinq traditions de l’architecture bouddhique en Inde, Chine, Corée, Japon et Vietnam" loading="lazy" decoding="async">
   </div>
   <div class="maps-project-copy">
-          <div class="maps-project-type">Étude thématique · Inde → Asie Orientale</div>
+          <div class="maps-project-type">Étude thématique · Inde → Asie orientale</div>
           <h2>Histoire de l’architecture bouddhique</h2>
           <div class="maps-project-hanja">寺院 · 佛塔 · 殿</div>
-          <p>Une étude comparative en 31 sous-parties sur la naissance du monastère, le développement du stoupa, l’articulation des deux institutions et la transformation du pavillon bouddhique en Asie Orientale.</p>
+          <p>Une étude comparative en 31 sous-parties sur la naissance du monastère, le développement du stoupa, l’articulation des deux institutions et la transformation du pavillon bouddhique en Asie orientale.</p>
           <div class="maps-project-features">
             <span>31 illustrations</span>
             <span>architecture</span>
             <span>rituels</span>
-            <span>Inde → Asie Orientale</span>
+            <span>Inde → Asie orientale</span>
           </div>
           <span class="maps-project-link">Ouvrir la page →</span>
         </div>
