@@ -23,17 +23,17 @@ format:
     <p style="width: 100%; max-width: none; text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">Ce site présente mes recherches en cours et passées, mes travaux de terrain, ainsi qu’une sélection de données collectées au fil de mes enquêtes. J’y partage également mes projets de recherche à venir et plusieurs bases de données que j’ai constituées dans le cadre de mes travaux, afin d’en faciliter la consultation.</p>
   </div>
   <div class="hero-media">
-      <div class="hero-carousel-single" data-hero-carousel data-slides="[{&quot;src&quot;:&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image&quot;,&quot;alt&quot;:&quot;Scene from the Life of the Buddha, Japan, early 15th century&quot;,&quot;credit&quot;:&quot;Scene from the Life of the Buddha · Japon, début du XVe siècle · The Met · Domaine public&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg&quot;,&quot;alt&quot;:&quot;Monastère et pagode Thiên Mụ, Huế, Vietnam&quot;,&quot;credit&quot;:&quot;Thiên Mụ, Huế, Vietnam · Photo by CEphoto, Uwe Aranas · CC BY-SA 3.0 · Wikimedia Commons&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg&quot;,&quot;alt&quot;:&quot;Bouddha principal de Sŏkkuram, Kyŏngju, Corée&quot;,&quot;credit&quot;:&quot;Bouddha de Sŏkkuram · Kyŏngju, Corée · 문화재청 · 공공누리 / KOGL Type 1&quot;,&quot;contain&quot;:false}]" aria-roledescription="carousel">
-        <img class="hero-current-image" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scene from the Life of the Buddha, Japan, early 15th century">
+      <div class="hero-carousel-single" data-hero-carousel data-slides="[{&quot;src&quot;:&quot;https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image&quot;,&quot;alt&quot;:&quot;Scène de la vie du Bouddha, Japon, début du XVe siècle&quot;,&quot;credit&quot;:&quot;Scene from the Life of the Buddha · Japon, début du XVe siècle · The Met · Domaine public&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg&quot;,&quot;alt&quot;:&quot;Monastère et pagode Thiên Mụ, Huế, Viêt Nam&quot;,&quot;credit&quot;:&quot;Thiên Mụ, Huế, Viêt Nam · Photo : CEphoto, Uwe Aranas · CC BY-SA 3.0 · Wikimedia Commons&quot;,&quot;contain&quot;:false},{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/1/1a/%EA%B2%BD%EC%A3%BC_%EC%84%9D%EA%B5%B4%EC%95%94_%EC%84%9D%EA%B5%B4_%28%EB%B3%B8%EC%A1%B4%EB%B6%88_%EC%A0%95%EB%A9%B4%29_%EB%91%90%EB%B2%88%EC%A7%B8.jpg&quot;,&quot;alt&quot;:&quot;Bouddha principal de Sŏkkuram, Kyŏngju, Corée&quot;,&quot;credit&quot;:&quot;Bouddha de Sŏkkuram · Kyŏngju, Corée · 문화재청 · 공공누리 / KOGL Type 1&quot;,&quot;contain&quot;:false}]" aria-roledescription="carousel">
+        <img class="hero-current-image" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/45213/183337/main-image" alt="Scène de la vie du Bouddha, Japon, début du XVe siècle">
         <div class="image-credit">Scene from the Life of the Buddha · Japon, début du XVe siècle · The Met · Domaine public</div>
-        <div class="hero-carousel-controls" aria-label="Image carousel">
-          <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Previous image">‹</button>
+        <div class="hero-carousel-controls" aria-label="Carrousel d’images">
+          <button class="hero-carousel-arrow" type="button" data-carousel-prev aria-label="Image précédente">‹</button>
           <div class="hero-carousel-dots">
             <button class="hero-carousel-dot active" type="button" aria-label="Image 1" aria-current="true"></button>
             <button class="hero-carousel-dot" type="button" aria-label="Image 2" aria-current="false"></button>
             <button class="hero-carousel-dot" type="button" aria-label="Image 3" aria-current="false"></button>
           </div>
-          <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Next image">›</button>
+          <button class="hero-carousel-arrow" type="button" data-carousel-next aria-label="Image suivante">›</button>
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@ format:
   <div class="updates-grid">
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/buddhist-architecture-five-monuments-20261019.jpg" alt="Monuments bouddhiques d’Inde et d’Asie orientale" loading="lazy">
-      <div><div class="update-type">Dossier thématique</div><h3>Histoire de l’architecture bouddhique</h3><p>Une histoire visuelle et comparée de l’architecture bouddhique en Inde, en Chine, en Corée, au Japon et au Vietnam, organisée en huit grandes parties.</p><a class="update-link" href="/fr/cartes/histoire-architecture-bouddhique.html">Voir le dossier →</a></div>
+      <div><div class="update-type">Dossier thématique</div><h3>Histoire de l’architecture bouddhique</h3><p>Une histoire visuelle et comparée de l’architecture bouddhique en Inde, en Chine, en Corée, au Japon et au Viêt Nam, organisée en huit grandes parties.</p><a class="update-link" href="/fr/cartes/histoire-architecture-bouddhique.html">Voir le dossier →</a></div>
     </article>
     <article class="update-card">
       <img class="update-thumb" src="/assets/images/buddhist-art-dictionary-vignette.webp" alt="Dictionnaire multilingue de l’art bouddhique" loading="lazy">
