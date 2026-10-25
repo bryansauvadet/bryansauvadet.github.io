@@ -59,7 +59,7 @@ format:
         <h2>Pourquoi voir cette exposition ?</h2>
       </div>
       <div class="exhibit-report__content">
-        <p>L’intérêt majeur de cette exposition est de réunir, au Japon, un ensemble particulièrement dense d’œuvres bouddhiques coréennes conservées dans des musées, temples et sanctuaires japonais. Les quarante-huit numéros du catalogue couvrent peintures, sculptures, manuscrits enluminés, bronzes, céladons et objets en laque. Ce rassemblement rend visible à la fois la diversité matérielle de l’art bouddhique de la péninsule et l’importance du Japon dans la conservation de ce patrimoine.</p>
+        <p>L’intérêt majeur de cette exposition est de réunir, au Japon, un ensemble particulièrement dense d’œuvres bouddhiques coréennes conservées dans des musées, monastères et sanctuaires japonais. Les quarante-huit numéros du catalogue couvrent peintures, sculptures, manuscrits enluminés, bronzes, céladons et objets en laque. Ce rassemblement rend visible à la fois la diversité matérielle de l’art bouddhique de la péninsule et l’importance du Japon dans la conservation de ce patrimoine.</p>
 
         <p>Le parcours met en regard Koryŏ et Chosŏn sans les réduire à une opposition simpliste entre un royaume bouddhique et un royaume confucéen. Certes, la cour de Koryŏ soutient activement le bouddhisme tandis que l’État Chosŏn limite son influence institutionnelle. Pourtant, la commande d’images, la copie de sūtras et la production d’objets rituels continuent. La prière sert ainsi de fil conducteur pour comprendre la persistance d’une culture bouddhique au-delà des changements politiques.</p>
 
@@ -81,10 +81,10 @@ format:
         <p class="exhibit-report__thesis">Plutôt que de raconter une histoire uniquement dynastique, l’exposition met la croyance au centre : ce sont les usages religieux des œuvres, leur efficacité visuelle et la continuité des pratiques de dévotion qui permettent de relier Koryŏ et Chosŏn.</p>
 
         <ul class="exhibit-report__keypoints">
-          <li><strong>Comparer deux régimes religieux.</strong>Koryŏ et Chosŏn adoptent des politiques très différentes envers le bouddhisme, mais la production artistique ne disparaît pas avec le changement de dynastie.</li>
-          <li><strong>Dépasser la seule peinture.</strong>Les peintures de Koryŏ sont spectaculaires, mais l’exposition les replace parmi sculptures, textes sacrés, bronzes rituels, céladons et laques.</li>
-          <li><strong>Étudier la circulation.</strong>De nombreuses œuvres sont aujourd’hui conservées au Japon. Leur présence invite à penser transferts, dons, collections, temples et réseaux maritimes entre la péninsule et l’archipel.</li>
-          <li><strong>Replacer l’objet dans la prière.</strong>L’image n’est pas seulement une composition à admirer : elle est un support de contemplation, d’intercession, de rituel et de salut.</li>
+          <li><strong>Comparer deux régimes religieux.</strong> Koryŏ et Chosŏn adoptent des politiques très différentes envers le bouddhisme, mais la production artistique ne disparaît pas avec le changement de dynastie.</li>
+          <li><strong>Dépasser la seule peinture.</strong> Les peintures de Koryŏ sont spectaculaires, mais l’exposition les replace parmi sculptures, textes sacrés, bronzes rituels, céladons et laques.</li>
+          <li><strong>Étudier la circulation.</strong> De nombreuses œuvres sont aujourd’hui conservées au Japon. Leur présence invite à penser transferts, dons, collections, monastères et réseaux maritimes entre la péninsule et l’archipel.</li>
+          <li><strong>Replacer l’objet dans la prière.</strong> L’image n’est pas seulement une composition à admirer : elle est un support de contemplation, d’intercession, de rituel et de salut.</li>
         </ul>
       </div>
     </div>
@@ -163,10 +163,10 @@ format:
       </div>
       <div class="exhibit-report__content">
         <ul class="exhibit-report__keypoints">
-          <li><strong>Koryŏ ne se réduit pas à la peinture.</strong>Les bronzes, céladons, manuscrits et laques montrent un système matériel complet au service du bouddhisme.</li>
-          <li><strong>Chosŏn n’est pas un vide bouddhique.</strong>Malgré les politiques de restriction, peintures et objets continuent d’être produits aux XVe et XVIe siècles.</li>
-          <li><strong>Le Japon est un lieu majeur de conservation.</strong>La dispersion actuelle des œuvres est une donnée essentielle pour écrire l’histoire de l’art bouddhique coréen et ses circulations.</li>
-          <li><strong>La prière organise les formes.</strong>Monumentalité, répétition des Buddha, éclat de l’or, parfum de l’encens ou présence tactile du bronze participent tous d’une efficacité religieuse.</li>
+          <li><strong>Koryŏ ne se réduit pas à la peinture.</strong> Les bronzes, céladons, manuscrits et laques montrent un système matériel complet au service du bouddhisme.</li>
+          <li><strong>Chosŏn n’est pas un vide bouddhique.</strong> Malgré les politiques de restriction, peintures et objets continuent d’être produits aux XVe et XVIe siècles.</li>
+          <li><strong>Le Japon est un lieu majeur de conservation.</strong> La dispersion actuelle des œuvres est une donnée essentielle pour écrire l’histoire de l’art bouddhique coréen et ses circulations.</li>
+          <li><strong>La prière organise les formes.</strong> Monumentalité, répétition des bouddhas, éclat de l’or, parfum de l’encens ou présence tactile du bronze participent tous d’une efficacité religieuse.</li>
         </ul>
 
         <div class="exhibit-report__research">
