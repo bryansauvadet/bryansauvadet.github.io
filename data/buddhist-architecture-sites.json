@@ -879,69 +879,6 @@
       "anchor": "vii-11"
     },
     {
-      "id": "khleang",
-      "country": "VN",
-      "type": "monastery",
-      "lat": 9.6102,
-      "lng": 105.9768,
-      "name": "Chùa Kh’leang",
-      "native": "Chùa Kh’leang",
-      "place": "Sóc Trăng · delta du Mékong",
-      "related": [
-        "monastère khmer theravāda",
-        "Preah Vihea"
-      ],
-      "aliases": [
-        "Khleang Pagoda",
-        "Kh'leang Pagoda",
-        "Wat Kh'leang"
-      ],
-      "anchor": "vii-11"
-    },
-    {
-      "id": "mahatup",
-      "country": "VN",
-      "type": "monastery",
-      "lat": 9.57894,
-      "lng": 105.9722,
-      "name": "Chùa Dơi / Mahatup",
-      "native": "Wath Sêrâytêchô Mahatup",
-      "place": "Sóc Trăng · delta du Mékong",
-      "related": [
-        "Chùa Dơi",
-        "monastère khmer theravāda",
-        "Nāga"
-      ],
-      "aliases": [
-        "Bat Pagoda",
-        "Mahatup Pagoda",
-        "Chua Doi",
-        "Chùa Mã Tộc"
-      ],
-      "anchor": "vii-11"
-    },
-    {
-      "id": "ang-pagoda",
-      "country": "VN",
-      "type": "monastery",
-      "lat": 9.9158,
-      "lng": 106.3036,
-      "name": "Chùa Âng",
-      "native": "Wat Angkor Raig Borei",
-      "place": "région de Trà Vinh · delta du Mékong",
-      "related": [
-        "monastère khmer theravāda",
-        "Preah Vihea",
-        "Ao Bà Om"
-      ],
-      "aliases": [
-        "Ang Pagoda",
-        "Chua Ang",
-        "Wat Angkor Raig Borei"
-      ],
-      "anchor": "vii-11"
-    },
-    {
       "id": "dau-pagoda",
       "country": "VN",
       "type": "monastery",
@@ -1048,6 +985,68 @@
         "Huong Son"
       ],
       "anchor": "vii-8"
+    },
+    {
+      "id": "vinh-trang",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 10.36398,
+      "lng": 106.37269,
+      "name": "Chùa Vĩnh Tràng",
+      "native": "Chùa Vĩnh Tràng",
+      "place": "Mỹ Tho · delta du Mékong",
+      "related": [
+        "grand monastère mahāyāna du Nam Bộ",
+        "cinq corps de bâtiments",
+        "deux cours de lumière"
+      ],
+      "aliases": [
+        "Vinh Trang Pagoda",
+        "Vĩnh Tràng Pagoda",
+        "Vinh Trang Temple"
+      ],
+      "anchor": "vii-11"
+    },
+    {
+      "id": "xa-loi",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 10.77806,
+      "lng": 106.68667,
+      "name": "Chùa Xá Lợi",
+      "native": "Chùa Xá Lợi · 舍利寺",
+      "place": "TP. Hồ Chí Minh / Saigon",
+      "related": [
+        "sanctuaire principal à l’étage",
+        "clocher à sept niveaux",
+        "bouddhisme mahāyāna urbain"
+      ],
+      "aliases": [
+        "Xa Loi Pagoda",
+        "Xá Lợi Pagoda",
+        "Xa Loi Temple"
+      ],
+      "anchor": "vii-11"
+    },
+    {
+      "id": "vinh-nghiem-hcm",
+      "country": "VN",
+      "type": "monastery",
+      "lat": 10.79034,
+      "lng": 106.68219,
+      "name": "Chùa Vĩnh Nghiêm",
+      "native": "Chùa Vĩnh Nghiêm",
+      "place": "TP. Hồ Chí Minh / Saigon",
+      "related": [
+        "plan en chữ công",
+        "Phật điện à toitures superposées",
+        "tour Quán Thế Âm"
+      ],
+      "aliases": [
+        "Vinh Nghiem Pagoda Ho Chi Minh City",
+        "Vĩnh Nghiêm Saigon"
+      ],
+      "anchor": "vii-11"
     }
   ]
 }
