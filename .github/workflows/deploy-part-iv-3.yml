@@ -1,0 +1,64 @@
+name: Temporary deploy Part IV section 3
+
+on:
+  push:
+    branches:
+      - deploy-part-iv-3-20261025
+    paths:
+      - ".github/tmp/part-iv-3-multilingual.zip"
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: deploy-part-iv-3-20261025
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Extract multilingual illustrations
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets/images/histoire-architecture-bouddhique
+          unzip -o .github/tmp/part-iv-3-multilingual.zip -d assets/images/histoire-architecture-bouddhique
+
+      - name: Register section 3 illustrations
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          files = {
+              "fr": Path("fr/cartes/histoire-architecture-bouddhique.qmd"),
+              "en": Path("en/maps/histoire-architecture-bouddhique.qmd"),
+              "ja": Path("ja/maps/histoire-architecture-bouddhique.qmd"),
+              "ko": Path("ko/maps/histoire-architecture-bouddhique.qmd"),
+              "vi": Path("vi/maps/histoire-architecture-bouddhique.qmd"),
+              "zh-hant": Path("zh-hant/maps/histoire-architecture-bouddhique.qmd"),
+          }
+          for lang, path in files.items():
+              text = path.read_text(encoding="utf-8")
+              section3 = f'    section_3: "/assets/images/histoire-architecture-bouddhique/part-iv-3-{lang}.webp"'
+              if section3 in text:
+                  continue
+              target = f'    section_2: "/assets/images/histoire-architecture-bouddhique/part-iv-2-{lang}.png"'
+              if target not in text:
+                  raise RuntimeError(f"Missing section_2 anchor in {path}")
+              text = text.replace(target, target + "\n" + section3, 1)
+              path.write_text(text, encoding="utf-8")
+          PY
+          rm .github/tmp/part-iv-3-multilingual.zip
+
+      - name: Commit extracted files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Deploy part IV section 3 multilingual illustrations"
+          git push origin HEAD:deploy-part-iv-3-20261025
