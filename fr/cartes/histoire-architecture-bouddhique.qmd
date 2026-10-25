@@ -117,7 +117,7 @@ format:
         </div>
 
         <div class="hab-toc-group">
-          <a class="hab-toc-part" href="#chine-coree-monastere"><span>IV</span> Chine et Corée — Transformation du monastère d’Asie Orientale</a>
+          <a class="hab-toc-part" href="#chine-coree-monastere"><span>IV</span> Chine et Corée — Transformation du monastère d’Asie orientale</a>
           <ol>
             <li><a href="#iv-1">Du pavillon-stoupa au monastère centré sur le pavillon du Bouddha</a></li>
             <li><a href="#iv-2">T’apdori et sundang : du stoupa à l’image</a></li>
