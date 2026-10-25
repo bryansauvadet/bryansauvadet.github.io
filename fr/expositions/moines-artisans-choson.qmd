@@ -80,10 +80,10 @@ format:
         <p class="exhibit-report__thesis">L’exposition propose de considérer le moine-artisan comme une clé majeure de compréhension de l’art bouddhique du Chosŏn. Son identité est double : il est à la fois pratiquant religieux et professionnel hautement spécialisé. La fabrication d’une image cultuelle devient ainsi inséparable de la pratique monastique, de l’organisation collective du travail et de la transmission des savoir-faire.</p>
 
         <ul class="exhibit-report__keypoints">
-          <li><strong>Sortir de l’anonymat.</strong>Les noms conservés dans les inscriptions, documents de consécration et colophons permettent de reconstruire des carrières, des lignées et des réseaux d’ateliers.</li>
-          <li><strong>Montrer la fabrication.</strong>Esquisses, structures internes, matériaux, techniques de sculpture et processus picturaux replacent l’objet fini dans une chaîne opératoire concrète.</li>
-          <li><strong>Comprendre le collectif.</strong>Statues et peintures sont rarement l’œuvre d’un individu isolé : maîtres, assistants et disciples travaillent en équipes mobiles qui se recomposent d’un chantier à l’autre.</li>
-          <li><strong>Relire le Chosŏn bouddhique.</strong>L’intensité de la production après le XVI<sup>e</sup> siècle oblige à nuancer l’idée d’un effacement continu du bouddhisme sous une monarchie néoconfucéenne.</li>
+          <li><strong>Sortir de l’anonymat.</strong> Les noms conservés dans les inscriptions, documents de consécration et colophons permettent de reconstruire des carrières, des lignées et des réseaux d’ateliers.</li>
+          <li><strong>Montrer la fabrication.</strong> Esquisses, structures internes, matériaux, techniques de sculpture et processus picturaux replacent l’objet fini dans une chaîne opératoire concrète.</li>
+          <li><strong>Comprendre le collectif.</strong> Statues et peintures sont rarement l’œuvre d’un individu isolé : maîtres, assistants et disciples travaillent en équipes mobiles qui se recomposent d’un chantier à l’autre.</li>
+          <li><strong>Relire le Chosŏn bouddhique.</strong> L’intensité de la production après le XVI<sup>e</sup> siècle oblige à nuancer l’idée d’un effacement continu du bouddhisme sous une monarchie néoconfucéenne.</li>
         </ul>
       </div>
     </div>
@@ -162,10 +162,10 @@ format:
       </div>
       <div class="exhibit-report__content">
         <ul class="exhibit-report__keypoints">
-          <li><strong>L’image bouddhique est un produit collectif.</strong>Les inscriptions révèlent des équipes organisées autour de maîtres et de disciples. Attribuer une œuvre à un seul nom masque donc souvent la réalité du chantier.</li>
-          <li><strong>Les ateliers sont mobiles.</strong>Les moines-artisans circulent de monastère en monastère. Leurs déplacements expliquent la diffusion de modèles, de techniques et de solutions iconographiques à travers la péninsule.</li>
-          <li><strong>La technique participe du religieux.</strong>Choisir le bois, préparer un dessin, creuser une cavité destinée aux dépôts de consécration, dorer ou peindre ne sont pas de simples opérations artisanales : elles participent à la transformation d’une matière en présence cultuelle.</li>
-          <li><strong>Le Chosŏn tardif est une période d’invention.</strong>Le musée rappelle que plus d’un millier de moines sculpteurs et environ 2 400 moines peintres de cette période ont aujourd’hui été identifiés, ce qui donne la mesure de l’activité artistique bouddhique.</li>
+          <li><strong>L’image bouddhique est un produit collectif.</strong> Les inscriptions révèlent des équipes organisées autour de maîtres et de disciples. Attribuer une œuvre à un seul nom masque donc souvent la réalité du chantier.</li>
+          <li><strong>Les ateliers sont mobiles.</strong> Les moines-artisans circulent de monastère en monastère. Leurs déplacements expliquent la diffusion de modèles, de techniques et de solutions iconographiques à travers la péninsule.</li>
+          <li><strong>La technique participe du religieux.</strong> Choisir le bois, préparer un dessin, creuser une cavité destinée aux dépôts de consécration, dorer ou peindre ne sont pas de simples opérations artisanales : elles participent à la transformation d’une matière en présence cultuelle.</li>
+          <li><strong>Le Chosŏn tardif est une période d’invention.</strong> Le musée rappelle que plus d’un millier de moines sculpteurs et environ 2 400 moines peintres de cette période ont aujourd’hui été identifiés, ce qui donne la mesure de l’activité artistique bouddhique.</li>
         </ul>
 
         <div class="exhibit-report__research">
